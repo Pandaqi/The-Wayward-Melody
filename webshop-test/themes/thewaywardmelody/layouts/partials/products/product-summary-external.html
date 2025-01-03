@@ -21,9 +21,9 @@
         const dataFromProduct = div.getElementsByClassName("snipcart-add-item")[0].attributes ?? {};
 
         const elementToUpdate = document.querySelectorAll('[data-external-url="' + url + '"]')[0];
-        elementToUpdate.getElementsByClassName("product-external-title")[0].innerHTML = dataFromProduct.getNamedItem("data-item-name");
-        elementToUpdate.getElementsByClassName("product-external-image")[0].src = dataFromProduct.getNamedItem("data-item-image");
-        elementToUpdate.getElementsByClassName("product-external-description")[0].innerHTML = dataFromProduct.getNamedItem("data-item-description");
+        elementToUpdate.getElementsByClassName("product-external-title")[0].innerHTML = dataFromProduct.getNamedItem("data-item-name").value;
+        elementToUpdate.getElementsByClassName("product-external-image")[0].src = dataFromProduct.getNamedItem("data-item-image").value;
+        elementToUpdate.getElementsByClassName("product-external-description")[0].innerHTML = dataFromProduct.getNamedItem("data-item-description").value;
 
         console.log(`Loaded external product data for ${url}`, dataFromProduct, elementToUpdate);
     })();
