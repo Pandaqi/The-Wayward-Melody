@@ -1,0 +1,350 @@
+// General
+// (Mostly removes default styles + sets some things that will barely need changing anyway)
+* {
+    box-sizing: border-box;
+}
+
+$color-accent: oklch(81.39% 0.0733 9.17);
+$color-light-xx: oklch(96.35% 0 46.08);
+$color-light-x: oklch(72.41% 0.0278 46.08);
+$color-mid-neutral: oklch(76.67% 0.0082 91.53);
+$color-mid-tint: oklch(79.97% 0.0343 146.63);
+$color-dark-x: oklch(44.63% 0.0166 207.84);
+$color-dark-xx: oklch(33.28% 0.0166 207.84);
+
+$size-xs: 0.4rem;
+$size-s: 0.66rem;
+$size-m: 1rem;
+$size-l: 2rem;
+$size-xl: 3.33rem;
+$size-xxl: 5rem;
+
+$viewport-xs: 160px;
+$viewport-s: 320px;
+$viewport-m: 640px;
+$viewport-l: 960px;
+$viewport-xl: 1280px;
+
+$font-family-heading: "Gloria";
+$font-family-body: "Lora";
+$font-family-accent: "Signika Negative";
+
+body,html 
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    font-family: $font-family-body;
+    font-size: calc(13px + 0.390625vw);
+
+    background-color: $color-dark-xx;
+    color: $color-light-xx;
+}
+
+h1,h2,h3,h4,h5,h6 
+{
+    font-family: $font-family-heading;
+    text-align: center;
+    font-weight: normal;
+}
+
+a, a:hover, a:visited 
+{
+    color: currentcolor;
+    text-decoration: none;
+}
+
+button 
+{
+    font-family: inherit;
+    font-size: inherit;
+    border: none;
+    width: 100%;
+    display: block;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+// Markdown conversion styles
+// (these are only applied when text is from a Markdown file, as I can't/don't want to assign classes to everything then
+.text-reader 
+{
+    a {
+        font-family: $font-family-accent;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    h1,h2,h3,h4,h5,h6
+    {
+        margin-top: $size-xl;
+        margin-bottom: 0;
+
+        &::before {
+            content: "« "
+        }
+
+        &::after {
+            content: " »"
+        }
+    }
+
+    h1 {
+        font-size: $size-xxl;
+    }
+
+    h2 {
+        font-size: $size-l;
+    }
+
+    h3 {
+        font-size: $size-m;
+    }
+    
+    blockquote
+    {
+        margin: 0;
+        padding: 0;
+
+        p 
+        {
+            margin: $size-m;
+            background-color: rgba(0, 0, 0, 0.45);
+            padding: $size-m;
+            border-radius: $size-m;
+        }
+    }
+}
+
+
+// Fonts & Text
+.font-body 
+{
+    font-family: $font-family-body;
+    font-weight: normal;
+}
+
+.font-heading
+{
+    font-family: $font-family-heading;
+}
+
+.font-accent
+{
+    font-family: $font-family-accent;
+    font-weight: bold;
+}
+
+.font-size-s {
+    font-size: $size-s;
+}
+
+.font-size-m {
+    font-size: $size-m;
+}
+
+.font-size-l {
+    font-size: $size-l;
+}
+
+.font-size-xl {
+    font-size: $size-xl;
+}
+
+.font-size-xxl {
+    font-size: $size-xxl;
+}
+
+.text-style-italic {
+    font-style: italic;
+}
+
+.text-highlight {
+    font-weight: bold;
+    color: $color-accent;
+}
+
+.text-unhighlight {
+    font-weight: normal;
+    font-style: italic;
+    color: $color-mid-neutral;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+// Colors
+.bg-color-dark-xx {
+    background-color: $color-dark-xx;
+}
+
+.bg-color-dark-x {
+    background-color: $color-dark-x;
+}
+
+.bg-color-light-xx {
+    background-color: $color-light-xx;
+}
+
+.text-color-light-xx {
+    color: $color-light-xx;
+}
+
+.text-color-dark-xx {
+    color: $color-dark-xx;
+}
+
+// Corners
+.rounded-m {
+    border-radius: $size-m;
+}
+
+// Buttons
+.button-m {
+    font-family: $font-family-accent;
+    font-weight: bold;
+    font-size: $size-s;
+    color: $color-dark-xx;
+    cursor: pointer;
+
+    text-align: center;
+    border-radius: $size-xs;
+    padding: $size-s;
+    margin: $size-s 0;
+    background-color: $color-accent;
+    display: block;
+    width: 100%;
+    border: none;
+}
+
+// Lengths & Sizes
+.padding-none {
+    padding: 0;
+}
+
+.padding-s {
+    padding: $size-s;
+}
+
+.padding-m {
+    padding: $size-m;
+}
+
+.margin-none {
+    margin: 0;
+}
+
+.margin-s {
+    margin: $size-s;
+}
+
+.margin-m {
+    margin: $size-m;
+}
+
+.gap-none {
+    gap: 0;
+}
+
+.gap-s {
+    gap: $size-s;
+}
+
+.gap-m {
+    gap: $size-m;
+}
+
+.height-xs {
+    height: $size-xs * 10;
+    max-height: $size-xs * 10;
+}
+
+.height-s {
+    height: $size-s * 10;
+    max-height: $size-s * 10;
+}
+
+.limit-width-m {
+    max-width: $viewport-m;
+}
+
+
+// Layout
+.flex {
+    display: flex;
+    min-width: 0;
+    min-height: 0;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-center {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+// Alignment & Positioning
+.position-absolute {
+    position: absolute;
+}
+
+.anchor-top-right {
+    right: 0;
+    top: 0;
+}
+
+.float-left {
+    float:left;
+}
+
+.float-right {
+    float:right;
+}
+
+.block-align-center {
+    margin: auto;
+}
+
+// Paragraphs & Lists
+.remove-list-styling
+{
+    & {
+        list-style-type: none;
+   
+        li {
+            list-style-type: none;
+        }
+    }
+}
+
+// Responsiveness & Viewport Resizing
+@media all and (max-width: $viewport-s)
+{
+    .hide-s {
+        display: none;
+    }
+}
+
+@media all and (max-width: $viewport-m)
+{
+    .hide-m {
+        display: none;
+    }
+}

@@ -1,0 +1,2 @@
+{{ $urls := or (.Get "urls") .Page.Params.webshopUrls }}
+{{ partial "products/product-list-external" (dict "context" .Page "urls" $urls) }}

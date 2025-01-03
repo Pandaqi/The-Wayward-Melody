@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head" . }}
+<body>
+    {{ partial "navigation/header" . }}
+    <section class="page">
+        {{ block "main" . }} {{ end }}
+    </section>
+    {{ partialCached "foot" . }}
+</body>
+</html>

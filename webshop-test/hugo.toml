@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://thewaywardmelody.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Wayward Melody | Webshop of Magic'
+theme = "thewaywardmelody"
+
+[markup.goldmark.renderer]
+    unsafe= true

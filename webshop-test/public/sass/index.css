@@ -1,0 +1,224 @@
+@charset "UTF-8";
+* {
+  box-sizing: border-box; }
+
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Lora";
+  font-size: calc(13px + 0.390625vw);
+  background-color: oklch(33.28% 0.0166 207.84);
+  color: oklch(96.35% 0 46.08); }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Gloria";
+  text-align: center;
+  font-weight: normal; }
+
+a, a:hover, a:visited {
+  color: currentcolor;
+  text-decoration: none; }
+
+button {
+  font-family: inherit;
+  font-size: inherit;
+  border: none;
+  width: 100%;
+  display: block; }
+
+img {
+  max-width: 100%;
+  max-height: 100%; }
+
+.text-reader a {
+  font-family: "Signika Negative";
+  font-weight: bold;
+  text-decoration: underline; }
+
+.text-reader h1, .text-reader h2, .text-reader h3, .text-reader h4, .text-reader h5, .text-reader h6 {
+  margin-top: 3.33rem;
+  margin-bottom: 0; }
+  .text-reader h1::before, .text-reader h2::before, .text-reader h3::before, .text-reader h4::before, .text-reader h5::before, .text-reader h6::before {
+    content: "« "; }
+  .text-reader h1::after, .text-reader h2::after, .text-reader h3::after, .text-reader h4::after, .text-reader h5::after, .text-reader h6::after {
+    content: " »"; }
+
+.text-reader h1 {
+  font-size: 5rem; }
+
+.text-reader h2 {
+  font-size: 2rem; }
+
+.text-reader h3 {
+  font-size: 1rem; }
+
+.text-reader blockquote {
+  margin: 0;
+  padding: 0; }
+  .text-reader blockquote p {
+    margin: 1rem;
+    background-color: rgba(0, 0, 0, 0.45);
+    padding: 1rem;
+    border-radius: 1rem; }
+
+.font-body {
+  font-family: "Lora";
+  font-weight: normal; }
+
+.font-heading {
+  font-family: "Gloria"; }
+
+.font-accent {
+  font-family: "Signika Negative";
+  font-weight: bold; }
+
+.font-size-s {
+  font-size: 0.66rem; }
+
+.font-size-m {
+  font-size: 1rem; }
+
+.font-size-l {
+  font-size: 2rem; }
+
+.font-size-xl {
+  font-size: 3.33rem; }
+
+.font-size-xxl {
+  font-size: 5rem; }
+
+.text-style-italic {
+  font-style: italic; }
+
+.text-highlight {
+  font-weight: bold;
+  color: oklch(81.39% 0.0733 9.17); }
+
+.text-unhighlight {
+  font-weight: normal;
+  font-style: italic;
+  color: oklch(76.67% 0.0082 91.53); }
+
+.align-center {
+  text-align: center; }
+
+.align-left {
+  text-align: left; }
+
+.align-right {
+  text-align: right; }
+
+.bg-color-dark-xx {
+  background-color: oklch(33.28% 0.0166 207.84); }
+
+.bg-color-dark-x {
+  background-color: oklch(44.63% 0.0166 207.84); }
+
+.bg-color-light-xx {
+  background-color: oklch(96.35% 0 46.08); }
+
+.text-color-light-xx {
+  color: oklch(96.35% 0 46.08); }
+
+.text-color-dark-xx {
+  color: oklch(33.28% 0.0166 207.84); }
+
+.rounded-m {
+  border-radius: 1rem; }
+
+.button-m {
+  font-family: "Signika Negative";
+  font-weight: bold;
+  font-size: 0.66rem;
+  color: oklch(33.28% 0.0166 207.84);
+  cursor: pointer;
+  text-align: center;
+  border-radius: 0.4rem;
+  padding: 0.66rem;
+  margin: 0.66rem 0;
+  background-color: oklch(81.39% 0.0733 9.17);
+  display: block;
+  width: 100%;
+  border: none; }
+
+.padding-none {
+  padding: 0; }
+
+.padding-s {
+  padding: 0.66rem; }
+
+.padding-m {
+  padding: 1rem; }
+
+.margin-none {
+  margin: 0; }
+
+.margin-s {
+  margin: 0.66rem; }
+
+.margin-m {
+  margin: 1rem; }
+
+.gap-none {
+  gap: 0; }
+
+.gap-s {
+  gap: 0.66rem; }
+
+.gap-m {
+  gap: 1rem; }
+
+.height-xs {
+  height: 4rem;
+  max-height: 4rem; }
+
+.height-s {
+  height: 6.6rem;
+  max-height: 6.6rem; }
+
+.limit-width-m {
+  max-width: 640px; }
+
+.flex {
+  display: flex;
+  min-width: 0;
+  min-height: 0; }
+
+.flex-wrap {
+  flex-wrap: wrap; }
+
+.flex-center {
+  justify-content: center;
+  align-content: center;
+  align-items: center; }
+
+.position-absolute {
+  position: absolute; }
+
+.anchor-top-right {
+  right: 0;
+  top: 0; }
+
+.float-left {
+  float: left; }
+
+.float-right {
+  float: right; }
+
+.block-align-center {
+  margin: auto; }
+
+.remove-list-styling {
+  list-style-type: none; }
+  .remove-list-styling li {
+    list-style-type: none; }
+
+@media all and (max-width: 320px) {
+  .hide-s {
+    display: none; } }
+
+@media all and (max-width: 640px) {
+  .hide-m {
+    display: none; } }

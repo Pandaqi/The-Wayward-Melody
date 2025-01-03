@@ -1,0 +1,9 @@
+{{ $context := .context }}
+{{ $urls := or .urls $context.Params.webshopUrls }}
+<nav>
+<ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m">
+    {{ range $urls }}
+        <li>{{ partial "products/product-summary-external" (dict "context" $context "url" . ) }}</li>
+    {{ end }}
+</ul>
+</nav>

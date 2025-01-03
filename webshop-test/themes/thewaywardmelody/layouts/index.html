@@ -1,0 +1,4 @@
+{{ define "main" }}
+{{ partial "products/product-list" . }}
+{{ partial "products/product-list-external" (dict "context" . "urls" (slice "https://webshop-test.pages.dev/merchandise/test-item/")) }}
+{{ end }}

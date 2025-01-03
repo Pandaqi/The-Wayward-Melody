@@ -1,0 +1,8 @@
+<nav>
+<ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m">
+    {{ $pages := where .Pages "Type" "product" }}
+    {{ range $pages }}
+        <li>{{ partial "products/product-summary" . }}</li>
+    {{ end }}
+</ul>
+</nav>

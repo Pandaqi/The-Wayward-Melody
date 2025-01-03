@@ -1,0 +1,28 @@
+{{ $valid_product_url := or (or .Permalink .Params.product_url) "/" }}
+{{ $max_quantity := 50 }}
+{{ $merchandise_product_sku := or .Params.productSku "" }}
+{{ $is_shippable := (ne $merchandise_product_sku "") }}
+{{ $categories_list := or .Params.categories slice }}
+{{ if $is_shippable }}
+    {{ $categories_list = $categories_list | append "merchandise" }}
+{{ end }}
+{{ $categories := delimit $categories_list "|" }}
+<div>
+    <button class="snipcart-add-item button-m" 
+        data-item-id="{{ .Params.id }}" data-item-name="{{ .Params.title }}"
+        data-item-price="{{ .Params.price }}" 
+        {{ with .Params.file }} data-item-file-guid="{{ . }}" {{ end }}
+        {{ with .Params.image }} data-item-image="{{ . }}" {{ end }}
+        data-item-url="{{ $valid_product_url }}"
+        data-item-max-quantity="{{ $max_quantity }}"
+        data-item-shippable="{{ $is_shippable }}"
+        {{ with $categories }} data-item-categories="{{ . }}" {{ end }}
+        {{ with $merchandise_product_sku }}
+        data-item-custom1-name="productSku"
+        data-item-custom1-type="hidden"
+        data-item-custom1-value="{{ . }}"
+        {{ end }}
+        data-item-description="{{ .Params.description }}">
+        Add To Cart (&euro;{{ .Params.price }})
+    </button>
+</div>

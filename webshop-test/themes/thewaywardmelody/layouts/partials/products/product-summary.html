@@ -1,0 +1,9 @@
+<div id="product-{{ .Params.id }}" class="bg-color-light-xx text-color-dark-xx padding-m rounded-m">
+    <h2 class="align-center">{{ .Params.title }}</h2>
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="Product Image for {{ .Params.title }}">
+    {{ end }}
+    <p>{{ .Params.description }}</p>
+    <a href="{{ .Permalink }}" class="button-m">Visit Product Page</a>
+    {{ partial "products/product-button" . }}
+</div>

@@ -1,0 +1,2 @@
+{{ $url := or (.Get "url") "/" }}
+{{ partial "products/product-summary-external" (dict "url" $url) }}

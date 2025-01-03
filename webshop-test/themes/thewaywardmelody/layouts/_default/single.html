@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ $is_product := eq .Type "product" }}
+<header>
+<h1 class="font-size-xxl">{{ .Title }}</h1>
+{{ if $is_product }}
+    <p>Any metadata, tags, ...</p>
+    {{ partial "products/product-button" . }}
+{{ end }}
+</header>
+<main class="text-reader margin-m limit-width-m block-align-center">
+    {{ .Content }}
+</main>
+{{ end }}

@@ -11,60 +11,99 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.snipcart.com/themes/v3.2.1/default/snipcart.css" />
     <title>CloudDeli</title>
     
+    
         
         <link rel="stylesheet" href="/sass/index.css" type="text/css">
     
 </head>
 <body>
-    <div class="content">
-        <header class="header">
-    <a class="header__branding" href="/">
-        <img class="header__logo" src="logo.svg" alt="clouddeli logo">
-        <h1 class="header__title">CloudDeli</h1>
-    </a>
-    <div class="header__cart">
-        <a href="#" class="snipcart-checkout" style="text-decoration: none;">
-            <div class="snipcart-summary">
+    <header class="bg-color-dark-x text-color-light-xx font-heading padding-s font-size-m">
+    <nav>
+        
+        <div class="position-absolute anchor-top-right padding-s">
+            <a href="#" title="Go To Checkout" class="snipcart-checkout">
                 <span>🛒</span>
                 <span class="snipcart-total-price"></span>
-            </div>
-        </a>
-    </div>
-</header>
-        <section class="page">
-            
-<main class="products">
+                (<span class="snipcart-items-count"></span> Items)
+            </a><br>
+            <a href="#" class="snipcart-customer-signin" title="Create/Visit Account">
+                <span>🧑</span>
+                <span>Account</span>
+            </a>
+        </div>
 
-    TESTING: Page(/products/test-item)
-    <div class="product">
-    <h2 class="product__name">Test Item</h2>
+        
+        <a href="http://localhost:1313/" id="header-logo" class="flex flex-center margin-s height-xs gap-s">
+            <img src="/sass/icon.jpg" alt="Webshop Logo (The Wayward Melody)">
+            <h1 class="hide-m">The Wayward Melody</h1>
+        </a>
+
+        
+        <ul class="remove-list-styling flex flex-wrap flex-center gap-s margin-s">
+            <li><a href="/escape-rooms/">Escape Rooms</a></li>
+            <li><a href="/pub-quizzes/" class="hide-m">Quizzes</a></li>
+            <li><a href="/educational/" class="hide-s">Educational</a></li>
+            <li><a href="/merchandise/">Merchandise</a></li>
+            <li><a href="/bonus-materials/" class="hide-m">Bonus Materials</a></li>
+            <li><a href="/about/">About</a></li>
+        </ul>
+    </nav>
+</header>
+    <section class="page">
+        
+<nav>
+<ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m">
     
-    <p class="product__description">This is a test item, wiehoo!</p>
-    <div class="product__button-container">
-        <div class="product__price">$9.95</div>
-        <button class="snipcart-add-item buy-button" 
-            data-item-id="test-item" data-item-name="Test Item"
-            data-item-price="9.95" 
-             data-item-file-guid="f25c44b3-1da2-47b3-8726-213b5c9e88fe" 
-            
-            data-item-description="This is a test item, wiehoo!">
-            Add to cart
-        </button>
-    </div>
+    
+</ul>
+</nav>
+
+
+<nav>
+<ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m">
+    
+        <li>
+
+
+<div class="product-summary-external"
+    data-external-url="https://webshop-test.pages.dev/merchandise/test-item/">
+    <h2 class="product-external-title">Loading Product Name</h2>
+    <img class="product-external-image" loading="lazy" decoding="async" src="#" alt="Product Image for https://webshop-test.pages.dev/merchandise/test-item/">
+    <p class="product-external-description">Loading Product Description</p>
+    <a href="https://webshop-test.pages.dev/merchandise/test-item/">Visit Product Page</a>
 </div>
 
-</main>
+<script>
+    (async function()
+    {
+        const url = "https:\/\/webshop-test.pages.dev\/merchandise\/test-item\/";
+        const response = await fetch(url);
+        const body = await response.text();
 
-        </section>
-    </div>
-    <script>
-        window.SnipcartSettings = {
-            publicApiKey: 'MDdmNDg0YmEtODRjZi00MGEzLTkzZmMtNGNlODViZGMwY2JiNjM4NzExOTU4MTEzMDcwMTY1',
-            loadStrategy: 'on-user-interaction',
-        };
+        const div = document.createElement("div");
+        div.innerHTML = body;
+        const dataFromProduct = div.getElementsByClassName("snipcart-add-item").attributes ?? {};
+
+        const elementToUpdate = document.querySelectorAll('[data-external-url="' + url + '"]')[0];
+        elementToUpdate.getElementsByClassName("product-external-title")[0].innerHTML = dataFromProduct.itemName;
+        elementToUpdate.getElementsByClassName("product-external-image")[0].src = dataFromProduct.itemImage;
+        elementToUpdate.getElementsByClassName("product-external-description")[0].innerHTML = dataFromProduct.itemDescription;
+
+        console.log(`Loaded external product data for ${url}`, dataFromProduct, elementToUpdate);
+    })();
+</script></li>
     
-        (()=>{var c,d;(d=(c=window.SnipcartSettings).version)!=null||(c.version="3.0");var s,S;(S=(s=window.SnipcartSettings).timeoutDuration)!=null||(s.timeoutDuration=2750);var l,p;(p=(l=window.SnipcartSettings).domain)!=null||(l.domain="cdn.snipcart.com");var w,u;(u=(w=window.SnipcartSettings).protocol)!=null||(w.protocol="https");var f=window.SnipcartSettings.version.includes("v3.0.0-ci")||window.SnipcartSettings.version!="3.0"&&window.SnipcartSettings.version.localeCompare("3.4.0",void 0,{numeric:!0,sensitivity:"base"})===-1,m=["focus","mouseover","touchmove","scroll","keydown"];window.LoadSnipcart=o;document.readyState==="loading"?document.addEventListener("DOMContentLoaded",r):r();function r(){window.SnipcartSettings.loadStrategy?window.SnipcartSettings.loadStrategy==="on-user-interaction"&&(m.forEach(t=>document.addEventListener(t,o)),setTimeout(o,window.SnipcartSettings.timeoutDuration)):o()}var a=!1;function o(){if(a)return;a=!0;let t=document.getElementsByTagName("head")[0],e=document.querySelector("#snipcart"),i=document.querySelector(`src[src^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][src$="snipcart.js"]`),n=document.querySelector(`link[href^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][href$="snipcart.css"]`);e||(e=document.createElement("div"),e.id="snipcart",e.setAttribute("hidden","true"),document.body.appendChild(e)),v(e),i||(i=document.createElement("script"),i.src=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.js`,i.async=!0,t.appendChild(i)),n||(n=document.createElement("link"),n.rel="stylesheet",n.type="text/css",n.href=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.css`,t.prepend(n)),m.forEach(g=>document.removeEventListener(g,o))}function v(t){!f||(t.dataset.apiKey=window.SnipcartSettings.publicApiKey,window.SnipcartSettings.addProductBehavior&&(t.dataset.configAddProductBehavior=window.SnipcartSettings.addProductBehavior),window.SnipcartSettings.modalStyle&&(t.dataset.configModalStyle=window.SnipcartSettings.modalStyle),window.SnipcartSettings.currency&&(t.dataset.currency=window.SnipcartSettings.currency),window.SnipcartSettings.templatesUrl&&(t.dataset.templatesUrl=window.SnipcartSettings.templatesUrl))}})();
-    </script>
-</body>
+</ul>
+</nav>
 
+    </section>
+    <script>
+    window.SnipcartSettings = {
+        publicApiKey: 'MDdmNDg0YmEtODRjZi00MGEzLTkzZmMtNGNlODViZGMwY2JiNjM4NzExOTU4MTEzMDcwMTY1',
+        loadStrategy: 'on-user-interaction',
+    };
+
+    (()=>{var c,d;(d=(c=window.SnipcartSettings).version)!=null||(c.version="3.0");var s,S;(S=(s=window.SnipcartSettings).timeoutDuration)!=null||(s.timeoutDuration=2750);var l,p;(p=(l=window.SnipcartSettings).domain)!=null||(l.domain="cdn.snipcart.com");var w,u;(u=(w=window.SnipcartSettings).protocol)!=null||(w.protocol="https");var f=window.SnipcartSettings.version.includes("v3.0.0-ci")||window.SnipcartSettings.version!="3.0"&&window.SnipcartSettings.version.localeCompare("3.4.0",void 0,{numeric:!0,sensitivity:"base"})===-1,m=["focus","mouseover","touchmove","scroll","keydown"];window.LoadSnipcart=o;document.readyState==="loading"?document.addEventListener("DOMContentLoaded",r):r();function r(){window.SnipcartSettings.loadStrategy?window.SnipcartSettings.loadStrategy==="on-user-interaction"&&(m.forEach(t=>document.addEventListener(t,o)),setTimeout(o,window.SnipcartSettings.timeoutDuration)):o()}var a=!1;function o(){if(a)return;a=!0;let t=document.getElementsByTagName("head")[0],e=document.querySelector("#snipcart"),i=document.querySelector(`src[src^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][src$="snipcart.js"]`),n=document.querySelector(`link[href^="${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}"][href$="snipcart.css"]`);e||(e=document.createElement("div"),e.id="snipcart",e.setAttribute("hidden","true"),document.body.appendChild(e)),v(e),i||(i=document.createElement("script"),i.src=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.js`,i.async=!0,t.appendChild(i)),n||(n=document.createElement("link"),n.rel="stylesheet",n.type="text/css",n.href=`${window.SnipcartSettings.protocol}://${window.SnipcartSettings.domain}/themes/v${window.SnipcartSettings.version}/default/snipcart.css`,t.prepend(n)),m.forEach(g=>document.removeEventListener(g,o))}function v(t){!f||(t.dataset.apiKey=window.SnipcartSettings.publicApiKey,window.SnipcartSettings.addProductBehavior&&(t.dataset.configAddProductBehavior=window.SnipcartSettings.addProductBehavior),window.SnipcartSettings.modalStyle&&(t.dataset.configModalStyle=window.SnipcartSettings.modalStyle),window.SnipcartSettings.currency&&(t.dataset.currency=window.SnipcartSettings.currency),window.SnipcartSettings.templatesUrl&&(t.dataset.templatesUrl=window.SnipcartSettings.templatesUrl))}})();
+</script>
+</body>
 </html>

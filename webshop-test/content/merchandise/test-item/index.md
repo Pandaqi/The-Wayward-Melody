@@ -1,14 +1,16 @@
 ---
+type: "product"
+
 title: "Test Item"
 id: "test-item"
-price: 9.95
+price: 29.95
 image: ""
 description: "This is a test item, wiehoo!"
-file: "f25c44b3-1da2-47b3-8726-213b5c9e88fe"
+productSku: "123TEST"
+categories: ["textless", "kid-friendly", "puzzle"]
+
 ---
 
 Lalal
-
-# This is a test
 
 Wiehoehoo

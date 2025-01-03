@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<h1 class="font-size-xxl">{{ .Title }}</h1>
+<main class="text-reader margin-m limit-width-m block-align-center">
+    {{ .Content }}
+</main>
+
+{{ partial "products/product-list" . }}
+{{ end }}

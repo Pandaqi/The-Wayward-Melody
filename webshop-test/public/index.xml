@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>The Wayward Melody | Webshop of Magic</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on The Wayward Melody | Webshop of Magic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Item</title>
-      <link>http://localhost:1313/products/test-item/</link>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/test-item/</guid>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Prologue Once upon a time, there was a boy who liked to play.&#xA;He made nice games, he wrote fun books, and he&#39;s still doing that today. But as he grew older, maybe wiser, he realized a fact.&#xA;The universe? It ran on money, and now he needed some of that! Thus he set out to create a store, but not just one of any kind.&#xA;One with special rules and products, which are only here to find.</description>
+    </item>
+    <item>
+      <title>Test Item</title>
+      <link>http://localhost:1313/escape-rooms/test-item-copy-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/escape-rooms/test-item-copy-2/</guid>
       <description>Lalal&#xA;This is a test Wiehoehoo</description>
+    </item>
+    <item>
+      <title>Test Item</title>
+      <link>http://localhost:1313/escape-rooms/test-item-copy-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/escape-rooms/test-item-copy-3/</guid>
+      <description>Lalal&#xA;This is a test Wiehoehoo</description>
+    </item>
+    <item>
+      <title>Test Item</title>
+      <link>http://localhost:1313/escape-rooms/test-item-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/escape-rooms/test-item-copy/</guid>
+      <description>Lalal&#xA;This is a test Wiehoehoo</description>
+    </item>
+    <item>
+      <title>Test Item</title>
+      <link>http://localhost:1313/merchandise/test-item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/merchandise/test-item/</guid>
+      <description>Lalal&#xA;Wiehoehoo</description>
     </item>
   </channel>
 </rss>
