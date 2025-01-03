@@ -18,7 +18,7 @@
 
         const div = document.createElement("div");
         div.innerHTML = body;
-        const dataFromProduct = div.getElementsByClassName("snipcart-add-item").attributes ?? {};
+        const dataFromProduct = div.getElementsByClassName("snipcart-add-item")[0].attributes ?? {};
 
         const elementToUpdate = document.querySelectorAll('[data-external-url="' + url + '"]')[0];
         elementToUpdate.getElementsByClassName("product-external-title")[0].innerHTML = dataFromProduct.itemName;
