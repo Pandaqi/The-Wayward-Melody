@@ -1,14 +1,35 @@
 # Webshops System (Phase I)
 
+# HUGO/Design
+
+* [#1] Create a side-view for products. (Image on left, title + metadata + buy button on right, any further details go below)
+  * Which, as usual, goes BELOW on small screens
+  * Find clean layout to also use images/graphics for section pages (to make them look less barebones)
+* [#2] Figure out metadata: what to use, how to display, etcetera + allow a good "search by metadata" bit on all root sections (NOT bundle subsections)
+  * Use icons for all + an "explainer/tooltip" when hovering over them
+  * HERE'S AN IDEA: We have the metadata tags/cloud on all pages, just listing ALL of them. But within a section page, I can set "Params" for which tags are (most) relevant for this section. Then only those get selected/highlighted.
+
+* [Need Tablet] 
+  * Try fairy tale decorations around headers + fairy tale border-image decorations around boxes?
+  * Create custom images cart + user account + shop icon/logo (+ anything else I might need)
+* (Can I do that "multiple photos randomly rotated behind it"-trick, like in Hasty Accusations, automatically?)
+* (Create a UNIQUE layout for front page/landing page => then use smaller version of header on all other pages?) 
+* (Add the usual "credits" in footer? Links to all my other websites?)
+* (Style bundle buttons + calculate total price somehow?)
+* Try other font combos
+
+QUESTION: Now I don't really have clear categories for MUSIC or BOOKS or whatever? Maybe rearrange/shuffle everything to allow this easily?
+* Activities => Just move those into Escape/Quiz/Educational/Fun Frontier
+* Media/Art/"Stories & Melodies" => Stories, Music, Illustration?
+* NOT SURE, because I don't want to just duplicate loads of information left and right about the same projects ...
 
 ## API
 
-* Ask SnipCart about raising digital good file size to 100 mb ("Most files will be below 25 MB, but I expect to ocassionally have zip bundles or very high-resolution PDFs at 50 MB or even 100 MB")
-* Research possibility for MULTI-PRODUCT ORDER => creating a cart with _multiple_ things at once, which are all required to combine into a single escape kit for example?
 * Finishing touches
   * Actually register webhooks
   * Add signature/secrets to server for Printify and Printful
   * TEST THIS SHIT
+* Rename webhook to something more sensible
 * @TODO: Do I still need to make my own Snipcart notification when I update orders? (Getting stuff back from Printify) Or does that happen automatically?
 
 
@@ -18,11 +39,13 @@
   * https://escaperoomgeeks.com/shop/ has pretty nice ones? Or should I just link to Snipcart's?
 * Mollie => 
   * Get Zakelijke Rekening (ING seems best) to support iDEAL.
-  * Update profile with correct domain name. Confirm the webshop is "done" and it should verify.
+* ONCE I HAVE THEWAYWARDMELODY.COM SETUP
+  * Change email address to no-reply@thewaywardmelody.com (in SendGrid), verify _that_ domain instead of RodePanda for Snipcart
+  * Update Mollie profile with correct domain name. Confirm the webshop is "done" and it should verify.
 
-## Finishing Touches
+## Finishing Touches (Optional)
 
-* Figure out the CSS styles that Snipcart uses, then find a clean way to override them.
+* Snipcart Theming => only colors are easy to change. I'd prefer having access to fonts and stuff too, but that's messy ...
 * Any other sanity checks for ALL products in the HUGO/API system?
 
 
@@ -30,15 +53,15 @@
 
 All different categories have text files within their own subfolders.
 
-* `escape-rooms` or `escape-kits`
-* `pub-quizzes`
-* `educational-activity` or just `educational` 
-* `activities`
+* `escape-rooms` (might become `escape-kits`)
+* `trivia`
+* `educational` 
+* `activities` => might go away
 * `merchandise`
-* `bonus-material`
-* (`fun-frontier` for expansion packs and stuff for THAT project)
+* `bonus-materials`
+* (`fun-frontier` for expansion packs and stuff for THAT project => remove at launch?)
 
-These _potentially_ have more subfolders, for example when many pub quizzes have the same general theme. This merely changes the URL for linking from another website, while requiring no other change, so that's fine.
+These _potentially_ have more subfolders, for example when many pub quizzes have the same general theme. This merely changes the URL for linking from another website, while requiring no other change, so that's fine. By setting `bundle:true` in Params, we can actually allow you to buy the full bundle at once if we want.
 
 These subfolders are treated as their own "index" page (with `_index.md`), so we can explain the specific rules and stuff for _that_ category. That's how we get unique landing pages for different things.
 
@@ -100,6 +123,10 @@ Maybe have TWO providers, one for EUROPE and one for USA?
 @IDEA: ESCAPE ROOM POSTERS! (And escape room _mugs_, pillows, beanies, T-shirts have already been done, what else?) => Might do something by _overlapping_ with paper to hide bits? Placing paper on it, then tracing (like against a window/backlight)? Turning it upside-down?
 
 @IDEA: "The Daily Puzzle/Mystery/Cipher" => A wall art/painting/poster in the style of old newspaper clippings, containing a single mystery/escape room puzzle to solve. For example: "WHO STOLE THE DIAMONDS!?" The article + images below are all the clues you need to answer that question.
+
+MERCHANDISE IDEA: "SOLVE MY BACK"/"SOLVE MY FRONT" which asks others to look at your back and solve the puzzle/answer the question there.
+
+@IDEA (ESCAPE ROOM; POSTER?): A side-view of a house, like that 2D video game where you manage a skyscraper or a news station. You start at ground floor (or top-left room), then move from room to room by solving puzzles. (The puzzle tells you which door/stairway/elevator stuff to take?)
 
 
 #### PUB QUIZ 

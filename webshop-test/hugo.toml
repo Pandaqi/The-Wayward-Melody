@@ -1,7 +1,7 @@
-baseURL = 'https://thewaywardmelody.com'
+baseURL = 'https://webshop-test.pages.dev' # 'https://thewaywardmelody.com'
 languageCode = 'en-us'
 title = 'The Wayward Melody | Webshop of Magic'
 theme = "thewaywardmelody"
 
 [markup.goldmark.renderer]
-    unsafe= true
+    unsafe = true

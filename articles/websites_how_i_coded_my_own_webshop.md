@@ -213,7 +213,7 @@ First, you need to get your **shop ID**. (Assuming you already created a shop on
 How? Open a new Command Prompt. Then send an API request for your ID.
 
 {{< highlight bash >}}
-curl -X GET https://api.printify.com/v1/shops.json --header "Authorization: Bearer YOUR_SECRET_TOKEN"
+curl -X GET https://api.printify.com/v2/shops.json --header "Authorization: Bearer YOUR_SECRET_TOKEN"
 {{< /highlight >}}
 
 This returns some details about your shop(s), including the ID! Save it in your Serverless Function too.
@@ -234,7 +234,7 @@ At the end, it also explains how to validate/secure it using those request _head
 
 {{< highlight js >}}
 // perform handshake to see if it's legit (secret tokens only valid for 1 hour)
-const snipcartToken = eventContext.headers.get("X-Snipcart-RequestToken");
+const snipcartToken = eventContext.request.headers.get("X-Snipcart-RequestToken");
 if(!snipcartToken) { return; }
 
 const snipcartURL = `https://app.snipcart.com/api/requestvalidation/${snipcartToken}`
@@ -255,7 +255,7 @@ if(!response.ok) { return; }
 In the case of **Printify**, you need to create the Webhook through their API too. This is a bit more work, but it allows you to be more _specific_ about what it should listen for, which saves resources and prevents errors. At time of writing, this means ...
 
 * A POST request 
-* To the url `/v1/shops/{shop_id}/webhooks.json`
+* To the url `/v2/shops/{shop_id}/webhooks.json`
 * The data you send along is an object with two properties: `topic` is the event to listen for, and `url` the serverless function to inform.
 
 To try this from the command line, do ....
@@ -264,7 +264,7 @@ To try this from the command line, do ....
 curl -H 'Content-Type: application/json' \
      -H "Authorization: Bearer YOUR_SECRET_TOKEN" \
      -d '{ "topic":"order:created", "url":"https://mywebsite.com/serverlessfunc" }' \
-     -X POST https://api.printify.com/v1/shops/{YOUR_SHOP_ID}/webhooks.json
+     -X POST https://api.printify.com/v2/shops/{YOUR_SHOP_ID}/webhooks.json
 {{< /highlight >}}
 
 I don't like having these things be "hidden". I want an easy interface that lists them all and allows adding/deleting, _especially_ while I'm still testing and using "fake" domain names and stuff. But it is what it is.
@@ -297,7 +297,7 @@ const generateSignature = function(secretToken, messageToSign)
   return sig_2.digest('hex');
 }
 
-const printifySignature = eventContext.headers.get("x-pfy-signature");      
+const printifySignature = eventContext.request.headers.get("x-pfy-signature");      
 const secretToken = env.SECRET_TOKEN_PRINTIFY;
 const expectedSignature = generateSignature(secretToken, eventContext.request);
 const isValid = (expectedSignature == printifySignature); // if true, congratulations!
@@ -373,7 +373,7 @@ If this list is empty, then there are no physical goods and we're done. If not, 
 
 {{< highlight >}}
 const printifyData = {}; // explained below
-const printifyURL = `https://api.printify.com/v1/shops/${ PRINTIFY_SHOP_ID }/orders.json`;
+const printifyURL = `https://api.printify.com/v2/shops/${ PRINTIFY_SHOP_ID }/orders.json`;
 const response = await fetch(printifyURL, {
     method: 'POST',
     headers: {
@@ -465,7 +465,8 @@ if(!changeNeeded) { return; }
     
 Then, we need to apply those changes. As explained above, this requires two steps:
 
-* First we need to ask Printify for _full_ information for this order, which includes the externalID we're after.
+* First we need to ask Printify for _full_ information for this order, which includes the externalID we're after. 
+* (Many APIs, from other platforms, immediately GIVE this external ID in the first place. So we don't need an extra expensive call for data. Which is far more efficient and intuitive, but Printify made some weird API choices if you ask me.)
 * Then we use Snipcart's API to update that specific order to the `newData`
 
 In code, leaving out any error handling and small details,
@@ -475,7 +476,7 @@ const resource = json.resource;
 const resourceID = resource.id;
 
 // get full details
-const orderDetailsURL = `https://api.printify.com/v1/shops/${PRINTIFY_SHOP_ID}/orders/${resourceID}.json`
+const orderDetailsURL = `https://api.printify.com/v2/shops/${PRINTIFY_SHOP_ID}/orders/${resourceID}.json`
 const orderDetails = await fetch(orderDetailsURL, {
     method: "GET",
     headers: {
@@ -611,12 +612,6 @@ The result? Yes, from time to time, we'd notice a few girls sneaking in and gigg
 
 All this to say: accept that there'll always be a few people profiting or a few unlucky deals. Don't let that fool you into the demonstrably unproductive, short-sighted mind-set to ASSUME everyone else is a thief before you even met them.
 {{% /example %}}
-
-
-
-
-
-
 
 In all of this research (mostly about shipping fees), however, I discovered one crucial thing that Printify tried to hide in a footnote somewhere.
 

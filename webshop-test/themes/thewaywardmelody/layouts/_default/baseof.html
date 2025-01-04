@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 {{ partial "head" . }}
-<body>
+{{ $section := or .Section "general" }}
+<body class="theme-{{ $section }}">
     {{ partial "navigation/header" . }}
-    <section class="page">
+    <section class="page margin-m">
         {{ block "main" . }} {{ end }}
     </section>
+    {{ partial "navigation/footer" . }}
     {{ partialCached "foot" . }}
 </body>
 </html>

@@ -6,25 +6,6 @@
     <h2 class="product-external-title">Loading Product Name</h2>
     <img class="product-external-image" loading="lazy" decoding="async" src="#" alt="Product Image for {{ $url }}">
     <p class="product-external-description">Loading Product Description</p>
+    <p class="product-external-price">Loading Product Price</p>
     <a href="{{ $url }}">Visit Product Page</a>
 </div>
-
-<script>
-    (async function()
-    {
-        const url = "{{ $url }}";
-        const response = await fetch(url);
-        const body = await response.text();
-
-        const div = document.createElement("div");
-        div.innerHTML = body;
-        const dataFromProduct = div.getElementsByClassName("snipcart-add-item")[0].attributes ?? {};
-
-        const elementToUpdate = document.querySelectorAll('[data-external-url="' + url + '"]')[0];
-        elementToUpdate.getElementsByClassName("product-external-title")[0].innerHTML = dataFromProduct.getNamedItem("data-item-name").value;
-        elementToUpdate.getElementsByClassName("product-external-image")[0].src = dataFromProduct.getNamedItem("data-item-image").value;
-        elementToUpdate.getElementsByClassName("product-external-description")[0].innerHTML = dataFromProduct.getNamedItem("data-item-description").value;
-
-        console.log(`Loaded external product data for ${url}`, dataFromProduct, elementToUpdate);
-    })();
-</script>

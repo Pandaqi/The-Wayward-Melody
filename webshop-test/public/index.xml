@@ -9,30 +9,58 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/info/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/info/about/</guid>
       <description>Prologue Once upon a time, there was a boy who liked to play.&#xA;He made nice games, he wrote fun books, and he&#39;s still doing that today. But as he grew older, maybe wiser, he realized a fact.&#xA;The universe? It ran on money, and now he needed some of that! Thus he set out to create a store, but not just one of any kind.&#xA;One with special rules and products, which are only here to find.</description>
     </item>
     <item>
-      <title>Test Item</title>
-      <link>http://localhost:1313/escape-rooms/test-item-copy-2/</link>
+      <title>Contact</title>
+      <link>http://localhost:1313/info/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/escape-rooms/test-item-copy-2/</guid>
-      <description>Lalal&#xA;This is a test Wiehoehoo</description>
+      <guid>http://localhost:1313/info/contact/</guid>
+      <description>Below are the official contact details for this webshop, owned by the company Rode Panda.&#xA;Willibrorduslaan 6&#xA;5581 GE Waalre&#xA;Netherlands harmonize@thewaywardmelody.com&#xA;+316 21313501 Company: Rode Panda&#xA;KvK: 73696269 But The Wayward Melody is a shared universe! It&amp;rsquo;s connected to many more websites, one for each specific type of work that I make and sell. See the bottom of the About page for the full list of connected websites and what they mean.</description>
     </item>
     <item>
-      <title>Test Item</title>
-      <link>http://localhost:1313/escape-rooms/test-item-copy-3/</link>
+      <title>FAQ</title>
+      <link>http://localhost:1313/info/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/escape-rooms/test-item-copy-3/</guid>
-      <description>Lalal&#xA;This is a test Wiehoehoo</description>
+      <guid>http://localhost:1313/info/faq/</guid>
+      <description>Click on a question below to get its answer. Hopefully, this settles any worry about using our webshop, and enlightens you about how this magical place came to be. Also, there are a few jokes to find.&#xA;Payment &amp;amp; Security What currencies are supported? All prices and transactions are in euros (EUR, €). The system supports any other currency, though, and will automatically convert based on the exchange rate at time of purchase.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/info/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/privacy-policy/</guid>
+      <description>@TODO</description>
+    </item>
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>http://localhost:1313/info/terms-and-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/terms-and-conditions/</guid>
+      <description>@TODO</description>
     </item>
     <item>
       <title>Test Item</title>
       <link>http://localhost:1313/escape-rooms/test-item-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/escape-rooms/test-item-copy/</guid>
+      <description>Lalal&#xA;This is a test Wiehoehoo</description>
+    </item>
+    <item>
+      <title>Test Item</title>
+      <link>http://localhost:1313/merchandise/test-bundle/test-bundle-item-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/merchandise/test-bundle/test-bundle-item-1/</guid>
+      <description>Lalal&#xA;This is a test Wiehoehoo</description>
+    </item>
+    <item>
+      <title>Test Item</title>
+      <link>http://localhost:1313/merchandise/test-bundle/test-bundle-item-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/merchandise/test-bundle/test-bundle-item-2/</guid>
       <description>Lalal&#xA;This is a test Wiehoehoo</description>
     </item>
     <item>

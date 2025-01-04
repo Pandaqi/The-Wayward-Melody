@@ -5,5 +5,28 @@
     {{ .Content }}
 </main>
 
-{{ partial "products/product-list" . }}
+<!--- If page params specify custom product IDs, select THOSE pages instead --->
+{{ $is_bundle := or .Params.bundle false }}
+{{ $product_ids := .Params.productsBundled }}
+<!--- It's cleaner to only set the PAGES on the context passed through if we actually want to change it; setting an empty slice to mean "ignore/undefined" is bad, because that might be exactly how we want to change it --->
+{{ $ctx := dict "context" . }}
+{{ if and $is_bundle $product_ids }}
+    {{ $pages := where .Site.Pages "Params.id" "in" $product_ids }}
+    {{ $ctx = merge $ctx (dict "pages" $pages) }}
 {{ end }}
+
+<!--- Show the big button to add/remove them all --->
+{{ if $is_bundle }}
+    <button class="product-bundle-add button-m">Add Bundle to Cart</button>
+    <button class="product-bundle-remove button-m">Remove Bundle from Cart</button>
+{{ end }}
+
+<!--- Display all products inside section/bundle/whatever --->
+<h2>Latest Products</h2>
+{{ partial "products/product-list" $ctx }}
+
+<h2>Search by Property</h2>
+<p>@TODO: give buttons to search for specific types of products</p>
+{{ end }}
+
+

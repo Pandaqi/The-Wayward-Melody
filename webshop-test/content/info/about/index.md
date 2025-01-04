@@ -37,7 +37,7 @@ Most of all, however, we at _The Wayward Melody_ obey the 0th law.
 
 > <span class="text-highlight">Law 0: Kindness and sharing shall rule most of all.</span>&nbsp;<span class="text-unhighlight">(I'm an artist and human being. I only reluctantly monetize because I need money to survive. You can always contact me, and maybe we can work something out.)</span>
 
-The bottom of this page contains explanations for why these laws exist.
+See the [Frequently Asked Questions (FAQ)](/info/faq/) for explanations for why these laws exist, and more specifics about how they apply.
 
 ## What spells do we cast?
 
@@ -51,43 +51,6 @@ And finally, we offer **bonus material** (on top of something else that might be
 
 _The Wayward Melody_ is a shared universe that contains many other websites. They might link to or promote products from within this webshop, when its relevant to the page you're visiting. Once clicked, they should refer you to _this_ domain.
 
-## Payment & Shipping
-
-All transactions are in **euros** (EUR, €).
-
-All transactions follow the security and privacy guidelines within the European Union. They're handled by our own custom system, with none of your data ever going anywhere else. This system only uses Mollie as the payment backend, which means we support almost any payment method you can imagine.
-
-We ship **worldwide**, while having **no shipping fees**. Orders with physical items, however, have a minimum (total) cost of 35 euros.
-
-Because of this, we can give **no guarantees about delivery time**. Digital orders are available immediately, of course. Physical orders usually arrive within 2 weeks---check your tracking URL for updates.
-
-There is **no automatic refund or return**. If you think you have a special case, though, contact us and we'll try to work it out!
-
-We do **not** condone the dark magic that is called **"buy now, pay later"**. If you find some way to do so anyway in our system, inform us and we take it down.
-
-## How did this magical place come to be?
-
-_Why no refunds or returns?_
-
-For digital goods, this is standard. It doesn't make sense to allow refunds when somebody has already received a permanent copy of the file! 
-
-For physical goods, this was our choice, made after much consideration. 
-
-* Our physical goods are printed on demand. This unfortunately means a refund just turns that product into useless waste, as it was made specifically for _you_! We can't repurpose it, or resell it, or do anything else. 
-* If worried about a product's look in real life, might we suggest purchasing your products in a physical shop instead? :)
-* To incentivize people to think longer before buying, and in doing so be kinder to themselves and the environment. If your purchase still disappoints, consider recycling it creatively or giving it away. If you are _really_ disappointed, let me know personally, and I might find some other arrangement.
-
-_Why a minimum order cost, but no shipping fees?_
-
-* To incentivize people to buy everything they want _at once_. This is better for the climate _and_ for their own wallet in the long-run. (The number of times I've seen someone place six seperate orders on the same day instead of bundling it ...)
-* To make the items the same price for everyone, regardless of where you live, time of the year, or any other circumstances.
-* Because shipping costs _can't_ be properly predicted. Our system will select the cheapest and fastest ( = most local) provider once the order is already placed. 
-* Many systems, unfortunately, mark up the shipping fees with random ridiculous amounts. They also don't use a single fee for the _whole order_, but individual fees for _each product_. This is out of our magical hands. We decided we _don't_ want to scare people with a sudden 30+ dollar shipping fee at the end of checkout.
-
-Instead, _expected_ shipping costs are included in the base price of all physical products. 
-
-And we, the sorcerers behind the shop, eat the risk of sometimes losing money on a sale because of shipping fees. (When you live on, say, the North Pole, shipping is bound to be wildly expensive! But why would you live on the North Pole? Are you Santa?)
-
 ## Who is this boy that created the shop?
 
 Hi, I'm Tiamo Pastoor! I'm a freelance artist in the Netherlands. I've been producing professional works in dozens of different creative categories for 15+ years now. 
@@ -100,6 +63,8 @@ Obviously, by the time this little boy became an adult, I had no funds and no in
 
 This webshop is the result of all that. A nice and cozy home for some of my _paid_ work. I feel somewhat comfortable giving these things a price tag, while keeping everything else I make as free and accessible as before.
 
+## The Shared Universe
+
 Want to see my other websites? They're all completely free and accessible, without so much as a single advertisement, as promised.
 
 * [Pandaqi Games](https://pandaqi.com) => over 200 free board games and video games of professional quality. Also contains a blog that explains the process of making each one, spilling the secrets.
@@ -109,20 +74,4 @@ Want to see my other websites? They're all completely free and accessible, witho
 * [El Troubadour](https://eltroubadour.com) => my music website, containing lyrics/chords for my songs, and links + background information for all my streamable albums.
 * [Rode Panda](https://rodepanda.com) => my portfolio that connects everything I ever made in a way that's easy to navigate.
 
-## Contact
-
-<div class="text-style-italic align-center">
-<p>
-Willibrorduslaan 6,<br>
-5581 GE Waalre,<br>
-Netherlands
-</p>
-<p>
-harmonize@thewaywardmelody.com<br>
-+316 21313501
-</p>
-<p>
-Company: Rode Panda<br>
-KvK: 73696269
-</p>
-</div>
+Now go forth and make life magical!
