@@ -1,7 +1,4 @@
-{{ $all_metadata := slice }}
-{{ range $key, $val := .Site.Taxonomies }}
-  {{ $all_metadata = $all_metadata | append $key }}
-{{ end }}
+{{ $all_metadata := partial "func/get-all-taxonomies" . }}
 {{ $relevant_metadata := or .Params.metadataRelevant $all_metadata }}
 {{ $context := . }}
 <div class="flex flex-wrap flex-center gap-xs padding-xs">

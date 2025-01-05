@@ -1,5 +1,69 @@
 @layer base, bundles, modules;
 
+// Font Files
+
+$font-family-heading: "Gloria";
+$font-family-body: "Lora";
+$font-family-accent: "Signika Negative";
+
+@font-face {
+    font-family: $font-family-heading;
+    src: url('Gloria.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url('Lora-MediumItalic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url('Lora-Medium.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url('Lora-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url('Lora-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-accent;
+    src: url('SignikaNegative-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-accent;
+    src: url('SignikaNegative-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
 // Shared Variables
 /*
 $color-accent: oklch(81.39% 0.0733 9.17);
@@ -28,10 +92,6 @@ $viewport-s: 320px;
 $viewport-m: 640px;
 $viewport-l: 960px;
 $viewport-xl: 1280px;
-
-$font-family-heading: "Gloria";
-$font-family-body: "Lora";
-$font-family-accent: "Signika Negative";
 
 // Mixins
 @mixin hover_sidearrows {
@@ -236,7 +296,7 @@ $font-family-accent: "Signika Negative";
         --color-dark-xx: oklch(15% 0.02 135);
     }
 
-    .theme-bonus-materials
+    .theme-sneakpeeks
     {
         --color-light-xx: oklch(90% 0.02 180);
         --color-light-x: oklch(75% 0.05 180);
@@ -566,10 +626,10 @@ $font-family-accent: "Signika Negative";
     }
 
     .flex-vertical-list {
-        li {
+        & > li {
             width: 100%;
 
-            a {
+            & > a {
                 width: 100%;
             }
         }
@@ -625,6 +685,10 @@ $font-family-accent: "Signika Negative";
                 list-style-type: none;
             }
         }
+    }
+
+    .remove-link-styles {
+        text-decoration: none;
     }
 
     .underline {

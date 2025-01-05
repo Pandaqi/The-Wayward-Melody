@@ -1,7 +1,7 @@
 <header class="bg-color-dark-x text-color-light-xx font-heading padding-s font-size-m">
     <nav>
         <!-- @NOTE: These class names MUST be present for Snipcart to recognize this as the "open cart" button --->
-        <div class="position-absolute anchor-top-right padding-s">
+        <div class="position-absolute anchor-top-right padding-s bg-color-dark-x rounded-xs">
             <a href="#" title="Go To Checkout" class="snipcart-checkout">
                 <span>🛒</span>
                 <span class="snipcart-total-price"></span>
@@ -14,18 +14,22 @@
         </div>
 
         <!--- Main (clickable) logo and name --->
+        {{ if .IsHome }}
         <a href="{{ .Site.BaseURL }}" id="header-logo" class="flex flex-center margin-s height-xs gap-s">
             <img src="/css/icon.jpg" alt="Webshop Logo (The Wayward Melody)">
             <h1 class="hide-m">The Wayward Melody</h1>
         </a>
+        {{ end }}
 
         <!--- All major categories to visit --->
         <ul class="remove-list-styling flex flex-wrap flex-center gap-xs margin-s">
+            {{ if not .IsHome }}<li><a href="/" class="theme-general navigation-link">Home</a></li>{{ end }}
             <li><a href="/escape-rooms/" class="theme-escape-rooms navigation-link">Escape Rooms</a></li>
             <li><a href="/trivia/" class="theme-pub-trivia navigation-link hide-m">(Pub) Quizzes</a></li>
             <li><a href="/educational/" class="theme-educational navigation-link hide-s">Educational</a></li>
             <li><a href="/merchandise/" class="theme-merchandise navigation-link">Merchandise</a></li>
-            <li><a href="/bonus-materials/" class="theme-bonus-materials navigation-link hide-m">Bonus Materials</a></li>
+            <li><a href="/art-media/" class="theme-art-media navigation-link hide-s">Art & Media</a></li>
+            <li><a href="/sneakpeeks/" class="theme-sneakpeeks navigation-link hide-m">Sneakpeeks</a></li>
             <li><a href="/info/about/" class="theme-general navigation-link">About</a></li>
         </ul>
     </nav>

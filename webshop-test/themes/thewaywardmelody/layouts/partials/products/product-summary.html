@@ -1,5 +1,7 @@
 {{ $img := or .Params.image "https://picsum.photos/500/386" }}
-<div id="product-{{ .Params.id }}" class="bg-color-light-xx text-color-dark-xx padding-m rounded-m limit-width-s">
+<div id="product-{{ .Params.id }}" 
+    class="product-summary bg-color-light-xx text-color-dark-xx padding-m rounded-m limit-width-s"
+    data-section="{{ .Section }}">
     <img loading="lazy" decoding="async" src="{{ $img }}" alt="Product Image for {{ .Params.title }}">
     <h2 class="align-center">{{ .Params.title }}</h2>
     <p>{{ .Params.description }}</p>

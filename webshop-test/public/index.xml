@@ -47,7 +47,7 @@
       <link>http://localhost:1313/escape-rooms/test-item-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/escape-rooms/test-item-copy/</guid>
-      <description>Lalal&#xA;This is a test Wiehoehoo&#xA;Duration? (rating) general duration of the entire room (mostly judged on short = 30- minutes, medium = 60-90 minutes, long = 120+ minutes)&#xA;Difficulty? (rating) general difficulty of puzzles&#xA;Outside Knowledge? (rating) How much external knowledge you need, possibly things you need to look up while playing.&#xA;Requires Color? (bool) if puzzles can only be solved if you have it printed in color/aren&amp;rsquo;t colorblind</description>
+      <description>@TODO: Unique product explanation can go here.</description>
     </item>
     <item>
       <title>Test Item</title>

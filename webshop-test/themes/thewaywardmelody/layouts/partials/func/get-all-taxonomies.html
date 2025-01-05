@@ -1,0 +1,5 @@
+{{ $all_metadata := slice }}
+{{ range $key, $val := .Site.Taxonomies }}
+  {{ $all_metadata = $all_metadata | append $key }}
+{{ end }}
+{{ return $all_metadata }}

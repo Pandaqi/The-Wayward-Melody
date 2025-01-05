@@ -10,9 +10,9 @@
   </url><url>
     <loc>http://localhost:1313/info/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/activities/</loc>
-  </url><url>
     <loc>http://localhost:1313/age/</loc>
+  </url><url>
+    <loc>http://localhost:1313/art-media/</loc>
   </url><url>
     <loc>http://localhost:1313/bonus-materials/</loc>
   </url><url>
@@ -24,9 +24,9 @@
   </url><url>
     <loc>http://localhost:1313/difficulty/</loc>
   </url><url>
-    <loc>http://localhost:1313/doublesidedallowed/</loc>
+    <loc>http://localhost:1313/double-sided-allowed/</loc>
   </url><url>
-    <loc>http://localhost:1313/doublesidedrequired/</loc>
+    <loc>http://localhost:1313/double-sided-required/</loc>
   </url><url>
     <loc>http://localhost:1313/duration/</loc>
   </url><url>
@@ -34,11 +34,11 @@
   </url><url>
     <loc>http://localhost:1313/escape-rooms/</loc>
   </url><url>
-    <loc>http://localhost:1313/priorwisdom/false/</loc>
+    <loc>http://localhost:1313/prior-wisdom/false/</loc>
   </url><url>
-    <loc>http://localhost:1313/gamemastercanplay/false/</loc>
+    <loc>http://localhost:1313/game-master/false/</loc>
   </url><url>
-    <loc>http://localhost:1313/gamemaster/false/</loc>
+    <loc>http://localhost:1313/game-master-can-play/false/</loc>
   </url><url>
     <loc>http://localhost:1313/color/false/</loc>
   </url><url>
@@ -46,9 +46,9 @@
   </url><url>
     <loc>http://localhost:1313/fun-frontier/</loc>
   </url><url>
-    <loc>http://localhost:1313/gamemaster/</loc>
+    <loc>http://localhost:1313/game-master/</loc>
   </url><url>
-    <loc>http://localhost:1313/gamemastercanplay/</loc>
+    <loc>http://localhost:1313/game-master-can-play/</loc>
   </url><url>
     <loc>http://localhost:1313/hybrid/</loc>
   </url><url>
@@ -68,11 +68,11 @@
   </url><url>
     <loc>http://localhost:1313/outdoors/</loc>
   </url><url>
-    <loc>http://localhost:1313/paperchoice/</loc>
+    <loc>http://localhost:1313/paper-choice/</loc>
   </url><url>
-    <loc>http://localhost:1313/parallelplay/</loc>
+    <loc>http://localhost:1313/parallel-play/</loc>
   </url><url>
-    <loc>http://localhost:1313/priorwisdom/</loc>
+    <loc>http://localhost:1313/prior-wisdom/</loc>
   </url><url>
     <loc>http://localhost:1313/info/privacy-policy/</loc>
   </url><url>
@@ -104,10 +104,10 @@
   </url><url>
     <loc>http://localhost:1313/textless/true/</loc>
   </url><url>
-    <loc>http://localhost:1313/parallelplay/true/</loc>
+    <loc>http://localhost:1313/parallel-play/true/</loc>
   </url><url>
-    <loc>http://localhost:1313/paperchoice/true/</loc>
+    <loc>http://localhost:1313/paper-choice/true/</loc>
   </url><url>
-    <loc>http://localhost:1313/doublesidedallowed/true/</loc>
+    <loc>http://localhost:1313/double-sided-allowed/true/</loc>
   </url>
 </urlset>

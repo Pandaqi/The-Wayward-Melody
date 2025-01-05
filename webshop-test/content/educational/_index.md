@@ -2,9 +2,17 @@
 title: "Educational"
 ---
 
-{{% double-view left="Check out all the **educational materials and activities** this webshop has to offer! From simple worksheets, to puzzles, to coloring pages. Check out the [Fun Frontier](/fun-frontier/) for educational _games_ instead. Check out [Trivia](/trivia/) for educational _quizzes_ instead." %}}
+{{% double-view %}}
 
-## Any Questions?
+{{% double-view-item %}}
+
+Check out all the **educational materials and activities** this webshop has to offer! From simple worksheets, to puzzles, to coloring pages. Check out the [Fun Frontier](/fun-frontier/) for educational _games_ instead. Check out [Trivia](/trivia/) for educational _quizzes_ instead.
+
+{{< metadata-navigation >}}
+
+{{% /double-view-item %}}
+
+{{% double-view-item %}}
 
 {{% section-foldable header="For whom are these materials intended?" %}}
 
@@ -29,5 +37,18 @@ In many cases, you can give them to your kid/pupil to enjoy on their own. But we
 You don't need a special license or permission for anything. You bought the experience---it's yours to experience it as you wish.
 
 {{% /section-foldable %}}
+
+{{% section-foldable header="Who are you and why do you create these?" %}}
+
+As stated at my other educational projects, I've been a huge fan of _learning_ since I was born. When I was just 7 years old, I was already researching how humans actually learn, reading studies about our brain, memory, problem solving, creativity, and more. (That's how I could teach myself all the skills needed for developing this webshop, for example!)
+
+Unfortunately, **to say our educational systems fall short would be a massive understatement**. They do the exact _opposite_ of what science suggests. They ruin learning until every kid believes being smart is supposed to be stupid, hard, and not for them.
+
+I create these materials based on my understanding of how learning actually works. How to make it fun and effective. How to actually achieve something, without treating children like obedient little workers. Hopefully these educational materials and activities can enlighten and satisfy many children---or adults!---around the world.
+
+{{% /section-foldable %}}
+
+
+{{% /double-view-item %}}
 
 {{% /double-view %}}

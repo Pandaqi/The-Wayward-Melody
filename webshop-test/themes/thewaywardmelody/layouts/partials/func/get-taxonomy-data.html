@@ -1,0 +1,21 @@
+{{ $key := .key }}
+{{ $data := index .context.Site.Data.metadata $key }}
+{{ $key_readable := or (index $data "name") ($key | humanize) }}
+{{ $value := or .value (index .context.Params $key) }}
+{{ $value_url := $value }}
+{{ $value_readable := $value }}
+{{ if reflect.IsSlice $value }}
+    {{ $value_readable = delimit $value ", " }}
+    {{ $value_url = index $value 0 }}
+{{ else }}
+    {{ $value_standardized := (string $value) | lower }}
+    {{ if or (eq $value true) (eq $value_standardized "true")}}{{ $value_readable = "Yes" }}{{ end }}
+    {{ if or (eq $value false) (eq $value_standardized "false")}}{{ $value_readable = "No" }}{{ end }}
+{{ end }}
+{{ $unit := or (index $data "unit") "" }}
+{{ $value_readable = printf "%s%s" (string $value_readable) (string $unit) }}
+{{ $desc := or (index $data "desc") "No description provided." }}
+{{ $url := printf "/%s/%s/" $key (string $value_url) }}
+{{ if .url_params }}{{ $url = printf "%s?%s" $url .url_params }}{{ end }}
+{{ $icon_class := printf "metadata-icon-%s" (or (index $data "icon") $key) }}
+{{ return dict "key" $key "key_readable" $key_readable "value" $value "value_readable" $value_readable "url" $url "icon" $icon_class "desc" $desc }}

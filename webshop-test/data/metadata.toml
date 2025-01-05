@@ -1,3 +1,6 @@
+[categories]
+    desc = "To which general categories, tags or genres this activity belongs."
+
 [duration]
     unit = "m"
     desc = "Expected duration of one instance of the activity."
@@ -14,7 +17,7 @@
     unit = "/5"
     desc = "How long or complex the preparation/setup is for this activity."
 
-[priorWisdom]
+[prior-wisdom]
     name = "Prior Wisdom"
     desc = "Whether you need prior knowledge, or the ability to look things up, for this activity."
 
@@ -27,30 +30,30 @@
 [textless]
     desc = "Whether you need to read (a lot) for this activity. (Letters and numbers can still be present, but only simple ones and in small doses.)"
 
-[parallelPlay]
+[parallel-play]
     name = "Parallel Play"
     desc = "Whether this activity allows multiple people to do (different) things at the same time."
 
-[doubleSidedAllowed]
+[double-sided-allowed]
     name = "Can Double"
     desc = "Whether you CAN print the material double-sided."
 
-[doubleSidedRequired]
+[double-sided-required]
     name = "Must Double"
     desc = "Whether you MUST print this material double-sided (for the activity to work)."
 
-[gameMaster]
+[game-master]
     name = "Game Master"
     desc = "Whether this activity needs one (or more) people to host and lead it."
 
-[gameMasterCanPlay]
+[game-master-can-play]
     name = "Everyone Plays"
     desc = "Whether the person preparing or hosting the activity can ALSO play along. (Example: you prepared the quiz but don't know the answers yourself.)"
 
 [hybrid]
     desc = "A hybrid game is played both physically (e.g. with paper or cards) AND digitally (e.g. a website or your phone)."
 
-[paperChoice]
+[paper-choice]
     name = "Paper Choice"
     desc = "Whether the material can be printed on any other paper format than the one provided (A4)."
 

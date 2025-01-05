@@ -2,6 +2,8 @@
 <html lang="en">
 {{ partial "head" . }}
 {{ $section := or .Section "general" }}
+{{ $is_taxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
+{{ if $is_taxonomy }}{{ $section = "general" }}{{ end }}
 <body class="theme-{{ $section }}">
     {{ partial "navigation/header" . }}
     <section class="page margin-m">

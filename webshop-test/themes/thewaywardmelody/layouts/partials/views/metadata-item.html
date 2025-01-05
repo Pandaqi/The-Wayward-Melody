@@ -1,23 +1,9 @@
-{{ $key := .key }}
-{{ $data := index .context.Site.Data.metadata $key }}
-{{ $key_readable := or (index $data "name") ($key | humanize) }}
-{{ $value := index .context.Params $key }}
-{{ $value_url := $value }}
-{{ $value_readable := $value }}
-{{ if eq $value true }}{{ $value_readable = "Yes" }}{{ end }}
-{{ if eq $value false }}{{ $value_readable = "No" }}{{ end }}
-{{ if reflect.IsSlice $value }}
-    {{ $value_readable = delimit $value ", " }}
-    {{ $value_url = index $value 0 }}
-{{ end }}
-{{ $unit := or (index $data "unit") "" }}
-{{ $tooltip := or (index $data "desc") "No description provided." }}
-{{ $url := printf "/%s/%s/" $key (string $value_url) }}
-{{ $icon_class := printf "metadata-icon-%s" (or (index $data "icon") $key) }}
-{{ $has_valid_value := ne $value nil }}
-{{ if $has_valid_value }}
-<a class="flex flex-center gap-xs font-size-s font-accent rounded-xs bg-color-mid padding-xs hover_popup transition-m" title="{{ $tooltip }}" href="{{ $url }}">
-    <div class="{{ $icon_class }}">ICON</div>
-    <span>{{ $key_readable }}: {{ $value_readable }}{{ $unit }}</span>
+{{- $data := partial "func/get-taxonomy-data.html" . -}}
+{{- $has_valid_value := ne $data.value nil -}}
+{{- if $has_valid_value -}}
+<a class="flex flex-center remove-link-styles text-color-light-xx gap-xs font-size-s font-accent rounded-xs bg-color-mid padding-xs hover_popup transition-m" title="{{ $data.desc }}" href="{{ $data.url }}">
+{{- if .value_only -}}<span>{{ $data.value_readable }}</span>
+{{- else -}}<div class="{{ $data.icon }}">ICON</div><span>{{ $data.key_readable }}: {{ $data.value_readable }}</span>
+{{- end -}}
 </a>
-{{ end }}
+{{- end -}}

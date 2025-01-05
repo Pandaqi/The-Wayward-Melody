@@ -1,5 +1,54 @@
 @charset "UTF-8";
 @layer base, bundles, modules;
+@font-face {
+  font-family: "Gloria";
+  src: url("Gloria.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: "Lora";
+  src: url("Lora-MediumItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: "Lora";
+  src: url("Lora-Medium.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: "Lora";
+  src: url("Lora-BoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: "Lora";
+  src: url("Lora-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: "Signika Negative";
+  src: url("SignikaNegative-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: "Signika Negative";
+  src: url("SignikaNegative-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+
 /*
 $color-accent: oklch(81.39% 0.0733 9.17);
 $color-light-xx: oklch(96.35% 0 46.08);
@@ -302,9 +351,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     justify-content: center;
     align-content: center;
     align-items: center; }
-  .flex-vertical-list li {
+  .flex-vertical-list > li {
     width: 100%; }
-    .flex-vertical-list li a {
+    .flex-vertical-list > li > a {
       width: 100%; }
   .display-block {
     display: block; }
@@ -332,6 +381,8 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     list-style-type: none; }
     .remove-list-styling li {
       list-style-type: none; }
+  .remove-link-styles {
+    text-decoration: none; }
   .underline {
     text-decoration: underline; }
   .transition-m {

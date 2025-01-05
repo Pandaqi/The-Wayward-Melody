@@ -2,22 +2,32 @@
 
 # HUGO/Design
 
-* METADATA 
-  * Create "metadata-navigation.html" 
-  * It actually lists all _options_ per type, but only of those highlighted/relevant.
-  * Add this as a shortcode to the "left" side of Section double view.
-    * Which necessitates that we stop using our current `left` approach and simply wrap the components inside another `double-view-item` shortcode
-    * Remove "any questions?" part
-* TERMS PAGES
-  * Actually create the layout for that.
-  * Read icon + desc ( + name) from the same data.toml
-* Create a UNIQUE layout for front page/landing page => then use smaller version of header on all other pages?
-* ART & MEDIA: write text and FAQ
+* Create a UNIQUE layout for front page/landing page
+  * Major header image + welcome message
+  * Some of those random "stats" or "advantages" or "reviews" => though make them clearly tongue-in-cheek, fitting with the Lore of the webshop?
+  * Direct links to MAIN CATEGORIES.
+  * Direct links to LATEST/BESTSELLING PRODUCTS.
+    * "Bestselling" can simply be marked by me, or chosen randomly on every build of the website. 
+* Polishing:
+  * Add some nice "hover" effect when going over (main) images
+  * Some more image work, more "highlighted" text or phrases (though the home page _is_ the ideal place to do that)
+  * More "invert-colors" button, as that just seems to have more oomph?
+
+MAYBE use these final few months (NDHU runs out 14-04, Hosting 22-04) that I still have my Vimexx hosting to try WooCommerce directly?
+* Just to make a few products, get something running
+* AND TRY OUT ALL THE DIFFERENT FRAMEWORKS DIRECTLY? Yes, that should work simultaneously, as far as I can see. WooCommerce even recommends Printful inside the interface.
+* If this runs out, I _can_ keep the domain anyway (but move it to CloudFlare) + switch to some free hosting (infinityfree, byet.host, accuweb free wordpress trial for 6 months) and do DNS magic to make it work. Keep that system alive as long as I can, without real cost.
+* BUUUUUT CloudFlare's domains don't allow hosting them somewhere else, so then I'd need to keep it at VIMEXX instead ... => HAHA CLOUDFLARE DOESN'T EVEN SUPPORT .nl EXTENSION ANYWAY!
+  * Moet eigenlijk testen, iets voordat domein verloopt, of ik de nameservers al kan switchen naar zo'n gratis host.
 
 * [Need Tablet] 
   * Try fairy tale decorations around headers + fairy tale border-image decorations around boxes?
+  * Some nice texturing/doodling/"eye candy" work
+  * A BUNCH OF HEADERS TO USE?
+    * One header per category, in that nice style from picsum. (Start saving the ones that look best as reference!)
+    * Then just a few random headers for any other pages/placeholders
   * Create metadata icons => then use
-  * Create custom images cart + user account + shop icon/logo (+ anything else I might need)
+  * Create custom images cart + user account + shop icon (square) + shop logo (name logo/banner in different dimensions)
 
 
 ## API
@@ -42,6 +52,12 @@
 
 ## Finishing Touches (Optional)
 
+* Metadata Nav (adding query parameters) => this is actually quite powerful and I might want to use this for OTHER stuff to filter by too?
+  * Then also find a clean way to COMMUNICATE those query parameters to the user.
+  * YES, Search should be SOLID and EASY TO USE.
+    * Add freeform search function with Pagefind?
+    * Also allow searching for price, of course?
+  * Also, PAGINATION
 * Try other font combos
 * Snipcart Theming => only colors are easy to change. I'd prefer having access to fonts and stuff too, but that's messy ...
 * Any other sanity checks for ALL products in the HUGO/API system?
@@ -54,7 +70,7 @@ All different categories have text files within their own subfolders.
 * `escape-rooms` (might become `escape-kits`)
 * `trivia`
 * `educational` 
-* `activities` => might go away
+* `art-media`
 * `merchandise`
 * `bonus-materials`
 * (`fun-frontier` for expansion packs and stuff for THAT project => remove at launch?)
@@ -116,6 +132,8 @@ Maybe have TWO providers, one for EUROPE and one for USA?
 
 @TODO
 
+@IDEA/SOLUTION: Yes, I _can_ make digital escape rooms without overhead! If I simply do the same thing as I plan to do with the pub quizzes: give people a single webpage to open in their browser. It can be completely self-contained, while hiding answers/solutions, and allowing checks. (I can always make this available ONLINE too, for ease of access from mobile, later.)
+
 @IDEA: FRIDGE MAGNETS ESCAPE ROOM/PUZZLES/GAME?
 
 @IDEA: ESCAPE ROOM POSTERS! (And escape room _mugs_, pillows, beanies, T-shirts have already been done, what else?) => Might do something by _overlapping_ with paper to hide bits? Placing paper on it, then tracing (like against a window/backlight)? Turning it upside-down?
@@ -126,6 +144,7 @@ MERCHANDISE IDEA: "SOLVE MY BACK"/"SOLVE MY FRONT" which asks others to look at 
 
 @IDEA (ESCAPE ROOM; POSTER?): A side-view of a house, like that 2D video game where you manage a skyscraper or a news station. You start at ground floor (or top-left room), then move from room to room by solving puzzles. (The puzzle tells you which door/stairway/elevator stuff to take?)
 
+@IDEA: "Wie is de Mol/Trol" verjaardagspaketten. Or just general "birthday cookbooks" or "activity day workbooks"?
 
 #### PUB QUIZ 
 

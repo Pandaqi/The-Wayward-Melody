@@ -2,9 +2,17 @@
 title: "Escape Rooms"
 ---
 
-{{% double-view left="Check out our **printable escape room** experiences! Download a PDF, cut a few pages, and you can already play. All you need is a _printer_, _paper_, _scissors_, and a bunch of _Wizards of Wisdom_ to solve all the puzzles." %}}
+{{% double-view %}}
 
-## Any Questions?
+{{% double-view-item %}}
+
+Check out our **printable escape room** experiences! Download a PDF, cut a few pages, and you can already play. All you need is a _printer_, _paper_, _scissors_, and a bunch of _Wizards of Wisdom_ to solve all the puzzles.
+
+{{< metadata-navigation >}}
+
+{{% /double-view-item %}}
+
+{{% double-view-item %}}
 
 {{% section-foldable header="What is an escape room?" %}}
 
@@ -63,5 +71,7 @@ At the very least, it's more practical: they support _any_ group size, need _no_
 I initially started designing these for holidays and family gatherings, and I never looked back.
 
 {{% /section-foldable %}}
+
+{{% /double-view-item %}}
 
 {{% /double-view %}}

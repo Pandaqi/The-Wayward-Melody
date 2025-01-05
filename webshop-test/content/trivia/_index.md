@@ -2,9 +2,17 @@
 title: "Trivia"
 ---
 
-{{% double-view left="Check out our **(pub) quizzes** and other **trivia experiences**! Use them for a fun night with your friends. Use them to teach your kids about a topic while having fun. Or use them for a big event at your local pub." %}}
+{{% double-view %}}
 
-## Any Questions?
+{{% double-view-item %}}
+
+Check out our **(pub) quizzes** and other **trivia experiences**! Use them for a fun night with your friends. Use them to teach your kids about a topic while having fun. Or use them for a big event at your local pub.
+
+{{< metadata-navigation >}}
+
+{{% /double-view-item %}}
+
+{{% double-view-item %}}
 
 {{% section-foldable header="What is a pub quiz?" %}}
 
@@ -60,5 +68,7 @@ Over time, my systems and skill evolved. The very first pub quiz was a simple on
 Until I thought it would be a crime not to share that with the world!
 
 {{% /section-foldable %}}
+
+{{% /double-view-item %}}
 
 {{% /double-view %}}

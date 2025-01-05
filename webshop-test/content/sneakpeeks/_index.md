@@ -1,16 +1,24 @@
 ---
-title: "Bonus Materials"
+title: "Sneakpeeks"
 ---
 
-{{% double-view left="Check out all the **bonus materials** we offer! These are usually **unreleased bits** or **source files** of a project. This means they're connected to existing work you can find on other websites within the shared universe of _The Wayward Melody_. Hence the name \"bonus\" material!" %}}
+{{% double-view %}}
 
-## Any Questions?
+{{% double-view-item %}}
+
+Check out all the **Sneakpeeks** we offer! These are projects that lift the curtain, give you access behind the scenes, show you how the sausage was made on your favorite project. This often means gaining access to the full **source files** of a project. It also means they're connected to existing work you can find on other websites within the shared universe of _The Wayward Melody_.
+
+{{< metadata-navigation >}}
+
+{{% /double-view-item %}}
+
+{{% double-view-item %}}
 
 {{% section-foldable header="Why should I buy these?" %}}
 
 The **source files** are intended for anyone who wants to learn how something was made, or even use it themselves to jumpstart their next project. It reveals _code, setup, discarded ideas, illustrations, and more_ behind some "end product" that you (hopefully) love.
 
-The **unreleased gems** are any project that simply couldn't be finished or published through another channel. They might be fun stories for _The Saga Of Life_ which ended up just not making the cut. They might be promising ideas that I finished, but just have no clear sales channel.
+We also keep **nice (written) diaries or logbooks** for all projects, but you don't need to purchase these. You can always find those online, for free, on the blog associated with the project!
 
 {{% /section-foldable %}}
 
@@ -27,5 +35,7 @@ This highly depends on what you buy! In general, though, you get a single **ZIP 
 Let yourself be "greatly inspired" by these files for your next project ;) The world should be built on sharing, on improving what others have made. That's why we give away these files _and_ allow you all the freedom in the world with them.
 
 {{% /section-foldable %}}
+
+{{% /double-view-item %}}
 
 {{% /double-view %}}

@@ -1,3 +1,1 @@
-{{ $left := (.Get "left") | markdownify }}
-{{ $right := .InnerDeindent }}
-{{ partial "views/double-view.html" (dict "left" $left "right" $right) }}
+{{ partial "views/double-view.html" (dict "content" .InnerDeindent) }}

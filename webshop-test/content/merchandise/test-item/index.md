@@ -10,6 +10,8 @@ productPlatform: "printify" # printify, printful, ??
 productSku: "123TEST"
 categories: ["textless", "kid-friendly", "puzzle"]
 
+prior-wisdom: false
+
 ---
 
 Lalal

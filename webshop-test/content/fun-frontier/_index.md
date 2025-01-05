@@ -2,9 +2,17 @@
 title: "Fun Frontier"
 ---
 
-{{% double-view left="Check out all the **bonus material** for the \"Fun Frontier\" project! Unfamiliar with it? [Visit the website!](https://funfrontier.com) @TODO: Link. It contains all the necessary information, and a really nice design and categorization, to help you find **free educational board games** to play with your children. This webshop merely sells additional material, such as expansions or merchandise. (@TODO: This category might disappear in the future.)" %}}
+{{% double-view %}}
 
-## Any Questions?
+{{% double-view-item %}}
+
+Check out all the **bonus material** for the "Fun Frontier" project! Unfamiliar with it? [Visit the website!](https://funfrontier.com) @TODO: Link. It contains all the necessary information, and a really nice design and categorization, to help you find **free educational board games** to play with your children. This webshop merely sells additional material, such as expansions or merchandise. (@TODO: This category might disappear in the future.)
+
+{{< metadata-navigation >}}
+
+{{% /double-view-item %}}
+
+{{% double-view-item %}}
 
 {{% section-foldable header="What is the Fun Frontier?" %}}
 
@@ -27,5 +35,7 @@ As stated, the project's website contains _all the base games_ for **free**. Edu
 You don't need a special license or permission for anything. You bought the experience---it's yours to experience it as you wish.
 
 {{% /section-foldable %}}
+
+{{% /double-view-item %}}
 
 {{% /double-view %}}

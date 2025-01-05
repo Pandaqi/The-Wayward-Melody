@@ -1,10 +1,12 @@
 {{ $is_section := .IsSection }}
-
+{{ $title := .Title }}
+{{ $is_taxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
+{{ if $is_taxonomy }}{{ $title = "Search" }}{{ end }}
 <div class="height-ml">
 {{ $src := or .Params.image "https://picsum.photos/1280/720" }}
 {{ $alt := printf "Banner Image for Article: %s" .Title }}
 {{ if $is_section }}{{ $alt = printf "Banner Image for Category/Section: %s" .Title }}{{ end }}
 <div class="maximize-height background-cover fade-to-bg" style="background:linear-gradient(to bottom, transparent, var(--color-dark-xx)), url({{ $src }}); background-size: cover;" title="{{ $alt }}">
-    <h1 class="font-size-xxl margin-none text-shadow">{{ .Title }}</h1>
+    <h1 class="font-size-xxl margin-none text-shadow">{{ $title }}</h1>
 </div>
 </div>
