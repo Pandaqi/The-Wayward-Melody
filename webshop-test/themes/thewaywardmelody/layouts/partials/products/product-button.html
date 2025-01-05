@@ -28,7 +28,7 @@
         data-item-custom2-type="hidden"
         data-item-custom2-value="{{ . }}"
         {{ end }}
-        data-item-description="{{ .Params.description }}">
+        data-item-description="{{ .Params.description | markdownify }}">
         Add To Cart (&euro;{{ .Params.price }})
     </button>
 </div>

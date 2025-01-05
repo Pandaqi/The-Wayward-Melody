@@ -2,7 +2,7 @@
 title: "Merchandise"
 ---
 
-In love with one of Tiamo's projects? Want to have something cool to show for it and impress your friends? You might have walked into the right shop, my dear sorcerer. This page contains merchandise items for characters, illustrations, and elements from projects like _Wildebyte Arcades_, _The Saga of Life_ or _The Wayward Melody_.
+{{% double-view left="In love with one of Tiamo's projects? Want to have something cool to show for it and impress your friends? You might have walked into the right shop, my dear sorcerer. This page contains merchandise items for characters, illustrations, and elements from projects like _Wildebyte Arcades_, _The Saga of Life_ or _The Wayward Melody_." %}}
 
 ## Any questions?
 
@@ -30,3 +30,5 @@ We _design_ them, sure, using our assets and previous work. But we use several p
 Check out our [About](/info/about/) page and [Frequently Asked Questions (FAQ)](/info/faq/) for all the details. Please note that Merchandise falls under _Physical Goods_, not the _Digital Goods_ sold in other categories of this webshop.
 
 {{% /section-foldable %}}
+
+{{% /double-view %}}

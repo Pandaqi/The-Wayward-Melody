@@ -2,7 +2,7 @@
 title: "Bonus Materials"
 ---
 
-Check out all the **bonus materials** we offer! These are usually **unreleased bits** or **source files** of a project. This means they're connected to existing work you can find on other websites within the shared universe of _The Wayward Melody_. Hence the name "bonus" material!
+{{% double-view left="Check out all the **bonus materials** we offer! These are usually **unreleased bits** or **source files** of a project. This means they're connected to existing work you can find on other websites within the shared universe of _The Wayward Melody_. Hence the name \"bonus\" material!" %}}
 
 ## Any Questions?
 
@@ -27,3 +27,5 @@ This highly depends on what you buy! In general, though, you get a single **ZIP 
 Let yourself be "greatly inspired" by these files for your next project ;) The world should be built on sharing, on improving what others have made. That's why we give away these files _and_ allow you all the freedom in the world with them.
 
 {{% /section-foldable %}}
+
+{{% /double-view %}}

@@ -5,3 +5,26 @@ theme = "thewaywardmelody"
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[taxonomies]
+    categories = "categories"
+    duration = "duration"
+    age = "age"
+    difficulty = "difficulty"
+    setup = "setup"
+    priorWisdom = "priorWisdom"
+    color = "color"
+    mature = "mature"
+    textless = "textless"
+    parallelPlay = "parallelPlay"
+    doubleSidedAllowed = "doubleSidedAllowed"
+    doubleSidedRequired = "doubleSidedRequired"
+    gameMaster = "gameMaster"
+    gameMasterCanPlay = "gameMasterCanPlay"
+    hybrid = "hybrid"
+    paperChoice = "paperChoice"
+    linear = "linear"
+    requirements = "requirements"
+    indoors = "indoors"
+    outdoors = "outdoors"
+    language = "language"

@@ -1,0 +1,71 @@
+[duration]
+    unit = "m"
+    desc = "Expected duration of one instance of the activity."
+
+[age]
+    unit = "yrs"
+    desc = "Recommended minimum age. (There are no maximum ages for our activities and experiences!)"
+
+[difficulty]
+    unit = "/5"
+    desc = "How challenging it is to complete this activity."
+
+[setup]
+    unit = "/5"
+    desc = "How long or complex the preparation/setup is for this activity."
+
+[priorWisdom]
+    name = "Prior Wisdom"
+    desc = "Whether you need prior knowledge, or the ability to look things up, for this activity."
+
+[color]
+    desc = "Whether printing in color is required."
+
+[mature]
+    desc = "Whether the activity has mature themes. (By default, all activities on this website are family-friendly.)"
+
+[textless]
+    desc = "Whether you need to read (a lot) for this activity. (Letters and numbers can still be present, but only simple ones and in small doses.)"
+
+[parallelPlay]
+    name = "Parallel Play"
+    desc = "Whether this activity allows multiple people to do (different) things at the same time."
+
+[doubleSidedAllowed]
+    name = "Can Double"
+    desc = "Whether you CAN print the material double-sided."
+
+[doubleSidedRequired]
+    name = "Must Double"
+    desc = "Whether you MUST print this material double-sided (for the activity to work)."
+
+[gameMaster]
+    name = "Game Master"
+    desc = "Whether this activity needs one (or more) people to host and lead it."
+
+[gameMasterCanPlay]
+    name = "Everyone Plays"
+    desc = "Whether the person preparing or hosting the activity can ALSO play along. (Example: you prepared the quiz but don't know the answers yourself.)"
+
+[hybrid]
+    desc = "A hybrid game is played both physically (e.g. with paper or cards) AND digitally (e.g. a website or your phone)."
+
+[paperChoice]
+    name = "Paper Choice"
+    desc = "Whether the material can be printed on any other paper format than the one provided (A4)."
+
+[linear]
+    name = "Linear"
+    desc = "Whether the experience is linear, or you can choose where to start, stop or skip something."
+
+[requirements]
+    desc = "Required material or skills before doing this activity."
+
+[indoors]
+    desc = "Whether the activity can be played indoors (most likely, practically speaking)"
+
+[outdoors]
+    desc = "Whether the activity can be played outdoors (most likely, practically speaking)"
+
+[language]
+    desc = "The language used in and/or required for the activity."

@@ -1,11 +1,42 @@
 {{ define "main" }}
 
 {{ $is_product := eq .Type "product" }}
+{{ $is_physical := .Params.productSku }}
+{{ $good_type_string := "Digital Good" }}
+{{ if $is_physical }}{{ $good_type_string = "Physical Good" }}{{ end }}
 <header>
-<h1 class="font-size-xxl">{{ .Title }}</h1>
+<!--- Products show an image left, description + tags right --->
 {{ if $is_product }}
-    <p>Any metadata, tags, ...</p>
-    {{ partial "products/product-button" . }}
+<div class="flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center">
+    <!--- Image on left/top --->
+    <div class="maximize-width padding-xs position-relative">
+        {{ $rand_rot_1 := (sub math.Rand 0.5) | mul 8 }}
+        {{ $rand_rot_2 := (sub math.Rand 0.5) | mul 8 }}
+        <div class="rounded-s position-absolute padding-absolute-s bg-color-mid" style="z-index: -2; transform: rotate({{ $rand_rot_1 }}deg);"></div>
+        <div class="rounded-s position-absolute padding-absolute-s bg-color-dark-x" style="z-index: -1; transform: rotate({{ $rand_rot_2 }}deg);"></div>
+        <div class="padding-xxs">
+            {{ $src := or .Params.image "https://picsum.photos/500/386" }}
+            {{ $alt := printf "Product Image for %s" .Title }}
+            <img class="rounded-s block-align-center display-block maximize-width maximize-height" loading="lazy" decoding="async" src="{{ $src }}" alt="{{ $alt }}">
+        </div>
+    </div>
+    <!--- Main title, description, buttons on right/bottom -->
+    <div class="maximize-width padding-s">
+        <div class="font-accent font-size-s">
+            <span>Category: <a href="{{ .CurrentSection.Permalink }}">{{ .CurrentSection.Title }}</a></span> &middot; 
+            <span>Type: {{ $good_type_string }}</span> &middot;
+            <span>Price: &euro;{{ .Params.price }}</span>
+        </div>
+        <h1 class="font-size-xl align-left margin-none">{{ .Title }}</h1>
+        <p>{{ .Params.description | markdownify }}</p>
+        {{ partial "views/metadata-list" . }}
+        {{ partial "products/product-button" . }}
+    </div>
+</div>
+{{ end }}
+<!--- Other articles show a wide image at top and then just centered text below --->
+{{ if not $is_product }}
+{{ partial "views/banner-image" . }}
 {{ end }}
 </header>
 <main class="text-reader margin-m limit-width-m block-align-center">

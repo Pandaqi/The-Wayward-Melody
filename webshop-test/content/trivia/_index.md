@@ -2,7 +2,7 @@
 title: "Trivia"
 ---
 
-Check out our **(pub) quizzes** and other **trivia experiences**! Use them for a fun night with your friends. Use them to teach your kids about a topic while having fun. Or use them for a big event at your local pub.
+{{% double-view left="Check out our **(pub) quizzes** and other **trivia experiences**! Use them for a fun night with your friends. Use them to teach your kids about a topic while having fun. Or use them for a big event at your local pub." %}}
 
 ## Any Questions?
 
@@ -61,4 +61,4 @@ Until I thought it would be a crime not to share that with the world!
 
 {{% /section-foldable %}}
 
-
+{{% /double-view %}}

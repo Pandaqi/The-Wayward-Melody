@@ -2,13 +2,13 @@
 title: "Escape Rooms"
 ---
 
-Check out our **printable escape room** experiences! Download a PDF, cut a few pages, and you can already play. All you need is a _printer_, _paper_, _scissors_, and a bunch of _Wizards of Wisdom_ to solve all the puzzles.
+{{% double-view left="Check out our **printable escape room** experiences! Download a PDF, cut a few pages, and you can already play. All you need is a _printer_, _paper_, _scissors_, and a bunch of _Wizards of Wisdom_ to solve all the puzzles." %}}
 
 ## Any Questions?
 
 {{% section-foldable header="What is an escape room?" %}}
 
-An **"escape room"** is a collaborative puzzle experience for a any group of people. It differs from just "a bunch of puzzles" by having a story, unique material, surprising connections between the puzzles, and (sometimes literal) out-of-the-box thinking. 
+An **"escape room"** is a collaborative puzzle experience for any group of people. It differs from just "a bunch of puzzles" by having a story, unique material, surprising connections between the puzzles, and (sometimes literal) out-of-the-box thinking. 
 
 The name comes from physical locations in which you literally get locked in a room and need to find the key. That's where the hype started.
 
@@ -64,4 +64,4 @@ I initially started designing these for holidays and family gatherings, and I ne
 
 {{% /section-foldable %}}
 
-
+{{% /double-view %}}

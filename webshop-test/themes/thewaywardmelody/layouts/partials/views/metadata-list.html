@@ -1,0 +1,11 @@
+{{ $all_metadata := slice }}
+{{ range $key, $val := .Site.Taxonomies }}
+  {{ $all_metadata = $all_metadata | append $key }}
+{{ end }}
+{{ $relevant_metadata := or .Params.metadataRelevant $all_metadata }}
+{{ $context := . }}
+<div class="flex flex-wrap flex-center gap-xs padding-xs">
+    {{ range $relevant_metadata }}
+        {{ partial "views/metadata-item" (dict "context" $context "key" .) }}
+    {{ end }}
+</div>

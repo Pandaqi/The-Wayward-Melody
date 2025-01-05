@@ -1,0 +1,10 @@
+{{ $is_section := .IsSection }}
+
+<div class="height-ml">
+{{ $src := or .Params.image "https://picsum.photos/1280/720" }}
+{{ $alt := printf "Banner Image for Article: %s" .Title }}
+{{ if $is_section }}{{ $alt = printf "Banner Image for Category/Section: %s" .Title }}{{ end }}
+<div class="maximize-height background-cover fade-to-bg" style="background:linear-gradient(to bottom, transparent, var(--color-dark-xx)), url({{ $src }}); background-size: cover;" title="{{ $alt }}">
+    <h1 class="font-size-xxl margin-none text-shadow">{{ .Title }}</h1>
+</div>
+</div>

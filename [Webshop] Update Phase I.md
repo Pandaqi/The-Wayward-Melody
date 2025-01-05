@@ -2,26 +2,23 @@
 
 # HUGO/Design
 
-* [#1] Create a side-view for products. (Image on left, title + metadata + buy button on right, any further details go below)
-  * Which, as usual, goes BELOW on small screens
-  * Find clean layout to also use images/graphics for section pages (to make them look less barebones)
-* [#2] Figure out metadata: what to use, how to display, etcetera + allow a good "search by metadata" bit on all root sections (NOT bundle subsections)
-  * Use icons for all + an "explainer/tooltip" when hovering over them
-  * HERE'S AN IDEA: We have the metadata tags/cloud on all pages, just listing ALL of them. But within a section page, I can set "Params" for which tags are (most) relevant for this section. Then only those get selected/highlighted.
+* METADATA 
+  * Create "metadata-navigation.html" 
+  * It actually lists all _options_ per type, but only of those highlighted/relevant.
+  * Add this as a shortcode to the "left" side of Section double view.
+    * Which necessitates that we stop using our current `left` approach and simply wrap the components inside another `double-view-item` shortcode
+    * Remove "any questions?" part
+* TERMS PAGES
+  * Actually create the layout for that.
+  * Read icon + desc ( + name) from the same data.toml
+* Create a UNIQUE layout for front page/landing page => then use smaller version of header on all other pages?
+* ART & MEDIA: write text and FAQ
 
 * [Need Tablet] 
   * Try fairy tale decorations around headers + fairy tale border-image decorations around boxes?
+  * Create metadata icons => then use
   * Create custom images cart + user account + shop icon/logo (+ anything else I might need)
-* (Can I do that "multiple photos randomly rotated behind it"-trick, like in Hasty Accusations, automatically?)
-* (Create a UNIQUE layout for front page/landing page => then use smaller version of header on all other pages?) 
-* (Add the usual "credits" in footer? Links to all my other websites?)
-* (Style bundle buttons + calculate total price somehow?)
-* Try other font combos
 
-QUESTION: Now I don't really have clear categories for MUSIC or BOOKS or whatever? Maybe rearrange/shuffle everything to allow this easily?
-* Activities => Just move those into Escape/Quiz/Educational/Fun Frontier
-* Media/Art/"Stories & Melodies" => Stories, Music, Illustration?
-* NOT SURE, because I don't want to just duplicate loads of information left and right about the same projects ...
 
 ## API
 
@@ -45,6 +42,7 @@ QUESTION: Now I don't really have clear categories for MUSIC or BOOKS or whateve
 
 ## Finishing Touches (Optional)
 
+* Try other font combos
 * Snipcart Theming => only colors are easy to change. I'd prefer having access to fonts and stuff too, but that's messy ...
 * Any other sanity checks for ALL products in the HUGO/API system?
 

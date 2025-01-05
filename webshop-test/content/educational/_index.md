@@ -2,7 +2,7 @@
 title: "Educational"
 ---
 
-Check out all the **educational materials and activities** this webshop has to offer! From simple worksheets, to puzzles, to coloring pages. Check out the [Fun Frontier](/fun-frontier/) for educational _games_ instead. Check out [Trivia](/trivia/) for educational _quizzes_ instead.
+{{% double-view left="Check out all the **educational materials and activities** this webshop has to offer! From simple worksheets, to puzzles, to coloring pages. Check out the [Fun Frontier](/fun-frontier/) for educational _games_ instead. Check out [Trivia](/trivia/) for educational _quizzes_ instead." %}}
 
 ## Any Questions?
 
@@ -29,3 +29,5 @@ In many cases, you can give them to your kid/pupil to enjoy on their own. But we
 You don't need a special license or permission for anything. You bought the experience---it's yours to experience it as you wish.
 
 {{% /section-foldable %}}
+
+{{% /double-view %}}

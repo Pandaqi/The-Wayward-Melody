@@ -1,28 +1,39 @@
 {{ define "main" }}
 
-<h1 class="font-size-xxl">{{ .Title }}</h1>
-<main class="text-reader margin-m limit-width-m block-align-center">
+{{ partial "views/banner-image" . }}
+
+{{ $is_bundle := or .Params.bundle false }}
+{{ $product_ids := .Params.productsBundled }}
+{{ $limit_width := $is_bundle }}
+<main class="text-reader margin-m block-align-center {{ if $limit_width }}limit-width-m{{ end }}">
     {{ .Content }}
 </main>
 
 <!--- If page params specify custom product IDs, select THOSE pages instead --->
-{{ $is_bundle := or .Params.bundle false }}
-{{ $product_ids := .Params.productsBundled }}
 <!--- It's cleaner to only set the PAGES on the context passed through if we actually want to change it; setting an empty slice to mean "ignore/undefined" is bad, because that might be exactly how we want to change it --->
 {{ $ctx := dict "context" . }}
+{{ $pages := where .Pages "Type" "product" }}
 {{ if and $is_bundle $product_ids }}
-    {{ $pages := where .Site.Pages "Params.id" "in" $product_ids }}
+    {{ $pages = where .Site.Pages "Params.id" "in" $product_ids }}
     {{ $ctx = merge $ctx (dict "pages" $pages) }}
 {{ end }}
 
 <!--- Show the big button to add/remove them all --->
 {{ if $is_bundle }}
-    <button class="product-bundle-add button-m">Add Bundle to Cart</button>
-    <button class="product-bundle-remove button-m">Remove Bundle from Cart</button>
+{{ $total_price := 0 }}
+{{ range $pages }}
+    {{ $total_price = add $total_price .Params.price }}
+{{ end }}
+<div class="limit-width-m padding-s block-align-center">
+    <button class="product-bundle-add button button-size-m">Add Bundle to Cart (&euro;{{ lang.FormatNumberCustom 2 $total_price }})</button>
+    <button class="product-bundle-remove button button-size-m">Remove Bundle from Cart</button>
+</div>
 {{ end }}
 
 <!--- Display all products inside section/bundle/whatever --->
-<h2>Latest Products</h2>
+{{ $heading := "Latest Products" }}
+{{ if $is_bundle }}{{ $heading = "Products in Bundle" }}{{ end }}
+<h2>{{ $heading }}</h2>
 {{ partial "products/product-list" $ctx }}
 
 <h2>Search by Property</h2>

@@ -258,7 +258,7 @@ $font-family-accent: "Signika Negative";
         --color-dark-xx: oklch(15% 0.02 225);
     }
 
-    .theme-activities
+    .theme-art-media
     {
         --color-light-xx: oklch(90% 0.02 270);
         --color-light-x: oklch(75% 0.05 270);
@@ -384,6 +384,10 @@ $font-family-accent: "Signika Negative";
         text-align: right;
     }
 
+    .text-shadow {
+        text-shadow: -$size-xxs $size-xxs var(--color-dark-x);
+    }
+
     // Colors
     .bg-color-accent-contrast {
         background-color: var(--color-accent-contrast);
@@ -395,6 +399,10 @@ $font-family-accent: "Signika Negative";
 
     .bg-color-dark-x {
         background-color: var(--color-dark-x);
+    }
+
+    .bg-color-mid {
+        background-color: var(--color-mid);
     }
 
     .bg-color-light-xx {
@@ -410,6 +418,10 @@ $font-family-accent: "Signika Negative";
     }
 
     // Corners
+    .rounded-xs {
+        border-radius: $size-xs;
+    }
+    
     .rounded-s {
         border-radius: $size-s;
     }
@@ -421,6 +433,14 @@ $font-family-accent: "Signika Negative";
     // Lengths & Sizes
     .padding-none {
         padding: 0;
+    }
+
+    .padding-xxs {
+        padding: $size-xxs;
+    }
+
+    .padding-xs {
+        padding: $size-xs;
     }
 
     .padding-s {
@@ -479,6 +499,25 @@ $font-family-accent: "Signika Negative";
         max-height: $size-s * 10;
     }
 
+    .height-m {
+        height: $size-m * 10;
+        max-height: $size-m * 10;
+    }
+
+    .height-ml {
+        height: $size-m * 15;
+        max-height: $size-m * 15;
+    }
+
+    .height-l {
+        height: $size-l * 10;
+        max-height: $size-l * 10;
+    }
+
+    .maximize-height {
+        height: 100%;
+    }
+
     .maximize-width {
         width: 100%;
     }
@@ -495,6 +534,19 @@ $font-family-accent: "Signika Negative";
         max-width: $viewport-l;
     }
 
+    .limit-width-xl {
+        max-width: $viewport-xl;
+    }
+
+    // Background
+    .background-cover {
+        background-size: cover;
+        background-position: center center;
+    }
+
+    .fade-to-bg {
+        background: linear-gradient(to bottom, transparent, var(--color-dark-xx));
+    }
 
     // Layout
     .flex {
@@ -523,9 +575,25 @@ $font-family-accent: "Signika Negative";
         }
     }
 
+    // Display
+    .display-block {
+        display: block;
+    }
+
     // Alignment & Positioning
     .position-absolute {
         position: absolute;
+    }
+
+    .position-relative {
+        position: relative;
+    }
+
+    .padding-absolute-s {
+        left: $size-s;
+        right: $size-s;
+        top: $size-s;
+        bottom: $size-s;
     }
 
     .anchor-top-right {
@@ -557,6 +625,10 @@ $font-family-accent: "Signika Negative";
                 list-style-type: none;
             }
         }
+    }
+
+    .underline {
+        text-decoration: underline;
     }
     
     // Animations & Transitions
