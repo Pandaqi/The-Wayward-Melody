@@ -44,7 +44,7 @@ As it so often does. I had to take a break, find replacements and a new setup, a
 I'm not even frustrated or surprised anymore. It's just ... "oh well, happened again, let's just get back to work as quickly as possible".
 {{% /remark %}}
 
-**Could it be BOARD GAMES?** Yes, there are a few websites that sell print-n-play board games, but they're extremely rare. This is an untapped market ... mostly because of how few buyers there are. Board games have the downside of requiring _other people_, and requiring that they are _playtested to work with almost any group_. I am hesitant to sell a board game when I can barely playtest it myself, and buyers are hesitant to buy a game if they don't know they have anyone to play it with.
+**Could it be BOARD GAMES?** Yes, there are a few websites that sell print-n-play board games, but they're extremely rare. This is an untapped market ... mostly because of how few buyers there are. Board games have the downside of requiring _other people_, and requiring that they are _playtested to work with almost any group_. I am hesitant to sell a board game when I can barely playtest it myself, and buyers are hesitant to buy a game if they don't know (for sure) they have anyone to play it with.
 
 As such, I just don't see a way. The number of board games that I think I could sell is not high. (That is, I've tested them enough to be _sure_ they work for most player groups, and they're accessible or appealing to most buyers.) Turning a website where all games are free (and generated on the fly) into one where only a select few cost a lot of money ... feels weird and unproductive. Even the most famous game designers, who have muliple world-wide physical releases a year, aren't guaranteed a living wage.
 
@@ -58,7 +58,7 @@ This hasn't earned me a lot of money. But it's a _reproducible, consistent incom
 
 Hopefully you see the theme here. There are many income streams, but they're all trickles. Could barely pay rent for a month with what I earn, everything combined, in a year. Precisely _because_ I lack money/support/a proper living space, the most promising ones have been closed off to me for a while.
 
-Therefore, the next realization was that, at least for my kind of work, traditional stores or means of monetizing it just weren't ideal. I could still leave my books in other stores, of course, but I can also sell ebooks for more "nice projects" myself on the webshop. I could still put my music on all streaming services, but one-off songs or musical experiments can be on my webshop.
+Therefore, the next realization was that, at least for my kind of work, traditional stores or means of monetizing it just weren't ideal. I could still leave my books in other stores, of course, but I can also sell ebooks for more "niche projects" myself on the webshop. I could still put my music on all streaming services, but one-off songs or musical experiments or demos can be on my webshop.
 
 In other words,
 
@@ -158,7 +158,11 @@ And there we have it! After years of sketching webshop plans, once in a blue moo
 
 There are many reputable "print-on-demand" merchandise providers. This means there is no upfront cost for me, while I can get experience selling things online and running that sort of business. It means I can slowly try out what looks good, what works, how to create proper merchandise, without much risk.
 
-As such, **step 1**: create a good collection of merchandise and try to make it work. I gave myself a "runway" of about 6 months for this. The provider I ended up choosing was @TODO: NAME AND LINK + SHORT EXPLANATION AND REMARKS ABOUT IT
+As such, **step 1**: create a good collection of merchandise and try to make it work. I gave myself a "runway" of about 6 months for this. I realized I still had my [old Dutch domain](https://nietdathetuitmaakt.nl) (that used to host this blog years ago), so I repurposed it quickly into a "test webshop". Or, rather, a playground where I could learn all about how to sell merchandise and run an online store with no strings attached.
+
+I simply used existing free systems for this, which allowed me to get it running in a day or two. Behind the scenes, I tried a handful of different POD platforms, dropping the ones that seemed least suitable or trustworthy in the end. More articles about _this_ specific adventure will appear in the near future.
+
+The idea here, to summarize, was simply to gain experience making products and selling them online. I didn't actually expect this specific web shop to do well or stay around long. But it _is_ a full-fledged store that, within just a few weeks, taught me _so much_ about ecommerce (without losing money).
 
 Then, **step 2**: create a proper full-fledged webshop to sell source files, bonuses/extras, new work (such as those "escape rooms"). Ideally, tie this into the merchandise to make it a single system. Put this webshop _on top_ of the existing websites, wherever relevant.
 
@@ -183,6 +187,19 @@ With this setup, I felt I gave it my best shot. I felt I had something _sustaina
 
 I have written a [seperate in-depth article](@TODO: Link) explaining exactly how I implemented the systems, connected the APIs, and whatever else I needed to do or learn to get this working.
 
+A major revelation (or "forced change", I guess) from that article is that I had to **drop the idea of running multiple webshops from one entry point**. Once I actually learned how to configure everything behind the scenes, I quickly saw this was simply impossible. For example, to be "verified" (as a trustworthy seller and handler of financial information), they require your shop to have only a single domain. And they periodically check if it fits your description and their policies. It's simply _not possible_ to assign multiple domain names to a single online store profile.
+
+In other words, 
+
+* I could either create _5 separate webshops_ that just happen to _look and function identically_
+* Or I could just create _1 webshop_ (a new and unique domain, which is ONLY the webshop and nothing else) and have all my existing websites _dynamically link to it_
+
+After some consideration, that second option actually turned out better than my original plan. The entire online store is hosted on one domain, which makes it nice, streamlined and self-contained. But all the other websites of mine get a nice "widget" that can link to those products from my web shop. 
+
+For example, when you visit the official page for a book of mine, I can let that widget display a few _products_ you can buy related to that series. Perhaps merchandise with its logo/characters, perhaps some spin-off ebook, etcetera. This data is simply pulled straight from the web shop. Which I can do, because I own it and know the exact structure and tags of each product page. All I need to do, to create that widget, is manually give it the URL of related products to promote. On the fly, as you visit the page, it grabs whatever is at that URL and displays the product image, title, price, etcetera.
+
+This breaks my promise (to myself) that I would never have more than 5 websites. But the advantages of this system are simply too great. And that one online store would be _the_ online store, so I don't imagine ever opening more than one.
+
 ## My views on monetization
 
 Through all this, I had to repeatedly ask myself the same question. The one I've been asking myself basically since I learned the concept of money and capitalism.
@@ -191,7 +208,7 @@ Through all this, I had to repeatedly ask myself the same question. The one I've
 
 More and more, I realized there are some clear lines here. For me, at least.
 
-I **will never** put knowledge, solutions, and practical or essential information behind a paywall. If I know how to do something, I will write articles/tutorials/guides explaining others how to do it. Knowledge should be shared. If a problem has a known solution, it's an incredible waste of time, energy, and yes, even money, to force thousands of others to re-discover the solution. (Or, worse still, to never get that solution at all and succumb to a solveable problem.)
+I **will never** put knowledge, solutions, and practical or essential information behind a paywall. If I know how to do something, I will write articles/tutorials/guides explaining to others how to do it. Knowledge should be shared. If a problem has a known solution, it's an incredible waste of time, energy, and yes, even money, to force thousands of others to re-discover the solution. (Or, worse still, to never get that solution at all and succumb to a solveable problem.)
 
 That's why I write articles like these. They will never be behind a subscription, there are no ads, there is not even a hint of monetization going on here. That's why my guide about how to work with the APIs of webshop services---which I learned through hours and hours of trial and error, as nobody else is fucking giving any of that information away---is open and accessible to all.
 
@@ -207,9 +224,9 @@ And that's how I, eventually, after some weird detours and missteps, ended where
 
 I will always keep giving away knowledge, help, solutions to problems, etcetera. Not just "for free". I have always tried to make my work _open source_, to write devlogs/diaries that reveal more about what I did, to make it _accessible_ even to those with terrible computers or internet. (Which includes, you know, _me_.)
 
-But all the extra treats that I make in a year---escape rooms, illustrations, stories, merchandise designs, etcetera---will be sold through my webshop(s). Hopefully, this will earn my a sustainable income.
+But all the extra treats that I make in a year---escape rooms, illustrations, stories, merchandise designs, etcetera---will be sold through my webshop(s). Hopefully, this will earn a sustainable income.
 
-Even so, I hope to always stay minimalist. Be smarter and more creative, instead of just throwing money at a problem. That's why I worked hard to keep my websites as small as possible, to host them for basically free, to connect all systems into a single unified dashboard, to have them all the same streamlined set of systems. In doing so, I don't necessarily "make" money, but I "prevent losing money on stupid stuff".
+Even so, I hope to always stay minimalist. Be smarter and more creative, instead of just throwing money at a problem. That's why I worked hard to keep my websites as small as possible, to host them for basically free, to connect all systems into a single unified dashboard, to have them all be the same streamlined set of systems. In doing so, I don't necessarily "make" money, but I "prevent losing money on stupid stuff".
 
 Am I stupid? Maybe. There's definitely a case that you're "smarter" if you do your best to earn more money and get yourself in a position of more comfort and more power. (And better hardware!) But it's only "smarter" if you look at your _personal short-term benefits_. I have the curse of having a hyperactive brain that automatically thinks long-term, thinks in systems, thinks about all perspectives instead of just my own. And when that happens, there is no way you can see "earning money whatever the cost" as a good thing. Ever.
 
@@ -227,13 +244,11 @@ As a reminder, this is what I discussed in this article (and what my webshops lo
 
 * I use Snipcart to easily attach a webshop component on top of _any_ of my static websites.
   * This literally comes down to adding their JavaScript code and using the right HTML tags when defining products on my website.
-* Using a simple serverless function, I connect it with Printify's print-on-demand API, so that physical orders are automatically processed too.
-  * It's crucial to ensure you actually received Payment through Snipcart first. Because Printify will just create _any_ order it receives, and then ask you to cover its costs. If you let people place orders without paying, if there's any loophole there, you will lose a lot of money.
+  * After only a day or two, I had the entire webshop thing _working nearly 100%_. It was far easier to achieve this ideal setup than I thought, though the project was obviously in an ugly and empty state at that moment.
+* Snipcart handles storing/downloading digital files. Without any overhead or work from my side, I can instantly sell that work for whatever price I want.
+* Using a simple serverless function, I connect Snipcart with a print-on-demand API, so that physical orders are automatically processed too.
+  * It's crucial to ensure you actually received Payment through Snipcart first. Because those platforms will just create _any_ order they receive, and then ask you to cover its costs. If you let people place orders without paying, if there's any loophole there, you will lose a lot of money.
 * I only pay for Snipcart (as soon as you make any reasonable profit, this is basically nothing). And possibly any "over-the-limit" runs of that serverless function. (Even so, if you have 500,000 API calls a day, you're selling more than enough to pay for a more premium hosting plan :p)
-* There isn't a single webshop for everything. Instead, because I chose this structure, I can attach a webshop component to several websites at the same time.
-  * I was in doubt about this, to be honest, for a long time. Two things made me pull the trigger.
-  * 1) After only a day, I had the entire webshop thing _working nearly 100%_. It was far easier to achieve the multi-webshop, one-entrypoint dream than I thought.
-  * 2) I could now add _direct_ links to shop elements on the official pages of projects. It's far faster (and more trustworthy) to sell book-related merchandise, for example, on the same website where I sell my books. To be able to show "hey this is a book I wrote", and then natively show a grid of "here's related merchandise" underneath.
 * With my webshops, I ...
   * Sell _new_ creations of mine (such as the escape rooms I started making), which are mostly digital goods. Work that has been online for free so far, will likely always stay that way.
   * Sell _the unreleased things_ (such as source files, different in-progress versions of something). You can often view these as "bonus content" on top of something more easily accessible or sold through regular bookstores.
@@ -241,7 +256,7 @@ As a reminder, this is what I discussed in this article (and what my webshops lo
 
 In truth, the actual webshop component was the easiest part. Over the years, I'd researched my options well. My vast experience with websites and programming allowed me to integrate it all in basically a day.
 
-The hard part was making the choices on _what to actually sell/do_ (beforehand), and _how to design and present these products cleanly_ (afterwards). I spent the most time trying different visual designs that looked clean and professional, while fitting with that specific website. I also tried a few different ways to input the products (and their metadata such as price or which digital file is attached) on my website.
+The hard part was making the choices on _what to actually sell/do_ (beforehand), and _how to design and present these products cleanly_ (afterwards). I spent the most time trying different visual designs that looked clean and professional, while fitting with that specific website. I also tried a few different ways to input the products (and their metadata such as price or which digital file is attached) on my website. I will likely publish another article with all my doubts, indecision and struggles trying to make hard decisions about what to sell and how to monetize it. Because it was reaaaally hard.
 
 This article was written as I just finished setting this up. I have no statistics or experience, as of this moment, about if I'm actually _selling_ or how _successful_ this is. Once I have that experience, in 6 or 12 months, I will surely write more articles.
 

@@ -13,3 +13,15 @@ All product descriptions **rhyme**. (They are short, personal, distinct and writ
 * (Educational Activity) "The headmaster of the School of Gamery and Funcraft has conjured up a new activity. A puzzle to solve, for ages young and maybe old, with a certain language proclivity. Print the pages, explain the rules, and every sorcerer has fun---while learning too!"
 
 Of course, don't forget LAWS 0, 1, 2 and 3 described on the about page.
+
+## Design
+
+@TODO: Write a bit more specific specs about this
+
+
+PROMPTS FOR HEADER IMAGE GENERATION:
+* Watercolor, dreamy, fantastical painting of a line of sheet music melody notes, glowing, dancing around XXXX
+  * Example for aeronaut: a hot air balloon in the shape of pig
+* URL: https://deepai.org/machine-learning-model/watercolor-painting-generator
+* HD Model, Quality > Speed
+* UGH THEY ALREADY DISABLED THE WIDESCREEN THING I USED FOR ALL THE OTHERS!
