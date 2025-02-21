@@ -1,12 +1,14 @@
 ---
-title: "Educational"
+title: "Teachers"
 ---
 
 {{% double-view %}}
 
 {{% double-view-item %}}
 
-Check out all the **educational materials and activities** this webshop has to offer! From simple worksheets, to puzzles, to coloring pages. Check out the [Fun Frontier](/fun-frontier/) for educational _games_ instead. Check out [Trivia](/trivia/) for educational _quizzes_ instead.
+Check out all the **educational materials and activities** this webshop has to offer! Use them at home or in the classroom to teach first understanding of a topic, aided by some simple exercises or challenges. Check out the [Curriculum](/info/curriculum/) page to see the age range attached to every "level" of our material, as well as the topics covered in that level.
+
+Check out the [Gamiverses](/gamiverses/) for educational _games_ instead. Check out [Quizmasters](/quizmasters/) for educational _quizzes_ instead.
 
 {{< metadata-navigation >}}
 

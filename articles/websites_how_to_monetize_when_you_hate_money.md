@@ -245,11 +245,18 @@ Only it's on paper, and you play by writing on it.
 
 This sidesteps the issue of needing more players. (The games _can_ support more, of course, but they're solo games first and foremost.) This allows keeping the games very tiny, with minimal cutting or preparing.
 
+Additionally, I invented the _One Paper Games_ some time ago. I can reuse the lessons learned and make more of them, albeit more geared towards _solo experiences_, to fill out the offerings nicely. (I've had several great ideas for OPGs for some time, but never made them _because_ I didn't want to create one just for single player or two players.)
+
+My experience tells me that I should sort such projects based on complexity. How hard is it to write the code to generate puzzles? How many elements do I need to draw in each puzzle? How "uncertain" is the idea (i.e. a few rules I don't like yet, not as interesting and needs some extra spice, etc)?
+
+After sorting the ideas, I simply start with the one that is most certain, that I know how to code, that only needs to draw, say, some numbers or rectangles in the puzzle. And then we go down the list.
+
 I felt comfortable selling these experiences because ...
 
 * Being solo games, I can actually extensively playtest them _myself_. (The biggest issue with all my other games is that they are barely tested by others, sometimes not at all, because I just can't make it happen.)
 * My experience creating 100+ games, as well as inventing things like One Paper Games (which are basically a blown-up version of this, adding an entire game onto one paper), gives me the expertise to do this with sufficient quality.
 * For a very low price, you might get a _hundred_ hours of playtime out of these things. A great deal, especially compared to a quiz you can only play once, for example.
+* _This is hard._ It takes significant effort and experimentation to come up with new Sudoku-style puzzles, and especially ones that are more thematic and that support "expansions" or "variants" too. That's why I feel selling this is worth it and it can't be easily replicated by others.
 
 ### Sneakpeeks
 

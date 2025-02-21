@@ -1,12 +1,14 @@
 ---
-title: "Escape Rooms"
+title: "Runaways"
 ---
 
 {{% double-view %}}
 
 {{% double-view-item %}}
 
-Check out our **printable escape room** experiences! Download a PDF, cut a few pages, and you can already play. All you need is a _printer_, _paper_, _scissors_, and a bunch of _Wizards of Wisdom_ to solve all the puzzles.
+Check out our **printable escape room** experiences! These are also sometimes called "escape kits" or "puzzle kits".
+
+Download a PDF, cut a few pages, and you can already play. All you need is a _printer_, _paper_, _scissors_, and a bunch of _Wizards of Wisdom_ to solve all the puzzles.
 
 {{< metadata-navigation >}}
 

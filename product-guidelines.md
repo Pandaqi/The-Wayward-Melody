@@ -118,6 +118,13 @@ The stuff below MIGHT move to FUN FRONTIER instead.
 
 Contains **small Solo games, One-Paper-Game-like**. Sudoku-like things. Paper Apps Golf.
 
+Priority,
+
+* Sort these by complexity, uncertainty, and expected appeal/cool factor.
+* Then start at top of list.
+
+
+
 Also contains **extra material** for Fun Frontier.
 * The BASE GAME for "Explorers of the Fun Frontier" is free, but expansions/other material is sold.
 * And then add: "Can't afford the expansions or extra material for this specific game? Don't worry. Send me an email, and I'll give them to you, no questions asked. I only ask money from those who _can_ afford it, to put food on my table, but I'm not interested in paywalling education or gaming."
@@ -127,6 +134,8 @@ Also contains **extra material** for Fun Frontier.
 @SOURCES:
 * A great example to inspire me: [Gladden Design; Paper Apps](https://gladdendesign.com/collections/paper-apps)
   * Watch his YouTube videos to learn how they all work in practice.
+
+
 
 ## Art & Media
 

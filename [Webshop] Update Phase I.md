@@ -5,6 +5,7 @@
 * ADD THE ICONS/BORDERS/EYE CANDY FROM TABLET (see below)
 * Create a UNIQUE layout for front page/landing page
   * Major header image + welcome message
+  * SHOW THE "PHILOSOPHY" or "FUNNEL"?
   * Some of those random "stats" or "advantages" or "reviews" => though make them clearly tongue-in-cheek, fitting with the Lore of the webshop?
   * Direct links to MAIN CATEGORIES.
   * Direct links to LATEST/BESTSELLING PRODUCTS.
@@ -139,22 +140,3 @@ POSSIBLE WAYWARD HEADER IMPROVEMENTS:
   * Also icons for main categories?
   * Or just to stow away in some corner once---be SUBTLE---use that "dream catcher" and "melody line" motif!
   * Shop logo (name logo/banner in different dimensions)
-
-
-## The Wayward Melody (the actual webshop domain)
-
-All different categories have text files within their own subfolders.
-
-* `escape-rooms` (might become `escape-kits`)
-* `trivia`
-* `educational` 
-* `art-media`
-* `merchandise`
-* `sneakpeeks`
-* (`fun-frontier` for expansion packs and stuff for THAT project => remove at launch?)
-
-These _potentially_ have more subfolders, for example when many pub quizzes have the same general theme. This merely changes the URL for linking from another website, while requiring no other change, so that's fine. By setting `bundle:true` in Params, we can actually allow you to buy the full bundle at once if we want.
-
-These subfolders are treated as their own "index" page (with `_index.md`), so we can explain the specific rules and stuff for _that_ category. That's how we get unique landing pages for different things.
-
-Actual tags/categories are used to link things belonging to the same general franchise or type of good. (Such as different merchandise items and bonus material all labeled "wildebyte-arcades".)

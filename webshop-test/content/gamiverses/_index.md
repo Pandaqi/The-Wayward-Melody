@@ -1,5 +1,5 @@
 ---
-title: "Fun Frontier"
+title: "Gamiverses"
 ---
 
 {{% double-view %}}

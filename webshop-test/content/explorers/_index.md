@@ -1,12 +1,14 @@
 ---
-title: "Art & Media"
+title: "Explorers"
 ---
 
 {{% double-view %}}
 
 {{% double-view-item %}}
 
-Check out all the **art and media (content)** we offer! This includes projects in all possible creative categories, from stories, to music, to visual art. Most of these are sold in the webshop because they didn't fit any of the traditional sales channels. It also includes more raw, prototype, or simply as of yet unreleased art.
+Check out all the **art and media (content)** we offer! Get inspired. Get curious. Feel alive. 
+
+This includes projects in all possible creative categories, from stories, to music, to visual art. Most of these are sold in the webshop because they didn't fit any of the traditional sales channels. It also includes more raw, prototype, or simply as of yet unreleased art.
 
 {{< metadata-navigation >}}
 

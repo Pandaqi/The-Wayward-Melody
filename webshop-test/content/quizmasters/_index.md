@@ -1,12 +1,14 @@
 ---
-title: "Trivia"
+title: "Quizmasters"
 ---
 
 {{% double-view %}}
 
 {{% double-view-item %}}
 
-Check out our **(pub) quizzes** and other **trivia experiences**! Use them for a fun night with your friends. Use them to teach your kids about a topic while having fun. Or use them for a big event at your local pub.
+Check out our **trivia experiences**! These include pub quizzes, educational quizzes, and general trivia games. 
+
+Use them for a fun night with your friends. Use them to teach your kids about a topic while having fun. Or use them for a big event at your local pub.
 
 {{< metadata-navigation >}}
 
