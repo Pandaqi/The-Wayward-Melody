@@ -1,34 +1,48 @@
-{{ $valid_product_url := or (or .Permalink .Params.product_url) "/" }}
 {{ $max_quantity := 50 }}
-{{ $merchandise_product_sku := or .Params.productSku "" }}
-{{ $is_shippable := (ne $merchandise_product_sku "") }}
-{{ $categories_list := or .Params.categories slice }}
-{{ if $is_shippable }}
-    {{ $categories_list = $categories_list | append "merchandise" }}
-{{ end }}
+{{ $is_shippable := .physical }}
+{{ $categories_list := .categories }}
+{{ if $is_shippable }}{{ $categories_list = $categories_list | append "merchandise" }}{{ end }}
 {{ $categories := delimit $categories_list "|" }}
-{{ $image := or .Params.image "https://picsum.photos/500/386" }}
+{{ $shipping_zones := delimit .shipping "|" }}
+{{ $size := split (or .size "") "|" }}
 <div>
-    <button class="snipcart-add-item button button-size-m bg-color-accent-contrast" 
-        data-item-id="{{ .Params.id }}" data-item-name="{{ .Params.title }}"
-        data-item-price="{{ .Params.price }}" 
-        {{ with .Params.file }} data-item-file-guid="{{ . }}" {{ end }}
-        data-item-image="{{ $image }}"
-        data-item-url="{{ $valid_product_url }}"
+    <button id="{{ .sku }}"
+        class="snipcart-add-item button button-size-m border-image-m border-image-black bg-color-accent-contrast" 
+        data-item-id="{{ .sku }}" data-item-name="{{ .name }}"
+        data-item-price="{{ .price }}" 
+        {{ with .file }} data-item-file-guid="{{ . }}" {{ end }}
+        data-item-image="{{ .image }}"
+        data-item-url="{{ .url }}"
         data-item-max-quantity="{{ $max_quantity }}"
         data-item-shippable="{{ $is_shippable }}"
         {{ with $categories }} data-item-categories="{{ . }}" {{ end }}
-        {{ with $merchandise_product_sku }}
-        data-item-custom1-name="productSku"
+        {{ with .weight }}
+        data-item-weight="{{ . }}"
+        {{ end }}
+        {{ if gt (len $size) 0 }}
+        data-item-width="{{ index $size 0 }}"
+        data-item-height="{{ index $size 1 }}"
+        data-item-length="{{ index $size 2 }}"
+        {{ end }}
+        {{ with .sku }}
+        data-item-sku="{{ . }}"
+        data-item-custom1-name="sku"
         data-item-custom1-type="hidden"
         data-item-custom1-value="{{ . }}"
         {{ end }}
-        {{ with .Params.productPlatform }}
-        data-item-custom2-name="productPlatform"
+        {{ with .platform }}
+        data-item-platform="{{ . }}"
+        data-item-custom2-name="platform"
         data-item-custom2-type="hidden"
         data-item-custom2-value="{{ . }}"
         {{ end }}
+        {{ with $shipping_zones }}
+        data-item-shipping-zones="{{ . }}"
+        data-item-custom3-name="zones"
+        data-item-custom3-type="hidden"
+        data-item-custom3-value="{{ . }}"
+        {{ end }}
         data-item-description="{{ .Params.description | markdownify }}">
-        Add To Cart (&euro;{{ .Params.price }})
+        Add To Cart ({{ .price }})
     </button>
 </div>

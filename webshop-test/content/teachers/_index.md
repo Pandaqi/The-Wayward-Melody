@@ -1,5 +1,6 @@
 ---
 title: "Teachers"
+banners: ["banner_educational_1", "banner_educational_2", "banner_educational_3", "banner_educational_4", "banner_educational_5", "banner_educational_6", "banner_educational_7", "banner_educational_8", "banner_educational_9", "banner_educational_10", "banner_educational_11", "banner_educational_12", "banner_educational_13", "banner_educational_14", "banner_educational_15"]
 ---
 
 {{% double-view %}}

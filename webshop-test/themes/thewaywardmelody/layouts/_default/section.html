@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "views/banner-image" . }}
+{{ partial "views/banner-image" (dict "context" .) }}
 
 {{ $is_bundle := or .Params.bundle false }}
 {{ $product_ids := .Params.productsBundled }}
@@ -35,6 +35,7 @@
 {{ if $is_bundle }}{{ $heading = "Products in Bundle" }}{{ end }}
 <h2>{{ $heading }}</h2>
 {{ partial "products/product-list" $ctx }}
+{{ partial "navigation/pagination" $ctx }}
 {{ end }}
 
 

@@ -1,10 +1,10 @@
 {{ $header := or (.Get "header") "Error: no question?" }}
 {{ $content := or .InnerDeindent "Error: no answer?" }}
-<div class="section-foldable margin-vertical-s" data-folded="false">
+<div class="section-foldable margin-vertical-s background-image" data-folded="false">
 <div class="section-foldable-header bg-color-dark-x padding-s rounded-s hover_brighten hover_pointer">
-<h3 class="margin-none font-accent">{{- $header -}}</h3>
+<h3 class="margin-none font-accent text-shadow-dark">{{- $header -}}</h3>
 </div>
-<div class="section-foldable-content bg-color-light-xx padding-s rounded-xs margin-s text-color-dark-xx color-links-inverted">
+<div class="section-foldable-content bg-color-light-xx padding-s rounded-xs margin-s text-color-dark-xx color-links-inverted collapse-paragraph-margin">
 {{- $content | markdownify -}}
 </div>
 </div>

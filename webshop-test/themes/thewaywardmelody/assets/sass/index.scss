@@ -1,7 +1,7 @@
+@use "sass:math";
 @layer base, bundles, modules;
 
 // Font Files
-
 $font-family-heading: "Gloria";
 $font-family-body: "Lora";
 $font-family-accent: "Signika Negative";
@@ -75,6 +75,7 @@ $color-dark-x: oklch(44.63% 0.0166 207.84);
 $color-dark-xx: oklch(33.28% 0.0166 207.84);
 */
 
+$size-xxxs: 0.1rem;
 $size-xxs: 0.15rem;
 $size-xs: 0.4rem;
 $size-s: 0.66rem;
@@ -94,7 +95,8 @@ $viewport-l: 960px;
 $viewport-xl: 1280px;
 
 // Mixins
-@mixin hover_sidearrows {
+@mixin hover_sidearrows 
+{
     &::before {
         content: "« ";
         visibility:hidden;
@@ -115,7 +117,8 @@ $viewport-xl: 1280px;
     }
 }
 
-@mixin transition-m {
+@mixin transition-m 
+{
     transition: color $dur-m, background-color $dur-m, filter $dur-m, transform $dur-m;
 }
 
@@ -227,12 +230,22 @@ $viewport-xl: 1280px;
             margin-top: $size-xl;
             margin-bottom: 0;
 
-            &::before {
-                content: "« "
+            &::before, &::after 
+            {
+                background-image: url(/css/header_decoration.webp);
+                width: 2em; // same size as header itself
+                height: 2em;
+                display: inline-block;
+                filter: invert(1); // only invert when it's on dark background
+                content: "";
+                background-size: contain;
+                margin-left: 0.25rem;
+                mix-blend-mode: overlay;
             }
 
-            &::after {
-                content: " »"
+            &::before
+            {
+                transform: scaleX(-1);
             }
         }
         
@@ -285,7 +298,7 @@ $viewport-xl: 1280px;
         --color-dark-xx: oklch(15% 0.02 90);
     }
 
-    .theme-merchandise
+    .theme-magimerchants
     {
         --color-light-xx: oklch(90% 0.02 135);
         --color-light-x: oklch(75% 0.05 135);
@@ -324,7 +337,7 @@ $viewport-xl: 1280px;
         --color-light-x: oklch(75% 0.05 270);
         --color-accent: oklch(90% 0.175 270);
         --color-accent-contrast: oklch(90% 0.175 210);
-        --color-mid: oklch(60% 0.75 270);
+        --color-mid: oklch(60% 0.75 210);
         --color-dark-x: oklch(35% 0.05 270);
         --color-dark-xx: oklch(15% 0.02 270);
     }
@@ -446,6 +459,10 @@ $viewport-xl: 1280px;
 
     .text-shadow {
         text-shadow: -$size-xxs $size-xxs var(--color-dark-x);
+    }
+
+    .text-shadow-dark {
+        text-shadow: -$size-xxxs $size-xxxs var(--color-dark-xx);
     }
 
     // Colors
@@ -608,6 +625,12 @@ $viewport-xl: 1280px;
         background: linear-gradient(to bottom, transparent, var(--color-dark-xx));
     }
 
+    .background-texture 
+    {
+        background-image: url(/css/bg_texture.webp);
+        background-blend-mode: overlay;
+    }
+
     // Layout
     .flex {
         display: flex;
@@ -694,6 +717,11 @@ $viewport-xl: 1280px;
     .underline {
         text-decoration: underline;
     }
+
+    .collapse-paragraph-margin {
+        p:first-child { margin-top: 0; }
+        p:last-child { margin-bottom: 0; }
+    }
     
     // Animations & Transitions
     .transition-m {
@@ -715,6 +743,94 @@ $viewport-xl: 1280px;
     .hover_sidearrows 
     {
         @include hover_sidearrows;
+    }
+
+    .hover_glow:hover {
+        filter: drop-shadow(0 0 0.33em white);
+    }
+
+    .hover_remove-child-rotations > div
+    {
+        transition: transform 0.25s;
+    }
+
+    .hover_remove-child-rotations:hover > div
+    {
+        transform: rotate(0deg) !important;
+    }
+
+    // Border Images
+    .border-image-m 
+    {
+        border-image-slice: 42 42 42 42;
+        border-image-width: 1.5rem;
+        border-image-outset: 0.5rem; // match this with actual sizes + padding of the item it's on => better yet, provide a few variants again! border-s, border-m, border-l
+        border-image-repeat: round round;
+        border-style: solid;
+    }
+
+    .border-image-white
+    {
+        border-image-source: url(/css/border_pattern_white.webp);
+    }
+
+    .border-image-black
+    {
+        border-image-source: url(/css/border_pattern_black.webp);
+    }
+
+    // (Metadata) Icons
+    $metadata-icons: (
+        "cart": 0,
+        "account": 1,
+        "price": 2,
+        "categories": 3,
+        "duration": 4,
+        "age": 5,
+        "difficulty": 6,
+        "setup": 7,
+        "prior-wisdom": 8,
+        "color": 9,
+        "mature": 10,
+        "textless": 11,
+        "parallel-play": 12,
+        "double-sided-allowed": 13,
+        "double-sided-required": 14,
+        "game-master": 15,
+        "game-master-can-play": 16,
+        "hybrid": 17,
+        "paper-choice": 18,
+        "linear": 19,
+        "requirements": 20,
+        "indoors": 21,
+        "outdoors": 22,
+        "language": 23,
+        "player-count": 24,
+        "reusable": 25
+    );
+
+    .metadata-icon
+    {
+        width: 1em;
+        height: 1em;
+        display: inline-block;
+        background-image: url(/css/icons.svg);
+        background-size: 800%;
+        filter: invert();
+    }
+
+    .metadata-icon-black
+    {
+        filter: none;
+    }
+
+    @each $name, $offset in $metadata-icons 
+    {
+        .metadata-icon-#{$name} 
+        {
+            background-position-x: ((-1 * $offset) % 8) * 32px;
+            background-position-y: floor($offset / 8) * 32px;
+        }
     }
 
     // Responsiveness & Viewport Resizing

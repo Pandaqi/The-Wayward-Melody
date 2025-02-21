@@ -1,14 +1,14 @@
-<header class="bg-color-dark-x text-color-light-xx font-heading padding-s font-size-m">
+<header class="bg-color-dark-x text-color-light-xx font-heading padding-s font-size-m background-texture">
     <nav>
         <!-- @NOTE: These class names MUST be present for Snipcart to recognize this as the "open cart" button --->
-        <div class="position-absolute anchor-top-right padding-s bg-color-dark-x rounded-xs">
+        <div class="position-absolute anchor-top-right padding-s bg-color-dark-x rounded-xs background-image">
             <a href="#" title="Go To Checkout" class="snipcart-checkout">
-                <span>🛒</span>
+                <div class="metadata-icon metadata-icon-black metadata-icon-cart"></div>
                 <span class="snipcart-total-price"></span>
                 (<span class="snipcart-items-count"></span> Items)
             </a><br>
             <a href="#" class="snipcart-customer-signin" title="Create/Visit Account">
-                <span>🧑</span>
+                <div class="metadata-icon metadata-icon-black metadata-icon-account"></div>
                 <span>Account</span>
             </a>
         </div>
@@ -16,7 +16,7 @@
         <!--- Main (clickable) logo and name --->
         {{ if .IsHome }}
         <a href="{{ .Site.BaseURL }}" id="header-logo" class="flex flex-center margin-s height-xs gap-s">
-            <img src="/css/icon.jpg" alt="Webshop Logo (The Wayward Melody)">
+            <img src="/css/twwm_favicon_detailed.png" alt="Webshop Logo (The Wayward Melody)">
             <h1 class="hide-m">The Wayward Melody</h1>
         </a>
         {{ end }}

@@ -6,11 +6,22 @@ id: "test-item"
 price: 29.95
 image: ""
 description: "This is a test item, wiehoo!"
-productPlatform: "printify" # printify, printful, ??
-productSku: "123TEST"
 categories: ["textless", "kid-friendly", "puzzle"]
-
 prior-wisdom: false
+
+products:
+  - name: "123"
+    sku: "123test"
+    price: 29.95
+    image: "test123.webp"
+  - name: "456"
+    sku: "456test"
+    price: 39.95
+    image: "test456.webp"
+
+details:
+  akey: avalue
+  akey2: avalue2
 
 ---
 

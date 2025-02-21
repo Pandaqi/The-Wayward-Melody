@@ -3,7 +3,7 @@
 {{- if $has_valid_value -}}
 <a class="flex flex-center remove-link-styles text-color-light-xx gap-xs font-size-s font-accent rounded-xs bg-color-mid padding-xs hover_popup transition-m" title="{{ $data.desc }}" href="{{ $data.url }}">
 {{- if .value_only -}}<span>{{ $data.value_readable }}</span>
-{{- else -}}<div class="{{ $data.icon }}">ICON</div><span>{{ $data.key_readable }}: {{ $data.value_readable }}</span>
+{{- else -}}<div class="metadata-icon {{ $data.icon }}"></div><span>{{ $data.key_readable }}: {{ $data.value_readable }}</span>
 {{- end -}}
 </a>
 {{- end -}}

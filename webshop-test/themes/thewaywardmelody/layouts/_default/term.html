@@ -1,12 +1,12 @@
 {{ define "main" }}
 <header>
-{{ partial "views/banner-image" . }}
+{{ partial "views/banner-image" (dict "context" .) }}
 </header>
 <main class="text-reader margin-m limit-width-m block-align-center">
     {{ $key := .Data.Plural }}
     {{ $value := .Title }}
     {{ $data := partial "func/get-taxonomy-data" (dict "context" . "key" $key "value" $value) }}
-    <p>You searched for all products with property <span class="{{ $data.icon }}">ICON</span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b> set to <b>&ldquo;{{ $data.value_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ . | lower }}</em>){{ end }}</p>
+    <p>You searched for all products with property <span class="metadata-icon {{ $data.icon }}"></span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b> set to <b>&ldquo;{{ $data.value_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ . | lower }}</em>){{ end }}</p>
 </main>
 {{ partial "products/product-list" (dict "context" .) }}
 {{ end }}

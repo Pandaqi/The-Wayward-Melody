@@ -1,5 +1,6 @@
 ---
 title: "Sneakpeeks"
+banners: ["banner_sneakpeeks_1", "banner_sneakpeeks_2", "banner_sneakpeeks_3", "banner_sneakpeeks_4", "banner_sneakpeeks_5", "banner_sneakpeeks_6", "banner_sneakpeeks_7"]
 ---
 
 {{% double-view %}}

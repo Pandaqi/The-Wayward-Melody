@@ -1,13 +1,14 @@
-{{ $img := or .Params.image "https://picsum.photos/500/386" }}
+{{ $data := partial "func/get-product-data" . }}
 <div id="product-{{ .Params.id }}" 
     class="product-summary bg-color-light-xx text-color-dark-xx padding-m rounded-m limit-width-s"
     data-section="{{ .Section }}">
-    <img loading="lazy" decoding="async" src="{{ $img }}" alt="Product Image for {{ .Params.title }}">
+    <img loading="lazy" decoding="async" src="{{ $data.image }}" alt="Product Image for {{ .Params.title }}">
     <h2 class="align-center">{{ .Params.title }}</h2>
     <p>{{ .Params.description }}</p>
     <a href="{{ .Permalink }}" class="button button-size-m">Visit Product Page</a>
-    {{ $show_buy_button := not .Params.bundle }}
-    {{ if $show_buy_button }}
-        {{ partial "products/product-button" . }}
+    {{ if $data.show_button }}
+        {{ partial "products/product-button" (index $data.products 0) }}
+    {{ else }}
+        <div class="text-style-italic">(Visit page to pick a variant.)</div>
     {{ end }}
 </div>

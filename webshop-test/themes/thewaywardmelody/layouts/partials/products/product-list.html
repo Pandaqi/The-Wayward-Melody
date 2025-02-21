@@ -1,6 +1,12 @@
 <nav>
 {{ $pages := or .pages (where .context.Pages "Type" "product") }}
+{{ with .limit }}
+    {{ $pages := $pages | first . }}
+{{ end }}
 <ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m">
+    {{ if eq (len $pages) 0 }}
+        <p>No products to display :(</p>
+    {{ end }}
     {{ range $pages }}
         <li>{{ partial "products/product-summary" . }}</li>
     {{ end }}

@@ -2,8 +2,10 @@ import loadExternalProducts from "./externalProducts"
 import loadBundledProducts from "./bundledProducts"
 import activateDynamicSections from "./dynamicSections";
 import applySearchFilters from "./search";
+import activateVariantPickers from "./variantPicker";
 
 loadExternalProducts();
 loadBundledProducts();
 activateDynamicSections();
 applySearchFilters();
+activateVariantPickers();

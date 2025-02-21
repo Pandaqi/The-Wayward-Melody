@@ -1,12 +1,13 @@
 ---
-title: "Merchandise"
+title: "Magimerchants"
+banners: ["banner_merchandise_1", "banner_merchandise_2", "banner_merchandise_3", "banner_merchandise_4", "banner_merchandise_5", "banner_merchandise_6", "banner_merchandise_7", "banner_merchandise_8", "banner_merchandise_9", "banner_merchandise_10", "banner_merchandise_11"]
 ---
 
 {{% double-view %}}
 
 {{% double-view-item %}}
 
-In love with one of Tiamo's projects? Want to have something physical to show for it? You might have walked into the right shop, my dear sorcerer. This page contains merchandise items for characters, illustrations, and elements from projects like _Wildebyte Arcades_, _The Saga of Life_ or _The Wayward Melody_.
+In love with one of our projects? Want to have something physical to show for it? You might have walked into the right shop, my dear sorcerer. This page contains **merchandise** items for characters, illustrations, and elements from projects like _Wildebyte Arcades_, _The Saga of Life_ or _The Wayward Melody_.
 
 {{< metadata-navigation >}}
 

@@ -2,6 +2,9 @@
 {{ $relevant_metadata := or .Params.metadataRelevant $all_metadata }}
 {{ $context := . }}
 <div class="flex flex-wrap flex-center gap-xs padding-xs">
+    {{ if eq (len $relevant_metadata) 0 }}
+        <p>No metadata (tags, categories, requirements) available to search :(</p>
+    {{ end }}
     {{ range $relevant_metadata }}
         {{ partial "views/metadata-item" (dict "context" $context "key" .) }}
     {{ end }}

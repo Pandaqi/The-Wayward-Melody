@@ -25,3 +25,8 @@ PROMPTS FOR HEADER IMAGE GENERATION:
 * URL: https://deepai.org/machine-learning-model/watercolor-painting-generator
 * HD Model, Quality > Speed
 * UGH THEY ALREADY DISABLED THE WIDESCREEN THING I USED FOR ALL THE OTHERS!
+* @SOURCE: Tool used for upscaling => https://imggen.ai/tools/upscale-image
+
+<!--- DEBUGGING: This should only go on those OTHER websites --->
+{{ partial "products/product-list-external" (dict "context" . "urls" (slice "https://webshop-test.pages.dev/merchandise/test-item/")) }}
+

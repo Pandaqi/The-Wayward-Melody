@@ -1,11 +1,18 @@
-{{ $is_section := .IsSection }}
-{{ $title := .Title }}
-{{ $is_taxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
+{{ $is_section := .context.IsSection }}
+{{ $backup_section_page_path := or .path "/info/about/" }}
+{{ $section_page := or .context.CurrentSection (.GetPage $backup_section_page_path).CurrentSection }}
+{{ $title := or .title .context.Title }}
+{{ $is_taxonomy := or (eq .context.Kind "taxonomy") (eq .context.Kind "term") }}
 {{ if $is_taxonomy }}{{ $title = "Search" }}{{ end }}
 <div class="height-ml">
-{{ $src := or .Params.image "https://picsum.photos/1280/720" }}
-{{ $alt := printf "Banner Image for Article: %s" .Title }}
-{{ if $is_section }}{{ $alt = printf "Banner Image for Category/Section: %s" .Title }}{{ end }}
+{{ $backup_image_placeholder := "https://picsum.photos/1920/432" }}
+{{ $random_banner_image := nil }}
+{{ with $section_page.Params.banners }}
+    {{ $random_banner_image = index (shuffle $section_page.Params.banners) 0 }}
+{{ end }}
+{{ $src := or (or .context.Params.image $random_banner_image) $backup_image_placeholder }}
+{{ $alt := printf "Banner Image for Article: %s" $title }}
+{{ if $is_section }}{{ $alt = printf "Banner Image for Category/Section: %s" $title }}{{ end }}
 <div class="maximize-height background-cover fade-to-bg" style="background:linear-gradient(to bottom, transparent, var(--color-dark-xx)), url({{ $src }}); background-size: cover;" title="{{ $alt }}">
     <h1 class="font-size-xxl margin-none text-shadow">{{ $title }}</h1>
 </div>
