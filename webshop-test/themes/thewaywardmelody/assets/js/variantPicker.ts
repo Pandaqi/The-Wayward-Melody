@@ -3,21 +3,30 @@ import { convertTimezoneToShippingZone } from "./shippingZones";
 const loadVariantFromDropdown = (dropdown:HTMLSelectElement) =>
 {
     // find the associated button
+    const dropdownParent = dropdown.parentElement as HTMLElement;
+    const buttonContainers = Array.from(dropdownParent.getElementsByClassName("product-variant-buttons")) as HTMLElement[];
+    if(buttonContainers.length <= 0) { console.error("No button container found to show this variant!", buttonContainers); return; }
+    if(buttonContainers.length >= 2) { console.error("Too many button containers found to show this variant!", buttonContainers); return; }
+
+    const buttonContainer = buttonContainers[0];
     const buttonID = dropdown.value;
-    const buttonsWithID = Array.from(dropdown.getElementsByClassName("snipcart-add-item")) as HTMLButtonElement[];
-    if(buttonsWithID.length <= 0) { console.error("Can't show button for this variant!", buttonID); return; }
-    if(buttonsWithID.length >= 2) { console.error("Can't load multiple buttons at once for a variant!", buttonsWithID); return; }
+    const buttonsWithID = Array.from(buttonContainer.querySelectorAll(`[data-item-id="${buttonID}"]`)) as HTMLElement[];
+    if(buttonsWithID.length <= 0) { console.error(`No button found with ID ${buttonID}`); return; }
+    if(buttonsWithID.length >= 2) { console.error(`Too many buttons found with ID ${buttonID}`, buttonsWithID); return; }
+
+    console.log(buttonContainer);
+    console.log(buttonsWithID);
 
     // display that button, disable all OTHER buttons
-    const button = buttonsWithID[0];
-    button.style.display = "block";
-
-    const parentList = button.parentElement as HTMLElement;
-    const otherButtons = Array.from(parentList.children) as HTMLElement[];
+    const otherButtons = Array.from(buttonContainer.getElementsByClassName("snipcart-add-item")) as HTMLElement[];
     for(const otherButton of otherButtons)
     {
         otherButton.style.display = "none";
     }
+
+    const button = buttonsWithID[0];
+    button.style.display = "block";
+    console.log(button);
     
     // switch image to variant, if possible
     const productImage = document.getElementById("product-image") as HTMLImageElement;
@@ -28,45 +37,55 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement) =>
 
     // display some dynamic text
     const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone; // returns something like Europe/Berlin
-    const shippingZones:string[] = button.dataset.itemShippingZones?.split("|") ?? [];
+    const shippingZonesRaw = button.dataset.itemShippingZones ?? "";
+    const hasShippingZones = shippingZonesRaw != "";
     const texts:string[] = [];
-    if(shippingZones.length > 0)
+    const textContainer = Array.from(dropdownParent.getElementsByClassName("product-variant-dynamic-text"))[0] as HTMLElement;
+    textContainer.innerHTML = "";
+    if(hasShippingZones)
     {
+        const shippingZones:string[] = shippingZonesRaw.split("|") ?? [];
+        console.log(timezone, convertTimezoneToShippingZone(timezone), button.dataset.itemShippingZones);
         const canShip = shippingZones.includes( convertTimezoneToShippingZone(timezone) );
-        const shippingResponse = canShip ? `That means this product can ship to your address!` : `Unfortunately, this product only ships to ${shippingZones}.`
-        let stringShipping = `Our wizards have guessed that you are in ${timezone}. ${shippingResponse} (Wrong? Don't worry! A full address check is only done at checkout, once you've input your actual shipping address.)`;
-        texts.push(stringShipping);
+        const shippingResponse = canShip ? `That means this product/variant ships to you!` : `Unfortunately, this specific product/variant only ships to ${shippingZones}.`
+        let stringShipping = `Our wizards guess that you're near <b>${timezone}</b>. ${shippingResponse}`;
+        const shippingNode = document.createElement("div");
+        textContainer.appendChild(shippingNode);
+        shippingNode.classList.add("margin-s", "text-style-italic", "font-size-s")
+        shippingNode.innerHTML = stringShipping;
 
-        const stringWeight = `Weight (g): ${button.dataset.itemWeight}`;
-        texts.push(stringWeight);
+        const shippingRemarkNode = document.createElement("span");
+        shippingNode.appendChild(shippingRemarkNode);
+        shippingRemarkNode.classList.add("margin-s", "text-style-italic","font-size-s", "text-color-mid");
+        shippingRemarkNode.innerHTML = `(Wrong? Don't worry! At checkout you can input your shipping address.)`;
 
-        const stringSize = `Size (cm): ${button.dataset.itemWidth} x ${button.dataset.itemHeight} x ${button.dataset.itemLength} (WxHxL)`
-        texts.push(stringSize);
+        if(button.dataset.itemWeight)
+        {
+            const stringWeight = `Weight (g): ${button.dataset.itemWeight}`;
+            texts.push(stringWeight);    
+        }
+
+        if(button.dataset.itemWidth)
+        {
+            const stringSize = `Size (cm): ${button.dataset.itemWidth} x ${button.dataset.itemHeight} x ${button.dataset.itemLength} (WxHxL)`
+            texts.push(stringSize);
+        }
 
         const stringPlatform = `Platform: ${button.dataset.itemPlatform}`
         texts.push(stringPlatform);
     }
 
     const stringSku = `SKU: ${button.dataset.itemSku}`;
-    texts.push(`SKU: ${stringSku}`);
+    texts.push(stringSku);
 
-    const textContainer = Array.from(dropdown.getElementsByClassName("product-variant-dynamic-text"))[0] as HTMLElement;
-    textContainer.innerHTML = texts.join("&nbsp;&middot;&nbsp;")
+    const extraNode = document.createElement("div");
+    textContainer.appendChild(extraNode);
+    extraNode.classList.add("margin-s", "font-accent", "font-size-s");
+    extraNode.innerHTML = texts.join("&nbsp;&middot;&nbsp;");
 }
 
 export default () =>
 {
-    // hide all buttons except one (first in list)
-    const buttonLists = Array.from(document.getElementsByClassName("product-variant-buttons")) as HTMLButtonElement[];
-    for(const list of buttonLists)
-    {
-        const buttons = Array.from(list.children) as HTMLButtonElement[];
-        for(let i = 1; i < buttons.length; i++)
-        {
-            buttons[i].style.display = "none";
-        }
-    }
-
     // attach all dropdowns to the right button
     const pickerDropdowns = Array.from(document.getElementsByClassName("product-variant-dropdown")) as HTMLSelectElement[];
     for(const dropdown of pickerDropdowns)
@@ -75,5 +94,6 @@ export default () =>
         {
             loadVariantFromDropdown(dropdown);
         });
+        loadVariantFromDropdown(dropdown);
     }
 }

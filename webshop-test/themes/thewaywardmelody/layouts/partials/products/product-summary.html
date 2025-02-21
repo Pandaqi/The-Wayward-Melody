@@ -1,14 +1,14 @@
 {{ $data := partial "func/get-product-data" . }}
 <div id="product-{{ .Params.id }}" 
-    class="product-summary bg-color-light-xx text-color-dark-xx padding-m rounded-m limit-width-s"
+    class="product-summary bg-color-light-xx text-color-dark-xx padding-m rounded-m limit-width-s maximize-height"
     data-section="{{ .Section }}">
     <img loading="lazy" decoding="async" src="{{ $data.image }}" alt="Product Image for {{ .Params.title }}">
     <h2 class="align-center">{{ .Params.title }}</h2>
     <p>{{ .Params.description }}</p>
-    <a href="{{ .Permalink }}" class="button button-size-m">Visit Product Page</a>
-    {{ if $data.show_button }}
+    <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Visit Product Page</a>
+    {{ if $data.single_button }}
         {{ partial "products/product-button" (index $data.products 0) }}
     {{ else }}
-        <div class="text-style-italic">(Visit page to pick a variant.)</div>
+        <div class="text-style-italic font-size-s align-center">(Visit page to pick a variant.)</div>
     {{ end }}
 </div>

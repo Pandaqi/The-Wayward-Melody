@@ -3,8 +3,14 @@ languageCode = 'en-us'
 title = 'The Wayward Melody | Webshop of Magic'
 theme = "thewaywardmelody"
 
+paginate = 10
+
 [markup.goldmark.renderer]
     unsafe = true
+
+[pagination]
+  disableAliases = true
+  pagerSize = 10
 
 [taxonomies]
     categories = "categories"

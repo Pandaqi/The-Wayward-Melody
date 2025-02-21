@@ -1,11 +1,11 @@
 {{ $stars := "" }}
 {{ $max_stars := 5 }}
 {{ $num_stars := or .stars $max_stars }}
-{{ range i := seq $max_stars }}
-    {{ $symbol := cond (le i $num_stars) "☆" "★" }}
+{{ range $i := seq $max_stars }}
+    {{ $symbol := cond (le $i $num_stars) "★" "☆" }}
     {{ $stars = printf "%s%s" $stars $symbol }}
 {{ end }}
-<div>
-    <div>{{ or .text "A magical review should be here!" }}</div>
-    <div>{{ or .author "Tiamo Pastoor" }}</div>
+<div class="review bg-color-dark-x rounded-s padding-m limit-width-s">
+    <div class="text-style-italic">{{ or .text "A magical review should be here!" }}</div>
+    <div class="font-size-s">{{ $stars }} by {{ or .author "Tiamo Pastoor" }}</div>
 </div>

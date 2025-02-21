@@ -5,30 +5,31 @@
 
 <!--- Use main platform if set. Otherwise pick one from product variants. --->
 <!--- The descending sort will simply put anything that HAS this value set at the front, while empty values go last --->
-{{ $platform := or .Params.productsPlatform "" }}
+{{ $platform := .Params.productsPlatform }}
 {{ if and (not $platform) $has_product }}
-    {{ $platform = index (sort $products "platform" "desc") 0 }} 
+    {{ $platform = index (index (sort $products "platform" "desc") 0) "platform" }} 
 {{ end }}
+{{ if not $platform }}{{ $platform = "Unknown" }}{{ end }}
 
 <!--- Now we can make some general judgements about this --->
-{{ $is_physical := or .Params.physical (ne $platform "") }}
+{{ $is_physical := or .Params.physical (ne $platform "Unknown") }}
 {{ $single_button := and (not .Params.bundle) (not $has_multiple_products) }}
 
 <!--- Use main/single price if set. Otherwise pick lowest from variants and modify string. 9.99 is random backup value to prevent accidental free. --->
 {{ $price_lowest := or .Params.price 9.99 }}
 {{ if $has_product }}
-    {{ $price_lowest = or (index (sort $products "price" "asc") 0) $price_lowest }}
+    {{ $price_lowest = or (index (index (sort $products "price" "asc") 0) "price") $price_lowest }}
 {{ end }}
-{{ $price := printf "&euro;%s" $price_lowest }}
+{{ $price := printf "€%s" (string $price_lowest) }}
 {{ if $has_multiple_products }}
-    {{ $price = printf "From &euro;" $price_lowest }}
+    {{ $price = printf "From €%s" (string $price_lowest) }}
 {{ end }}
-{{ $price = printf "%s <small>(excl tax)</small>" $price }}
+{{ $price = printf "%s (excl tax)" (string $price) }}
 
 <!--- Use main image if set. Otherwise select random from product variants. If not available, placeholder. --->
 {{ $image_default := or .Params.image "" }}
 {{ if and (not $image_default) $has_product }}
-    {{ $image_default = index (sort $products "image" "desc") 0 }}
+    {{ $image_default = index (index (sort $products "image" "desc") 0) "image" }}
 {{ end }}
 {{ if not $image_default }}{{ $image_default = "https://picsum.photos/500/386" }}{{ end }}
 
@@ -39,9 +40,10 @@
 {{ $categories_default := or .Params.categories slice }}
 {{ $url_default := or .Permalink "/" }}
 {{ $description_default := or .Params.description "No description given." }}
-{{ $shipping_default := or .Params.shipping (slice "EU") }}
-{{ $weight_default := or .Params.weight 0 }}
-{{ $size_default := or .Params.size "0|0|0" }}
+{{ $shipping_default := or .Params.productsShipping slice }}
+{{ if not (reflect.IsSlice $shipping_default) }}{{ $shipping_default = slice $shipping_default }}{{ end }}
+{{ $weight_default := or .Params.productsWeight 10 }}
+{{ $size_default := or .Params.productsSize "0|0|0" }}
 
 <!--- If default stuff set, but no products in list, insert an empty one to inherit the default stuff --->
 {{ $default_values_set := or .Params.price .Params.productsSku }}
@@ -51,8 +53,11 @@
 
 <!--- Amend the products list with default values where needed --->
 {{ $products_full := slice }}
+{{ $zones := slice }}
 {{ range $products }}
     {{ $new_product := dict "sku" (or .sku $sku_default) "name" (or .name $name_default) "price" (or .price $price_lowest) "platform" (or .platform $platform) "image" (or .image $image_default) "categories" (or .categories $categories_default) "url" (or .url $url_default) "description" (or .desc $description_default) "shipping" (or .shipping $shipping_default) "file" (or .file "") "weight" (or .weight $weight_default) "size" (or .size $size_default) }}
     {{ $products_full = $products_full | append $new_product }}
+    {{ $zones = $zones | append (index $new_product "shipping") }}
 {{ end }}
-{{ return dict "price" $price "platform" $platform "image" $image_default "products" $products_full "physical" $is_physical "single_button" $single_button }}
+{{ $zones = $zones | uniq }}
+{{ return dict "price" $price "platform" $platform "image" $image_default "products" $products_full "zones" $zones "physical" $is_physical "single_button" $single_button }}

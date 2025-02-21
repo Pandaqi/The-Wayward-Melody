@@ -2,7 +2,7 @@
 <nav class="flex flex-wrap flex-center gap-xs padding-xs">
     <ul>
     {{ range $all_categories }}
-        <li><a href="{{ .RelPermalink }}" class="theme-art-{{ .Title | lowercase }} navigation-link">{{ .Title }}</a></li>
+        <li><a href="{{ .RelPermalink }}" class="theme-{{ . }} navigation-link">{{ .Title }}</a></li>
     {{ end }}
     </ul>
 </nav>

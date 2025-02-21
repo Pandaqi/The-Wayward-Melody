@@ -1,26 +1,22 @@
 {{ $data := partial "func/get-product-data" . }}
-<div>
-    {{ if $data.single_button }}
-        {{ partial "func/product-button.html" (index $data.products 0) }}
-    {{ end }}
-    {{ if not $data.single_button }}
-        <div class="product-variants">
-            <noscript><em>Oh no! Your browser has JavaScript disabled. This webshop needs it to function.</em></noscript>
-            <!--- Provide a dropdown for toggling between variants (sku = unique id = connects with options) --->
-            <label for="product-variant">Choose your variant:</label>
-            <select class="product-variant-dropdown" id="product-variant">
-                {{ range $data.products }}
-                    <option value="{{ .sku }}" data-id="{{ .sku }}">{{ $data.name }}</option>
-                {{ end }}
-            </select>
-            <!--- Any extra dynamic data --->
-            <div class="product-variant-dynamic-text"></div>
-            <!--- All possible buttons are already present, we just toggle them on/off --->
-            <div class="product-variant-buttons">
-                {{ range $data.products }}
-                    {{ partial "func/product-button.html" . }}
-                {{ end }}
-            </div>
+{{ $dropdown_class := cond $data.single_button "display-none" "" }}
+<div class="margin-vertical-m">
+    <div class="product-variants">
+        <noscript><em>Oh no! Your browser has JavaScript disabled. This webshop needs it to function properly!</em></noscript>
+        <!--- Provide a dropdown for toggling between variants (sku = unique id = connects with options) --->
+        <label for="product-variant" class="align-center font-accent display-block font-size-s {{ $dropdown_class }}">PICK YOUR VARIANT</label>
+        <select class="product-variant-dropdown bg-color-light-xx rounded-xs font-heading font-size-m align-center padding-m maximize-width display-block {{ $dropdown_class }}" id="product-variant">
+            {{ range $data.products }}
+                <option value="{{ .sku }}" data-id="{{ .sku }}">{{ .name }}</option>
+            {{ end }}
+        </select>
+        <!--- Any extra dynamic data --->
+        <div class="product-variant-dynamic-text"></div>
+        <!--- All possible buttons are already present, we just toggle them on/off --->
+        <div class="product-variant-buttons">
+            {{ range $data.products }}
+                {{ partial "products/product-button.html" . }}
+            {{ end }}
         </div>
-    {{ end }}
+    </div>
 </div>

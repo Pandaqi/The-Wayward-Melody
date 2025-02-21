@@ -3,27 +3,29 @@
 <!--- Welcome Message --->
 {{ partial "views/banner-image" (dict "context" . "title" "Welcome!") }}
 
-<div>
+<div class="text-reader block-column-and-center">
 {{ .Content }}
 </div>
 
 <!--- Philosophy --->
-{{ partial "views/banner-image" (dict "context" . "title" "The Magical Way") }}
+{{ partial "views/banner-image" (dict "context" . "title" "The Magical Way" "class" "margin-top-xxxl") }}
 
-<div>
+<div class="text-reader block-column-and-center">
 <p>This webshop has a unique philosophy when it comes to education, entertainment and life in general. You can <a href="/info/philosophy/">read the details here</a>, but the summary is quite simple.</p>
 <p>Every <b>main category</b> in this webshop is part of a path towards <b>fun <em>and</em> learning</b>. Start with materials in the first categories, and once satisfied move to later categories, until you end up at the place where learning actually happens: games and play.</p>
 <p>Because fun comes first, though, we sell products for all ages and situations, not just school or education. Have a look around!</p>
 </div>
 
 <!--- Main Categories --->
-{{ partial "views/banner-image" (dict "context" . "title" "Categories") }}
+{{ partial "views/banner-image" (dict "context" . "title" "Categories" "class" "margin-top-xxxl") }}
+<div class="block-column-and-center">
 {{ partial "views/category-list" (dict "context" . ) }}
+</div>
 
 <!--- Occult Opinions --->
-{{ partial "views/banner-image" (dict "context" . "title" "Radiant Reviews") }}
+{{ partial "views/banner-image" (dict "context" . "title" "Radiant Reviews" "class" "margin-top-xxxl") }}
 
-<div>
+<div class="flex flex-center flex-wrap gap-s">
 {{ partial "views/review" (dict "author" "Mr Potter" "stars" 5 "text" "My go-to webshop for when I want to defeat evil dark wizards without a nose.") }}
 {{ partial "views/review" (dict "author" "Bilbo" "stars" 3 "text" "Wanted to buy the One Ring, but it's sold out. They should really stock Ten Rings next time.") }}
 {{ partial "views/review" (dict "author" "Kaladin" "stars" 5 "text" "No lessons or material are a bridge too far for this amazing webshop!") }}
@@ -32,7 +34,8 @@
 </div>
 
 <!--- Latest Products --->
-{{ partial "views/banner-image" (dict "context" . "title" "Latest Spells") }}
-{{ partial "products/product-list" (dict "context" . "limit" 10) }}
+{{ partial "views/banner-image" (dict "context" . "title" "Latest Spells" "class" "margin-top-xxxl") }}
+{{ $all_product_pages := (where .Site.Pages "Type" "product") }}
+{{ partial "products/product-list" (dict "context" . "paginator" (.Paginate $all_product_pages) "suppress_navigation" true) }}
 
 {{ end }}

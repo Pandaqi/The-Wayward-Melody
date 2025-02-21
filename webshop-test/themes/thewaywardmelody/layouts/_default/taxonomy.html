@@ -12,6 +12,6 @@
     {{ $data_term := partial "func/get-taxonomy-data.html" (dict "context" $context "key" $key "value" $k) }}
     <h2><a class="underline" href="{{ $data_term.url }}">{{ $data_term.value_readable }}</a></h2>
     {{ $pages := $v }}
-    {{ partial "products/product-list" (dict "context" . "pages" $pages) }}
+    {{ partial "products/product-list" (dict "context" $context "paginator" ($context.Paginate $pages)) }}
 {{ end }}
 {{ end }}

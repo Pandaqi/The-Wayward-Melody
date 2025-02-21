@@ -12,9 +12,17 @@ All prices and transactions are in **euros** (EUR, â‚¬). The system supports any
 
 {{% /section-foldable %}}
 
+{{% section-foldable header="What about taxes?" %}}
+
+All prices are **excluding taxes**. These are calculated on checkout depending on the tax rate of _your country_ (based on the shipping address you provided). 
+
+We understand this is unusual or annoying to some. Because we're a small store in the EU that ships worldwide, however, these taxes _vary_ and thus can't be included in the price. (And they're _mandatory_, which many online store owners seem to forget ...)
+
+{{% /section-foldable %}}
+
 {{% section-foldable header="What platforms are supported?" %}}
 
-Our payments are handled by [Mollie](https://mollie.com/). Any platform they support (which is a long list), we support. The most common ones are there: Credit Card, Bank Transfer, Paypal, Klarna, etcetera.
+Our payments are handled by [Mollie](https://mollie.com/). Any platform they support (which is a long list), we support. All the usual suspects are there: Credit Card, Bank Transfer, Paypal, Klarna, etcetera.
 
 {{% /section-foldable %}}
 
@@ -48,9 +56,11 @@ For orders with _Physical Goods_, there's a **minimum** total order cost of **â‚
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="Do you ship physical products worldwide?" %}}
+{{% section-foldable header="Where do you ship physical products?" %}}
 
-**Yes, we do!** For the most part, this doesn't matter for the price. As stated above, we have no shipping fees, even if you live super far away. The **tax rate**, however, is calculated based on your billing address or company details.
+We currently ship to two regions: **EU** (Europe) and **NA** (North America). Product pages clearly state which region it supports. When visited, the website already tries to figure out where you are and tell you if something ships to your address. 
+
+Your location or distance doesn't matter for the price. As stated above, we have no shipping fees, even if you live super far away. (Though keep in mind that the **tax rate** is still calculated based on your billing address or company details.)
 
 {{% /section-foldable %}}
 

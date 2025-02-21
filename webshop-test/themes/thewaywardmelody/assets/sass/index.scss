@@ -83,6 +83,7 @@ $size-m: 1rem;
 $size-l: 2rem;
 $size-xl: 3.33rem;
 $size-xxl: 5rem;
+$size-xxxl: 8rem;
 
 $dur-s: 0.1s;
 $dur-m: 0.2s;
@@ -114,6 +115,34 @@ $viewport-xl: 1280px;
         &::before, &::after {
             visibility: visible;
         }
+    }
+}
+
+@mixin heading-decorations
+{
+    &::before, &::after 
+    {
+        background-image: url(/css/header_decoration.webp);
+        width: 1.5em; // same size as header itself
+        height: 1.5em;
+        display: inline-block;
+        filter: #{"invert()"}; // only invert when it's on dark background
+        content: "";
+        background-size: contain;
+        mix-blend-mode: overlay;
+        margin-top: -0.33em;
+    }
+
+    &::before
+    {
+        transform: scaleX(-1);
+        margin-right: 0.25em;
+    }
+
+    &::after
+    {
+        transform: scaleX(1);
+        margin-left: 0.25em;
     }
 }
 
@@ -230,23 +259,7 @@ $viewport-xl: 1280px;
             margin-top: $size-xl;
             margin-bottom: 0;
 
-            &::before, &::after 
-            {
-                background-image: url(/css/header_decoration.webp);
-                width: 2em; // same size as header itself
-                height: 2em;
-                display: inline-block;
-                filter: invert(1); // only invert when it's on dark background
-                content: "";
-                background-size: contain;
-                margin-left: 0.25rem;
-                mix-blend-mode: overlay;
-            }
-
-            &::before
-            {
-                transform: scaleX(-1);
-            }
+            @include heading-decorations;
         }
         
         blockquote
@@ -399,6 +412,36 @@ $viewport-xl: 1280px;
         padding: $size-s;
         margin: $size-s 0;
     }
+    
+    // Common center aligning, width reducing block
+    .block-column-and-center
+    {
+        margin: $size-m;
+        max-width: $viewport-m;
+        margin: auto;
+    }
+
+    // Fixed Table Layout
+    table 
+    {
+        width: 100%;
+        font-size: $size-s;
+
+        thead
+        {
+            font-weight: bold;
+        }
+
+        td 
+        {
+            padding: $size-s;
+        }
+          
+        tr:nth-child(even) 
+        {
+            background-color: var(--color-dark-x);
+        }
+    }
 }
 
 @layer modules
@@ -465,6 +508,10 @@ $viewport-xl: 1280px;
         text-shadow: -$size-xxxs $size-xxxs var(--color-dark-xx);
     }
 
+    .heading-decorations {
+        @include heading-decorations;
+    }
+
     // Colors
     .bg-color-accent-contrast {
         background-color: var(--color-accent-contrast);
@@ -492,6 +539,10 @@ $viewport-xl: 1280px;
 
     .text-color-dark-xx {
         color: var(--color-dark-xx);
+    }
+
+    .text-color-mid {
+        color: var(--color-mid);
     }
 
     // Corners
@@ -550,6 +601,10 @@ $viewport-xl: 1280px;
         margin-bottom: $size-m;
     }
 
+    .margin-top-xxxl {
+        margin-top: $size-xxxl;
+    }
+
     .gap-none {
         gap: 0;
     }
@@ -589,6 +644,11 @@ $viewport-xl: 1280px;
     .height-l {
         height: $size-l * 10;
         max-height: $size-l * 10;
+    }
+
+    .height-xl {
+        height: $size-xl * 10;
+        max-height: $size-xl * 10;
     }
 
     .maximize-height {
@@ -648,11 +708,19 @@ $viewport-xl: 1280px;
         align-items: center;
     }
 
-    .flex-vertical-list {
-        & > li {
+    .flex-equal-size
+    {
+        align-items: stretch;
+    }
+
+    .flex-vertical-list 
+    {
+        & > li 
+        {
             width: 100%;
 
-            & > a {
+            & > a 
+            {
                 width: 100%;
             }
         }
@@ -661,6 +729,10 @@ $viewport-xl: 1280px;
     // Display
     .display-block {
         display: block;
+    }
+
+    .display-none {
+        display: none;
     }
 
     // Alignment & Positioning
@@ -763,8 +835,8 @@ $viewport-xl: 1280px;
     .border-image-m 
     {
         border-image-slice: 42 42 42 42;
-        border-image-width: 1.5rem;
-        border-image-outset: 0.5rem; // match this with actual sizes + padding of the item it's on => better yet, provide a few variants again! border-s, border-m, border-l
+        border-image-width: 1.5em;
+        border-image-outset: 0.4em; // match this with actual sizes + padding of the item it's on => better yet, provide a few variants again! border-s, border-m, border-l
         border-image-repeat: round round;
         border-style: solid;
     }
@@ -813,10 +885,12 @@ $viewport-xl: 1280px;
     {
         width: 1em;
         height: 1em;
+        margin-left: 0.15em;
+        margin-right: 0.15em;
         display: inline-block;
         background-image: url(/css/icons.svg);
         background-size: 800%;
-        filter: invert();
+        filter: #{"invert()"};
     }
 
     .metadata-icon-black
@@ -828,8 +902,8 @@ $viewport-xl: 1280px;
     {
         .metadata-icon-#{$name} 
         {
-            background-position-x: ((-1 * $offset) % 8) * 32px;
-            background-position-y: floor($offset / 8) * 32px;
+            background-position-x: ($offset % 8) * -1em;
+            background-position-y: floor(math.div($offset, 8)) * -1em;
         }
     }
 

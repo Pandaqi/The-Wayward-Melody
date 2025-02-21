@@ -125,10 +125,9 @@ const SHIPPING_ZONES =
 
 const convertTimezoneToShippingZone = (tz:string) =>
 {
-    const continent:string = tz.split("/")[0] ?? "XX";
     for(const [name,data] of Object.entries(SHIPPING_ZONES))
     {
-        if(data.timezones.includes(continent)) { return name; }
+        if(data.timezones.includes(tz)) { return name; }
     }
     return "XX"
 }

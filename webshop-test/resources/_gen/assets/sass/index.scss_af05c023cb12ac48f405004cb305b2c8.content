@@ -121,11 +121,24 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     margin-top: 3.33rem;
     margin-bottom: 0;
   }
+  .text-reader h1::before, .text-reader h1::after, .text-reader h2::before, .text-reader h2::after, .text-reader h3::before, .text-reader h3::after, .text-reader h4::before, .text-reader h4::after, .text-reader h5::before, .text-reader h5::after, .text-reader h6::before, .text-reader h6::after {
+    background-image: url(/css/header_decoration.webp);
+    width: 1.5em;
+    height: 1.5em;
+    display: inline-block;
+    filter: invert();
+    content: "";
+    background-size: contain;
+    mix-blend-mode: overlay;
+    margin-top: -0.33em;
+  }
   .text-reader h1::before, .text-reader h2::before, .text-reader h3::before, .text-reader h4::before, .text-reader h5::before, .text-reader h6::before {
-    content: "« ";
+    transform: scaleX(-1);
+    margin-right: 0.25em;
   }
   .text-reader h1::after, .text-reader h2::after, .text-reader h3::after, .text-reader h4::after, .text-reader h5::after, .text-reader h6::after {
-    content: " »";
+    transform: scaleX(1);
+    margin-left: 0.25em;
   }
   .text-reader blockquote {
     margin: 0;
@@ -137,7 +150,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     padding: 1rem;
     border-radius: 1rem;
   }
-  .theme-escape-rooms {
+  .theme-runaways {
     --color-light-xx: oklch(90% 0.02 0);
     --color-light-x: oklch(75% 0.05 0);
     --color-accent: oklch(90% 0.175 0);
@@ -146,7 +159,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     --color-dark-x: oklch(35% 0.05 0);
     --color-dark-xx: oklch(15% 0.02 0);
   }
-  .theme-trivia {
+  .theme-quizmasters {
     --color-light-xx: oklch(90% 0.02 45);
     --color-light-x: oklch(75% 0.05 45);
     --color-accent: oklch(90% 0.175 45);
@@ -155,7 +168,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     --color-dark-x: oklch(35% 0.05 45);
     --color-dark-xx: oklch(15% 0.02 45);
   }
-  .theme-educational {
+  .theme-teachers {
     --color-light-xx: oklch(90% 0.02 90);
     --color-light-x: oklch(75% 0.05 90);
     --color-accent: oklch(90% 0.175 90);
@@ -164,7 +177,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     --color-dark-x: oklch(35% 0.05 90);
     --color-dark-xx: oklch(15% 0.02 90);
   }
-  .theme-merchandise {
+  .theme-magimerchants {
     --color-light-xx: oklch(90% 0.02 135);
     --color-light-x: oklch(75% 0.05 135);
     --color-accent: oklch(90% 0.175 135);
@@ -173,7 +186,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     --color-dark-x: oklch(35% 0.05 135);
     --color-dark-xx: oklch(15% 0.02 135);
   }
-  .theme-bonus-materials {
+  .theme-sneakpeeks {
     --color-light-xx: oklch(90% 0.02 180);
     --color-light-x: oklch(75% 0.05 180);
     --color-accent: oklch(90% 0.175 180);
@@ -182,7 +195,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     --color-dark-x: oklch(35% 0.05 180);
     --color-dark-xx: oklch(15% 0.02 180);
   }
-  .theme-fun-frontier {
+  .theme-gamiverses {
     --color-light-xx: oklch(90% 0.02 225);
     --color-light-x: oklch(75% 0.05 225);
     --color-accent: oklch(90% 0.175 225);
@@ -191,12 +204,12 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     --color-dark-x: oklch(35% 0.05 225);
     --color-dark-xx: oklch(15% 0.02 225);
   }
-  .theme-art-media {
+  .theme-explorers {
     --color-light-xx: oklch(90% 0.02 270);
     --color-light-x: oklch(75% 0.05 270);
     --color-accent: oklch(90% 0.175 270);
     --color-accent-contrast: oklch(90% 0.175 210);
-    --color-mid: oklch(60% 0.75 270);
+    --color-mid: oklch(60% 0.75 210);
     --color-dark-x: oklch(35% 0.05 270);
     --color-dark-xx: oklch(15% 0.02 270);
   }
@@ -263,6 +276,24 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     padding: 0.66rem;
     margin: 0.66rem 0;
   }
+  .block-column-and-center {
+    margin: 1rem;
+    max-width: 640px;
+    margin: auto;
+  }
+  table {
+    width: 100%;
+    font-size: 0.66rem;
+  }
+  table thead {
+    font-weight: bold;
+  }
+  table td {
+    padding: 0.66rem;
+  }
+  table tr:nth-child(even) {
+    background-color: var(--color-dark-x);
+  }
 }
 @layer modules {
   .font-body {
@@ -307,6 +338,28 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .text-shadow {
     text-shadow: -0.15rem 0.15rem var(--color-dark-x);
   }
+  .text-shadow-dark {
+    text-shadow: -0.1rem 0.1rem var(--color-dark-xx);
+  }
+  .heading-decorations::before, .heading-decorations::after {
+    background-image: url(/css/header_decoration.webp);
+    width: 1.5em;
+    height: 1.5em;
+    display: inline-block;
+    filter: invert();
+    content: "";
+    background-size: contain;
+    mix-blend-mode: overlay;
+    margin-top: -0.33em;
+  }
+  .heading-decorations::before {
+    transform: scaleX(-1);
+    margin-right: 0.25em;
+  }
+  .heading-decorations::after {
+    transform: scaleX(1);
+    margin-left: 0.25em;
+  }
   .bg-color-accent-contrast {
     background-color: var(--color-accent-contrast);
   }
@@ -327,6 +380,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .text-color-dark-xx {
     color: var(--color-dark-xx);
+  }
+  .text-color-mid {
+    color: var(--color-mid);
   }
   .rounded-xs {
     border-radius: 0.4rem;
@@ -369,6 +425,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
+  .margin-top-xxxl {
+    margin-top: 8rem;
+  }
   .gap-none {
     gap: 0;
   }
@@ -401,6 +460,10 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     height: 20rem;
     max-height: 20rem;
   }
+  .height-xl {
+    height: 33.3rem;
+    max-height: 33.3rem;
+  }
   .maximize-height {
     height: 100%;
   }
@@ -426,6 +489,10 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .fade-to-bg {
     background: linear-gradient(to bottom, transparent, var(--color-dark-xx));
   }
+  .background-texture {
+    background-image: url(/css/bg_texture.webp);
+    background-blend-mode: overlay;
+  }
   .flex {
     display: flex;
     min-width: 0;
@@ -439,6 +506,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     align-content: center;
     align-items: center;
   }
+  .flex-equal-size {
+    align-items: stretch;
+  }
   .flex-vertical-list > li {
     width: 100%;
   }
@@ -447,6 +517,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .display-block {
     display: block;
+  }
+  .display-none {
+    display: none;
   }
   .position-absolute {
     position: absolute;
@@ -487,6 +560,12 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .underline {
     text-decoration: underline;
   }
+  .collapse-paragraph-margin p:first-child {
+    margin-top: 0;
+  }
+  .collapse-paragraph-margin p:last-child {
+    margin-bottom: 0;
+  }
   .transition-m {
     transition: color 0.2s, background-color 0.2s, filter 0.2s, transform 0.2s;
   }
@@ -515,6 +594,145 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .hover_sidearrows:hover::before, .hover_sidearrows:hover::after {
     visibility: visible;
+  }
+  .hover_glow:hover {
+    filter: drop-shadow(0 0 0.33em white);
+  }
+  .hover_remove-child-rotations > div {
+    transition: transform 0.25s;
+  }
+  .hover_remove-child-rotations:hover > div {
+    transform: rotate(0deg) !important;
+  }
+  .border-image-m {
+    border-image-slice: 42 42 42 42;
+    border-image-width: 1.5em;
+    border-image-outset: 0.4em;
+    border-image-repeat: round round;
+    border-style: solid;
+  }
+  .border-image-white {
+    border-image-source: url(/css/border_pattern_white.webp);
+  }
+  .border-image-black {
+    border-image-source: url(/css/border_pattern_black.webp);
+  }
+  .metadata-icon {
+    width: 1em;
+    height: 1em;
+    margin-left: 0.15em;
+    margin-right: 0.15em;
+    display: inline-block;
+    background-image: url(/css/icons.svg);
+    background-size: 800%;
+    filter: invert();
+  }
+  .metadata-icon-black {
+    filter: none;
+  }
+  .metadata-icon-cart {
+    background-position-x: 0em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-account {
+    background-position-x: -1em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-price {
+    background-position-x: -2em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-categories {
+    background-position-x: -3em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-duration {
+    background-position-x: -4em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-age {
+    background-position-x: -5em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-difficulty {
+    background-position-x: -6em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-setup {
+    background-position-x: -7em;
+    background-position-y: 0em;
+  }
+  .metadata-icon-prior-wisdom {
+    background-position-x: 0em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-color {
+    background-position-x: -1em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-mature {
+    background-position-x: -2em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-textless {
+    background-position-x: -3em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-parallel-play {
+    background-position-x: -4em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-double-sided-allowed {
+    background-position-x: -5em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-double-sided-required {
+    background-position-x: -6em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-game-master {
+    background-position-x: -7em;
+    background-position-y: -1em;
+  }
+  .metadata-icon-game-master-can-play {
+    background-position-x: 0em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-hybrid {
+    background-position-x: -1em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-paper-choice {
+    background-position-x: -2em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-linear {
+    background-position-x: -3em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-requirements {
+    background-position-x: -4em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-indoors {
+    background-position-x: -5em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-outdoors {
+    background-position-x: -6em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-language {
+    background-position-x: -7em;
+    background-position-y: -2em;
+  }
+  .metadata-icon-player-count {
+    background-position-x: 0em;
+    background-position-y: -3em;
+  }
+  .metadata-icon-reusable {
+    background-position-x: -1em;
+    background-position-y: -3em;
   }
   @media all and (max-width: 320px) {
     .hide-s {
