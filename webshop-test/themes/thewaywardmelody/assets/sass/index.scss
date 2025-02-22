@@ -182,7 +182,7 @@ $viewport-xl: 1280px;
         padding: 0;
 
         font-family: $font-family-body;
-        font-size: calc(13px + 0.390625vw);
+        font-size: calc(12px + 0.390625vw);
 
         background-color: var(--color-dark-xx);
         color: var(--color-light-xx);
@@ -364,6 +364,39 @@ $viewport-xl: 1280px;
         --color-mid: oklch(60% 0.075 315);
         --color-dark-x: oklch(35% 0.05 315);
         --color-dark-xx: oklch(15% 0.02 315);
+    }
+
+    // LEVELS
+    .block-level-1
+    {
+        background-color: oklch(70% 0.162 144.03);
+        color: oklch(50% 0.162 144.03);
+    }
+
+    .block-level-2
+    {
+        background-color: oklch(73.24% 0.127291 211.374);
+        color: oklch(50% 0.127291 211.374);
+    }
+
+    .block-level-3
+    {
+        background-color: oklch(70% 0.18 320);
+        color: oklch(50% 0.18 320);
+    }
+
+    .block-level-4
+    {
+        background-color: oklch(71.38% 0.1795 27.62);
+        color: oklch(50% 0.1795 27.62);
+    }
+
+    .block-level-5
+    {
+        //background-color: oklch(78% 0.18 91.41);
+        //color: oklch(50% 0.1552 91.41);
+        background-color: oklch(75% 0.18 75);
+        color: oklch(50% 0.1552 75);
     }
 }
 
@@ -621,6 +654,17 @@ $viewport-xl: 1280px;
         gap: $size-m;
     }
 
+    .height-xxxs
+    {
+        height: $size-xxxs * 10;
+        max-height: $size-xxxs * 10;
+    }
+
+    .height-xxs {
+        height: $size-xxs * 10;
+        max-height: $size-xxs * 10;
+    }
+
     .height-xs {
         height: $size-xs * 10;
         max-height: $size-xs * 10;
@@ -742,6 +786,10 @@ $viewport-xl: 1280px;
 
     .position-relative {
         position: relative;
+    }
+
+    .move-to-back {
+        z-index: -1;
     }
 
     .padding-absolute-s {

@@ -6,15 +6,37 @@ All educational systems around the world use different names, and grades, and gu
 
 That's why we simplified our system to a handful of **levels**. 
 
-In the curriculum below, we state the grade or age range that is typically associated with it, based on four countries (USA, UK, AU and NL). This is, however, not a requirement or certainty in any way! Someone age 5 might have the math proficiency of someone age 10, and it would be foolish to keep them locked inside a specific grade (doing the same easy exercises over and over). Conversely, I've met intelligent people at university who couldn't write a functional sentence to save their life. This is not a slight to them in any way. It merely illustrates that the _numerous_ essay and report writing exercises we were given were completely useless to them, and it would've been more useful to challenge them at their level.
+In the curriculum below, we state the grade or age range that is typically associated with it, based on four countries (_USA, UK, AU and NL_). This is, however, not a requirement or certainty in any way! 
 
-As explained in [our Philosophy](/info/philosophy/), we don't actually support this idea of requiring certain topics to be taught at required age ranges. We merely provide this curriculum for people who _do_ believe it's important and want a blueprint to reference.
+Someone age 5 might have the math proficiency of someone age 10, and it would be foolish to keep them locked inside a specific grade (doing the same easy exercises over and over). 
 
-All that needs to happen for someone to learn, is to be exposed to a lot of varied challenges. As such, don't be fixated on giving specific exercises when your kid is a specific age. Quite the opposite, actually! Just provide them _lots of things to do_. And when they've been doing the same thing for a while now, do something _different_. If a challenge is too hard now, switch to a different challenge and come back to it later. This is literally what all adults do to manage their work and problems, and I don't see why we don't allow children to do so.
+<!---
+Conversely, I've met intelligent people at university who couldn't write a functional sentence to save their life. This is not a slight to them in any way. It merely illustrates that the _numerous_ essay and report writing exercises we were given were completely useless to them, and it would've been more useful to challenge them at their level.
+--->
 
-It's not even a requirement to do things in any sensible order. Kids will figure things out. And if they don't, no harm done, now you have more data about what challenges they _can_ handle. Yes, this can get messy. That's _good_. Life is messy. Learning is messy. Our brains create new connections and memories through _association_, which _requires_ messiness. Without creating mess first, there is not even a definition of order that a brain can slowly figure out. (In that sense, very structured and neatly compartmentalized learning plans look good superficially but are actually harmful to learning.)
+As explained in [our Philosophy](/info/philosophy/), we don't actually support this idea of requiring certain topics to be taught at specific ages or in rigid ways. We merely provide this curriculum for people who _do_ believe it's important and want a blueprint to reference.
 
-Sticking to a rigid curriculum has even more downsides, such as being outdated easily. Notice, for example, how the curriculum below says _nothing_ about digital skills. Most countries simply do not teach it, unless a school puts in effort themselves to offer it as a bonus. The Netherlands currently does not even have concrete plans to add anything, that's how slowly a curriculum changes. (Though, admittedly, the Dutch are famous for their bureaucracy.) At the same time, 99% of our lives is digital now, and some babies touch a tablet before they touch another toy. Instead, if you simply use the entire world as your playground and learn from it as you go, you can never be outdated.
+All that needs to happen for someone to learn, is to be exposed to a lot of varied challenges. As such, don't be fixated on giving specific exercises when your kid is a specific age. 
+
+Quite the opposite, actually! Just provide them _lots of things to do_. And when they've been doing the same thing for a while now, do something _different_. If a challenge is too hard now, switch to a different challenge and come back to it later. This is literally what all adults do to manage their work and problems, and I don't see why we don't allow children to do so.
+
+It's not even a requirement to do things in any sensible order. Kids will figure things out. And if they don't, no harm done, now you have more data about what challenges they _can_ handle. Yes, this can get messy. That's _good_. Life is messy. Learning is messy. 
+
+Our brains create new connections and memories through _association_, which _requires_ messiness. Without creating mess first, there is not even a definition of order that a brain can slowly figure out. 
+
+{{% remark %}}
+In that sense, very structured and neatly compartmentalized learning plans look good superficially but are actually harmful to learning.
+{{% /remark %}}
+
+Sticking to a rigid curriculum has even more downsides, such as being outdated easily. Notice, for example, how the curriculum below says _nothing_ about digital skills. Most countries simply do not teach it, unless a school puts in effort themselves to offer it as a bonus. The Netherlands currently does not even have concrete plans to add anything, that's how slowly a curriculum changes.
+
+{{% remark %}}
+Though, admittedly, the Dutch are famous for their bureaucracy.
+{{% /remark %}}
+
+No sign of programming, informatics, or digital skills in most curriculae. While 99% of our life is digital now, and some babies touch a tablet before they touch another toy. 
+
+Instead, if you simply use the entire world as your playground and learn from it as you go, you can never be outdated.
 
 That said, the curriculum below is a compilation of world-wide curriculums and laws on education. I've been maintaining the list ever since I became interested in improving the systems of education. The hardest part has been to keep it streamlined and summarized, without missing anything important and accounting for major gaps/differences between certain views on education. 
 

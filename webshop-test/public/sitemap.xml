@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:1313/setup/2/</loc>
   </url><url>
+    <loc>http://localhost:1313/level/3/</loc>
+  </url><url>
     <loc>http://localhost:1313/difficulty/3/</loc>
   </url><url>
     <loc>http://localhost:1313/duration/60/</loc>
@@ -57,6 +59,8 @@
     <loc>http://localhost:1313/categories/kid-friendly/</loc>
   </url><url>
     <loc>http://localhost:1313/language/</loc>
+  </url><url>
+    <loc>http://localhost:1313/level/</loc>
   </url><url>
     <loc>http://localhost:1313/linear/</loc>
   </url><url>

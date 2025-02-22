@@ -44,6 +44,7 @@
 {{ if not (reflect.IsSlice $shipping_default) }}{{ $shipping_default = slice $shipping_default }}{{ end }}
 {{ $weight_default := or .Params.productsWeight 10 }}
 {{ $size_default := or .Params.productsSize "0|0|0" }}
+{{ $level := or .Params.level 5 }}
 
 <!--- If default stuff set, but no products in list, insert an empty one to inherit the default stuff --->
 {{ $default_values_set := or .Params.price .Params.productsSku }}
@@ -60,4 +61,4 @@
     {{ $zones = $zones | append (index $new_product "shipping") }}
 {{ end }}
 {{ $zones = $zones | uniq }}
-{{ return dict "price" $price "platform" $platform "image" $image_default "products" $products_full "zones" $zones "physical" $is_physical "single_button" $single_button }}
+{{ return dict "level" $level "price" $price "platform" $platform "image" $image_default "products" $products_full "zones" $zones "physical" $is_physical "single_button" $single_button }}

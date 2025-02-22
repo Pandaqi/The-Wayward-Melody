@@ -67,7 +67,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     margin: 0;
     padding: 0;
     font-family: "Lora";
-    font-size: calc(13px + 0.390625vw);
+    font-size: calc(12px + 0.390625vw);
     background-color: var(--color-dark-xx);
     color: var(--color-light-xx);
   }
@@ -221,6 +221,26 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     --color-mid: oklch(60% 0.075 315);
     --color-dark-x: oklch(35% 0.05 315);
     --color-dark-xx: oklch(15% 0.02 315);
+  }
+  .block-level-1 {
+    background-color: oklch(70% 0.162 144.03);
+    color: oklch(50% 0.162 144.03);
+  }
+  .block-level-2 {
+    background-color: oklch(73.24% 0.127291 211.374);
+    color: oklch(50% 0.127291 211.374);
+  }
+  .block-level-3 {
+    background-color: oklch(70% 0.18 320);
+    color: oklch(50% 0.18 320);
+  }
+  .block-level-4 {
+    background-color: oklch(71.38% 0.1795 27.62);
+    color: oklch(50% 0.1795 27.62);
+  }
+  .block-level-5 {
+    background-color: oklch(75% 0.18 75);
+    color: oklch(50% 0.1552 75);
   }
 }
 @layer bundles {
@@ -440,6 +460,14 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .gap-m {
     gap: 1rem;
   }
+  .height-xxxs {
+    height: 1rem;
+    max-height: 1rem;
+  }
+  .height-xxs {
+    height: 1.5rem;
+    max-height: 1.5rem;
+  }
   .height-xs {
     height: 4rem;
     max-height: 4rem;
@@ -526,6 +554,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .position-relative {
     position: relative;
+  }
+  .move-to-back {
+    z-index: -1;
   }
   .padding-absolute-s {
     left: 0.66rem;

@@ -2,9 +2,9 @@
 
 ## Functionality
 
-* LEVELS => Incorporate them everywhere, make them visible and pretty, allow searching by it, etcetera.
-* PAGEFIND SEARCH
-* Add my nice "remark" and "update" shortcodes again. (Use, for example, for the remark at the bottom of _Philosophy_ page.)
+* PAGEFIND SEARCH ( + provide easy links to using it everywhere)
+* Draw ICON for LEVEL
+* Add "SUBJECT" or "TEACHES" metadata? Or is this simply covered by categories? (Create ICONS for this anyway, you never know.)
 
 ## Home Page
 
@@ -18,13 +18,10 @@
 ### API
 
 * Finishing touches
-  * Switch function to TypeScript => compile through Hugo and move result to update
-    * Have the home page build and publish this resource, but only in development mode.
-    * So I can just copy-paste that JS.
   * Actually register webhooks
   * Add signature/secrets to server for Printify and Printful
   * TEST THIS SHIT
-* Rename webhook to something more sensible (change folder name + change in Snipcart dashboard)
+* SPLIT the merchant webhook and the shipping rates (shipping rates merely needs to create Snipcart object and we're done, no platform stuff) into separate files? To save computation power?
 * @TODO: Do I still need to make my own Snipcart notification when I update orders? (Getting stuff back from Print provider) Or does that happen automatically?
 * Any other sanity checks for ALL products in the HUGO/API system?
 
@@ -37,8 +34,13 @@
 
 # Niceties/Future To-Do
 
+* Make CURRICULUM page much nicer (with table of contents, graphics, direct links to the levels, etcetera)
 * Allow setting _multiple_ product images per product/variant. Then allow switching through all product images (in carousel-like mode)
   * This requires some small limiter that says "only cycle through images of current variant"
+  * This is a simple way to do it:
+    * IN JAVASCRIPT, simply save _all_ current image urls in dataset.
+    * In HTML, add arrows left/right (only function/appear if there are multiple images), and just swap src on click
+    * If clicked on _image_ (not arrows), enlarge image?
 * Use Metadata Nav Query Parameters for more stuff? + Find a way to allow pagination on _that_ too
 * Allow easy switch between EXCL and INCL TAX/VAT? (Set some really high default value? Use Snipcart JavaScript SDK to get it on-demand?)
 * The metadata overview on `single.html` now _combines_ multiple tags from a list into a single clickable button, unlike the other overviews. Which means clicking it just brings you to taxonomy for first one. Change that?

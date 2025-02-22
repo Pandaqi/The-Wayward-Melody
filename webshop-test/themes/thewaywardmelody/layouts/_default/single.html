@@ -6,6 +6,10 @@
 {{ if $is_product }}
 {{ $data := partial "func/get-product-data" . }}
 {{ $good_type_string := cond $data.physical "Physical Good" "Digital Good" }}
+{{ $level := $data.level }}
+<div class="maximize-width height-xxxs block-level-{{ $level }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
+    <div class="font-size-s font-accent">LEVEL {{ $level }}</div>
+</div>
 <div class="flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center">
     <!--- Image on left/top --->
     <div class="maximize-width padding-xs position-relative hover_remove-child-rotations">

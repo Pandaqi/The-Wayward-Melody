@@ -72,3 +72,12 @@
 
 [language]
     desc = "The language used in and/or required for the activity."
+
+[player-count]
+    desc = "How many different people can join this activity."
+
+[reusable]
+    desc = "The materials can be reused (e.g. without printing again) after using them."
+
+[level]
+    desc = "The general grade or skill needed to enjoy this material."

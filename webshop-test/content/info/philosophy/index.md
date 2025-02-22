@@ -16,6 +16,10 @@ In our ideal world, every kid would grow up playing a wide variety of games that
 
 Unfortunately, this is far removed from what many people consider "educational". As such, this webshop provides a nice and smooth _path_ towards trying this new style of education. A way to nudge people away from ineffective schemes and towards actual learning through games and activities.
 
+{{% remark %}}
+For those who want to start/stay more traditional, check out our [Curriculum](/info/curriculum/) page. It maps our "levels" to educational systems around the world. It provides a nice overview of all topics generally taught, in what order, at what ages.
+{{% /remark %}}
+
 ## The Nudging Spell
 
 The different categories all represent different steps on this path, and you can start with material from a category with which you're comfortable. The categories are _sorted_ from the start of the educational journey to the end.
@@ -66,4 +70,8 @@ Learning isn't some extra thing that we tack on. It's not something we must forc
 
 This webshop aims to provide this effective, play-based type of education. We merely provide more traditional materials to nudge people to give it a try and get them on board.
 
-_Remark:_ Though you're free to use these materials any way you like, we'd still ask that you don't twist them into something evil again! Don't use the quizzes as actual tests, with a strict grade or judgement. (Grades have been proven to merely damage creativity, retention, and motivation.) Don't force children to make all the exercises on the teaching material, or adhere to some strict fixed curriculum. (No good ever came from treating people like slaves.) Don't get mad when they can't solve a puzzle or don't understand a game's rules. Learning is mostly failing. _Life_ is mostly failing. Without challenge, how can you grow? Just keep driving and enjoy the ride anyway. 
+{{% remark %}}
+Though you're free to use these materials any way you like, we'd still ask that you don't twist them into something evil again! 
+
+Don't use the quizzes as actual tests, with a strict grade or judgement. (Grades have been proven to merely damage creativity, retention, and motivation.) Don't force children to make all the exercises on the teaching material, or adhere to some strict fixed curriculum. (No good ever came from treating people like slaves.) Don't get mad when they can't solve a puzzle or don't understand a game's rules. Learning is mostly failing. _Life_ is mostly failing. Without challenge, how can you grow? Just keep driving and enjoy the ride anyway. 
+{{% /remark %}}

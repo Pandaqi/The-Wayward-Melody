@@ -3,6 +3,7 @@ type: "product"
 
 title: "Test Item"
 id: "test-item"
+level: 3
 price: 29.95
 image: ""
 description: "This is a test item, wiehoo!"

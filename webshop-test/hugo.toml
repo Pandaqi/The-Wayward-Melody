@@ -36,3 +36,4 @@ paginate = 10
     language = "language"
     player-count = "player-count"
     reusable = "reusable"
+    level = "level"

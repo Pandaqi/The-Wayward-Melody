@@ -1,5 +1,13 @@
 {{ define "main" }}
 
+<!--- Merely for building webhook into .js --->
+{{ if not hugo.IsProduction }}
+    {{ $res := resources.Get "js/webhook/index.ts" }}
+    {{ $opts := dict "minify" true "targetPath" "js/snipcart-to-merchants-webhook.js" }}
+    {{ $js := $res | js.Build $opts }}
+    {{ $js.Publish }}
+{{ end }}
+
 <!--- Welcome Message --->
 {{ partial "views/banner-image" (dict "context" . "title" "Welcome!") }}
 

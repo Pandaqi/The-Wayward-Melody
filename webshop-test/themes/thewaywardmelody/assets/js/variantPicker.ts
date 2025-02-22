@@ -13,10 +13,7 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement) =>
     const buttonsWithID = Array.from(buttonContainer.querySelectorAll(`[data-item-id="${buttonID}"]`)) as HTMLElement[];
     if(buttonsWithID.length <= 0) { console.error(`No button found with ID ${buttonID}`); return; }
     if(buttonsWithID.length >= 2) { console.error(`Too many buttons found with ID ${buttonID}`, buttonsWithID); return; }
-
-    console.log(buttonContainer);
-    console.log(buttonsWithID);
-
+    
     // display that button, disable all OTHER buttons
     const otherButtons = Array.from(buttonContainer.getElementsByClassName("snipcart-add-item")) as HTMLElement[];
     for(const otherButton of otherButtons)
@@ -26,7 +23,6 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement) =>
 
     const button = buttonsWithID[0];
     button.style.display = "block";
-    console.log(button);
     
     // switch image to variant, if possible
     const productImage = document.getElementById("product-image") as HTMLImageElement;
@@ -45,7 +41,6 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement) =>
     if(hasShippingZones)
     {
         const shippingZones:string[] = shippingZonesRaw.split("|") ?? [];
-        console.log(timezone, convertTimezoneToShippingZone(timezone), button.dataset.itemShippingZones);
         const canShip = shippingZones.includes( convertTimezoneToShippingZone(timezone) );
         const shippingResponse = canShip ? `That means this product/variant ships to you!` : `Unfortunately, this specific product/variant only ships to ${shippingZones}.`
         let stringShipping = `Our wizards guess that you're near <b>${timezone}</b>. ${shippingResponse}`;
