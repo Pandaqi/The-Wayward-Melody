@@ -1,6 +1,6 @@
 {{ $is_section := .context.IsSection }}
 {{ $section_page := .context.CurrentSection }}
-{{ if not $section_page.Params.banners }}
+{{ if or (not $section_page.Params.banners) (not $section_page.Title) }}
     {{ $backup_section_page_path := or .path "/info/about/" }}
     {{ $section_page = (.context.GetPage $backup_section_page_path).CurrentSection }}
 {{ end }}

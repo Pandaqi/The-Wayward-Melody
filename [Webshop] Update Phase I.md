@@ -2,9 +2,9 @@
 
 ## Functionality
 
-* PAGEFIND SEARCH ( + provide easy links to using it everywhere)
-* Draw ICON for LEVEL
-* Add "SUBJECT" or "TEACHES" metadata? Or is this simply covered by categories? (Create ICONS for this anyway, you never know.)
+* PAGEFIND SEARCH => debug + style
+* Add ICON for LEVEL, SEARCH, and SUBJECT/TEACHES
+  * Add "SUBJECT" or "TEACHES" metadata? Or is this simply covered by categories?
 
 ## Home Page
 
@@ -43,7 +43,6 @@
     * If clicked on _image_ (not arrows), enlarge image?
 * Use Metadata Nav Query Parameters for more stuff? + Find a way to allow pagination on _that_ too
 * Allow easy switch between EXCL and INCL TAX/VAT? (Set some really high default value? Use Snipcart JavaScript SDK to get it on-demand?)
-* The metadata overview on `single.html` now _combines_ multiple tags from a list into a single clickable button, unlike the other overviews. Which means clicking it just brings you to taxonomy for first one. Change that?
 
 ## Design
 

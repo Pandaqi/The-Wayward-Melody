@@ -951,7 +951,7 @@ $viewport-xl: 1280px;
         .metadata-icon-#{$name} 
         {
             background-position-x: ($offset % 8) * -1em;
-            background-position-y: floor(math.div($offset, 8)) * -1em;
+            background-position-y: math.floor(math.div($offset, 8)) * -1em;
         }
     }
 

@@ -50,6 +50,13 @@
       <description>This online store uses the following services. Click the link to read their privacy policy.&#xA;Mollie (Privacy Policy) Snipcart (Privacy Policy) CloudFlare (Privacy Policy) The Wayward Melody itself does not track, store or ask for any personal data. We don&amp;rsquo;t care and we&amp;rsquo;re not interested in joining all the dark magic happening there! Especially not because it always comes at the cost of user experience, website speed, and general happiness.</description>
     </item>
     <item>
+      <title>Search</title>
+      <link>http://localhost:1313/info/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/search/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Terms &amp; Conditions</title>
       <link>http://localhost:1313/info/terms-and-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

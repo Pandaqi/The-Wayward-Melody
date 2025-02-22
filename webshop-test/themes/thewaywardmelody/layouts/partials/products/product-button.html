@@ -8,6 +8,8 @@
 <div>
     <button id="{{ .sku }}"
         class="snipcart-add-item button button-size-m border-image-m border-image-black bg-color-accent-contrast" 
+        data-pagefind-filter="price[data-item-price], platform[data-item-platform], shipping[data-item-shipping-zones]" 
+        data-pagefind-meta="price[data-item-price], platform[data-item-platform], shipping[data-item-shipping-zones]"
         data-item-id="{{ .sku }}" data-item-name="{{ .name }}"
         data-item-price="{{ .price }}" 
         {{ with .file }} data-item-file-guid="{{ . }}" {{ end }}

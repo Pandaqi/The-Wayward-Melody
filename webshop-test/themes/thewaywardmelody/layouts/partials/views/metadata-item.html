@@ -1,9 +1,10 @@
 {{- $data := partial "func/get-taxonomy-data.html" . -}}
 {{- $has_valid_value := ne $data.value nil -}}
+{{- $search_key := $data.key_readable -}}
 {{- if $has_valid_value -}}
 <a class="flex flex-center remove-link-styles text-color-light-xx gap-xs font-size-s font-accent rounded-xs bg-color-mid padding-xs hover_popup transition-m" title="{{ $data.desc }}" href="{{ $data.url }}">
-{{- if .value_only -}}<span>{{ $data.value_readable }}</span>
-{{- else -}}<div class="metadata-icon {{ $data.icon }}"></div><span>{{ $data.key_readable }}: {{ $data.value_readable }}</span>
+{{- if .value_only -}}<span data-pagefind-meta="{{ $search_key }}" data-pagefind-filter="{{ $search_key }}">{{ $data.value_readable }}</span>
+{{- else -}}<div class="metadata-icon {{ $data.icon }}"></div><span>{{ $data.key_readable }}: <span data-pagefind-meta="{{ $search_key }}" data-pagefind-filter="{{ $search_key }}">{{ $data.value_readable }}</span></span>
 {{- end -}}
 </a>
 {{- end -}}

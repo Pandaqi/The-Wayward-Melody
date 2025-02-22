@@ -1,7 +1,6 @@
 {{- $all_metadata := partial "func/get-all-taxonomies" . -}}
 {{- $relevant_metadata := or .Params.metadataRelevant $all_metadata -}}
 {{- $context := . -}}
-{{- $pages := where .Pages "Type" "product" -}}
 <ul class="flex flex-wrap remove-list-styling gap-xs padding-xs">
 {{- range $relevant_metadata -}}
 {{- partial "views/metadata-navigation-item" (dict "context" $context "key" .) -}}

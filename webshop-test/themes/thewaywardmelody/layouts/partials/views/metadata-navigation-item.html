@@ -5,10 +5,14 @@
 {{- $all_terms_filtered := where $all_terms "Section" $section }}
 {{- if gt (len $all_terms_filtered) 0 -}}
 {{- $data := partial "func/get-taxonomy-data.html" . -}}
-{{- $url_params := printf "section=%s" $section }}
-<li class="flex flex-wrap flex-center gap-xs padding-xs">
+{{- $url_params := or .url_params (printf "section=%s" $section) }}
+<li class="flex flex-wrap flex-center gap-xs padding-xs" title="{{ $data.desc }}">
+{{- if not .hide_icon -}}
 <div class="metadata-icon metadata-icon-{{ $key }}"></div>
-<div class="text-style-italic font-size-s" title="{{ $data.desc }}">{{ $data.key_readable }}?</div>
+{{- end -}}
+{{- if not .hide_label -}}
+<div class="text-style-italic font-size-s">{{ $data.key_readable }}?</div>
+{{- end -}}
 {{- range $term, $pages := $all_terms_filtered -}}
 {{- partial "views/metadata-item" (dict "context" $context "key" $key "value" $term "value_only" true "url_params" $url_params) -}}
 {{- end -}}

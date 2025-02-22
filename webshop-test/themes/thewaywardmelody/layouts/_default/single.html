@@ -1,11 +1,11 @@
 {{ define "main" }}
 
 {{ $is_product := eq .Type "product" }}
-<header>
+<header data-pagefind-body>
 <!--- Products show an image left, description + tags right --->
 {{ if $is_product }}
 {{ $data := partial "func/get-product-data" . }}
-{{ $good_type_string := cond $data.physical "Physical Good" "Digital Good" }}
+{{ $good_type_string := cond $data.physical "Physical" "Digital" }}
 {{ $level := $data.level }}
 <div class="maximize-width height-xxxs block-level-{{ $level }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
     <div class="font-size-s font-accent">LEVEL {{ $level }}</div>
@@ -19,21 +19,21 @@
         <div class="rounded-s position-absolute padding-absolute-s bg-color-dark-x" style="z-index: -1; transform: rotate({{ $rand_rot_2 }}deg);"></div>
         <div class="padding-xxs">
             {{ $alt := printf "Product Image for %s" .Title }}
-            <img id="product-image" class="rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}">
+            <img id="product-image" class="rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]">
         </div>
     </div>
     <!--- Main title, description, buttons on right/bottom -->
     <div class="maximize-width padding-s">
         <div class="font-accent font-size-s">
-            <span>Category: <a href="{{ .CurrentSection.Permalink }}">{{ .CurrentSection.Title }}</a></span> &middot; 
-            <span>Type: {{ $good_type_string }}</span> &middot;
+            <span>Category: <a href="{{ .CurrentSection.Permalink }}" data-pagefind-filter="category" data-pagefind-meta="category">{{ .CurrentSection.Title }}</a></span> &middot; 
+            <span>Type: <span data-pagefind-filter="type" data-pagefind-meta="type">{{ $good_type_string }}</span></span> &middot;
             <span>Price: {{ $data.price }}</span>
             {{ if $data.physical }} &middot; <span>Ships to: {{ delimit $data.zones ", " }}</span>{{ end }}
         </div>
-        <h1 class="font-size-xl align-left margin-none">{{ .Title }}</h1>
-        <p>{{ .Params.description | markdownify }}</p>
-        {{ partial "views/metadata-list" . }}
+        <h1 class="font-size-xl align-left margin-none" data-pagefind-meta="title">{{ .Title }}</h1>
+        <p data-pagefind-weight="4">{{ .Params.description | markdownify }}</p>
         {{ partial "products/product-button-list" . }}
+        {{ partial "views/metadata-navigation-single" . }}
     </div>
 </div>
 {{ end }}
@@ -42,20 +42,24 @@
 {{ partial "views/banner-image" (dict "context" .) }}
 {{ end }}
 </header>
-<main class="text-reader margin-m limit-width-m block-align-center">
+<main class="text-reader margin-m limit-width-m block-align-center" data-pagefind-body>
+    <div data-pagefind-weight="3">
     {{ .Content }}
+    </div>
 
     <!--- At the bottom are miscellaneous details, always set in a dictionary on Params --->
-    {{ $details := or .Params.details dict }}
-    {{ $has_details := gt (len $details) 0 }}
-    {{ if $has_details }}
-    <h2>Fine Details</h2>
-    <table>
-        <thead><tr><td>Spell Type</td><td>Meaning</td></tr></thead>
-        {{ range $k,$v := $details }}
-            <tr><td>{{ $k }}</td><td>{{ $v }}</td></tr>
+    <div data-pagefind-weight="1">
+        {{ $details := or .Params.details dict }}
+        {{ $has_details := gt (len $details) 0 }}
+        {{ if $has_details }}
+        <h2>Fine Details</h2>
+        <table>
+            <thead><tr><td>Spell Type</td><td>Meaning</td></tr></thead>
+            {{ range $k,$v := $details }}
+                <tr><td>{{ $k }}</td><td>{{ $v }}</td></tr>
+            {{ end }}
+        </table>
         {{ end }}
-    </table>
-    {{ end }}
+    </div>
 </main>
 {{ end }}
