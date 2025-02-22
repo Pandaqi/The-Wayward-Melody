@@ -5,6 +5,7 @@
 {{ $categories := delimit $categories_list "|" }}
 {{ $shipping_zones := delimit .shipping "|" }}
 {{ $size := split (or .size "") "|" }}
+{{ $images := delimit .images "|" }}
 <div>
     <button id="{{ .sku }}"
         class="snipcart-add-item button button-size-m border-image-m border-image-black bg-color-accent-contrast" 
@@ -14,6 +15,7 @@
         data-item-price="{{ .price }}" 
         {{ with .file }} data-item-file-guid="{{ . }}" {{ end }}
         data-item-image="{{ .image }}"
+        data-item-images="{{ $images }}"
         data-item-url="{{ .url }}"
         data-item-max-quantity="{{ $max_quantity }}"
         data-item-shippable="{{ $is_shippable }}"

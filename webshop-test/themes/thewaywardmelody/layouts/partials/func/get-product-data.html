@@ -24,14 +24,19 @@
 {{ if $has_multiple_products }}
     {{ $price = printf "From €%s" (string $price_lowest) }}
 {{ end }}
-{{ $price = printf "%s (excl tax)" (string $price) }}
+{{ $tax_type := cond (or .Params.priceIncludesTax false) " (incl tax)" " (excl tax)" }}
+{{ $str_tax := cond (or .Site.Params.showTax false) $tax_type "" }}
+{{ $price = printf "%s%s" (string $price) $str_tax }}
 
 <!--- Use main image if set. Otherwise select random from product variants. If not available, placeholder. --->
-{{ $image_default := or .Params.image "" }}
-{{ if and (not $image_default) $has_product }}
-    {{ $image_default = index (index (sort $products "image" "desc") 0) "image" }}
+<!--- @NOTE: Images can be a SINGLE URL or an ARRAY of them. The `image` return ($image_default) must be a single image (used for search, no-js load, etcetera). But products themselves have a second `images` that should be the full list --->
+{{ $images_default := or .Params.image "" }}
+{{ if and (not $images_default) $has_product }}
+    {{ $images_default = index (index (sort $products "image" "desc") 0) "image" }}
 {{ end }}
-{{ if not $image_default }}{{ $image_default = "https://picsum.photos/500/386" }}{{ end }}
+{{ if not $images_default }}{{ $images_default = slice "https://picsum.photos/500/386" }}{{ end }}
+{{ $image_default := $images_default }}
+{{ if reflect.IsSlice $image_default }}{{ $image_default = index $images_default 0 }}{{ end }}
 
 <!--- Gather defaults for all values --->
 <!--- (Basically, I want to allow setting things directly in Params for when a product has just 1 variant, or a value is the same for all variants, which is MOST CASES) --->
@@ -56,7 +61,11 @@
 {{ $products_full := slice }}
 {{ $zones := slice }}
 {{ range $products }}
-    {{ $new_product := dict "sku" (or .sku $sku_default) "name" (or .name $name_default) "price" (or .price $price_lowest) "platform" (or .platform $platform) "image" (or .image $image_default) "categories" (or .categories $categories_default) "url" (or .url $url_default) "description" (or .desc $description_default) "shipping" (or .shipping $shipping_default) "file" (or .file "") "weight" (or .weight $weight_default) "size" (or .size $size_default) }}
+    {{ $main_image := or .image $image_default }}
+    {{ if reflect.IsSlice $main_image }}{{ $main_image = index $main_image 0 }}{{ end }}
+    {{ $all_images := or .image $images_default }}
+    {{ if not (reflect.IsSlice $all_images) }}{{ $all_images = slice $all_images }}{{ end }}
+    {{ $new_product := dict "sku" (or .sku $sku_default) "name" (or .name $name_default) "price" (or .price $price_lowest) "platform" (or .platform $platform) "image" $main_image "images" $all_images "categories" (or .categories $categories_default) "url" (or .url $url_default) "description" (or .desc $description_default) "shipping" (or .shipping $shipping_default) "file" (or .file "") "weight" (or .weight $weight_default) "size" (or .size $size_default) }}
     {{ $products_full = $products_full | append $new_product }}
     {{ $zones = $zones | append (index $new_product "shipping") }}
 {{ end }}

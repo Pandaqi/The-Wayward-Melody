@@ -163,8 +163,8 @@ Also notice the "More Vocabulary" tacked onto every level. This usually means gr
 #### Social
 
 * Completely independent planning and studying, First Homework
-* - (Around this point, schools are usually like "Social wellbeing? Mental health? You're on your own! What a grown-up teenager you are!")
-* - (At this point, girls may enter puberty already, while boys usually still have to wait. A topic, thus, might be talking about body and sexuality.)
+* X (Around this point, schools are usually like "Social wellbeing? Mental health? You're on your own! What a grown-up teenager you are!")
+* X (At this point, girls may enter puberty already, while boys usually still have to wait. A topic, thus, might be talking about body and sexuality.)
 
 #### World
 
@@ -172,7 +172,9 @@ Also notice the "More Vocabulary" tacked onto every level. This usually means gr
 * Geography (focus on major players like Europe and USA), History (Hunters & Gatherers, Ancient Greece, Ancient Romans, Early Middle Ages, Late Middle Ages)
 * Geography (world), Nature (photosynthesis; food cycle; blood circulation; digestion; sexual reproduction), Science (electricity/energy; magnetism; construction; materials), Religion (freedom of religion; major religions; secularization), Traffic (this is usually the final test to see whether a child understands and applies all traffic laws in your country), Society (democracy; norms and values; freedom of speech; discrimination), History (Age of Exploration, Age of Monarchies, Renaissance, Industrial Age, World Wars, Information Age)
 
-_Remark_: Age 7 or 8 often displays the first signs of your child really not liking school anymore. They'll be more hesitant to go, stop obeying commands, or literally say it's boring or useless. Of course, you can find many "helpful" articles online about how to force your child to keep doing the work anyway. I'll obviously recommend that you fully agree, then ask _what your child wants_ and provide ways to challenge them in the right way.
+{{% remark %}}
+Age 7 or 8 often displays the first signs of your child really not liking school anymore. They'll be more hesitant to go, stop obeying commands, or literally say it's boring or useless. Of course, you can find many "helpful" articles online about how to force your child to keep doing the work anyway. I'll obviously recommend that you fully agree, then ask _what your child wants_ and provide ways to challenge them in the right way.
+{{% /remark %}}
 
 ## Level 4 
 
@@ -186,7 +188,9 @@ _Remark_: Age 7 or 8 often displays the first signs of your child really not lik
 
 This level usually marks the switch from your first school to your second (primary->high). This usually involves a big final test, and lots of time is wasted preparing for this big final test. At least in the Netherlands, they literally teach you "tricks" for months on how to get the best possible score, instead of, you know, teaching valuable skills ;) I do agree, however, with curriculae that say you should prepare your child for this major switch and make sure to properly orient on where they want to go next.
 
-_Remark_: Age 10 or 11 often displays first signs of a child taking an interest in things outside school and their immediate day to day life. Such as society, politics, jobs, etcetera. This is, of course, something to be encouraged. It's also something you can use heavily in education to keep it interesting and tailored to the person, such as involving a breaking news story in your history lesson the next day.
+{{% remark %}} 
+Age 9+ often displays first signs of a child taking an interest in things outside school and their immediate day to day life. Such as society, politics, jobs, etcetera. This is, of course, something to be encouraged. It's also something you can use heavily in education to keep it interesting and tailored to the person, such as involving a breaking news story in your history lesson the next day.
+{{% /remark %}}
 
 ### Topics
 

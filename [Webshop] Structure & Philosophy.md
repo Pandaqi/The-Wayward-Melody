@@ -30,3 +30,6 @@ PROMPTS FOR HEADER IMAGE GENERATION:
 <!--- DEBUGGING: This should only go on those OTHER websites --->
 {{ partial "products/product-list-external" (dict "context" . "urls" (slice "https://webshop-test.pages.dev/merchandise/test-item/")) }}
 
+Terms and Conditions Other Sources:
+* https://jumpseller.com/learn/sample-terms-and-conditions/
+* https://escaperoomgeeks.com/shop/ has a pretty nice one?

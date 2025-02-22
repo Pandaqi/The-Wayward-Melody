@@ -1,0 +1,8 @@
+{{- $images := or (.Get "images") "https://picsum.photos/500/386" -}}
+{{- $image := index (split $images "|") 0 -}}
+{{- $alt := or (.Get "alt") "No description set." -}}
+<div class="image-carousel">
+    <img class="image-carousel-image rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{- $image -}}" data-images="{{- $images -}}" alt="{{- $alt -}}" data-carousel-index="0">
+    <div class="image-carousel-prev position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-left drop-shadow-xs">«</div>
+    <div class="image-carousel-next position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-right drop-shadow-xs">»</div>
+</div>

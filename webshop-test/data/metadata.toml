@@ -81,3 +81,12 @@
 
 [level]
     desc = "The general grade or skill needed to enjoy this material."
+
+[search]
+    desc = "The general search function for this website."
+
+[subject]
+    desc = "The subjects (loosely defined) this material teaches or explores."
+
+[brand]
+    desc = "The recognizable brand to which this product belongs."

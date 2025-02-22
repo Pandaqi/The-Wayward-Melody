@@ -6,6 +6,11 @@
     {{ $opts := dict "minify" true "targetPath" "js/snipcart-to-merchants-webhook.js" }}
     {{ $js := $res | js.Build $opts }}
     {{ $js.Publish }}
+
+    {{ $res_shipping := resources.Get "js/webhook/shipping/index.ts" }}
+    {{ $opts_shipping := dict "minify" true "targetPath" "js/shipping-webhook.js" }}
+    {{ $js_shipping := $res_shipping | js.Build $opts_shipping }}
+    {{ $js_shipping.Publish }}
 {{ end }}
 
 <!--- Welcome Message --->
@@ -20,14 +25,14 @@
 
 <div class="text-reader block-column-and-center">
 <p>This webshop has a unique philosophy when it comes to education, entertainment and life in general. You can <a href="/info/philosophy/">read the details here</a>, but the summary is quite simple.</p>
-<p>Every <b>main category</b> in this webshop is part of a path towards <b>fun <em>and</em> learning</b>. Start with materials in the first categories, and once satisfied move to later categories, until you end up at the place where learning actually happens: games and play.</p>
+<p>Every <b>main category</b> in this webshop is part of a path towards <b>fun <em>and</em> learning</b>. Start with materials in the first "Factions" (or "Categories"), and once satisfied move to later Factions, until you end up at the place where learning actually happens: games and play.</p>
 <p>Because fun comes first, though, we sell products for all ages and situations, not just school or education. Have a look around!</p>
 </div>
 
 <!--- Main Categories --->
-{{ partial "views/banner-image" (dict "context" . "title" "Categories" "class" "margin-top-xxxl") }}
+{{ partial "views/banner-image" (dict "context" . "title" "Factions" "class" "margin-top-xxxl") }}
 <div class="block-column-and-center">
-{{ partial "views/category-list" (dict "context" . ) }}
+{{ partial "views/faction-list" (dict "context" . ) }}
 <div class="font-size-s text-style-italic text-color-mid align-center">
 Can't find what you're looking for? Try our powerful and flexible <a class="underline" href="/info/search">Search</a> functionality.
 </div>

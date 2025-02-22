@@ -22,7 +22,7 @@ For those who want to start/stay more traditional, check out our [Curriculum](/i
 
 ## The Nudging Spell
 
-The different categories all represent different steps on this path, and you can start with material from a category with which you're comfortable. The categories are _sorted_ from the start of the educational journey to the end.
+The different "Factions" (or "Categories") all represent different steps on this path, and you can start with material from a category with which you're comfortable. The Factions are _sorted_ from the start of the educational journey to the end.
 
 * **Explorers**: get inspired or curious by enjoying some new media or art, in the broadest sense of the word. (Everything in life starts here.)
 * **Sneakpeeks**: found something interesting? Get access to all source files and assets behind that media. (Study it, explore it, see what's possible.)
@@ -38,7 +38,11 @@ If you are a teacher or firm believer in traditional education, for example, the
 
 But once your students have played around with a topic for a bit, maybe try a _quiz_. Once you've experienced that, maybe try giving them some _puzzles_. When you see how much they enjoy it, maybe organize an _escape room_ around the topic. 
 
-Just go up the categories and see how much more fun and effective education can be! (In fact, if you try the different categories for a specific topic, you might notice that the same information and little games are reused.)
+Just go up the Factions and see how much more fun and effective education can be! 
+
+{{% remark %}}
+In fact, if you try the different Factions for the same specific topic, you might notice that the same information and little games are reused.
+{{% /remark %}}
 
 It is my sincere hope that providing the full path convinces more people to give it a try. And once they've tried some of our materials, they apply their skepticism to the utterly failed systems of education instead of to anyone who tries to change it.
 

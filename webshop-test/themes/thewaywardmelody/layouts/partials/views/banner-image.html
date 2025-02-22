@@ -1,8 +1,8 @@
 {{ $is_section := .context.IsSection }}
-{{ $section_page := .context.CurrentSection }}
+{{ $section_page := .context.FirstSection }}
 {{ if or (not $section_page.Params.banners) (not $section_page.Title) }}
     {{ $backup_section_page_path := or .path "/info/about/" }}
-    {{ $section_page = (.context.GetPage $backup_section_page_path).CurrentSection }}
+    {{ $section_page = (.context.GetPage $backup_section_page_path).FirstSection }}
 {{ end }}
 {{ $section_name := $section_page.Title | lower }}
 {{ $title := or .title .context.Title }}
@@ -10,15 +10,24 @@
 {{ if $is_taxonomy }}{{ $title = "Search" }}{{ end }}
 <div class="height-ml">
 {{ $backup_image_placeholder := "https://picsum.photos/1920/432" }}
+{{ $default_image := or .context.Params.image $backup_image_placeholder }}
+{{ $images := slice }}
 {{ $random_banner_image := "" }}
 {{ with $section_page.Params.banners }}
-    {{ $random_banner_image = printf "/media/banners/%s/%s.webp" $section_name (index (shuffle $section_page.Params.banners) 0) }}
+    {{ range . }}
+        {{ $image_url := printf "/media/banners/%s/%s.webp" $section_name . }}
+        {{ $images = $images | append $image_url }}
+    {{ end }}
 {{ end }}
-{{ $src := or (or .context.Params.image $random_banner_image) $backup_image_placeholder }}
+{{ if eq (len $images) 0 }}{{ $images = slice $default_image }}{{ end }}
+{{ $images_string := delimit $images "|" }}
+{{ $src := index $images 0 }}
 {{ $alt := printf "Banner Image for Article: %s" $title }}
-{{ if $is_section }}{{ $alt = printf "Banner Image for Category/Section: %s" $title }}{{ end }}
+{{ if $is_section }}{{ $alt = printf "Banner Image for Faction: %s" $title }}{{ end }}
 {{ $class := or .class "" }}
-<div class="maximize-height background-cover fade-to-bg flex flex-center {{ $class }}" style="background:linear-gradient(to bottom, transparent, var(--color-dark-xx)), url({{ $src }}); background-size: cover; background-position: center;" title="{{ $alt }}">
+{{ $fade_single_side := or .fade_single false }}
+{{ $gradient := cond $fade_single_side "linear-gradient(to bottom, transparent, var(--color-dark-xx))" "linear-gradient(to bottom, var(--color-dark-xx), transparent, var(--color-dark-xx))" }}
+<div class="banner-image maximize-height background-cover fade-to-bg flex flex-center {{ $class }}" style="background:{{ $gradient | safeCSS }}, url({{ $src }}); background-size: cover; background-position: center;" title="{{ $alt }}" data-images="{{ $images_string }}">
     <h1 class="font-size-xxl margin-none text-shadow">{{ $title }}</h1>
 </div>
 </div>

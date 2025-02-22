@@ -6,11 +6,14 @@
 {{ if $is_product }}
 {{ $data := partial "func/get-product-data" . }}
 {{ $good_type_string := cond $data.physical "Physical" "Digital" }}
+{{ $root_section := .FirstSection }}
+{{ $sub_section := .CurrentSection }}
+{{ $is_sub_section := ne $root_section $sub_section }}
 {{ $level := $data.level }}
 <div class="maximize-width height-xxxs block-level-{{ $level }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
     <div class="font-size-s font-accent">LEVEL {{ $level }}</div>
 </div>
-<div class="flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center">
+<div class="image-carousel flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center">
     <!--- Image on left/top --->
     <div class="maximize-width padding-xs position-relative hover_remove-child-rotations">
         {{ $rand_rot_1 := (sub math.Rand 0.5) | mul 8 }}
@@ -19,13 +22,18 @@
         <div class="rounded-s position-absolute padding-absolute-s bg-color-dark-x" style="z-index: -1; transform: rotate({{ $rand_rot_2 }}deg);"></div>
         <div class="padding-xxs">
             {{ $alt := printf "Product Image for %s" .Title }}
-            <img id="product-image" class="rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]">
+            <img class="product-image image-carousel-image rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-carousel-index="0" data-pagefind-meta="image[src], image_alt[alt]">
+            <div class="image-carousel-prev position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-left drop-shadow-xs">«</div>
+            <div class="image-carousel-next position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-right drop-shadow-xs">»</div>
         </div>
     </div>
     <!--- Main title, description, buttons on right/bottom -->
     <div class="maximize-width padding-s">
         <div class="font-accent font-size-s">
-            <span>Category: <a href="{{ .CurrentSection.Permalink }}" data-pagefind-filter="category" data-pagefind-meta="category">{{ .CurrentSection.Title }}</a></span> &middot; 
+            <span>Faction: <a href="{{ $root_section.Permalink }}" data-pagefind-filter="faction" data-pagefind-meta="faction">{{ $root_section.Title }}</a></span> &middot; 
+            {{ if $is_sub_section }}
+            <span>Further Faction: <a href="{{ $sub_section.Permalink }}">{{ $sub_section.Title }}</a></span> &middot;
+            {{ end }}
             <span>Type: <span data-pagefind-filter="type" data-pagefind-meta="type">{{ $good_type_string }}</span></span> &middot;
             <span>Price: {{ $data.price }}</span>
             {{ if $data.physical }} &middot; <span>Ships to: {{ delimit $data.zones ", " }}</span>{{ end }}

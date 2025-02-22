@@ -5,35 +5,40 @@ theme = "thewaywardmelody"
 
 paginate = 10
 
+[params]
+  showTax = true
+
 [markup.goldmark.renderer]
-    unsafe = true
+  unsafe = true
 
 [pagination]
   disableAliases = true
   pagerSize = 10
 
 [taxonomies]
-    categories = "categories"
-    duration = "duration"
-    age = "age"
-    difficulty = "difficulty"
-    setup = "setup"
-    prior-wisdom = "prior-wisdom"
-    color = "color"
-    mature = "mature"
-    textless = "textless"
-    parallel-play = "parallel-play"
-    double-sided-allowed = "double-sided-allowed"
-    double-sided-required = "double-sided-required"
-    game-master = "game-master"
-    game-master-can-play = "game-master-can-play"
-    hybrid = "hybrid"
-    paper-choice = "paper-choice"
-    linear = "linear"
-    requirements = "requirements"
-    indoors = "indoors"
-    outdoors = "outdoors"
-    language = "language"
-    player-count = "player-count"
-    reusable = "reusable"
-    level = "level"
+  categories = "categories"
+  duration = "duration"
+  age = "age"
+  difficulty = "difficulty"
+  setup = "setup"
+  prior-wisdom = "prior-wisdom"
+  color = "color"
+  mature = "mature"
+  textless = "textless"
+  parallel-play = "parallel-play"
+  double-sided-allowed = "double-sided-allowed"
+  double-sided-required = "double-sided-required"
+  game-master = "game-master"
+  game-master-can-play = "game-master-can-play"
+  hybrid = "hybrid"
+  paper-choice = "paper-choice"
+  linear = "linear"
+  requirements = "requirements"
+  indoors = "indoors"
+  outdoors = "outdoors"
+  language = "language"
+  player-count = "player-count"
+  reusable = "reusable"
+  level = "level"
+  subject = "subject"
+  brand = "brand"

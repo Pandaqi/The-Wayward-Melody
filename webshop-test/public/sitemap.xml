@@ -14,6 +14,8 @@
   </url><url>
     <loc>http://localhost:1313/age/</loc>
   </url><url>
+    <loc>http://localhost:1313/brand/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/color/</loc>
@@ -94,9 +96,13 @@
   </url><url>
     <loc>http://localhost:1313/runaways/</loc>
   </url><url>
+    <loc>http://localhost:1313/info/search/</loc>
+  </url><url>
     <loc>http://localhost:1313/setup/</loc>
   </url><url>
     <loc>http://localhost:1313/sneakpeeks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/subject/</loc>
   </url><url>
     <loc>http://localhost:1313/teachers/</loc>
   </url><url>
@@ -123,5 +129,7 @@
     <loc>http://localhost:1313/paper-choice/true/</loc>
   </url><url>
     <loc>http://localhost:1313/double-sided-allowed/true/</loc>
+  </url><url>
+    <loc>http://localhost:1313/brand/true/</loc>
   </url>
 </urlset>

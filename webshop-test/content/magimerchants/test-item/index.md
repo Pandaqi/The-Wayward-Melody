@@ -15,11 +15,11 @@ products:
   - name: "123"
     sku: "123test"
     price: 29.95
-    image: "/media/banners/quizmasters/banner_trivia_1.webp"
+    image: ["/media/banners/quizmasters/banner_trivia_1.webp", "/media/banners/quizmasters/banner_trivia_2.webp", "/media/banners/quizmasters/banner_trivia_3.webp"]
   - name: "456"
     sku: "456test"
     price: 39.95
-    image: "/media/banners/quizmasters/banner_trivia_2.webp"
+    image: "/media/banners/quizmasters/banner_trivia_4.webp"
 
 details:
   akey: avalue
