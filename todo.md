@@ -1,27 +1,16 @@
 # To-Do
 
-
-* Add ICON for LEVEL, SEARCH, SUBJECT/TEACHES, and BRAND.
-* HOME PAGE: 
-  * Display Factions as nice images (probably want ICONS for them anyway).
-    * Their tiny square icons are just for the navigation/footer/that top section on product displays
-    * Their larger images are used in this list, like how I did with NDHU
-    * (This data is just set in the `_index.md` of the sections)
-
-
 ## Business
-
-### API
-
-* Actually register webhooks => Add signature/secrets to server for Printify and Printful => TEST THIS SHIT
-* @TODO: Do I still need to make my own Snipcart notification when I update orders? (Getting stuff back from Print provider) Or does that happen automatically?
-* Any other sanity checks for ALL products in the HUGO/API system?
-
-### Business
 
 * ONCE I HAVE THEWAYWARDMELODY.COM SETUP
   * Change email address to no-reply@thewaywardmelody.com (in SendGrid), verify _that_ domain instead of RodePanda for Snipcart
   * Update Mollie profile with correct domain name. Confirm the webshop is "done" and it should verify.
+
+### Merchandise API
+
+* Actually register webhooks => Add signature/secrets to server for Printify and Printful => TEST THIS SHIT
+* @TODO: Do I still need to make my own Snipcart notification when I update orders? (Getting stuff back from Print provider) Or does that happen automatically?
+* Any other sanity checks for ALL products in the HUGO/API system?
 
 
 # Niceties/Future To-Do
@@ -37,6 +26,7 @@
   * These get an extra `data` file with the description + images for that brand. (Feels cleaner than polluting the root with _another_ folder ... which we must then hide from the factions ...)
   * Products can just set the `brand` metadata
   * When searching into that taxonomy (term == brand), it simply reads that data file.
+* _Maybe_ move banners and faction images into the faction itself, not sure. (Would prevent needing to `lower` the `.Title` and hoping that never breaks ...)
 
 ## Design
 

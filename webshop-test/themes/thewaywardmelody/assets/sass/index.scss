@@ -924,6 +924,11 @@ $viewport-xl: 1280px;
         @include hover_sidearrows;
     }
 
+    .glow
+    {
+        filter: drop-shadow(0 0 0.33em white);
+    }
+
     .hover_glow:hover {
         filter: drop-shadow(0 0 0.33em white);
     }
@@ -956,6 +961,29 @@ $viewport-xl: 1280px;
     .border-image-black
     {
         border-image-source: url(/css/border_pattern_black.webp);
+    }
+
+    // Faction Icons
+    $faction-icons: (
+        "info": 0,
+        "explorers": 1,
+        "sneakpeeks": 2,
+        "teachers": 3,
+        "quizmasters": 4,
+        "puzzlepages": 5,
+        "runaways": 6,
+        "gamiverses": 7,
+        "magimerchants": 8
+    );
+
+    @each $name, $offset in $faction-icons 
+    {
+        .faction-icon-#{$name} 
+        {
+            background-image: url(/css/icons_factions.svg);
+            background-position-x: ($offset % 8) * -1em;
+            background-position-y: math.floor(math.div($offset, 8)) * -1em;
+        }
     }
 
     // (Metadata) Icons
@@ -992,19 +1020,18 @@ $viewport-xl: 1280px;
         "brand": 29
     );
 
-    .metadata-icon
+    .metadata-icon, .faction-icon, .store-icon
     {
         width: 1em;
         height: 1em;
         margin-left: 0.15em;
         margin-right: 0.15em;
         display: inline-block;
-        background-image: url(/css/icons.svg);
         background-size: 800%;
         filter: #{"invert()"};
     }
 
-    .metadata-icon-black
+    .metadata-icon-black, .faction-icon-black, .store-icon-block
     {
         filter: none;
     }
@@ -1013,16 +1040,38 @@ $viewport-xl: 1280px;
     {
         .metadata-icon-#{$name} 
         {
+            background-image: url(/css/icons.svg);
             background-position-x: ($offset % 8) * -1em;
             background-position-y: math.floor(math.div($offset, 8)) * -1em;
         }
     }
 
+    // Special Case: store icon
+    .store-icon
+    {
+        background-image: url(/css/logos/twwm_favicon_minimal.png);
+        background-size: contain;
+    }
+
     // Responsiveness & Viewport Resizing
+    .show-s
+    {
+        display: none;
+    }
+
+    .show-m
+    {
+        display: none;
+    }
+
     @media all and (max-width: $viewport-s)
     {
         .hide-s {
             display: none;
+        }
+
+        .show-s {
+            display: block;
         }
 
         .flex-wrap-below-s {
@@ -1034,6 +1083,10 @@ $viewport-xl: 1280px;
     {
         .hide-m {
             display: none;
+        }
+
+        .show-m {
+            display: block;
         }
 
         .flex-wrap-below-m {

@@ -23,14 +23,40 @@
 
         <!--- All major categories to visit --->
         <ul class="remove-list-styling flex flex-wrap flex-center gap-xs margin-s">
-            {{ if not .IsHome }}<li><a href="/" class="theme-general navigation-link">Home</a></li>{{ end }}
-            <li><a href="/explorers/" class="theme-art-explorers navigation-link hide-s">Explorers</a></li>
-            <li><a href="/sneakpeeks/" class="theme-sneakpeeks navigation-link hide-m">Sneakpeeks</a></li>
-            <li><a href="/teachers/" class="theme-teachers navigation-link hide-s">Teachers</a></li>
-            <li><a href="/quizmasters/" class="theme-quizmasters navigation-link hide-m">Quizmasters</a></li>
-            <li><a href="/puzzlepages/" class="theme-puzzlepages navigation-link hide-m">Puzzlepages</a></li>
-            <li><a href="/runaways/" class="theme-runaways navigation-link">Runaways</a></li>
-            <li><a href="/gamiverses/" class="theme-gamiverses navigation-link">Gamiverses</a></li>
+            {{ if not .IsHome }}
+            <li><a href="/" class="theme-general navigation-link">
+                <div class="store-icon show-m"></div>
+                <span class="hide-m">Home</span>
+            </a></li>
+            {{ end }}
+            <li><a href="/explorers/" class="theme-art-explorers navigation-link">
+                <div class="faction-icon faction-icon-explorers show-m"></div>
+                <span class="hide-m">Explorers</span>
+            </a></li>
+            <li><a href="/sneakpeeks/" class="theme-sneakpeeks navigation-link">
+                <div class="faction-icon faction-icon-sneakpeeks show-m"></div>
+                <span class="hide-m">Sneakpeeks</span>
+            </a></li>
+            <li><a href="/teachers/" class="theme-teachers navigation-link">
+                <div class="faction-icon faction-icon-teachers show-m"></div>
+                <span class="hide-m">Teachers</span>
+            </a></li>
+            <li><a href="/quizmasters/" class="theme-quizmasters navigation-link">
+                <div class="faction-icon faction-icon-quizmasters show-m"></div>
+                <span class="hide-m">Quizmasters</span>
+            </a></li>
+            <li><a href="/puzzlepages/" class="theme-puzzlepages navigation-link">
+                <div class="faction-icon faction-icon-puzzlepages show-m"></div>
+                <span class="hide-m">Puzzlepages</span>
+            </a></li>
+            <li><a href="/runaways/" class="theme-runaways navigation-link">
+                <div class="faction-icon faction-icon-runaways show-m"></div>
+                <span class="hide-m">Runaways</span>
+            </a></li>
+            <li><a href="/gamiverses/" class="theme-gamiverses navigation-link">
+                <div class="faction-icon faction-icon-gamiverses show-m"></div>
+                <span class="hide-m">Gamiverses</span>
+            </a></li>
         </ul>
     </nav>
 </header>

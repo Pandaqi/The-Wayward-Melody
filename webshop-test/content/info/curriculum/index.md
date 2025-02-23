@@ -78,7 +78,9 @@ Habits and routine (such as "you have to go to school (except weekends)"), Takin
 
 #### Physical
 
-Anything that challenges gross and fine motor skills. This is true for everyone, for their entire life, so it won't be mentioned again.
+Anything that challenges gross and fine motor skills. Common activities are: cutting, folding, throwing, crumpling paper, roughly copying/drawing lines, or just activities where you give answers by _moving around_ instead of writing or saying them.
+
+The need to be physically active is true for everyone, though, for their entire life. So it won't be mentioned again.
 
 #### World
 

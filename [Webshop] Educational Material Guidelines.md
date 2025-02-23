@@ -31,7 +31,11 @@ There's a branding on all materials: by doodles (music motif, dreamcatcher, star
 
 Why? Minimalist. Less work. Looks better. And teachers report hating seeing logos (such as Twinkl) on stuff, even cutting them all out.
 
-## Rule #5: Easy Escalation
+## Rule #5: Cheap Printing
+
+Mostly use outlined graphics. If filled with color, alternate and make it light colors. Be minimalist as always with number of pages and size of things.
+
+## Rule #6: Easy Escalation
 
 Design the exercises in such a way that they easily transfer/are reused in _further Factions_. Of course, extra changes and layers are always needed, but they should be minimal.
 

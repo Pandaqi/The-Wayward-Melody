@@ -670,6 +670,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .hover_sidearrows:hover::before, .hover_sidearrows:hover::after {
     visibility: visible;
   }
+  .glow {
+    filter: drop-shadow(0 0 0.33em white);
+  }
   .hover_glow:hover {
     filter: drop-shadow(0 0 0.33em white);
   }
@@ -692,142 +695,229 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .border-image-black {
     border-image-source: url(/css/border_pattern_black.webp);
   }
-  .metadata-icon {
+  .faction-icon-info {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: 0em;
+    background-position-y: 0em;
+  }
+  .faction-icon-explorers {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: -1em;
+    background-position-y: 0em;
+  }
+  .faction-icon-sneakpeeks {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: -2em;
+    background-position-y: 0em;
+  }
+  .faction-icon-teachers {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: -3em;
+    background-position-y: 0em;
+  }
+  .faction-icon-quizmasters {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: -4em;
+    background-position-y: 0em;
+  }
+  .faction-icon-puzzlepages {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: -5em;
+    background-position-y: 0em;
+  }
+  .faction-icon-runaways {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: -6em;
+    background-position-y: 0em;
+  }
+  .faction-icon-gamiverses {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: -7em;
+    background-position-y: 0em;
+  }
+  .faction-icon-magimerchants {
+    background-image: url(/css/icons_factions.svg);
+    background-position-x: 0em;
+    background-position-y: -1em;
+  }
+  .metadata-icon, .faction-icon, .store-icon {
     width: 1em;
     height: 1em;
     margin-left: 0.15em;
     margin-right: 0.15em;
     display: inline-block;
-    background-image: url(/css/icons.svg);
     background-size: 800%;
     filter: invert();
   }
-  .metadata-icon-black {
+  .metadata-icon-black, .faction-icon-black, .store-icon-block {
     filter: none;
   }
   .metadata-icon-cart {
+    background-image: url(/css/icons.svg);
     background-position-x: 0em;
     background-position-y: 0em;
   }
   .metadata-icon-account {
+    background-image: url(/css/icons.svg);
     background-position-x: -1em;
     background-position-y: 0em;
   }
   .metadata-icon-price {
+    background-image: url(/css/icons.svg);
     background-position-x: -2em;
     background-position-y: 0em;
   }
   .metadata-icon-categories {
+    background-image: url(/css/icons.svg);
     background-position-x: -3em;
     background-position-y: 0em;
   }
   .metadata-icon-duration {
+    background-image: url(/css/icons.svg);
     background-position-x: -4em;
     background-position-y: 0em;
   }
   .metadata-icon-age {
+    background-image: url(/css/icons.svg);
     background-position-x: -5em;
     background-position-y: 0em;
   }
   .metadata-icon-difficulty {
+    background-image: url(/css/icons.svg);
     background-position-x: -6em;
     background-position-y: 0em;
   }
   .metadata-icon-setup {
+    background-image: url(/css/icons.svg);
     background-position-x: -7em;
     background-position-y: 0em;
   }
   .metadata-icon-prior-wisdom {
+    background-image: url(/css/icons.svg);
     background-position-x: 0em;
     background-position-y: -1em;
   }
   .metadata-icon-color {
+    background-image: url(/css/icons.svg);
     background-position-x: -1em;
     background-position-y: -1em;
   }
   .metadata-icon-mature {
+    background-image: url(/css/icons.svg);
     background-position-x: -2em;
     background-position-y: -1em;
   }
   .metadata-icon-textless {
+    background-image: url(/css/icons.svg);
     background-position-x: -3em;
     background-position-y: -1em;
   }
   .metadata-icon-parallel-play {
+    background-image: url(/css/icons.svg);
     background-position-x: -4em;
     background-position-y: -1em;
   }
   .metadata-icon-double-sided-allowed {
+    background-image: url(/css/icons.svg);
     background-position-x: -5em;
     background-position-y: -1em;
   }
   .metadata-icon-double-sided-required {
+    background-image: url(/css/icons.svg);
     background-position-x: -6em;
     background-position-y: -1em;
   }
   .metadata-icon-game-master {
+    background-image: url(/css/icons.svg);
     background-position-x: -7em;
     background-position-y: -1em;
   }
   .metadata-icon-game-master-can-play {
+    background-image: url(/css/icons.svg);
     background-position-x: 0em;
     background-position-y: -2em;
   }
   .metadata-icon-hybrid {
+    background-image: url(/css/icons.svg);
     background-position-x: -1em;
     background-position-y: -2em;
   }
   .metadata-icon-paper-choice {
+    background-image: url(/css/icons.svg);
     background-position-x: -2em;
     background-position-y: -2em;
   }
   .metadata-icon-linear {
+    background-image: url(/css/icons.svg);
     background-position-x: -3em;
     background-position-y: -2em;
   }
   .metadata-icon-requirements {
+    background-image: url(/css/icons.svg);
     background-position-x: -4em;
     background-position-y: -2em;
   }
   .metadata-icon-indoors {
+    background-image: url(/css/icons.svg);
     background-position-x: -5em;
     background-position-y: -2em;
   }
   .metadata-icon-outdoors {
+    background-image: url(/css/icons.svg);
     background-position-x: -6em;
     background-position-y: -2em;
   }
   .metadata-icon-language {
+    background-image: url(/css/icons.svg);
     background-position-x: -7em;
     background-position-y: -2em;
   }
   .metadata-icon-player-count {
+    background-image: url(/css/icons.svg);
     background-position-x: 0em;
     background-position-y: -3em;
   }
   .metadata-icon-reusable {
+    background-image: url(/css/icons.svg);
     background-position-x: -1em;
     background-position-y: -3em;
   }
   .metadata-icon-level {
+    background-image: url(/css/icons.svg);
     background-position-x: -2em;
     background-position-y: -3em;
   }
   .metadata-icon-search {
+    background-image: url(/css/icons.svg);
     background-position-x: -3em;
     background-position-y: -3em;
   }
   .metadata-icon-subject {
+    background-image: url(/css/icons.svg);
     background-position-x: -4em;
     background-position-y: -3em;
   }
   .metadata-icon-brand {
+    background-image: url(/css/icons.svg);
     background-position-x: -5em;
     background-position-y: -3em;
+  }
+  .store-icon {
+    background-image: url(/css/logos/twwm_favicon_minimal.png);
+    background-size: contain;
+  }
+  .show-s {
+    display: none;
+  }
+  .show-m {
+    display: none;
   }
   @media all and (max-width: 320px) {
     .hide-s {
       display: none;
+    }
+    .show-s {
+      display: block;
     }
     .flex-wrap-below-s {
       flex-wrap: wrap;
@@ -836,6 +926,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   @media all and (max-width: 640px) {
     .hide-m {
       display: none;
+    }
+    .show-m {
+      display: block;
     }
     .flex-wrap-below-m {
       flex-wrap: wrap;

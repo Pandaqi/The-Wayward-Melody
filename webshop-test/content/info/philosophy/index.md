@@ -46,6 +46,19 @@ In fact, if you try the different Factions for the same specific topic, you migh
 
 It is my sincere hope that providing the full path convinces more people to give it a try. And once they've tried some of our materials, they apply their skepticism to the utterly failed systems of education instead of to anyone who tries to change it.
 
+## Our Graceful Guarantees
+
+When you try any product---but especially teaching resources---we strive to give the following guarantees.
+
+* **Minimalist**: as little ink and paper required as possible. No fluff. We only put something in there if we think it's absolutely valuable enough. Better for the climate, better for your wallet, better for your time.
+* **Self-Explanatory**: wherever possible, our products are completely textless, using imagery and intuitive design to explain what to do. This makes them simpler, for basically all ages, and language-independent. Similarly, we employ textless (and fun!) tricks that allow anyone to check their own work/answers after using a product. (Example: if you connected all the dots correctly, the image of a flower clearly appears on the page.)
+* **Unique**: the reason this product exists is because it's doing something that we think is fun, interesting, or very effective for learning ... but we're not seeing it done anywhere else.
+* **Magical**: as you probably noticed, this entire online store is branded as a cozy fantasy world. This kind of thinking, imagery and terminology is carried through all our offerings. (This is, again, different from most teaching resources that all use the exact same overly bright and aggressive colors and fonts.)
+* **Transparency**: we don't use shady tactics to trick you into thinking you need something, or hitting you with surprise fees, or misrepresenting a product. No amount of profit is worth the dangers of such dark magic ... You get exactly what you see, for a price we believe is fairer than most, and you can often literally see the proof of how we made something by buying its Sneakpeek.
+
+In general, we provide _one_ product (per Faction) for every small step or topic on the learning path. That one product will have a number of materials and options inside, as opposed to just being a single page PDF. We do this to justify asking money _per product_ (over, say, a subscription model), to prevent needlessly overwhelming people with hundreds of different materials, and, most of all, because one or two bundles are really all you need.
+
+
 ## Skeptical Sorcerers
 
 _Does this really work?_
