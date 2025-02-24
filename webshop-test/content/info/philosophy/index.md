@@ -46,12 +46,21 @@ In fact, if you try the different Factions for the same specific topic, you migh
 
 It is my sincere hope that providing the full path convinces more people to give it a try. And once they've tried some of our materials, they apply their skepticism to the utterly failed systems of education instead of to anyone who tries to change it.
 
+Additionally, this provides easy **scaling**. If you find the resources in a certain topic just a little too easy, you can move to another faction (e.g. going from simple homework exercises to an actual puzzle or escape room). If you find things are too hard for your child, you can move back. 
+
+This allows the difficulty level of our teaching resources, in general, to be a bit _higher_ than what many school curriculae use. We also did this because, based on our own findings, children _can_ and _do_ learn many skills much earlier than that. 
+
+{{% remark %}}
+The age ranges for topics that many systems of education use are based on either nothing at all or small samples of neurotypical children. There's a vast variety to when children are ready for challenges, and the more you challenge them, the more they'll be "ahead" of the curve.
+{{% /remark %}}
+
 ## Our Graceful Guarantees
 
 When you try any product---but especially teaching resources---we strive to give the following guarantees.
 
 * **Minimalist**: as little ink and paper required as possible. No fluff. We only put something in there if we think it's absolutely valuable enough. Better for the climate, better for your wallet, better for your time.
 * **Self-Explanatory**: wherever possible, our products are completely textless, using imagery and intuitive design to explain what to do. This makes them simpler, for basically all ages, and language-independent. Similarly, we employ textless (and fun!) tricks that allow anyone to check their own work/answers after using a product. (Example: if you connected all the dots correctly, the image of a flower clearly appears on the page.)
+* **Multi-Disciplinary**: we mostly learn through association. The more different skills and topics that can be combined into a single activity, the better, and we try to leverage that. (Example: many level 1 activities start by cutting out the necessary components yourself, which means children get both that physical and mental exercise at once.)
 * **Unique**: the reason this product exists is because it's doing something that we think is fun, interesting, or very effective for learning ... but we're not seeing it done anywhere else.
 * **Magical**: as you probably noticed, this entire online store is branded as a cozy fantasy world. This kind of thinking, imagery and terminology is carried through all our offerings. (This is, again, different from most teaching resources that all use the exact same overly bright and aggressive colors and fonts.)
 * **Transparency**: we don't use shady tactics to trick you into thinking you need something, or hitting you with surprise fees, or misrepresenting a product. No amount of profit is worth the dangers of such dark magic ... You get exactly what you see, for a price we believe is fairer than most, and you can often literally see the proof of how we made something by buying its Sneakpeek.

@@ -39,7 +39,7 @@
             {{ if $data.physical }} &middot; <span>Ships to: {{ delimit $data.zones ", " }}</span>{{ end }}
         </div>
         <h1 class="font-size-xl align-left margin-none" data-pagefind-meta="title">{{ .Title }}</h1>
-        <p data-pagefind-weight="4">{{ .Params.description | markdownify }}</p>
+        <p data-pagefind-weight="4" class="text-style-italic align-center">{{ .Params.description | markdownify }}</p>
         {{ partial "products/product-button-list" . }}
         {{ partial "views/metadata-navigation-single" . }}
     </div>

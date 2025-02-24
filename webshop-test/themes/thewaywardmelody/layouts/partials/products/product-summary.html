@@ -4,7 +4,13 @@
     data-section="{{ .Section }}">
     {{ $level := $data.level }}
     <div class="position-absolute anchor-top-right maximize-width height-xs block-level-{{ $level }}">
-        <div class="font-size-s font-accent align-center padding-xs"><a href="/level/{{ $level }}">LEVEL {{ $level }}</a></div>
+        <div class="font-size-s font-accent align-center padding-xs">
+            <a href="/level/{{ $level }}" class="flex flex-center">
+                <div class="metadata-icon metadata-icon-level metadata-icon-black blend-overlay"></div>
+                <span>LEVEL {{ $level }}</span>
+                <div class="metadata-icon metadata-icon-level metadata-icon-black blend-overlay"></div>
+            </a>
+        </div>
     </div>
     <img class="position-relative margin-vertical-s" loading="lazy" decoding="async" src="{{ $data.image }}" alt="Product Image for {{ .Params.title }}">
     <h2 class="align-center">{{ .Params.title }}</h2>

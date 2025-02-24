@@ -822,6 +822,10 @@ $viewport-xl: 1280px;
         filter: drop-shadow(0 0 1px black);
     }
 
+    .blend-overlay {
+        mix-blend-mode: overlay;
+    }
+
     // Alignment & Positioning
     .position-absolute {
         position: absolute;
