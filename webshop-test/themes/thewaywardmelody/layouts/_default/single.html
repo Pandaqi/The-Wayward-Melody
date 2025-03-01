@@ -30,16 +30,22 @@
     <!--- Main title, description, buttons on right/bottom -->
     <div class="maximize-width padding-s">
         <div class="font-accent font-size-s">
-            <span>Faction: <a href="{{ $root_section.Permalink }}" data-pagefind-filter="faction" data-pagefind-meta="faction">{{ $root_section.Title }}</a></span> &middot; 
+            <span>Faction: <a href="{{ $root_section.Permalink }}" data-pagefind-filter="faction" data-pagefind-meta="faction">{{ $root_section.Title }}</a></span> 
             {{ if $is_sub_section }}
-            <span>Further Faction: <a href="{{ $sub_section.Permalink }}">{{ $sub_section.Title }}</a></span> &middot;
+            &middot;<span>Further Faction: <a href="{{ $sub_section.Permalink }}">{{ $sub_section.Title }}</a></span>
             {{ end }}
-            <span>Type: <span data-pagefind-filter="type" data-pagefind-meta="type">{{ $good_type_string }}</span></span> &middot;
-            <span>Price: {{ $data.price }}</span>
+            &middot; <span>Type: <span data-pagefind-filter="type" data-pagefind-meta="type">{{ $good_type_string }}</span></span>
+            &middot; <span>Price: {{ $data.price }}</span>
             {{ if $data.physical }} &middot; <span>Ships to: {{ delimit $data.zones ", " }}</span>{{ end }}
+            {{ if gt (len $data.advances) 0 }}
+                &middot; <span><span>Comes After: </span>{{ partial "views/link-list" $data.advances }}</span>
+            {{ end }}
+            {{ if gt (len $data.precedes) 0 }}
+                &middot; <span><span>Comes Before: </span>{{ partial "views/link-list" $data.precedes }}</span>
+            {{ end }}
         </div>
         <h1 class="font-size-xl align-left margin-none" data-pagefind-meta="title">{{ .Title }}</h1>
-        <p data-pagefind-weight="4" class="text-style-italic align-center">{{ .Params.description | markdownify }}</p>
+        <p data-pagefind-weight="4" class="text-style-italic align-center preserve-whitespace">{{ .Params.description | markdownify }}</p>
         {{ partial "products/product-button-list" . }}
         {{ partial "views/metadata-navigation-single" . }}
     </div>
@@ -55,19 +61,52 @@
     {{ .Content }}
     </div>
 
-    <!--- At the bottom are miscellaneous details, always set in a dictionary on Params --->
+    <!--- Show the CONNECTIONS to other products --->
+    {{ $my_spell := .Params.spell }}
+    {{ if $my_spell }}
+        {{ $relevant_connections := where .Site.RegularPages ".Params.spell" "eq" $my_spell }}
+        {{ $has_connections := gt (len $relevant_connections) 0 }}
+        {{ if $has_connections }}
+        <div data-pagefind-weight="1">
+            <h2>Continue Exploring</h2>
+            <p>Exhausted this resource? Below is a list of all resources (in this and other factions) around this same topic.</p>
+            <ul>
+                {{ range $relevant_connections }}
+                    <li>{{ partial "views/faction-icon" (dict "context" .) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+    {{ end }}
+
+    <!--- Show a LIST of contents --->
+    {{ $contents := or .Params.contents slice }}
+    {{ $has_contents := gt (len $contents) 0 }}
+    {{ if $has_contents }}
+    <div data-pagefind-weight="2">
+        <h2>Product Contents</h2>
+        <p>Below is a summary of this product's contents. The actual product might have even more inside, but never less.</p>
+        <ul>
+            {{ range $contents }}
+                <li>{{ . | markdownify }}</li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    <!--- At the bottom is a TABLE miscellaneous details, always set in a dictionary on Params --->
+    {{ $details := or .Params.details dict }}
+    {{ $has_details := gt (len $details) 0 }}
+    {{ if $has_details }}
     <div data-pagefind-weight="1">
-        {{ $details := or .Params.details dict }}
-        {{ $has_details := gt (len $details) 0 }}
-        {{ if $has_details }}
         <h2>Fine Details</h2>
         <table>
             <thead><tr><td>Spell Type</td><td>Meaning</td></tr></thead>
             {{ range $k,$v := $details }}
-                <tr><td>{{ $k }}</td><td>{{ $v }}</td></tr>
+                <tr><td>{{ $k }}</td><td>{{ $v | markdownify }}</td></tr>
             {{ end }}
         </table>
-        {{ end }}
     </div>
+    {{ end }}
 </main>
 {{ end }}

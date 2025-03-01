@@ -1,1 +1,2 @@
-<div class="double-view flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center">{{- .content -}}</div>
+{{- $flex_class := or .flex_class "flex-center-horizontal" -}}
+<div class="double-view flex flex-wrap-below-m {{ $flex_class }} gap-m limit-width-xl block-align-center">{{- .content -}}</div>

@@ -1,5 +1,7 @@
 ---
 title: "Puzzlepages"
+weight: 5
+banners: ["banner_puzzlepages_1", "banner_puzzlepages_2", "banner_puzzlepages_3", "banner_puzzlepages_4", "banner_puzzlepages_5", "banner_puzzlepages_6", "banner_puzzlepages_7", "banner_puzzlepages_8", "banner_puzzlepages_9", "banner_puzzlepages_10", "banner_puzzlepages_11"]
 ---
 
 {{% double-view %}}

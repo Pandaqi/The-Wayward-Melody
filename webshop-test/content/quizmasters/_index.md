@@ -1,6 +1,7 @@
 ---
 title: "Quizmasters"
-banners: ["banner_trivia_1", "banner_trivia_2", "banner_trivia_3", "banner_trivia_4", "banner_trivia_5", "banner_trivia_6", "banner_trivia_7", "banner_trivia_8", "banner_trivia_9", "banner_trivia_10", "banner_trivia_11", "banner_trivia_12", "banner_trivia_13", "banner_trivia_14", "banner_trivia_15"]
+weight: 4
+banners: ["banner_trivia_1", "banner_trivia_2", "banner_trivia_3", "banner_trivia_4", "banner_trivia_5", "banner_trivia_6", "banner_trivia_7", "banner_trivia_8", "banner_trivia_9", "banner_trivia_10"]
 ---
 
 {{% double-view %}}

@@ -189,6 +189,11 @@ $viewport-xl: 1280px;
         color: var(--color-light-xx);
     }
 
+    p, li, blockquote
+    {
+        line-height: 1.45em;
+    }
+
     h1,h2,h3,h4,h5,h6 
     {
         @include font-heading;
@@ -410,6 +415,12 @@ $viewport-xl: 1280px;
         background-color: oklch(75% 0.18 75);
         color: oklch(50% 0.1552 75);
     }
+
+    .block-level-6
+    {
+        background-color: oklch(71.38% 0.1795 275.0);
+        color: oklch(50% 0.1795 275.0);
+    }
 }
 
 @layer bundles
@@ -439,6 +450,11 @@ $viewport-xl: 1280px;
         -webkit-user-select: none; /* Safari */
         -ms-user-select: none; /* IE 10 and IE 11 */
         user-select: none; /* Standard syntax */
+    }
+
+    .preserve-whitespace
+    {
+        white-space: pre-wrap;
     }
 
     // Buttons
@@ -785,6 +801,19 @@ $viewport-xl: 1280px;
         justify-content: center;
         align-content: center;
         align-items: center;
+    }
+
+    .flex-center-horizontal {
+        justify-content: center;
+    }
+
+    .flex-center-vertical {
+        align-items: center;
+    }
+
+    .flex-nocenter {
+        justify-content: start;
+        align-items: start;
     }
 
     .flex-equal-size

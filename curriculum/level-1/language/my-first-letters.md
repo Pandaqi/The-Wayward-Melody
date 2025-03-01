@@ -32,6 +32,7 @@ Including sound/speech, and switching up the approach every time, is crucial for
   * Letter Sound Quiz ( = Play sound of letter/common blend, they pick actual symbol from options.)
   * Quiz of Rhymes Advanced ( = You hear one bit of audio/one sentence; the answers are audio too; listen and pick the one that rhymes) 
 * (Puzzlepages) 
+  * Letter Rotation => You must place letters (only A,B,C for example) inside a certain grid/shape. BUT letters can never be next to each other in the same rotation, so you need to figure out when to rotate that A to be sideways for example. (Teaches recognition of shapes from many different angles, repetition of drawing the shapes, plus some fun logic.)
   * Alphakey ( = Find the one letter that, when put into all the blanks, finishes the story; Simplified version would be those "2-side-words" where one letter has to end one word and start the next) 
   * Alphakey Advanced => Cut out an assortment of letters. The exercise tells you which ones to use for this puzzle. You "fill in the blank" by literally placing the letter on top. (And you can't reuse letters of course, so it becomes an extra nice puzzle.)
   * Extremely simple word search (that only requires rough lines to cross things off)

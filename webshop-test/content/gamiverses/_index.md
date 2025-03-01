@@ -1,6 +1,7 @@
 ---
 title: "Gamiverses"
-banners: ["banner_fun_frontier_1", "banner_fun_frontier_2", "banner_fun_frontier_3", "banner_fun_frontier_4", "banner_fun_frontier_5", "banner_fun_frontier_6", "banner_fun_frontier_7", "banner_fun_frontier_8", "banner_fun_frontier_9"]
+weight: 7
+banners: ["banner_fun_frontier_1", "banner_fun_frontier_2", "banner_fun_frontier_3", "banner_fun_frontier_4", "banner_fun_frontier_5", "banner_fun_frontier_6", "banner_fun_frontier_7"]
 ---
 
 {{% double-view %}}

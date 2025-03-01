@@ -67,6 +67,8 @@ MERCHANDISE IDEA: "SOLVE MY BACK"/"SOLVE MY FRONT" which asks others to look at 
 
 @IDEA (ESCAPE ROOM; POSTER?): A side-view of a house, like that 2D video game where you manage a skyscraper or a news station. You start at ground floor (or top-left room), then move from room to room by solving puzzles. (The puzzle tells you which door/stairway/elevator stuff to take?)
 
+@SOURCE: https://www.reddit.com/r/Constructedadventures/comments/1hz6oj6/escape_room_type_game_for_a_6_year_old/
+
 ## Trivia 
 
 Two types of quizzes.
@@ -113,6 +115,7 @@ The stuff below MIGHT move to FUN FRONTIER instead.
 
 * @IDEA: "Wie is de Mol/Trol" verjaardagspaketten. Or just general "birthday cookbooks" or "activity day workbooks"?
 * @IDEA: "BLACK STORIES"-achtige dingen! Dus ik geef een mysterie/begin van verhaal, en op de achterkant/ander kaartje staat het volledige antwoord. En dan moet een iemand dus voorlezen en de rest raden. Kijk of ik dit kan twisten/uitbreiden/beter inrichten als digitaal goed.
+  * De MINDMAZE spellen zijn een soort vervolg op dit idee!
 
 ## (Explorers of the) Fun Frontier
 

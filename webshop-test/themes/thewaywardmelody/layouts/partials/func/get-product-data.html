@@ -2,6 +2,7 @@
 {{ $num_products := len $products }}
 {{ $has_multiple_products := gt $num_products 1 }}
 {{ $has_product := gt $num_products 0 }}
+{{ $url := .RelPermalink }}
 
 <!--- Use main platform if set. Otherwise pick one from product variants. --->
 <!--- The descending sort will simply put anything that HAS this value set at the front, while empty values go last --->
@@ -30,13 +31,60 @@
 
 <!--- Use main image if set. Otherwise select random from product variants. If not available, placeholder. --->
 <!--- @NOTE: Images can be a SINGLE URL or an ARRAY of them. The `image` return ($image_default) must be a single image (used for search, no-js load, etcetera). But products themselves have a second `images` that should be the full list --->
-{{ $images_default := or .Params.image "" }}
-{{ if and (not $images_default) $has_product }}
-    {{ $images_default = index (index (sort $products "image" "desc") 0) "image" }}
+{{ $images_default_raw := or .Params.image "" }}
+{{ if and (not $images_default_raw) $has_product }}
+    {{ $images_default_raw = index (index (sort $products "image" "desc") 0) "image" }}
 {{ end }}
-{{ if not $images_default }}{{ $images_default = slice "https://picsum.photos/500/386" }}{{ end }}
+{{ if not $images_default_raw }}{{ $images_default_raw = slice "https://picsum.photos/500/386" }}{{ end }}
+{{ $images_default := slice }}
+{{ range $k, $v := $images_default_raw }}
+    {{ $is_absolute_url := or (eq (substr $v 0 1) "/") (eq (substr $v 0 4) "http") }}
+    {{ $url := cond $is_absolute_url $v (printf "%s/%s" $url $v) }}
+    {{ $images_default = $images_default | append $url }}
+{{ end }}
 {{ $image_default := $images_default }}
 {{ if reflect.IsSlice $image_default }}{{ $image_default = index $images_default 0 }}{{ end }}
+
+<!--- Figure out how products connect (advance/precede) --->
+<!--- We save IDs of what we advance, so for every ID just find the relevant pages --->
+{{ $regular_pages := .Site.RegularPages }}
+{{ $my_section := .Section }}
+{{ $advances_raw := or .Params.advances slice }}
+{{ if not (reflect.IsSlice $advances_raw) }}{{ $advances_raw = slice $advances_raw }}{{ end }}
+{{ $advances := slice }}
+{{ $advances_same_faction := slice }}
+{{ range $id := $advances_raw }}
+    {{ $relevant_pages := (where $regular_pages ".Params.spell" "eq" $id) }}
+    {{ $advances = $advances | append $relevant_pages }}
+    {{ range $page := $relevant_pages }}
+        {{ if eq $page.Section $my_section }}
+            {{ $advances_same_faction = $advances_same_faction | append $page }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+<!--- Because we might have a LOT of different variations/factions of the same spell, we prefer picking only the same faction to list, if possible --->
+{{ if gt (len $advances_same_faction) 0 }}
+    {{ $advances = $advances_same_faction }}
+{{ end }}
+
+<!--- To know what we precede, we must find all pages that say they advance US (so lookup other way around) --->
+{{ $precedes := slice }}
+{{ $precedes_same_faction := slice }}
+{{ $my_spell := .Params.spell }}
+{{ if $my_spell }}
+    {{ $relevant_pages := (where $regular_pages ".Params.advances" "intersect" (slice $my_spell))}}
+    {{ range $page := $relevant_pages }}
+        {{ $precedes = $precedes | append $page }}
+        {{ if eq $page.Section $my_section }}
+            {{ $precedes_same_faction = $precedes_same_faction | append $page }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ if gt (len $precedes_same_faction) 0 }}
+    {{ $precedes = $precedes_same_faction }}
+{{ end }}
 
 <!--- Gather defaults for all values --->
 <!--- (Basically, I want to allow setting things directly in Params for when a product has just 1 variant, or a value is the same for all variants, which is MOST CASES) --->
@@ -70,4 +118,4 @@
     {{ $zones = $zones | append (index $new_product "shipping") }}
 {{ end }}
 {{ $zones = $zones | uniq }}
-{{ return dict "level" $level "price" $price "platform" $platform "image" $image_default "products" $products_full "zones" $zones "physical" $is_physical "single_button" $single_button }}
+{{ return dict "level" $level "price" $price "platform" $platform "image" $image_default "products" $products_full "zones" $zones "physical" $is_physical "single_button" $single_button "advances" $advances "precedes" $precedes }}

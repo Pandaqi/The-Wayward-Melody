@@ -54,3 +54,16 @@ GOOD LEARNING STRATEGY: Numbered Heads Together
 * When given a task, you discuss and collaborate and everything.
 * But when the teacher asks a question/asks that you give the answer, they also say a random _number_. And only that person must answer.
 * This requires everyone actually listens and contributes, so they know what they say (or what their "group answer" is) when asked.
+
+### Math
+
+SPACE/PLACE => Some simple game where you get pawns and have to place them with a certain relation to other things? "Place the elephant ON TOP of the table", and then there's an actual table and you need to place your pawn above it. => Is this LEVEL 1 material??
+
+* Place Value
+* Adding 1s => Adding 10s => Adding 100s
+* Comparing small numbers => Comparing larger numbers
+* Word problems with "more" and "fewer". (In general, now that we have some language, we can introduce WORD PROBLEMS.)
+* Length and Size => Measuring and Comparing
+* Composing / Decomposing Shapes ("fractions of shapes", like dividing a square perfectly in half)
+* (PROBABLY LEVEL 3+ this)
+  * Picture Graphs / Bar Graphs / Line Plots / Time / Money

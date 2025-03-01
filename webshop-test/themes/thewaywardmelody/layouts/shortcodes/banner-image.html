@@ -1,0 +1,5 @@
+{{- $class := or (.Get "class") "" -}}
+{{- $fade_single := or (.Get "fade_single") false -}}
+{{- $display_image := or (.Get "display_image") false -}}
+{{- $title := or (.Get "title") "" -}}
+{{ partial "views/banner-image" (dict "context" .Page "fade_single" $fade_single "display_image" $display_image "class" $class "title" $title) }}

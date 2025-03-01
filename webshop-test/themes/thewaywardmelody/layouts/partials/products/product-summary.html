@@ -14,7 +14,7 @@
     </div>
     <img class="position-relative margin-vertical-s" loading="lazy" decoding="async" src="{{ $data.image }}" alt="Product Image for {{ .Params.title }}">
     <h2 class="align-center">{{ .Params.title }}</h2>
-    <p>{{ .Params.description }}</p>
+    <p class="preserve-whitespace">{{ .Params.description }}</p>
     <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Visit Product Page</a>
     {{ if $data.single_button }}
         {{ partial "products/product-button" (index $data.products 0) }}

@@ -1,0 +1,24 @@
+---
+type: "product"
+title: "Het boek tegen school"
+id: "boek-tegen-school-sneakpeek"
+date: 2021-07-02
+price: 5.95
+image: [boek_tegen_school_1.webp, boek_tegen_school_2.webp, boek_tegen_school_3.webp]
+file: "@TODO"
+description: "Alle originele teksten, notities en tekeningen/cartoons achter het boek."
+
+contents:
+- De originele (60+) cartoons getekend voor het boek (`.png` bestandsformaat)
+- De originele extra tekeningen voor het boek (`.png`, bewerkbaar .afdesign bestand)
+- De originele cover (inclusief bewerkbaar `.afdesign` bestand).
+- De originele hoofdstukken om te laden in InDesign (`.indd` bestandsformaat)
+- Het gehele manuscript (inclusief extra notities, bronnen, en oudere versies) in `.docx` formaat
+- En daarmee dus ook het volledige boek (inclusief bijlages) zoals te koop.
+
+language: "NL"
+level: 3
+
+---
+
+Voor meer informatie over het originele boek (en verkooplinks voor fysieke exemplaren), bezoek [de officiële pagina](https://tiamopastoor.com/books/het-boek-tegen-school/).

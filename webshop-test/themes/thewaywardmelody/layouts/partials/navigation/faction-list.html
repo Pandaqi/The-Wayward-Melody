@@ -1,0 +1,33 @@
+<!--- All major categories to visit --->
+{{- $all_factions := .context.Site.Sections -}}
+{{- $show_home := or .show_home false -}}
+{{- $show_all := or .show_all false -}}
+{{- $make_responsive := or .responsive false -}}
+{{- $show_class := cond $make_responsive "show-m" "" -}}
+{{- $hide_class := cond $make_responsive "hide-m" "" -}}
+{{- $class_extra := or .class "" -}}
+<nav>
+    <ul class="remove-list-styling flex flex-wrap flex-center gap-xs margin-s {{ $class_extra }}">
+        {{ if and $show_home (not .context.IsHome) }}
+        <li>
+            <a href="/" class="theme-general navigation-link">
+                <div class="store-icon {{ $show_class }}"></div>
+                <span class="{{ $hide_class }}">Home</span>
+            </a>
+        </li>
+        {{ end }}
+        {{ range $all_factions }}
+            {{- $page := . -}}
+            {{- $faction_name := $page.Title | lower -}}
+            {{- $should_show := or $show_all (not $page.Params.special) -}}
+            {{- if $should_show -}}
+            <li>
+                <a href="{{ $page.RelPermalink }}" class="theme-{{ $faction_name }} navigation-link">
+                    <div class="faction-icon faction-icon-{{ $faction_name }} {{ $show_class }}"></div>
+                    <span class="{{ $hide_class }}">{{ $page.Title }}</span>
+                </a>
+            </li>
+            {{- end -}}
+        {{ end }}
+    </ul>
+</nav>

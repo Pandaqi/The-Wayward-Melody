@@ -1,19 +1,5 @@
 # To-Do
 
-## Improvements
-
-* Add default field for "advances". This saves the "prerequisite" or "previous level material" that comes before this one.
-  * Hugo then automatically figures out how things connect (both ways; "This follows XX, This leads to YY"), and displays that as needed by default.
-* Add default field for "topic-id" or something => THIS IS DIFFERENT.
-  * `advances` is about the entire learning path. (So First Vocabulary _follows_ First Letters.)
-  * `topic-id` (need better name/term) is about different FACTIONS within the same topic. (So a Quiz in First Vocabulary and a Puzzle have the _same_ topic id.)
-    * Reuse the "subject" tag I invented for THIS?
-* Add default field for "contents"?
-* Might SPLIT curriculum into further levels anyway ... otherwise a single level is bloated with too much at once.
-* PQ TRIVIA: Add option to "randomize" order of questions to prevent memorization over time, in case a quiz is repeatedly used? BETTER IDEA: base the seed of the quiz on the _day_ (`seed = fixed seed + "-" + datestring`), so it's valid for as long as needed but then changes! (And, when printed, the date of holding the quiz is visible.)
-* Yeah ... the Curriculum page needs a major update (look better, more subdivisions, easy reference/linking for anyone visiting website)
-
-
 ## Business
 
 * ONCE I HAVE THEWAYWARDMELODY.COM SETUP
