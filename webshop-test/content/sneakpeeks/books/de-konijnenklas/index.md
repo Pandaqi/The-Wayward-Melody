@@ -5,7 +5,7 @@ id: "konijnenklas-sneakpeek"
 date: 2021-01-10
 price: 5.95
 image: [konijnenklas_0.webp, konijnenklas_1.webp, konijnenklas_2.webp, konijnenklas_3.webp, konijnenklas_4.webp]
-file: "c95aa920-f61c-41a1-aef9-e602de761dac"
+file: "06cc1732-8a6b-4621-aae8-cd6a4da01449"
 description: "Alle losse tekeningen achter het prentenboek."
 
 contents:
@@ -13,7 +13,7 @@ contents:
 - De originele cover (`.webp` bestand, bewerkbaar `.krz` bestand, en `.ai` bestand voor openen in **Adobe Illustrator**).
 - De gebruikte lettertypes.
 - En daarmee dus ook het volledige boek (inclusief bijlages) zoals te koop.
-- (Let op! Dit product is gecomprimeerd met `.7z` in plaats van `.zip`. Vrijwel elk systeem kan deze gewoon uitpakken, geen zorgen, zeker als je **7-zip** installeert. Maar dit boek heeft zoveel plaatjes op hoge resolutie dat we sterkere compressie nodig hadden om het behapbaar te houden!)
+- (Let op! Dit bestand is gigantisch, vanwege de vele complexe plaatjes op hoge resolutie. Zorg voor een stabiele internetverbinding bij het downloaden!)
 
 language: "NL"
 level: 1

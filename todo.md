@@ -1,5 +1,10 @@
 # To-Do
 
+WEBSHOP:
+* Remove line-height from metadata elements
+* Add FACTION (clearly, boldly) to product summary! (Now there's no way to know something is a "Teaching Resource", for example, in overviews/grid view.)
+
+
 ## Business
 
 * ONCE I HAVE THEWAYWARDMELODY.COM SETUP

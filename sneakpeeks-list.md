@@ -46,30 +46,37 @@ These can be uploaded almost completely as-is.
 
 _Note: These source files include the final rules and material for the games too!_
 
-* That's Amorphe
-* Game of Dilemmas/Happiness
-* Slippery Slopes
-* Captain Flip
-* Mammoth Messages
-* Mapped Out
-* Meadowmight
-* Mountain Miners
-* The Pirate Games (Drawingbeard/Riddlebeard)
-* Sleighwell
-* Wie Is De Trol
-* SwiftSmash > All 5
-* Luck Legends > All 7
-* One Paper Games > All 10
-* Chiptales > All 3
+* [xxx] That's Amorphe Games
+* [xxx] Game of Happiness & Dilemmas
+* [xxx] Slippery Slopes Games
+* [xxx] The Pirate Games (Drawingbeard/Riddlebeard)
+* [xxx] Photomone Games
+* [xxx] Keebble Games
+* [xxx] The Waterfall Games (Base/Raging Rapids)
+* [xxx] Wie Is De Trol?
+* [xxx] De Retro Bordspellen Bundel
+* [xxx] Naivigation Original
+* [xxx] Mammoth Messages
+* [xxx] Meadowmight
+* [xxx] Mountain Miners
+* [xxx] Sleighwell
+
+TUESDAY
+* One Paper Games Bundle => Paper Thieves, Timely Transports, One Pizza The Puzzle, Epic Medics, Unstable Universe
+  * ( + combine with OPG backup I downloaded from GitHub? In case I'm missing some files!)
+* Separate One Paper Games:
+  * Kangaruse
+  * Magnetmen
+  * The Mist
+  * Starry Skylines
+  * Wondering Witches
+
+WEDNESDAY
 * Waitless Games > Finger Food, Foldigami
-* Waterfall, Waterfall: Raging Rapids
-* Card Games > All 10/12 (excl Animal Bandit & Tower of Zero)
+* Chiptales > All 3
+* Card Games > All 10
 
-These are collections of games which we _probably_ want to keep together.
 
-* Photomone Games
-* Keebble Games
-* The Retro Bundle => Contains Schapenschutters, Shots, Che-ou-wyen, Animal Bandit, Tower of Zero => A bundle with my very earliest game designs, which weren't great, which means there's a lot to learn by looking at them! (Might need that _One Paper Games_ backup to supplement files.)
 
 These need some shrinking/cleanup.
 
@@ -79,17 +86,17 @@ These need some shrinking/cleanup.
 * Outnumbered > Sixpack / Nine Lives
 * Domino Diaries > All 5
 * Creature Quellector
-* Easter Eggventures
+* Easter Eggventures => I think it's better long-term to BREAK these things into their individual zipped games anyway in the future?
 * Maybe Games
 
-These I decided to skip.
+These haven't released yet.
 
-* Scheve Schapenschutters
-* Swerving Shots
-* Che-ou-wyen
-* Animal Bandit
-* Tower of Zero
-* Naivagation (too new, too big, need to figure this out)
+* Naivigation (New)
+* SwiftSmash > All 5
+* Luck Legends > All 7
+* Captain Flip
+* Mapped Out
+
 
 ## Merch/Other
 
@@ -99,3 +106,11 @@ Yes,
 
 * Bundle per _brand_
 * Over time, I can keep _adding_ to this brand file.
+
+**Do this once I'm "done" with the TVVZ experiment.** I'd just move the merchandise over to this webshop and/or collect all drawings/data into a ZIP file for it.
+
+## Music
+
+With the limit raised to 2GB (probably slightly lower in practice), music becomes an _option_. But I still don't like it, as uploading durations will be dreadful and I'll need to clean up massively. And besides, who's interested in this? Especially because I haven't been too disciplined in creating stems/bounces for archiving ...
+
+Yeah, this only works after massive intervention from me, or I take this into account on next music projects (from the start!)
