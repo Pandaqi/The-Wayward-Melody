@@ -5,6 +5,7 @@
 $font-family-heading: "Gloria";
 $font-family-body: "Lora";
 $font-family-accent: "Signika Negative";
+$font-family-code: "IBM Plex Mono";
 $base-fonts: "fonts/";
 
 @font-face {
@@ -63,6 +64,13 @@ $base-fonts: "fonts/";
     font-display: swap;
 }
 
+@font-face {
+    font-family: $font-family-code;
+    src: url($base-fonts + 'IBMPlexMono-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
 
 
 // Shared Variables
@@ -192,6 +200,18 @@ $viewport-xl: 1280px;
     p, li, blockquote
     {
         line-height: 1.45em;
+    }
+
+    code
+    {
+        font-size: 0.75em;
+        background-color: var(--color-light-x);
+        color: var(--color-dark-xx);
+        padding: 0.25em;
+        border-radius: 0.25em;
+        font-family: $font-family-code;
+        font-weight: 500;
+        font-style: italic;
     }
 
     h1,h2,h3,h4,h5,h6 

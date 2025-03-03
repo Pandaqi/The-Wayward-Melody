@@ -5,12 +5,13 @@ id: "piraat-raadselbaard-sneakpeek"
 date: 2023-05-12
 price: 6.95
 image: [piraat_raadselbaard_1.webp, piraat_raadselbaard_2.webp, piraat_raadselbaard_3.webp, piraat_raadselbaard_4.webp]
-file: "@TODO"
+file: "4941da06-92f0-48b1-bba2-4e2d7c39513e"
 description: "Alle originele teksten, notities en tekeningen achter het boek."
 
 contents:
 - De originele illustraties/icoontjes in de lay-out (`.png` bestandsformaat)
-- De originele bestanden met de piratenkaarten (als bewerkbaar `.afdesign` bestand)
+- De originele bestanden met de piratenkaarten (als bewerkbaar `.afdesign` / `.ai` bestand)
+- De originele cover (`.png` bestandsformaat, bewerkbaar `.afdesign` / `.ai` bestand)
 - Het originele manuscript in `.docx` bestandsformaat
 - De originele bestanden van de volledige instrumentale soundtrack (`.mp3`, bewerkbaar `.song` bestand voor Studio One) + albumcover
 - En daarmee dus ook het volledige boek (inclusief bijlages) zoals te koop.

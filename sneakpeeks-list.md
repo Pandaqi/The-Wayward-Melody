@@ -6,7 +6,7 @@ A list of "behind the scenes" stuff I want to sell, plus some general order.
 
 Behind the scenes,
 
-* If possible, **add fonts**. 
+* If possible, **add fonts**. (Need that anyway for re-opening/re-exporting things!)
 * Provide `.ai` version. (Open with Affinity and export as PDF, rename to AI.)
 * Change names if they're weird or unhelpful.
 * Convert `.docx` to `.md`. (But keep the original docx as a nice alternative format; identical name to conversion, of course.)
@@ -30,15 +30,15 @@ _Note: These source files include the final book!_
 
 x = Markdown pagina aangemaakt, xx = ZIP bestand klaar, xxx = bestand+pagina verbonden en afgerond
 
-* [x] Het Rijk van Wondersteboven
-* [x] De Kat van Sinterklaas
-* [x] De Konijnenklas
-* [x] Als dit huis straks overstroomt => exporteer individuele CrocTalks, maak beschikbaar als `.ai`
-* [x] Het Boek Tegen School
-* [x] Piraat Raadselbaard => exporteer individuele kaarten, maak beschikbaar als `.ai`
-* [x] De Vijf Eilanden => maak beschikbaar als `.ai`?
-* [x] Vierkante Ogre => maak beschikbaar als `.ai`?
-* [x] De Vintage Verhalenbundel
+* [xxx] De Vintage Verhalenbundel
+* [xxx] De Kat van Sinterklaas
+* [xxx] De Konijnenklas
+* [xxx] Het Rijk van Wondersteboven
+* [xxx] Het Boek Tegen School
+* [xxx] Als dit huis straks overstroomt
+* [xxx] Piraat Raadselbaard 
+* [xxx] De Vijf Eilanden
+* [xxx] Vierkante Ogre
 
 ## Board Games
 
@@ -69,7 +69,7 @@ These are collections of games which we _probably_ want to keep together.
 
 * Photomone Games
 * Keebble Games
-* The Retro Bundle => Contains Schapenschutters, Shots, Che-ou-wyen, Animal Bandit, Tower of Zero => A bundle with my very earliest game designs, which weren't great, which means there's a lot to learn by looking at them!
+* The Retro Bundle => Contains Schapenschutters, Shots, Che-ou-wyen, Animal Bandit, Tower of Zero => A bundle with my very earliest game designs, which weren't great, which means there's a lot to learn by looking at them! (Might need that _One Paper Games_ backup to supplement files.)
 
 These need some shrinking/cleanup.
 

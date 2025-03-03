@@ -8,6 +8,7 @@ What does it do?
 
 * It's intended solely for the parent/teacher.
 * It states that it doesn't need to be printed.
+* (CUSTOM AREA) It states **why you should learn this thing**. (Give practical use cases, reasons, things you can learn once you know this, answer the _why_!)
 * It gives the **best practices for teaching**.
   * Always ask _why?_ or _how do you know?_ The _learning_ is important, not getting the right answer/outcome. (Journey over destination.)
   * All you need to do is provide a lot of _varied challenges_. Don't get stuck doing/trying the same thing over and over. Don't think there's a strict order in which these materials need to be applied.

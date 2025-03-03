@@ -5,7 +5,7 @@ id: "wondersteboven-sneakpeek"
 date: 2021-05-15
 price: 2.95
 image: [wondersteboven_1.webp, wondersteboven_2.webp, wondersteboven_3.webp, wondersteboven_4.webp]
-file: "@TODO"
+file: "cff8e1d1-48f5-45a2-a146-2571658ad1bc"
 description: "Alle tekeningen en originele bestanden achter het prentenboek."
 
 contents:

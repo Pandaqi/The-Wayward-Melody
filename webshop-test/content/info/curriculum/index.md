@@ -203,15 +203,15 @@ Age 7 or 8 often displays the first signs of your child really not liking school
 
 {{% section-foldable header="Language" %}}
 
-* Read instructive texts (e.g recipe) and sources, Write connected including uppercase, Spelling combined sounds/syllables, First Interpunction (.?!), More Vocabulary, Automation ( = reading a lot to increase tempo and intuition)
-* Reading longer words/sentences, First word types (verb, adjective, ...), Writing a variety of short texts (email, letter, poem, story) correctly, Spelling more words with complex/combined sounds, Giving a speech, Recognizing verbs, More Vocabulary
+* Read instructive texts (e.g recipe) and sources, Write connected including uppercase, Spelling combined sounds/syllables, First Punctuation (.?!), More Vocabulary, Automation ( = reading a lot to increase tempo and intuition)
+* Reading longer words/sentences, First word types (noun->verb->pronoun->modifier=adverb/adjective), More Punctuation (,":;), Writing a variety of short texts (email, letter, poem, story) correctly, Spelling more words with complex/combined sounds, Giving a speech, Recognizing verbs, More Vocabulary
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
-* Addition/Subtraction up to 100, Telling Time (fine detail; digital clock), Measuring (fine detail;cm/m/km), Calendar, Intuition/Strategies for tables up to 10, Intuition for multiplication and division, Automation up to 20.
-* Intuition for numbers up to 10.000, Addition/Subtraction up to 1000, Fractions/Decimals (halves/thirds/fourths), Complex Money, Complex Measuring (circumference, different units), Multiplication & Division
+* Addition/Subtraction up to 100, Place Value, Express numbers with digits or words, Telling Time (fine detail; digital clock; time elapsed), Measuring (fine detail;cm/m/km), Calendar, Intuition/Strategies for tables up to 10, Intuition for multiplication and division (incl fractions/decimals), Automation up to 20.
+* Intuition for numbers up to 10.000, Addition/Subtraction up to 1000, Fractions/Decimals (halves/thirds/fourths; includes partitioning shapes), Complex Money, Complex Measuring (area, perimeter/circumference, different units), 1-digit Multiplication & Division
 
 {{% /section-foldable %}}
 
@@ -264,15 +264,15 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 
 {{% section-foldable header="Language" %}}
 
-* First formal grammar, Spelling verb conjugations, Spelling special situations (countries/towns, inhabitants of said countries, time indications), Reading more complex informational texts and making statements about them, Writing a variety of longer texts, Recognizing subject and main verb
-* Reading for study (reread, mark, make notes), Reading aloud, Other reading strategies (e.g. recognize signal words), Writing long informative texts, Discussion/Debate, Special Spelling (foreign words, possessives, hyphenated), Recognizing all word types, Recognizing _intention/meaning_ of a text, Passive and Active Tense. => Also, if supported, schools start teaching foreign languages here.
+* First Formal Grammar ( = Recognizing subject and (main) verb in sentence), Word Types Done, Spelling verb conjugations, Spelling special situations (countries/towns, inhabitants of said countries, time indications), Reading more complex informational texts and making statements about them, Writing a variety of longer texts
+* Advanced Formal Grammar ( = Object, Subclauses, Fragments, Dangling Modifiers, Preposition, Conjunction), Reading for study (reread, mark, make notes), Reading aloud, Other reading strategies (e.g. recognize signal words), Writing long informative texts, Discussion/Debate, Special Spelling (foreign words, possessives, hyphenated), Recognizing _intention/meaning_ of a text, Passive and Active Tense. => Also, if supported, schools start teaching foreign languages here.
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
-* Intuition for numbers up to 100.000, Addition/Subtraction up to 10.000, Roman numerals, Fractions further (eights, tenths, ...), More Measurement Units, Measuring in Comparison (scale, price per part, etc), Multiplication & Division
-* Math exercises up to 1.000.000 (+/-/x/:), First use of calculator, Complex fractions, Scale (percentages, averages, proportions), Measurements Done, Mental Calculation (up to 100), Intuitive mathematics (quick ballpark estimates of difficult formulas)
+* Intuition for numbers up to 100.000, Addition/Subtraction up to 10.000, Roman numerals, Fractions further (eights, tenths, ...), More Measurement Units, Measuring in Comparison (scale, price per part, etc), 2-digit Multiplication & Division, Represent & Interpret Data, Order of Operations, Quadrilaterals
+* Math exercises up to 1.000.000 (+/-/x/:), First use of calculator, Complex fractions, Scale (percentages, averages, proportions), Measurements Done, Mental Calculation (up to 100), Intuitive mathematics (quick ballpark estimates of difficult formulas), 3-digit Multiplication & Division, Factors/Multiples/Patterns, Plane Figures (lines, perpendicular, orthogonal, angles)
 
 {{% /section-foldable %}}
 
@@ -311,12 +311,6 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 * **AU**: Stage 4
 * **NL**: Group 7--8 (Primary School -> High School)
 
-At this point, the topics and guidelines of education branch out. There are many different types of high schools, which offer many different subjects (some required, some optional), which means it's hard to pin down specific topics for the final levels. In the Netherlands alone, there are topics that were covered to death on _my_ school, which I learned other people _never even heard about_ (when I went to university and met people from all over the country).
-
-It is my view that, once you have sufficient skill in language and math, you can learn anything. You only need to be able to read and think critically to achieve anything. All topics offered from this point onward are completely optional, can be explored in any order, and have no "one true path" through them.
-
-The guidelines below are therefore sorted, instead, by their individual _subject_ and the foundational ideas inside to get people started. 
-
 <a href="/level/5/" class="navigation-link display-block align-center">Explore all resources in this level!</a>
 
 {{% /double-view-item %}}
@@ -327,15 +321,15 @@ The guidelines below are therefore sorted, instead, by their individual _subject
 
 {{% section-foldable header="Language" %}}
 
-* Reading for study (summarize, schematize), Reading graphics and tables, Writing essays or opinionated pieces, Recognizing word and sentence types done, Vocabulary Estimation = 25.000 passive words, 15.000 active words, 5.000 words spelled correctly.
-* ??
+* Formal Grammar Done ( = Recognizing and using word types and sentence parts correctly, including advanced bits like word order in English), Reading for study (summarize, schematize), Reading graphics and tables, Writing essays or opinionated pieces, Vocabulary Estimation = 25.000 passive words, 15.000 active words, 5.000 words spelled correctly.
+* Proper sourcing/citing/finding evidence (incl connecting multiple texts/evidence/arguments), Deep understanding of words in context, Comparing Media, Historic Sources/Context, Determining author's purpose. (This is basically all meta-analysis of texts at this point, as grammar and vocab should be good.)
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
-* Circumference and diameter (of circle), Mental calculations for numbers above 100, Rounding, Checking yourself with a calculator
-* ??
+* Add/Subtract/Divide/Multiply Fractions & Decimals ( + Decimal Place Value), Powers of Ten, Volume, Coordinate Plane, Converting Measurement Units, Line Plots, Properties of Shapes (incl circumference/diameter of circle, quadrilaterals), Mental calculations for numbers above 100, Rounding, Checking yourself with a calculator. Algebraic Thinking ( = turn problem into equations and numbers)
+* Proportional Relationships (Ratios/Rates/Percentages), Negative Numbers, Powers of Any ( = Exponents), Variables & Expressions, Equations & Inequalities, Advanced Coordinate Plane (3D Figures), Data & Statistics (basic probability, mean, median, plotting, ...)
 
 {{% /section-foldable %}}
 
@@ -368,11 +362,15 @@ The guidelines below are therefore sorted, instead, by their individual _subject
 * **AU**: Stage 5(+) (Secondary -> Senior)
 * **NL**: Grade 1--6
 
+At this point, the topics and guidelines of education branch out. There are many different types of high schools, which offer many different subjects (some required, some optional), which means it's hard to pin down specific topics for the final levels. In the Netherlands alone, there are topics that were covered to death on _my_ school, which I learned other people _never even heard about_ (when I went to university and met people from all over the country).
+
+It is my view that, once you have sufficient skill in language and math, you can learn anything. You only need to be able to read and think critically to achieve anything. All topics offered from this point onward are completely optional, can be explored in any order, and have no "one true path" through them.
+
 One might notice that we basically compressed the entirety of high school into one level. This has to do with my statement at the previous level: once you can read a little and count a little, the world has opened up. You can do anything, learn anything, and you don't need to wait on adults or school to hand you that. Go follow any interest, go problem solve, you can do it!
 
 Moreover, you are now old and experienced enough to organize and play more advanced things (like quiz nights, escape rooms, or full board games) by yourself. In a way, level 6 is just "the final level" that extends from age ~13 until the day you die.
 
-The topics listed below are generally chosen as the "advanced" explorations of subjects, available to students who chose this subject for their exams. But it is by no means the only way, and there's a wide variety of opinions about this content between curriculae or even schools right next to each other.
+The guidelines below are therefore sorted, instead, by their individual _subject_ and the foundational ideas inside to get people started.
 
 <a href="/level/6/" class="navigation-link display-block align-center">Explore all resources in this level!</a>
 
@@ -384,17 +382,66 @@ The topics listed below are generally chosen as the "advanced" explorations of s
 
 {{% section-foldable header="Language" %}}
 
-@TODO
+* Branch out into other languages. (Always nice to have, but also creates more general intuition for communication and strength of expression.)
+* Lots of reading, lots of writing. And then even more of it. (Diverse genres, authors, book lengths, etcetera. Even reading terrible books is great, as it shows you what not to do.)
+* Away from the technical rules or details, and more towards usage, style and improving communication. (For example, word play, metaphors, stylistic choices, colloquialisms, poetry/meter, etcetera)
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
+* Solving Equations (One Unknown, Two Unknowns, Systems of Equations)
+* Geometry/Trigonometry (Pythagorean Theorem, Transformations, Angle Proofs, Radii/Volumes, 2D/3D shapes), 
+* Algebra (Linear Equations and Functions, Polynomials, Inequalities, Sequences, Absolute Value, Piecewise Functions, Exponents, Qudratics, Irrational Numbers, Polynomial factorization/division, Logarithms, Function Transformations, Modeling)
+* Probability & Statistics (Calculating Probability, Modeling, Analyzing Data, Confidence Intervals, Significance Tests, Variance Analysis, Advanced Regression)
+* Precalculus (Composite Functions, Inverse Functions, Complex Numbers, Rational Functions, Conic Sections, Vectors, Matrices, Combinatorics, Series, Limits & Continuity)
+* Calculus (Multivariable, Differential, Integral => @TODO: Specify more when we get there)
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Physics" %}}
+
 @TODO
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="World" %}}
+{{% section-foldable header="Chemistry" %}}
+
+@TODO
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Biology" %}}
+
+@TODO
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Economics" %}}
+
+@TODO
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="History" %}}
+
+@TODO
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Programming/Logic" %}}
+
+@TODO
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Society & Law" %}}
+
+@TODO
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Life Skills" %}}
 
 @TODO
 

@@ -5,7 +5,7 @@ id: "vintage-verhalenbundel-sneakpeek"
 date: 2017-04-04
 price: 0.95
 image: [de_vintage_verhalenbundel.webp]
-file: "@TODO"
+file: "0d0dbe1d-9bf7-4e48-a9fb-a1aa12e19367"
 description: "Een collectie van de alleroudste schrijfwerken van een zeer jonge Tiamo pastoor."
 
 contents:
