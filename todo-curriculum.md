@@ -42,6 +42,8 @@ GREAT GAME: https://wordwheels.co.uk/
 
 FUN IDEA: "Give them the answers, they write the questions."
 
+ONCE WE GET TO TRANSLATING/MULTIPLE LANGUAGES => @IDEA: Crosswords puzzles where you only get a word, and must fill in all TRANSLATIONS of that word in different languages!
+
 TARSIAS!
 * Basically, you create a set of triangles where some of them have questions and others have answers.
 * There is only one way to connect the triangles (into a bigger triangle, or hexagon, or whatever) where all the Q+A PAIRS are correct!

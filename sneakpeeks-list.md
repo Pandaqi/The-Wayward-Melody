@@ -60,16 +60,13 @@ _Note: These source files include the final rules and material for the games too
 * [xxx] Meadowmight
 * [xxx] Mountain Miners
 * [xxx] Sleighwell
-
-TUESDAY
-* One Paper Games Bundle => Paper Thieves, Timely Transports, One Pizza The Puzzle, Epic Medics, Unstable Universe
-  * ( + combine with OPG backup I downloaded from GitHub? In case I'm missing some files!)
-* Separate One Paper Games:
-  * Kangaruse
-  * Magnetmen
-  * The Mist
-  * Starry Skylines
-  * Wondering Witches
+* One Paper Games:
+  * [xxx] One Paper Games Bundle (Paper Thieves/Timely Transports/One Pizza The Puzzle/Epic Medics/Unstable Universe)
+  * [xxx] Kangaruse
+  * [xxx] Magnetmen
+  * [xxx] The Mist
+  * [xxx] Starry Skylines
+  * [xxx] Wondering Witches
 
 WEDNESDAY
 * Waitless Games > Finger Food, Foldigami
