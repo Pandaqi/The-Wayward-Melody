@@ -1,22 +1,6 @@
 # Sneakpeeks List
 
-A list of "behind the scenes" stuff I want to sell, plus some general order.
-
-## What to do for each project?
-
-Behind the scenes,
-
-* If possible, **add fonts**. (Need that anyway for re-opening/re-exporting things!)
-* Provide `.ai` version. (Open with Affinity and export as PDF, rename to AI.)
-* Change names if they're weird or unhelpful.
-* Convert `.docx` to `.md`. (But keep the original docx as a nice alternative format; identical name to conversion, of course.)
-
-On the product page,
-
-* Clearly explain what's inside and what isn't.
-* Also add some standard text like: 
-  * "Images can be opened/edited with any image viewer. The text files have extension `.md` (Markdown) (and sometimes `.docx`), which means they can be opened with any text editor. Visual design files have extensions `.afdesign` (and sometimes `.ai`), which means they can be opened with the two largest graphics design softwares (Affinity Designer and Adobe Illustrator)."
-  * "We offer many files with multiple extensions for your ease of use. Please remember the original files were, of course, always made in only _one_ program, which means the conversion to other file formats often necessitates losing certain bits of information. (Most commonly, the programs used were _Affinity Designer_ for graphics and _Visual Studio Code_ for opening plain text files and code.)"
+A list of "behind the scenes" stuff I want to sell. This keeps track of what I've already done, and what order is sensible for what's left to do.
 
 ## Books
 
@@ -46,20 +30,23 @@ These can be uploaded almost completely as-is.
 
 _Note: These source files include the final rules and material for the games too!_
 
-* [xxx] That's Amorphe Games
-* [xxx] Game of Happiness & Dilemmas
-* [xxx] Slippery Slopes Games
-* [xxx] The Pirate Games (Drawingbeard/Riddlebeard)
-* [xxx] Photomone Games
-* [xxx] Keebble Games
-* [xxx] The Waterfall Games (Base/Raging Rapids)
-* [xxx] Wie Is De Trol?
-* [xxx] De Retro Bordspellen Bundel
-* [xxx] Naivigation Original
-* [xxx] Mammoth Messages
-* [xxx] Meadowmight
-* [xxx] Mountain Miners
-* [xxx] Sleighwell
+* Bundles:
+  * [xxx] That's Amorphe Games
+  * [xxx] Game of Happiness & Dilemmas
+  * [xxx] Slippery Slopes Games
+  * [xxx] The Pirate Games (Drawingbeard/Riddlebeard)
+  * [xxx] Photomone Games
+  * [xxx] Keebble Games
+  * [xxx] The Waterfall Games (Base/Raging Rapids)
+  * [xxx] De Retro Bordspellen Bundel
+* Misc:
+  * [xxx] Wie Is De Trol?
+  * [xxx] Naivigation Original
+  * [xxx] Mammoth Messages
+  * [xxx] Meadowmight
+  * [xxx] Mountain Miners
+  * [xxx] Sleighwell
+  * [xxx] Captain Flip
 * One Paper Games:
   * [xxx] One Paper Games Bundle (Paper Thieves/Timely Transports/One Pizza The Puzzle/Epic Medics/Unstable Universe)
   * [xxx] Kangaruse
@@ -67,11 +54,20 @@ _Note: These source files include the final rules and material for the games too
   * [xxx] The Mist
   * [xxx] Starry Skylines
   * [xxx] Wondering Witches
-
-WEDNESDAY
-* Waitless Games > Finger Food, Foldigami
-* Chiptales > All 3
-* Card Games > All 10
+* Waitless Games:
+  * [xxx] Finger Food
+  * [xxx] Foldigami
+  * [xxx] Creature Quellector
+* Chiptales:
+  * [xxx] Noble Flood
+  * [xxx] Pietenpoker
+  * [xxx] Six of Sparrows
+* Card Games:
+  * [xxx] Split the Foody
+  * [xxx] Librarians
+  * [xxx] Hold my Bear
+  * [xxx] Hasty Accusations
+  * [xxx] Firecrackers
 
 
 
@@ -82,16 +78,15 @@ These need some shrinking/cleanup.
 * Throneless Games
 * Outnumbered > Sixpack / Nine Lives
 * Domino Diaries > All 5
-* Creature Quellector
 * Easter Eggventures => I think it's better long-term to BREAK these things into their individual zipped games anyway in the future?
 * Maybe Games
 
 These haven't released yet.
 
 * Naivigation (New)
+* Card Games > Bidding Blocks, Death by Digits, Fiddlefoo, Pyrrameds, I Bid You Not
 * SwiftSmash > All 5
 * Luck Legends > All 7
-* Captain Flip
 * Mapped Out
 
 

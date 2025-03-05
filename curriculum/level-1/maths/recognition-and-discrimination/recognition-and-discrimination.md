@@ -25,19 +25,23 @@ Once these exercises are second nature, a logical next step is to move towards t
 * HARDER VERSION of group circling: the animals have different properties (like "tail or not" and "number of legs"), and you group by _property_, still drawing a closed line around it.
 
 **Advanced Spells**:
-* (Explorers) A simple story about recognition / things being the same or not being the same? (Could be quite serious, like "What if I wake up tomorrow and don't recognize you anymore?")
+* (Explorers) THE MATCHING MYTHS
   * [x] "The Twin Tigers"
   * [x] "The Mischievous Mothers"
-  * "The Treasure Painter" => Someone uses a painting (Saying something like "next to a circular stone" and "close to shore/sea") to explore an island and find a hidden treasure
-  * "The Watchers of Face" => A more philosophical one about "let me see your face again, so I will never forget/always recognize it" + combined with some magical folk called the "Face" and a more practical plot => Maybe those watchers are waiting for someone to return after being away for a while, so they speculate if they'd be able to even recognize them anymore, and others try to take advantage by visiting => Maybe this is an important _ritual_---parents need to be separated from children for a while, for some magical reason---so this repeats.
-* (Quizmasters) Show 2 elements and ask if the same. Show 4 elements and ask which one does NOT fit. Show an element and ask to pick the option that is the same / not the same. Show an element and ask to (not) match based on one _property_.
+  * [x] "The Treasure Painter"
+  * "The Watchers of Face" 
+* (Quizmasters) THE QUIZ OF SAME 
+  * Show 2 elements and ask if the same. Show 4 elements and ask which one does NOT fit. Show an element and ask to pick the option that is the same / not the same. Show an element and ask to (not) match based on one _property_.
 * (Puzzlepages) 
-  * PARKING LOT => Print out X cars with a specific color + symbol. Each space in the parking lot indicates the possible cars that could go there. There's only _one_ arrangement where they all fit.
+  * ZOO SHUFFLE => Same as Parking Lot, but with more complex graphics (animal silhouettes), you need to match ALL properties, and theme that might fit some people more.
+  * PARKING PROBLEMS => Print out X cars with a specific color + symbol. Each space in the parking lot indicates the possible cars that could go there. There's only _one_ arrangement where they all fit.
     * One set with shapes/colors
     * One with more complicated icons on cars/spots
     * => I can write a "Pigeonhole Algorithm" to generate these and make sure there's only ONE solution? (Though this isn't even a requirement, multiple solutions is fine on easiest difficulty.)
     * => Modify to make the cars PAWNS that are more easily picked up and placed by kids??
-  * Mini Mappers => Match "road ends" of tiles with each other, and if you do it right, you get a path from home to school. (Simply explained by showing _wrong_ connections with sad faces.)
+  * MINI MAPPERS => Match "road ends" of tiles with each other, and if you do it right, you get a path from home to school. (Simply explained by showing _wrong_ connections with sad faces.)
     * Same idea. You cut out a bunch of roads ONCE, then the material itself just contains a bunch of different MAPS to "solve".
-* (Runaways) A very simple escape room about matching the right things with each other. If done, the image it reveals shows the _next_ thing to match. This continues until ONE thing remains, and that's the final key to the solution. (Before starting, the parent/teacher takes that one element and secretly hides it somewhere/keeps it in the hand. Then, at the end, they can have this big reveal to see if it's the same.)
+    * **@IDEA:** Give people a _strip_ to cut out, so they can fold that strip back on itself and make a _thicker_ tile (which is easier to pick up and use for small children).
+* (Runaways) THE MAGICAL LOCK 
+  * A very simple escape room about matching the right things with each other. If done, the image it reveals shows the _next_ thing to match. This continues until ONE thing remains, and that's the final key to the solution. (Before starting, the parent/teacher takes that one element and secretly hides it somewhere/keeps it in the hand. Then, at the end, they can have this big reveal to see if it's the same.)
   * **Yes, matching is basically the backbone of such escape rooms**. Match things by color. Match things by shape. Tada: the answer rolls out.

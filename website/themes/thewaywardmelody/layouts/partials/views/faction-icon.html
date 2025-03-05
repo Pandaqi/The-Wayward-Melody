@@ -1,0 +1,4 @@
+{{ $faction_name := .context.Section }}
+{{ $invert := or .invert false }}
+{{ $class := cond $invert "faction-icon-black" "faction-icon-white"}}
+<div class="faction-icon faction-icon-{{ $faction_name }} {{ $class }}"></div>

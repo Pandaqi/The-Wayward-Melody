@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: The Matching Myths
+description: "Fairy Tales from The Wayward Melody"
+cover-image: "./epub/cover.png"
+css: "./epub/ebook_style.css"
+lang: en-EN
+creator:
+- role: author
+  text: Tiamo Pastoor
+---

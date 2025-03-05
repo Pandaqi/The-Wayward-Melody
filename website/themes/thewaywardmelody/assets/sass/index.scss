@@ -1,0 +1,1167 @@
+@use "sass:math";
+@layer base, bundles, modules;
+
+// Font Files
+$font-family-heading: "Gloria";
+$font-family-body: "Lora";
+$font-family-accent: "Signika Negative";
+$font-family-code: "IBM Plex Mono";
+$base-fonts: "fonts/";
+
+@font-face {
+    font-family: $font-family-heading;
+    src: url($base-fonts + 'Gloria.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url($base-fonts + 'Lora-MediumItalic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url($base-fonts + 'Lora-Medium.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url($base-fonts + 'Lora-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-body;
+    src: url($base-fonts + 'Lora-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-accent;
+    src: url($base-fonts + 'SignikaNegative-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-accent;
+    src: url($base-fonts + 'SignikaNegative-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: $font-family-code;
+    src: url($base-fonts + 'IBMPlexMono-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+// Shared Variables
+/*
+$color-accent: oklch(81.39% 0.0733 9.17);
+$color-light-xx: oklch(96.35% 0 46.08);
+$color-light-x: oklch(72.41% 0.0278 46.08);
+$color-mid-neutral: oklch(76.67% 0.0082 91.53);
+$color-mid-tint: oklch(79.97% 0.0343 146.63);
+$color-dark-x: oklch(44.63% 0.0166 207.84);
+$color-dark-xx: oklch(33.28% 0.0166 207.84);
+*/
+
+$size-xxxs: 0.1rem;
+$size-xxs: 0.15rem;
+$size-xs: 0.4rem;
+$size-s: 0.66rem;
+$size-m: 1rem;
+$size-l: 2rem;
+$size-xl: 3.33rem;
+$size-xxl: 5rem;
+$size-xxxl: 8rem;
+
+$dur-s: 0.1s;
+$dur-m: 0.2s;
+$dur-l: 0.3s;
+
+$viewport-xs: 160px;
+$viewport-s: 320px;
+$viewport-m: 640px;
+$viewport-l: 960px;
+$viewport-xl: 1280px;
+
+// Mixins
+@mixin hover_sidearrows 
+{
+    &::before {
+        content: "« ";
+        visibility:hidden;
+    }
+
+    &::after {
+        content: " »";
+        visibility:hidden;
+    }
+
+    &:hover {
+        color: var(--color-accent);
+        text-decoration: underline;
+        text-decoration-thickness: $size-xxs;
+        &::before, &::after {
+            visibility: visible;
+        }
+    }
+}
+
+@mixin heading-decorations
+{
+    &::before, &::after 
+    {
+        background-image: url(/css/header_decoration.webp);
+        width: 1.5em; // same size as header itself
+        height: 1.5em;
+        display: inline-block;
+        filter: #{"invert()"}; // only invert when it's on dark background
+        content: "";
+        background-size: contain;
+        mix-blend-mode: overlay;
+        margin-top: -0.33em;
+    }
+
+    &::before
+    {
+        transform: scaleX(-1);
+        margin-right: 0.25em;
+    }
+
+    &::after
+    {
+        transform: scaleX(1);
+        margin-left: 0.25em;
+    }
+}
+
+@mixin transition-m 
+{
+    transition: color $dur-m, background-color $dur-m, filter $dur-m, transform $dur-m;
+}
+
+@mixin hover_popup
+{   
+    &:hover {
+        transform: scale(1.035);
+        filter: drop-shadow(0 0 $size-xxs var(--color-dark-x));    
+    }
+}
+
+@mixin font-heading
+{
+    font-family: $font-family-heading;
+    font-weight: normal;
+}
+
+// LAYER 0 = base/core resets and stuff
+@layer base
+{
+    // General
+    // (Mostly removes default styles + sets some things that will barely need changing anyway)
+    * {
+        box-sizing: border-box;
+    }
+
+    body,html 
+    {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+
+        font-family: $font-family-body;
+        font-size: calc(12px + 0.390625vw);
+
+        background-color: var(--color-dark-xx);
+        color: var(--color-light-xx);
+    }
+
+    p, li, blockquote
+    {
+        line-height: 1.45em;
+    }
+
+    code
+    {
+        font-size: 0.75em;
+        background-color: var(--color-light-x);
+        color: var(--color-dark-xx);
+        padding: 0.25em;
+        border-radius: 0.25em;
+        font-family: $font-family-code;
+        font-weight: 500;
+        font-style: italic;
+    }
+
+    h1,h2,h3,h4,h5,h6 
+    {
+        @include font-heading;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: $size-xxl;
+    }
+
+    h2 {
+        font-size: $size-l;
+    }
+
+    h3 {
+        font-size: $size-m;
+    }
+
+    a, a:hover, a:visited 
+    {
+        color: currentcolor;
+        text-decoration: none;
+    }
+
+    button 
+    {
+        font-family: inherit;
+        font-size: inherit;
+        border: none;
+        width: 100%;
+        display: block;
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    // Markdown conversion styles
+    // (these are only applied when text is from a Markdown file, as I can't/don't want to assign classes to everything then
+    .text-reader 
+    {
+        a 
+        {
+            font-family: $font-family-accent;
+            font-weight: bold;
+            text-decoration: underline;
+            color: var(--color-accent);
+            @include transition-m;
+
+            &:hover {
+                color: var(--color-accent-contrast);
+                font-style: italic;
+            }
+        }
+
+        .color-links-inverted 
+        {
+            a {
+                color: var(--color-mid);
+                &:hover {
+                    color: var(--color-dark-xx);
+                }
+            }
+        }
+
+        h1,h2,h3,h4,h5,h6
+        {
+            margin-top: $size-xl;
+            margin-bottom: 0;
+
+            @include heading-decorations;
+        }
+        
+        blockquote
+        {
+            margin: 0;
+            padding: 0;
+
+            p 
+            {
+                margin: $size-m;
+                background-color: var(--color-dark-x);
+                padding: $size-m;
+                border-radius: $size-m;
+            }
+        }
+    }
+
+    // Color Schemes
+    .theme-runaways
+    {
+        --color-light-xx: oklch(90% 0.02 0);
+        --color-light-x: oklch(75% 0.05 0);
+        --color-accent: oklch(90% 0.175 0);
+        --color-accent-contrast: oklch(90% 0.175 60);
+        --color-mid: oklch(60% 0.075 0);
+        --color-dark-x: oklch(35% 0.05 0);
+        --color-dark-xx: oklch(15% 0.02 0);
+    }
+
+    .theme-quizmasters
+    {
+        --color-light-xx: oklch(90% 0.02 40);
+        --color-light-x: oklch(75% 0.05 40);
+        --color-accent: oklch(90% 0.175 40);
+        --color-accent-contrast: oklch(90% 0.175 100);
+        --color-mid: oklch(60% 0.075 40);
+        --color-dark-x: oklch(35% 0.05 40);
+        --color-dark-xx: oklch(15% 0.02 40);
+    }
+
+    .theme-teachers
+    {
+        --color-light-xx: oklch(90% 0.02 80);
+        --color-light-x: oklch(75% 0.05 80);
+        --color-accent: oklch(90% 0.175 80);
+        --color-accent-contrast: oklch(90% 0.175 140);
+        --color-mid: oklch(60% 0.075 80);
+        --color-dark-x: oklch(35% 0.05 80);
+        --color-dark-xx: oklch(15% 0.02 80);
+    }
+
+    .theme-magimerchants
+    {
+        --color-light-xx: oklch(90% 0.02 120);
+        --color-light-x: oklch(75% 0.05 120);
+        --color-accent: oklch(90% 0.175 120);
+        --color-accent-contrast: oklch(90% 0.175 180);
+        --color-mid: oklch(60% 0.075 120);
+        --color-dark-x: oklch(35% 0.05 120);
+        --color-dark-xx: oklch(15% 0.02 120);
+    }
+
+    .theme-sneakpeeks
+    {
+        --color-light-xx: oklch(90% 0.02 160);
+        --color-light-x: oklch(75% 0.05 160);
+        --color-accent: oklch(90% 0.175 160);
+        --color-accent-contrast: oklch(90% 0.175 220);
+        --color-mid: oklch(60% 0.075 160);
+        --color-dark-x: oklch(35% 0.05 160);
+        --color-dark-xx: oklch(15% 0.02 160);
+    }
+
+    .theme-gamiverses
+    {
+        --color-light-xx: oklch(90% 0.02 200);
+        --color-light-x: oklch(75% 0.05 200);
+        --color-accent: oklch(90% 0.175 200);
+        --color-accent-contrast: oklch(90% 0.175 140);
+        --color-mid: oklch(60% 0.075 200);
+        --color-dark-x: oklch(35% 0.05 200);
+        --color-dark-xx: oklch(15% 0.02 200);
+    }
+
+    .theme-explorers
+    {
+        --color-light-xx: oklch(90% 0.02 240);
+        --color-light-x: oklch(75% 0.05 240);
+        --color-accent: oklch(90% 0.175 240);
+        --color-accent-contrast: oklch(90% 0.175 180);
+        --color-mid: oklch(60% 0.075 240);
+        --color-dark-x: oklch(35% 0.05 240);
+        --color-dark-xx: oklch(15% 0.02 240);
+    }
+
+    .theme-general, .theme-info
+    {
+        --color-light-xx: oklch(90% 0.02 280);
+        --color-light-x: oklch(75% 0.05 280);
+        --color-accent: oklch(90% 0.175 280);
+        --color-accent-contrast: oklch(90% 0.175 220);
+        --color-mid: oklch(60% 0.075 280);
+        --color-dark-x: oklch(35% 0.05 280);
+        --color-dark-xx: oklch(15% 0.02 280);
+    }
+    
+    .theme-puzzlepages
+    {
+        --color-light-xx: oklch(90% 0.02 320);
+        --color-light-x: oklch(75% 0.05 320);
+        --color-accent: oklch(90% 0.175 320);
+        --color-accent-contrast: oklch(90% 0.175 260);
+        --color-mid: oklch(60% 0.075 320);
+        --color-dark-x: oklch(35% 0.05 320);
+        --color-dark-xx: oklch(15% 0.02 320);
+    }
+
+    // LEVELS
+    .block-level-1
+    {
+        background-color: oklch(70% 0.162 144.03);
+        color: oklch(50% 0.162 144.03);
+    }
+
+    .block-level-2
+    {
+        background-color: oklch(73.24% 0.127291 211.374);
+        color: oklch(50% 0.127291 211.374);
+    }
+
+    .block-level-3
+    {
+        background-color: oklch(70% 0.18 320);
+        color: oklch(50% 0.18 320);
+    }
+
+    .block-level-4
+    {
+        background-color: oklch(71.38% 0.1795 27.62);
+        color: oklch(50% 0.1795 27.62);
+    }
+
+    .block-level-5
+    {
+        //background-color: oklch(78% 0.18 91.41);
+        //color: oklch(50% 0.1552 91.41);
+        background-color: oklch(75% 0.18 75);
+        color: oklch(50% 0.1552 75);
+    }
+
+    .block-level-6
+    {
+        background-color: oklch(71.38% 0.1795 275.0);
+        color: oklch(50% 0.1795 275.0);
+    }
+}
+
+@layer bundles
+{
+    // Navigation
+    .navigation-link
+    {
+        @include font-heading;
+        @include hover_sidearrows;
+        @include transition-m;
+    }
+
+    // Text
+    .text-highlight {
+        font-weight: bold;
+        color: var(--color-accent);
+    }
+
+    .text-unhighlight {
+        font-weight: normal;
+        font-style: italic;
+        color: var(--color-mid);
+    }
+
+    .no-select
+    {
+        -webkit-user-select: none; /* Safari */
+        -ms-user-select: none; /* IE 10 and IE 11 */
+        user-select: none; /* Standard syntax */
+    }
+
+    .preserve-whitespace
+    {
+        white-space: pre-wrap;
+    }
+
+    // Buttons
+    .button {
+        font-family: $font-family-accent;
+        font-weight: bold;        
+        color: var(--color-dark-xx);
+        background-color: var(--color-accent);
+        cursor: pointer;
+
+        text-align: center;
+        display: block;
+        width: 100%;
+        border: none;
+
+        @include transition-m;
+        @include hover_popup;
+    }
+
+    .button-size-m {
+        font-size: $size-s;
+        border-radius: $size-xs;
+        padding: $size-s;
+        margin: $size-s 0;
+    }
+    
+    // Common center aligning, width reducing block
+    .block-column-and-center
+    {
+        margin: $size-m;
+        max-width: $viewport-m;
+        margin: auto;
+    }
+
+    // Fixed Table Layout
+    table 
+    {
+        width: 100%;
+        font-size: $size-s;
+
+        thead
+        {
+            font-weight: bold;
+        }
+
+        td 
+        {
+            padding: $size-s;
+        }
+          
+        tr:nth-child(even) 
+        {
+            background-color: var(--color-dark-x);
+        }
+    }
+
+    // Fixed search results override (as this is out of my control for modularization)
+    #search-results-container
+    {
+        //--pagefind-ui-scale: 0.8;
+        --pagefind-ui-primary: #736475;
+        --pagefind-ui-text: #f9f0fa;
+        --pagefind-ui-background: #217076; // this is only the search bar + checkboxes; all results are actually transparent
+        --pagefind-ui-border: #e9d4ef;
+        --pagefind-ui-tag: #6a4e7c;
+        --pagefind-ui-border-width: 0.1em;
+        --pagefind-ui-border-radius: 0.35em;
+        --pagefind-ui-image-border-radius: 0.28rem;
+        //--pagefind-ui-image-box-ratio: 3 / 2;
+        --pagefind-ui-font: "Lora";
+    }
+}
+
+@layer modules
+{
+    // Fonts & Text
+    .font-body 
+    {
+        font-family: $font-family-body;
+        font-weight: normal;
+    }
+
+    .font-heading
+    {
+        @include font-heading;
+    }
+
+    .font-accent
+    {
+        font-family: $font-family-accent;
+        font-weight: bold;
+    }
+
+    .font-size-s {
+        font-size: $size-s;
+    }
+
+    .font-size-m {
+        font-size: $size-m;
+    }
+
+    .font-size-l {
+        font-size: $size-l;
+    }
+
+    .font-size-xl {
+        font-size: $size-xl;
+    }
+
+    .font-size-xxl {
+        font-size: $size-xxl;
+    }
+
+    .text-style-italic {
+        font-style: italic;
+    }
+
+    .align-center {
+        text-align: center;
+    }
+
+    .align-left {
+        text-align: left;
+    }
+
+    .align-right {
+        text-align: right;
+    }
+
+    .text-shadow {
+        text-shadow: -$size-xxs $size-xxs var(--color-dark-x);
+    }
+
+    .text-shadow-dark {
+        text-shadow: -$size-xxxs $size-xxxs var(--color-dark-xx);
+    }
+
+    .line-height-s
+    {
+        line-height: 1em;
+    }
+
+    .heading-decorations {
+        @include heading-decorations;
+    }
+
+    // Colors
+    .bg-color-accent-contrast {
+        background-color: var(--color-accent-contrast);
+    }
+
+    .bg-color-dark-xx {
+        background-color: var(--color-dark-xx);
+    }
+
+    .bg-color-dark-x {
+        background-color: var(--color-dark-x);
+    }
+
+    .bg-color-mid {
+        background-color: var(--color-mid);
+    }
+
+    .bg-color-light-xx {
+        background-color: var(--color-light-xx);
+    }
+
+    .text-color-light-xx {
+        color: var(--color-light-xx);
+    }
+
+    .text-color-dark-xx {
+        color: var(--color-dark-xx);
+    }
+
+    .text-color-mid {
+        color: var(--color-mid);
+    }
+
+    // Corners
+    .rounded-xs {
+        border-radius: $size-xs;
+    }
+    
+    .rounded-s {
+        border-radius: $size-s;
+    }
+
+    .rounded-m {
+        border-radius: $size-m;
+    }
+
+    // Lengths & Sizes
+    .padding-none {
+        padding: 0;
+    }
+
+    .padding-xxs {
+        padding: $size-xxs;
+    }
+
+    .padding-xs {
+        padding: $size-xs;
+    }
+
+    .padding-s {
+        padding: $size-s;
+    }
+
+    .padding-m {
+        padding: $size-m;
+    }
+
+    .margin-none {
+        margin: 0;
+    }
+
+    .margin-s {
+        margin: $size-s;
+    }
+
+    .margin-m {
+        margin: $size-m;
+    }
+
+    .margin-vertical-s {
+        margin-top: $size-s;
+        margin-bottom: $size-s;
+    }
+
+    .margin-vertical-m {
+        margin-top: $size-m;
+        margin-bottom: $size-m;
+    }
+
+    .margin-top-xxxl {
+        margin-top: $size-xxxl;
+    }
+
+    .gap-none {
+        gap: 0;
+    }
+
+    .gap-xs {
+        gap: $size-xs;
+    }
+
+    .gap-s {
+        gap: $size-s;
+    }
+
+    .gap-m {
+        gap: $size-m;
+    }
+
+    .height-xxxs
+    {
+        height: $size-xxxs * 10;
+        max-height: $size-xxxs * 10;
+    }
+
+    .height-xxs {
+        height: $size-xxs * 10;
+        max-height: $size-xxs * 10;
+    }
+
+    .height-xs {
+        height: $size-xs * 10;
+        max-height: $size-xs * 10;
+    }
+
+    .height-s {
+        height: $size-s * 10;
+        max-height: $size-s * 10;
+    }
+
+    .height-m {
+        height: $size-m * 10;
+        max-height: $size-m * 10;
+    }
+
+    .height-ml {
+        height: $size-m * 15;
+        max-height: $size-m * 15;
+    }
+
+    .height-l {
+        height: $size-l * 10;
+        max-height: $size-l * 10;
+    }
+
+    .height-xl {
+        height: $size-xl * 10;
+        max-height: $size-xl * 10;
+    }
+
+    .maximize-height {
+        height: 100%;
+    }
+
+    .maximize-width {
+        width: 100%;
+    }
+
+    .limit-width-s {
+        max-width: $viewport-s;
+    }
+
+    .limit-width-m {
+        max-width: $viewport-m;
+    }
+
+    .limit-width-l {
+        max-width: $viewport-l;
+    }
+
+    .limit-width-xl {
+        max-width: $viewport-xl;
+    }
+
+    // Background
+    .background-cover {
+        background-size: cover;
+        background-position: center center;
+    }
+
+    .fade-to-bg {
+        background: linear-gradient(to bottom, transparent, var(--color-dark-xx));
+    }
+
+    .background-texture 
+    {
+        background-image: url(/css/bg_texture.webp);
+        background-blend-mode: overlay;
+    }
+
+    // Layout
+    .flex {
+        display: flex;
+        min-width: 0;
+        min-height: 0;
+    }
+
+    .flex-wrap {
+        flex-wrap: wrap;
+    }
+
+    .flex-center {
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+
+    .flex-center-horizontal {
+        justify-content: center;
+    }
+
+    .flex-center-vertical {
+        align-items: center;
+    }
+
+    .flex-nocenter {
+        justify-content: start;
+        align-items: start;
+    }
+
+    .flex-equal-size
+    {
+        align-items: stretch;
+    }
+
+    .flex-vertical-list 
+    {
+        & > li 
+        {
+            width: 100%;
+
+            & > a 
+            {
+                width: 100%;
+            }
+        }
+    }
+
+    // Display
+    .display-block {
+        display: block;
+    }
+
+    .display-none {
+        display: none;
+    }
+
+    .opacity-half {
+        opacity: 0.5;
+    }
+
+    .drop-shadow-xs {
+        filter: drop-shadow(0 0 1px black);
+    }
+
+    .drop-shadow-s {
+        filter: drop-shadow(0 0 0.033em #333);
+    }
+
+    .blend-overlay {
+        mix-blend-mode: overlay;
+    }
+
+    // Alignment & Positioning
+    .position-absolute {
+        position: absolute;
+    }
+
+    .position-relative {
+        position: relative;
+    }
+
+    .move-to-back {
+        z-index: -1;
+    }
+
+    .padding-absolute-s {
+        left: $size-s;
+        right: $size-s;
+        top: $size-s;
+        bottom: $size-s;
+    }
+
+    .anchor-top-right {
+        right: 0;
+        top: 0;
+    }
+
+    .anchor-center-left {
+        top: 0;
+        bottom: 0;
+        left: 0;
+    }
+
+    .anchor-center-right {
+        top: 0;
+        bottom: 0;
+        right: 0;
+    }
+
+    .float-left {
+        float:left;
+    }
+
+    .float-right {
+        float:right;
+    }
+
+    .block-align-center {
+        margin: auto;
+    }
+
+    // Paragraphs & Lists
+    .remove-list-styling
+    {
+        & {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+    
+            li {
+                list-style-type: none;
+            }
+        }
+    }
+
+    .remove-link-styles {
+        text-decoration: none;
+    }
+
+    .underline {
+        text-decoration: underline;
+    }
+
+    .collapse-paragraph-margin {
+        p:first-child { margin-top: 0; }
+        p:last-child { margin-bottom: 0; }
+    }
+    
+    // Animations & Transitions
+    .transition-m {
+        @include transition-m;
+    }
+
+    .hover_popup:hover {
+        @include hover_popup;
+    }
+
+    .hover_pointer {
+        cursor: pointer;
+    }
+
+    .hover_underline:hover {
+        text-decoration: underline;
+    }
+
+    .hover_brighten:hover {
+        filter: brightness(130%);
+    }
+
+    .hover_opaque:hover {
+        opacity: 1.0;
+    }
+
+    .hover_sidearrows 
+    {
+        @include hover_sidearrows;
+    }
+
+    .glow
+    {
+        filter: drop-shadow(0 0 0.33em white);
+    }
+
+    .hover_glow:hover {
+        filter: drop-shadow(0 0 0.33em white);
+    }
+
+    .hover_remove-child-rotations > div
+    {
+        transition: transform 0.25s;
+    }
+
+    .hover_remove-child-rotations:hover > div
+    {
+        transform: rotate(0deg) !important;
+    }
+
+    // Border Images
+    .border-image-m 
+    {
+        border-image-slice: 42 42 42 42;
+        border-image-width: 1.5em;
+        border-image-outset: 0.4em; // match this with actual sizes + padding of the item it's on => better yet, provide a few variants again! border-s, border-m, border-l
+        border-image-repeat: round round;
+        border-style: solid;
+    }
+
+    .border-image-white
+    {
+        border-image-source: url(/css/border_pattern_white.webp);
+    }
+
+    .border-image-black
+    {
+        border-image-source: url(/css/border_pattern_black.webp);
+    }
+
+    // Faction Icons
+    $faction-icons: (
+        "info": 0,
+        "explorers": 1,
+        "sneakpeeks": 2,
+        "teachers": 3,
+        "quizmasters": 4,
+        "puzzlepages": 5,
+        "runaways": 6,
+        "gamiverses": 7,
+        "magimerchants": 8
+    );
+
+    @each $name, $offset in $faction-icons 
+    {
+        .faction-icon-#{$name} 
+        {
+            background-image: url(/css/icons_factions.svg);
+            background-position-x: ($offset % 8) * -1em;
+            background-position-y: math.floor(math.div($offset, 8)) * -1em;
+        }
+    }
+
+    // (Metadata) Icons
+    $metadata-icons: (
+        "cart": 0,
+        "account": 1,
+        "price": 2,
+        "categories": 3,
+        "duration": 4,
+        "age": 5,
+        "difficulty": 6,
+        "setup": 7,
+        "prior-wisdom": 8,
+        "color": 9,
+        "mature": 10,
+        "textless": 11,
+        "parallel-play": 12,
+        "double-sided-allowed": 13,
+        "double-sided-required": 14,
+        "game-master": 15,
+        "game-master-can-play": 16,
+        "hybrid": 17,
+        "paper-choice": 18,
+        "linear": 19,
+        "requirements": 20,
+        "indoors": 21,
+        "outdoors": 22,
+        "language": 23,
+        "player-count": 24,
+        "reusable": 25,
+        "level": 26,
+        "search": 27,
+        "subject": 28,
+        "brand": 29
+    );
+
+    .metadata-icon, .faction-icon, .store-icon
+    {
+        width: 1em;
+        height: 1em;
+        margin-left: 0.15em;
+        margin-right: 0.15em;
+        display: inline-block;
+        background-size: 800%;
+        filter: #{"invert()"};
+    }
+
+    .metadata-icon-black, .faction-icon-black, .store-icon-block
+    {
+        filter: none;
+    }
+
+    @each $name, $offset in $metadata-icons 
+    {
+        .metadata-icon-#{$name} 
+        {
+            background-image: url(/css/icons.svg);
+            background-position-x: ($offset % 8) * -1em;
+            background-position-y: math.floor(math.div($offset, 8)) * -1em;
+        }
+    }
+
+    // Special Case: store icon
+    .store-icon
+    {
+        background-image: url(/css/logos/twwm_favicon_minimal.png);
+        background-size: contain;
+    }
+
+    // Responsiveness & Viewport Resizing
+    .show-s
+    {
+        display: none;
+    }
+
+    .show-m
+    {
+        display: none;
+    }
+
+    @media all and (max-width: $viewport-s)
+    {
+        .hide-s {
+            display: none;
+        }
+
+        .show-s {
+            display: block;
+        }
+
+        .flex-wrap-below-s {
+            flex-wrap: wrap;
+        }
+    }
+
+    @media all and (max-width: $viewport-m)
+    {
+        .hide-m {
+            display: none;
+        }
+
+        .show-m {
+            display: block;
+        }
+
+        .navigation-link {
+            &::after { display: none; }
+            &::before { display: none; }
+        }
+
+        .flex-wrap-below-m {
+            flex-wrap: wrap;
+        }
+    }
+}

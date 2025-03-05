@@ -1,0 +1,10 @@
+baseURL = ""
+languageCode = "en-en"
+title = "Story Exporter"
+theme = "story-exporter"
+author = "Tiamo Pastoor"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

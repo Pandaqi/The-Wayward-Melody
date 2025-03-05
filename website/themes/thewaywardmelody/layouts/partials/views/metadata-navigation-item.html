@@ -1,0 +1,28 @@
+{{- $context := .context -}}
+{{- $key := .key -}}
+{{- $section := $context.Section -}}
+{{- $is_product := eq $context.Type "product" -}}
+<!--- By default, we select ALL relevant terms within a certain section --->
+{{- $all_terms := index $context.Site.Taxonomies $key -}}
+{{- $all_terms_filtered := where $all_terms "Section" $section }}
+<!--- If it's a product page, however, we only read its specific Params (if not set, empty slice, does nothing) --->
+{{- if $is_product -}}
+{{- $all_terms_filtered = or (index $context.Params $key) slice -}}
+{{- if not (reflect.IsSlice $all_terms_filtered) -}}{{- $all_terms_filtered = slice $all_terms_filtered -}}{{- end -}}
+{{- end -}}
+{{- if gt (len $all_terms_filtered) 0 -}}
+{{- $data := partial "func/get-taxonomy-data.html" . -}}
+{{- $url_params := "" }} <!--- or .url_params (printf "section=%s" $section) --->
+<li class="flex flex-wrap flex-center gap-xs padding-xs line-height-s" title="{{ $data.desc }}">
+{{- if not .hide_icon -}}
+<div class="metadata-icon metadata-icon-{{ $key }}"></div>
+{{- end -}}
+{{- if not .hide_label -}}
+<div class="text-style-italic font-size-s">{{ $data.key_readable }}?</div>
+{{- end -}}
+{{- range $term, $pages := $all_terms_filtered -}}
+{{- $value := cond $is_product $pages $term -}} <!--- Ugly exception necessary because the site taxonomies are a WeightedMap, not a Slice --->
+{{- partial "views/metadata-item" (dict "context" $context "key" $key "value" $value "value_only" true "url_params" $url_params) -}}
+{{- end -}}
+</li>
+{{- end -}}

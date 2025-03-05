@@ -1,6 +1,9 @@
 ---
 title: "The Twin Tigers"
+weight: 1
 ---
+
+# The Twin Tigers
 
 Once upon a time, tiger twins were born. 
 

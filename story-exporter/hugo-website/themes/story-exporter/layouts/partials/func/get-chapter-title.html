@@ -1,0 +1,13 @@
+{{- $pov := .Params.pov -}}
+{{- $all_pov_chapters := where .Site.RegularPages ".Params.pov" "==" $pov -}}
+{{- $chapters_before := 0 -}}
+{{- $my_weight := .Params.weight -}}
+{{- range $all_pov_chapters -}}
+	{{ if ge .Params.weight $my_weight }}{{ continue }}{{ end }}
+	{{ $chapters_before = add $chapters_before 1 }}
+{{- end -}}
+
+{{- $version := add $chapters_before 1 -}}
+{{- $title := printf "%s v%s" .Params.pov (string $version) -}}
+{{- if .Title -}}{{- $title = .Title -}}{{- end -}}
+{{- return $title -}}

@@ -1,6 +1,9 @@
 ---
 title: "The Mischievous Mothers"
+weight: 2
 ---
+
+# The Mischievous Mothers
 
 Once upon a time, a boy came home and had double vision. 
 

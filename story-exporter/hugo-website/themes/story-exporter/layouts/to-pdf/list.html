@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Manuscript</title>
+
+        <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+
+        <!-- Used by Paged.js to make stuff look like an actual book -->
+        {{ $style := resources.Get "interface.css" }}
+        <link href="{{ $style.RelPermalink }}" rel="stylesheet" type="text/css">
+
+        <!-- My default styles for the book -->
+        {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed") }}
+        {{ $style := resources.Get "scss/style.scss" | resources.ToCSS $options }}
+        <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+        <!-- Specific styles for the PDF creation -->
+        <style>
+            @page 
+            { 
+                size: 5.5in 8.5in;
+                margin-top: 18mm;
+                margin-bottom: 22mm;
+
+                @top-right 
+                { 
+                    content: string(title);
+                    font-style: italic;
+                    opacity: 0.5;
+                }
+
+                @bottom-center 
+                { 
+                    content: counter(page); 
+                }
+            } 
+
+            @page:left 
+            {
+                margin-left: 15mm;
+                margin-right: 20mm;
+            }
+            
+            @page:right 
+            {
+                margin-left: 20mm;
+                margin-right: 15mm;
+            }
+
+            body 
+            {
+                font-size: 10.75pt;
+                line-height: 140%;
+                background-color: white;
+                color: black;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+        <!-- Colofon -->
+        {{ $custom_data := index .Site.Data "book-data" }}
+        <div class="cover-text">
+            <h2 class="cover-title">{{ index $custom_data "title" }}</h2>
+            <p class="cover-author">Tiamo Pastoor</p>
+        </div>
+
+        <!-- TOC -->
+        <img class="chapter-decoration force-right" src="/css/media/chapter-decoration.jpg">
+        <h2 class="custom-chapter-header table-of-contents-header">Table of Contents</h2>
+
+        {{ $collection := .Site.RegularPages }}
+        {{ $col_size := len $collection }}
+        <ol class="table-of-contents">
+            {{ range $collection }}
+                {{ $id := .Title | urlize }}
+                <li><a href="#{{ $id }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ol>
+
+        <!-- All chapters -->
+        <div class="reader">
+            {{ range $collection }}
+                <img class="chapter-decoration" src="/css/media/chapter-decoration.jpg">
+                {{ .Content }}
+            {{ end }}
+        </div>
+    </body>
+</html>

@@ -1,0 +1,55 @@
+---
+type: "product"
+title: "Recognition & Discrimination"
+id: "recognition-and-discrimination"
+price: 5.95
+image: ""
+file: "@TODO"
+spell: "recognition-and-discrimination"
+description: | 
+  The first step to any path of learning and growth
+  Is the ability to say things are the same (or not)
+  This resource provides simple exercises for both
+  Until patterns and differences are very easy to spot
+
+contents:
+- "Exercise: Are these things the same?"
+- "Exercise: Connect The Same (if done correctly, your lines reveal something)"
+- "Exercise: Color in The Same (if done correctly, the page reveals something)"
+- Place Animals in Meadows (after cutting them out)
+- Place Furniture in Rooms (after cutting them out)
+- "Circle Groups Easy + Circle Groups Advanced (based on individual properties)"
+- Matching Tarsia (place tiles so that sides match; immediately know if you've done it correctly!)
+
+level: 1
+language: "EN"
+subject: "Logic"
+categories: ["matching", "recognition", "discrimination"]
+# brand: ""
+player-count: 1
+age: 3
+# requirements: ""
+reusable: false
+duration: 60
+difficulty: 1
+setup: 1
+prior-wisdom: false
+color: false
+# mature: false
+textless: true
+# parallel-play: true
+double-sided-allowed: true
+# game-master: false
+# game-master-can-play: false
+paper-choice: true
+linear: true
+indoors: true
+# outdoors: true
+
+---
+
+All learning begins here. There is no way to teach someone addition if they can't actually recognize numbers or tell them apart. The same is true for letters of the alphabet. And doing exercises or puzzles becomes similarly impossible if the child can't actually distinguish between a right or wrong answer.
+
+The contents of this resource, hence, are very basic (at least when viewed by an adult who has no trouble recognizing numbers and letters) but absolutely crucial to explore.
+
+Once these exercises are second nature, a logical next step is to move towards teaching some first shapes and colors. (They provide a simple, abstracted way to test this skill. Something which many puzzles, games and quizzes can then use.)

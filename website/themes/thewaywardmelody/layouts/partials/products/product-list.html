@@ -1,0 +1,20 @@
+{{ $paginator := or .paginator (.context.Paginate (sort (where .context.Pages "Type" "product") ".Params.level" "asc")) }}
+{{ $has_pages := gt (len $paginator.Pages) 0 }}
+{{ if $has_pages }}
+{{ if .add_heading }}
+{{ $heading := "Latest Products" }}
+{{ $is_bundle := or .context.Params.bundle false }}
+{{ if $is_bundle }}{{ $heading = "Products in Bundle" }}{{ end }}
+<h2 class="heading-decorations">{{ $heading }}</h2>
+{{ end }}
+<nav>
+<ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m flex-equal-size">
+    {{ range $paginator.Pages }}
+        <li>{{ partial "products/product-summary" . }}</li>
+    {{ end }}
+</ul>
+{{ if not .suppress_navigation }}
+{{ partial "navigation/pagination" (dict "context" .context "paginator" $paginator) }}
+{{ end }}
+</nav>
+{{ end }}

@@ -1,0 +1,14 @@
+{{ define "main" }}
+	<main>
+		<article class="reader">
+			<h1>{{ .Title }}</h1>
+
+			{{ $word_count := countwords .Content }}
+			<div class="remark">Words: {{ $word_count | lang.FormatNumber 0 }}</div>
+			
+			<div>
+				{{ .Content | safeHTML }}
+			</div>
+		</article>
+	</main>
+{{ end }}

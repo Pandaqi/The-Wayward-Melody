@@ -1,10 +1,5 @@
 # To-Do
 
-WEBSHOP:
-* Remove line-height from metadata elements
-* Add FACTION (clearly, boldly) to product summary! (Now there's no way to know something is a "Teaching Resource", for example, in overviews/grid view.)
-
-
 ## Business
 
 * ONCE I HAVE THEWAYWARDMELODY.COM SETUP
@@ -22,16 +17,16 @@ WEBSHOP:
 
 * HOME PAGE
   * The home page should look much more _open_ and _custom_ anyway. Custom shop logo, more space, more images, less AI-first-impression.
-* Make CURRICULUM page much nicer (with table of contents, graphics, direct links to the levels, etcetera)
-  * Use double-view much more? It just feels so much nicer, on a wide screen, if content is actually wide ...
-  * BUT I can't really decide on this until I've actually MADE some of that material.
+* Make CURRICULUM page much nicer: graphics, table of contents, an image for the whole "path through the factions"
 * Use Metadata Nav Query Parameters for more stuff? + Find a way to allow pagination on _that_ too
+  * DISABLED IT COMPLETELY FOR NOW, as it doesn't work with Search, and it's just confusing as long as I haven't built a robust system myself ...
 * (Use Snipcart JavaScript SDK to get TAX RATE on-demand? So I can display prices INCLUDING tax for users? Very difficult ...)
 * Once we need it, support BRANDS.
   * These get an extra `data` file with the description + images for that brand. (Feels cleaner than polluting the root with _another_ folder ... which we must then hide from the factions ...)
   * Products can just set the `brand` metadata
   * When searching into that taxonomy (term == brand), it simply reads that data file.
 * _Maybe_ move banners and faction images into the faction itself, not sure. (Would prevent needing to `lower` the `.Title` and hoping that never breaks ...)
+* _Research_ if I can add chapter decorations to `.epub` files too. Maybe with a background image in the ebook_styles.css? (But that would also require including that image every time. OR do we make it a base64 URL/SVG that's embedded? => YES, EPUB SUPPORTS THAT)
 
 ## Design
 
