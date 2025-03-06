@@ -43,5 +43,3 @@ Once these exercises are second nature, a logical next step is to move towards t
     * Same idea. You cut out a bunch of roads ONCE, then the material itself just contains a bunch of different MAPS to "solve".
     * **@IDEA:** Give people a _strip_ to cut out, so they can fold that strip back on itself and make a _thicker_ tile (which is easier to pick up and use for small children).
 * (Runaways) THE MAGICAL LOCK 
-  * A very simple escape room about matching the right things with each other. If done, the image it reveals shows the _next_ thing to match. This continues until ONE thing remains, and that's the final key to the solution. (Before starting, the parent/teacher takes that one element and secretly hides it somewhere/keeps it in the hand. Then, at the end, they can have this big reveal to see if it's the same.)
-  * **Yes, matching is basically the backbone of such escape rooms**. Match things by color. Match things by shape. Tada: the answer rolls out.
