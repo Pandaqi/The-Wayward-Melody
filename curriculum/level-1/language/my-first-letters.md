@@ -40,5 +40,6 @@ Including sound/speech, and switching up the approach every time, is crucial for
     * A crosswords where all you need to do is fill the letters in alphabetic order. (E.g. the row starts with C, so you write D, E, F, G, ...)
     * Some letters are already filled in, and thus lock you into a solution.
     * When done, the contents of all squares marked in some way (colored green or whatever) spell a final word. ("What's another word for a cat?" "FELINE")
+  * IDEA: "Pigeon Hole Puzzle with Common Blends". That is, add "rules" at the top that say "after an L can only come an E". (Or, more generally, it just gives a list of blends you have learned/are available now.) This allows you to fill in the puzzle and spell words from very barebones beginnings.
 * (Runaways) Very simple ciphers, word puzzles and alphabet substitutions. The "code" at the end is just one LETTER? (We can have a cipher/lock with 26 options---all letters---which makes guessing useless.)
 * (Gamiverses) Alphabet Letter Memory

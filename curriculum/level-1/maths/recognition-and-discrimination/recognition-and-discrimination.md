@@ -26,20 +26,10 @@ Once these exercises are second nature, a logical next step is to move towards t
 
 **Advanced Spells**:
 * (Explorers) THE MATCHING MYTHS
-  * [x] "The Twin Tigers"
-  * [x] "The Mischievous Mothers"
-  * [x] "The Treasure Painter"
-  * "The Watchers of Face" 
 * (Quizmasters) THE QUIZ OF SAME 
-  * Show 2 elements and ask if the same. Show 4 elements and ask which one does NOT fit. Show an element and ask to pick the option that is the same / not the same. Show an element and ask to (not) match based on one _property_.
 * (Puzzlepages) 
-  * ZOO SHUFFLE => Same as Parking Lot, but with more complex graphics (animal silhouettes), you need to match ALL properties, and theme that might fit some people more.
-  * PARKING PROBLEMS => Print out X cars with a specific color + symbol. Each space in the parking lot indicates the possible cars that could go there. There's only _one_ arrangement where they all fit.
-    * One set with shapes/colors
-    * One with more complicated icons on cars/spots
-    * => I can write a "Pigeonhole Algorithm" to generate these and make sure there's only ONE solution? (Though this isn't even a requirement, multiple solutions is fine on easiest difficulty.)
-    * => Modify to make the cars PAWNS that are more easily picked up and placed by kids??
-  * MINI MAPPERS => Match "road ends" of tiles with each other, and if you do it right, you get a path from home to school. (Simply explained by showing _wrong_ connections with sad faces.)
-    * Same idea. You cut out a bunch of roads ONCE, then the material itself just contains a bunch of different MAPS to "solve".
-    * **@IDEA:** Give people a _strip_ to cut out, so they can fold that strip back on itself and make a _thicker_ tile (which is easier to pick up and use for small children).
+  * ZOO SHUFFLE => Front sheet with animals, text+image explanation of idea, 25 puzzles (spaces + indicate pawns to use)
+  * PARKING PROBLEMS => Front sheet with cars, text+image explanation of idea, 25 puzzles (spaces + indicate cars to use)
+  * MINI MAPPERS => Front sheet with roads, text+image explanation of idea, 25 puzzles (grid, start/end + optionally indicate road pieces to use)
+    * About 11 different pieces will do? (4 straight, 4 corner, 2 T-split (puzzles with 2 endings??), 1 Crossroads/"Go over obstacle")
 * (Runaways) THE MAGICAL LOCK 

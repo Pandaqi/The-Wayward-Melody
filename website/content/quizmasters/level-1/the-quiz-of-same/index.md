@@ -15,7 +15,7 @@ description: |
 contents:
 - "Question Set: Are these the same?"
 - "Question Set: Which of these is the odd one out?"
-- "Question Set: Which answer that is (not) the same?"
+- "Question Set: Which answer is (not) the same?"
 - "Question Set: Which answer matches based on property X?"
 
 level: 1
@@ -34,4 +34,6 @@ This was chosen for two reasons.
 
 The downside, of course, is the lack of randomization. To "randomize" this quiz, simply present the questions in a different order yourself.
 
-You can do every set of questions as a standalone quiz, or combine them into a longer experience. Each set, on its own, will take about 5 minutes. They scale in difficulty as you go.
+You can do every set of questions as a standalone quiz, or combine them into a longer experience. Each set, on its own, will take about 5 minutes. 
+
+hey scale in difficulty as you go. The final set is by far the hardest, as it's about checking if things are the same based on only one detail (instead of the whole thing). It might take some time and several tries to do it smoothly. 
