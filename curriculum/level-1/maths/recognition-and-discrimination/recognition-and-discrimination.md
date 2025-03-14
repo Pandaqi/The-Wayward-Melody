@@ -31,5 +31,5 @@ Once these exercises are second nature, a logical next step is to move towards t
   * ZOO SHUFFLE => Front sheet with animals, text+image explanation of idea, 25 puzzles (spaces + indicate pawns to use)
   * PARKING PROBLEMS => Front sheet with cars, text+image explanation of idea, 25 puzzles (spaces + indicate cars to use)
   * MINI MAPPERS => Front sheet with roads, text+image explanation of idea, 25 puzzles (grid, start/end + optionally indicate road pieces to use)
-    * About 11 different pieces will do? (4 straight, 4 corner, 2 T-split (puzzles with 2 endings??), 1 Crossroads/"Go over obstacle")
+    * About 10 different pieces will do? (4 straight, 4 corner, 2 T-split (puzzles with 2 endings??))
 * (Runaways) THE MAGICAL LOCK 

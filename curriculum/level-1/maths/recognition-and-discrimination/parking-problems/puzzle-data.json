@@ -1,0 +1,431 @@
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+
+    Space 0 accepts {"shape":["circle"]} | Holds element 1
+    Space 1 accepts {"color":["red"]} | Holds element 2
+    Space 2 accepts {"shape":["square"]} | Holds element 0
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+
+    Space 0 accepts {"color":["black"]} | Holds element 0
+    Space 1 accepts {"color":["red"]} | Holds element 2
+    Space 2 accepts {"color":["white"]} | Holds element 1
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+
+    Space 0 accepts {"shape":["square"]} | Holds element 3
+    Space 1 accepts {"color":["white"]} | Holds element 1
+    Space 2 accepts {"color":["black"]} | Holds element 0
+    Space 3 accepts {"passengers":[1]} | Holds element 2
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+
+    Space 0 accepts {"shape":["square"]} | Holds element 0
+    Space 1 accepts {"passengers":[2]} | Holds element 3
+    Space 2 accepts {"color":["red","blue"]} | Holds element 2
+    Space 3 accepts {"shape":["circle"],"passengers":[2]} | Holds element 1
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+
+    Space 0 accepts {"color":["blue"]} | Holds element 3
+    Space 1 accepts {"color":["white"]} | Holds element 1
+    Space 2 accepts {"passengers":[1],"shape":["triangle"]} | Holds element 2
+    Space 3 accepts {"color":["black"]} | Holds element 0
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+
+    Space 0 accepts {"shape":["square"]} | Holds element 4
+    Space 1 accepts {"color":["blue"]} | Holds element 3
+    Space 2 accepts {"color":["black"]} | Holds element 0
+    Space 3 accepts {"color":["red"],"passengers":[1]} | Holds element 2
+    Space 4 accepts {"color":["white","black"]} | Holds element 1
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+
+    Space 0 accepts {"color":["black"]} | Holds element 0
+    Space 1 accepts {"shape":["triangle"],"color":["black"]} | Holds element 2
+    Space 2 accepts {"shape":["square"]} | Holds element 3
+    Space 3 accepts {"shape":["circle"]} | Holds element 1
+    Space 4 accepts {"passengers":[3]} | Holds element 4
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+
+    Space 0 accepts {"passengers":[3]} | Holds element 4
+    Space 1 accepts {"shape":["triangle"],"color":["red"]} | Holds element 2
+    Space 2 accepts {"passengers":[2]} | Holds element 3
+    Space 3 accepts {"passengers":[1]} | Holds element 1
+    Space 4 accepts {"color":["black","red"]} | Holds element 0
+
+PUZZLE | #Solutions = 2
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+
+    Space 0 accepts {"passengers":[1],"shape":["circle"]} | Holds element 2
+    Space 1 accepts {"color":["black"]} | Holds element 0
+    Space 2 accepts {"color":["yellow"]} | Holds element 5
+    Space 3 accepts {"color":["green","black"]} | Holds element 4
+    Space 4 accepts {"color":["white"]} | Holds element 1
+    Space 5 accepts {"color":["blue","white"]} | Holds element 3
+
+PUZZLE | #Solutions = 2
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+
+    Space 0 accepts {"passengers":[3]} | Holds element 4
+    Space 1 accepts {"passengers":[1,3]} | Holds element 2
+    Space 2 accepts {"passengers":[2]} | Holds element 5
+    Space 3 accepts {"color":["blue"]} | Holds element 3
+    Space 4 accepts {"color":["white"],"shape":["triangle"],"passengers":[2]} | Holds element 1
+    Space 5 accepts {"shape":["square"]} | Holds element 0
+
+PUZZLE | #Solutions = 2
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+
+    Space 0 accepts {"color":["black"]} | Holds element 0
+    Space 1 accepts {"color":["red"]} | Holds element 2
+    Space 2 accepts {"color":["white"]} | Holds element 1
+    Space 3 accepts {"shape":["square","circle"]} | Holds element 4
+    Space 4 accepts {"color":["blue"]} | Holds element 3
+    Space 5 accepts {"shape":["triangle","square"]} | Holds element 5
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+
+    Space 0 accepts {"color":["black"]} | Holds element 0
+    Space 1 accepts {"shape":["square"]} | Holds element 3
+    Space 2 accepts {"color":["white"]} | Holds element 1
+    Space 3 accepts {"passengers":[2,3,1]} | Holds element 5
+    Space 4 accepts {"color":["red"],"passengers":[1]} | Holds element 2
+    Space 5 accepts {"color":["green"],"shape":["triangle"],"passengers":[3,1]} | Holds element 4
+    Space 6 accepts {"shape":["triangle"]} | Holds element 6
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+
+    Space 0 accepts {"passengers":[2]} | Holds element 3
+    Space 1 accepts {"color":["yellow"]} | Holds element 5
+    Space 2 accepts {"shape":["triangle"],"color":["red"]} | Holds element 2
+    Space 3 accepts {"color":["black"],"passengers":[1]} | Holds element 0
+    Space 4 accepts {"shape":["circle","triangle"]} | Holds element 4
+    Space 5 accepts {"color":["purple"]} | Holds element 6
+    Space 6 accepts {"color":["white","red"]} | Holds element 1
+
+PUZZLE | #Solutions = 1
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+
+    Space 0 accepts {"color":["black","purple"]} | Holds element 0
+    Space 1 accepts {"color":["purple"]} | Holds element 6
+    Space 2 accepts {"shape":["square"]} | Holds element 3
+    Space 3 accepts {"color":["white"],"passengers":[1],"shape":["square"]} | Holds element 1
+    Space 4 accepts {"shape":["circle"],"color":["green"]} | Holds element 4
+    Space 5 accepts {"color":["yellow","red"],"passengers":[2],"shape":["circle"]} | Holds element 5
+    Space 6 accepts {"shape":["triangle","circle"],"color":["green"],"passengers":[3]} | Holds element 2
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+
+    Space 0 accepts {"passengers":[1],"color":["white"],"shape":["circle"]} | Holds element 1
+    Space 1 accepts {"passengers":[1]} | Holds element 0
+    Space 2 accepts {"passengers":[3],"shape":["triangle"]} | Holds element 6
+    Space 3 accepts {"color":["green"]} | Holds element 4
+    Space 4 accepts {"color":["blue"]} | Holds element 3
+    Space 5 accepts {"color":["yellow"],"passengers":[2]} | Holds element 5
+    Space 6 accepts {"shape":["triangle","circle"],"passengers":[3]} | Holds element 2
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+
+    Space 0 accepts {"shape":["triangle"]} | Holds element 5
+    Space 1 accepts {"color":["green"],"shape":["circle"]} | Holds element 4
+    Space 2 accepts {"color":["blue"],"passengers":[4]} | Holds element 3
+    Space 3 accepts {"shape":["circle"],"passengers":[1,3],"color":["blue"]} | Holds element 1
+    Space 4 accepts {"shape":["square","triangle"],"passengers":[3],"color":["purple"]} | Holds element 6
+    Space 5 accepts {"color":["black"],"passengers":[1]} | Holds element 0
+    Space 6 accepts {"color":["red"],"passengers":[4],"shape":["triangle","circle"]} | Holds element 2
+    Space 7 accepts {"color":["orange"]} | Holds element 7
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+
+    Space 0 accepts {"passengers":[2,1],"color":["orange","white"],"shape":["triangle"]} | Holds element 5
+    Space 1 accepts {"color":["orange"]} | Holds element 7
+    Space 2 accepts {"passengers":[1,4],"color":["white"]} | Holds element 0
+    Space 3 accepts {"shape":["square"]} | Holds element 3
+    Space 4 accepts {"shape":["square"]} | Holds element 6
+    Space 5 accepts {"passengers":[1],"shape":["triangle"]} | Holds element 2
+    Space 6 accepts {"shape":["circle"]} | Holds element 4
+    Space 7 accepts {"passengers":[1],"color":["white"],"shape":["circle"]} | Holds element 1
+
+PUZZLE | #Solutions = 2
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+
+    Space 0 accepts {"passengers":[3],"shape":["square"]} | Holds element 4
+    Space 1 accepts {"passengers":[4]} | Holds element 7
+    Space 2 accepts {"color":["white"]} | Holds element 1
+    Space 3 accepts {"passengers":[2],"color":["blue"]} | Holds element 3
+    Space 4 accepts {"color":["black","purple"],"passengers":[4]} | Holds element 0
+    Space 5 accepts {"shape":["triangle"]} | Holds element 5
+    Space 6 accepts {"color":["red","orange"],"shape":["triangle","square","circle"]} | Holds element 2
+    Space 7 accepts {"shape":["square"]} | Holds element 6
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+
+    Space 0 accepts {"passengers":[1]} | Holds element 1
+    Space 1 accepts {"color":["orange"]} | Holds element 7
+    Space 2 accepts {"color":["red"],"passengers":[1]} | Holds element 2
+    Space 3 accepts {"passengers":[2]} | Holds element 3
+    Space 4 accepts {"color":["purple"]} | Holds element 6
+    Space 5 accepts {"passengers":[1],"color":["red"]} | Holds element 0
+    Space 6 accepts {"color":["yellow"]} | Holds element 5
+    Space 7 accepts {"passengers":[3,1],"color":["yellow"],"shape":["circle"]} | Holds element 4
+
+PUZZLE | #Solutions = 4
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+    Element 8 has properties {"color":["red"],"shape":["square","circle"],"passengers":[2]}
+
+    Space 0 accepts {"shape":["circle","square"],"passengers":[3]} | Holds element 1
+    Space 1 accepts {"passengers":[1]} | Holds element 0
+    Space 2 accepts {"color":["purple"]} | Holds element 6
+    Space 3 accepts {"shape":["circle","triangle"],"passengers":[3],"color":["purple"]} | Holds element 5
+    Space 4 accepts {"color":["blue"]} | Holds element 3
+    Space 5 accepts {"color":["red"],"shape":["square"],"passengers":[2]} | Holds element 2
+    Space 6 accepts {"passengers":[2],"color":["blue"],"shape":["triangle"]} | Holds element 8
+    Space 7 accepts {"color":["orange"]} | Holds element 7
+    Space 8 accepts {"passengers":[3]} | Holds element 4
+
+PUZZLE | #Solutions = 4
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+    Element 8 has properties {"color":["red"],"shape":["square","circle"],"passengers":[2]}
+
+    Space 0 accepts {"color":["green"]} | Holds element 4
+    Space 1 accepts {"passengers":[1,2],"color":["yellow","purple"]} | Holds element 2
+    Space 2 accepts {"color":["blue"]} | Holds element 3
+    Space 3 accepts {"color":["white"]} | Holds element 1
+    Space 4 accepts {"color":["purple"]} | Holds element 6
+    Space 5 accepts {"color":["orange","red"],"passengers":[3]} | Holds element 7
+    Space 6 accepts {"color":["yellow"]} | Holds element 5
+    Space 7 accepts {"color":["black"],"passengers":[1]} | Holds element 0
+    Space 8 accepts {"shape":["square","triangle","circle"]} | Holds element 8
+
+PUZZLE | #Solutions = 4
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+    Element 8 has properties {"color":["red"],"shape":["square","circle"],"passengers":[2]}
+
+    Space 0 accepts {"color":["blue"]} | Holds element 3
+    Space 1 accepts {"color":["purple"],"passengers":[3]} | Holds element 6
+    Space 2 accepts {"color":["black","orange"]} | Holds element 0
+    Space 3 accepts {"color":["white"],"shape":["square"]} | Holds element 1
+    Space 4 accepts {"color":["green","red"],"shape":["triangle"]} | Holds element 4
+    Space 5 accepts {"shape":["square"]} | Holds element 8
+    Space 6 accepts {"color":["orange"]} | Holds element 7
+    Space 7 accepts {"shape":["triangle"]} | Holds element 2
+
+PUZZLE | #Solutions = 2
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+    Element 8 has properties {"color":["red"],"shape":["square","circle"],"passengers":[2]}
+    Element 9 has properties {"color":["blue"],"shape":["triangle"],"passengers":[3]}
+
+    Space 0 accepts {"shape":["square"],"color":["green"]} | Holds element 4
+    Space 1 accepts {"passengers":[2],"shape":["square"],"color":["orange"]} | Holds element 8
+    Space 2 accepts {"color":["blue"]} | Holds element 9
+    Space 3 accepts {"color":["black","blue"]} | Holds element 0
+    Space 4 accepts {"passengers":[1],"shape":["triangle","circle"],"color":["orange"]} | Holds element 2
+    Space 5 accepts {"color":["blue"]} | Holds element 3
+    Space 6 accepts {"shape":["square"]} | Holds element 7
+    Space 7 accepts {"shape":["triangle","square"],"passengers":[1,2]} | Holds element 6
+    Space 8 accepts {"passengers":[1,2],"shape":["square"]} | Holds element 1
+    Space 9 accepts {"shape":["triangle","square"]} | Holds element 5
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+    Element 8 has properties {"color":["red"],"shape":["square","circle"],"passengers":[2]}
+    Element 9 has properties {"color":["blue"],"shape":["triangle"],"passengers":[3]}
+
+    Space 0 accepts {"shape":["square"],"passengers":[3]} | Holds element 4
+    Space 1 accepts {"shape":["triangle"],"passengers":[3]} | Holds element 2
+    Space 2 accepts {"shape":["circle"],"color":["white"],"passengers":[1]} | Holds element 1
+    Space 3 accepts {"passengers":[3],"shape":["triangle"]} | Holds element 6
+    Space 4 accepts {"color":["blue","red"],"shape":["square","triangle"]} | Holds element 3
+    Space 5 accepts {"color":["black","orange"]} | Holds element 0
+    Space 6 accepts {"shape":["triangle"]} | Holds element 5
+    Space 7 accepts {"passengers":[3]} | Holds element 9
+    Space 8 accepts {"passengers":[4],"color":["orange"]} | Holds element 7
+
+PUZZLE | #Solutions = 3
+
+    Element 0 has properties {"color":["black"],"shape":["square"],"passengers":[1]}
+    Element 1 has properties {"color":["white"],"shape":["circle"],"passengers":[1]}
+    Element 2 has properties {"color":["red"],"shape":["triangle"],"passengers":[1]}
+    Element 3 has properties {"color":["blue"],"shape":["square"],"passengers":[2]}
+    Element 4 has properties {"color":["green"],"shape":["square","circle"],"passengers":[3]}
+    Element 5 has properties {"color":["yellow"],"shape":["circle","triangle"],"passengers":[2]}
+    Element 6 has properties {"color":["purple"],"shape":["triangle","square"],"passengers":[3]}
+    Element 7 has properties {"color":["orange"],"shape":["square","circle","triangle"],"passengers":[4]}
+    Element 8 has properties {"color":["red"],"shape":["square","circle"],"passengers":[2]}
+    Element 9 has properties {"color":["blue"],"shape":["triangle"],"passengers":[3]}
+
+    Space 0 accepts {"passengers":[1]} | Holds element 1
+    Space 1 accepts {"color":["yellow","red","green"],"passengers":[3],"shape":["triangle"]} | Holds element 5
+    Space 2 accepts {"passengers":[1],"color":["orange"]} | Holds element 0
+    Space 3 accepts {"passengers":[2],"color":["purple","blue","black"],"shape":["triangle","circle"]} | Holds element 3
+    Space 4 accepts {"color":["red","white"],"shape":["circle","square"],"passengers":[1]} | Holds element 2
+    Space 5 accepts {"passengers":[3],"color":["purple"]} | Holds element 6
+    Space 6 accepts {"passengers":[3],"color":["green"]} | Holds element 4
+    Space 7 accepts {"color":["orange"]} | Holds element 7

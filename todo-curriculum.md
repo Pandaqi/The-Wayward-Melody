@@ -11,14 +11,18 @@ The specific educational material to create to follow the general curriculum. Fo
 
 ### Language
 
-* My First Letters
-* My First Vocabulary
-* My First Stories
+* My First Sounds
+* (Articulation)
+* Word Awareness
+* Syllable Awareness
+* Rhyming & Alliteration
+* Phantasy Phonics
+* Phonemic Fun
 
 ### Math
 
 * Recognition & Discrimination
-* My First Shapes & Colors
+* My First Shapes & Colors => Split up?
 * My First Comparing
 * My First Numbers
 
@@ -36,6 +40,34 @@ The specific educational material to create to follow the general curriculum. Fo
 IDEA (Level 2/3, whenever kids learn about "roles" and they start to really differentiate): CALCULATOR COP. Assigning one kid the calculator, and the role to fact-check any calculations you do!
 
 ### Language
+
+* My First Letters
+* My First Vocabulary
+* My First Stories
+
+LOTS OF FREE WORKSHEETS FOR ALL PARTS: https://teachprints.com/phonics-worksheets/
+
+* Vowels (Long, Short, or Schwa)
+  * Closed Syllables (VC) are short
+  * Open Syllables (CV) are long
+  * Teach _syllable stress_ (feels most intuitive through rhythm?), then teach stressed vowels keep their sound, but unstressed become an indistinct "uh"
+    * Have fun by asking kids to stress things WRONGLY on purpose; or do this yourself as the Guardian; or can I provide sound samples of this?
+* Digraphs (Two letters combine into a single sound)
+  * Distinguish between Vowel Digraphs and Consonant Digraphs?
+* Blends (Two letters combine but are still distinct sounds)
+* Magical Letter E (the _bake, rake, gate_ thing)
+* Diphthongs (Fuse two adjacent vowel sounds)
+
+* CVC words
+* CVCe words (using that magical letter E)
+* FLOSS / FLSZ rule
+* R-Controlled Vowels (V + "r" makes the vowel _long_, even though it should be _long_ because it's a closed syllable)
+* Consonant-Le (C + "le", the -e is silent; _candle, apple_)
+* Double Consonant Rule (When adding a suffix like _ed_ or _ing_ to CVC word, double the final consonant; In 2-syllable words, double consonant if there's a short vowel before middle consonant; In multi-syllable words, double only if last syllable is stressed and ends with VC)
+  * This rule basically exists to keep closed syllables clearly closed in pronunciation, even though we add a vowel to the end of the word.
+* Common Endings, Common Combinations, Silent Letters, Rare Spelling Differences/Weird Vowel Sounds
+* Prefixes, Suffixes
+
 
 LETTERS: (LEVEL 2) Quiz of Rhymes Expert (= You just get a word/sound and must pick the actual words/syllables option that rhymes)
 GREAT GAME: https://wordwheels.co.uk/

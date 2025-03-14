@@ -76,7 +76,7 @@ Recognize and discriminate sounds, Listen to and repeat stories, First Vocabular
 
 {{% section-foldable header="Math" %}}
 
-Count to 10, Recognize and name numbers 1--5, Understanding of comparison (more/less, smaller/larger), First Grouping (without counting), First Shapes, First Colors, First introduction to numerical patterns in life (such as seasons)
+Recognition & Discrimination, Comparison (more/less, smaller/larger) which leads to Sorting/Contrast/Grouping (without counting), First Shapes, First Colors, Count to 10, Recognize and name numbers 1--5, First introduction to numerical patterns in life (such as seasons)
 
 {{% /section-foldable %}}
 

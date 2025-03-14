@@ -2,13 +2,13 @@
 
 ## Introduction
 
-_On an island far away, there lived a hedgehog called Envi. In their travels they found many treasures. Now, as he is getting old, he wants to share his wealth with someone else. But of course, not everyone is worthy. You have to prove your cleverness first!_
+_On an island far away, there lived a hedgehog called Envi. On his travels he found many treasures. Now, as he is getting old, he wants to share his wealth with someone else. But of course, not everyone is worthy. You have to prove your cleverness first!_
 
 _Envi prepared five treasures, but only one is real. You get a single chance to pick one. If you try to open the wrong lock, you instantly disappear to another planet and forget the island existed! Can you solve the puzzle and escape with the treasure?_
 
 ## Setup (for the Guardian)
 
-An escape room like this works best if there is a tangible reward, such as actual coins or maybe candy. Before the players enter the room, 
+An escape room like this works best if there is a tangible reward, such as actual weighty coins or maybe candy. Before the players enter the room, 
 
 * Cut out the treasures and fold them. Put them in a line facing the players. (There is a hint at the _back_ of certain treasures.)
 * Place the reward underneath the treasure with the Tiger.
