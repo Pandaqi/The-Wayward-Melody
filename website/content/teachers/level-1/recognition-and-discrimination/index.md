@@ -5,7 +5,7 @@ id: "recognition-and-discrimination"
 price: 5.95
 image: ""
 file: "@TODO"
-spell: "recognition-and-discrimination"
+spell: ["recognition-and-discrimination"]
 description: | 
   The first step to any path of learning and growth
   Is the ability to say things are the same (or not)

@@ -14,6 +14,7 @@
   * Maybe it's a story about stealing or magic or whatever. And it ends with the question "Who stole the cow?", and the answer to that is in the word cloud if you solved it properly!
 * **Fill in the story blanks (Advanced)** => In the more advanced version, kids would actually write the word into the blanks themselves. (We can do this now with VERY SIMPLE WORDS, ALL CAPS. But it can return again later with more complicated words or entire sentences. NO WE CAN'T, WE CAN'T EXPECT KIDS TO WRITE YET---it's all recognition so far)
 * Complete an existing story => Advanced by: Tell your own simple story!
+* **Give them the answers; they write the questions.** => Give them a story, and then a test/exercise where only the ANSWERS are there. They need to read and understand the story to figure out what QUESTION might lead to that answer.
 
 **Advanced Spells:**
 * (Explorers): ??

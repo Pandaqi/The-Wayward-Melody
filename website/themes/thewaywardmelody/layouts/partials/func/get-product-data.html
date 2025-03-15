@@ -54,7 +54,7 @@
 {{ $advances := slice }}
 {{ $advances_same_faction := slice }}
 {{ range $id := $advances_raw }}
-    {{ $relevant_pages := (where $regular_pages ".Params.spell" "eq" $id) }}
+    {{ $relevant_pages := where $regular_pages ".Params.spell" "intersect" (slice $id) }}
     {{ $advances = $advances | append $relevant_pages }}
     {{ range $page := $relevant_pages }}
         {{ if eq $page.Section $my_section }}
@@ -73,7 +73,8 @@
 {{ $precedes_same_faction := slice }}
 {{ $my_spell := .Params.spell }}
 {{ if $my_spell }}
-    {{ $relevant_pages := (where $regular_pages ".Params.advances" "intersect" (slice $my_spell))}}
+    {{ if not (reflect.IsSlice $my_spell) }}{{ $my_spell = slice $my_spell }}{{ end }}
+    {{ $relevant_pages := (where $regular_pages ".Params.advances" "intersect" $my_spell)}}
     {{ range $page := $relevant_pages }}
         {{ $precedes = $precedes | append $page }}
         {{ if eq $page.Section $my_section }}

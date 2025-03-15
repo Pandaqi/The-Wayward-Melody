@@ -24,10 +24,14 @@ That's why this resource mixes them both. Some exercises go analytically, some h
 * Cut out a collection of basic shapes. Now _sort_ them by size, then #edges.
 * Cut out a collection of funny beings. Now _sort_ them in many different ways (length first, then width, then #eyes).
 * (Cut out a collection of animals. Compare their WEIGHT on some balancing sheet? Can we assume children know that elephants are much heavier than ants? If we illustrate their respective weights with images first, they might ...)
-* Have a bunch of puzzles/exercises around characters with preferences. It's your job to mark the option they'll pick.
-  * "The Hungry Fox": always picks the side which has MORE food or BIGGER food.
-  * "The Lazy Cat": always picks the side that is MOST NEARBY or EASIEST TO REACH.
-  * "The Elephant Scared of Heights": always picks the side that is LOWEST / LEAST TALL.
+* Have a bunch of puzzles/exercises around characters with preferences. It's your job to mark the option they'll pick, at every decision punt/turn, until you get a path to their home/the secret hideout. (Which is hinted at with the hint? Obvious once you get there?)
+  * "Feasting Fox": always picks the side which has MORE food or BIGGER food.
+  * "Lazy Lion": always picks the side that is MOST NEARBY or EASIEST TO REACH.
+  * "Eww-Height Elephant": always picks the side that is LOWEST / LEAST TALL.
+  * "Bluesight Bull": always picks the side with COLOR RED OR BLUE
+  * "Mathy Mouse": always picks the side with a HIGHER quantity of stuff.
+  * "Scared Spider": always picks the side WITHOUT scary beasts/predators
+  * "Circle Cat": always picks the side with the ROUND SHAPE over the SHARP SHAPE (Circle vs Square)
 * Combine COMPARING and GROUPING. With the things you cut out ...
   * First group them by type.
   * Then sort the _groups_. (Each type appears a unique number of times, so that group size is different and sortable.)

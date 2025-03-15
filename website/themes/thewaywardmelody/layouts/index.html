@@ -38,6 +38,14 @@
     </div>
 </div>
 
+<!--- Main Topics --->
+<!--- @TODO: Make this list prettier. Also unique icons/colors for these?? --->
+{{ partial "views/banner-image" (dict "context" . "title" "Topics" "class" "margin-top-xxxl") }}
+<div class="block-column-and-center">
+    <p>Below is a list of the most common topics (or "subject matter") in Teaching Resources. Click one of them to see all resources we offer within!</p>
+    {{ partial "views/subject-list" . }}
+</div>
+
 <!--- Occult Opinions --->
 {{ partial "views/banner-image" (dict "context" . "title" "Radiant Reviews" "class" "margin-top-xxxl") }}
 

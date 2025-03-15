@@ -42,3 +42,4 @@ At this stage, though, actual addition (and further operations) is usually too e
 * (Gamiverses?)
   * Give a "board game", like Candy land, which is a path on which you move a pawn/token. At the start, the numbers are all given. (If you throw a 3 here, you move to square X.) But this dissolves as you get further, until at the end, you need to fully count yourself.
   * The DICE in this game use the ancient method: just X different tokens that can either land RED SIDE UP or BLUE SIDE UP. After throwing, count the number of reds, and that's how much you move.
+  * (Does this fit here? **Numerical Patterns**, including Seasons, Day/Night/Calendar. "Create your own pattern", "Continue the pattern", "Solve the puzzle following these patterns")

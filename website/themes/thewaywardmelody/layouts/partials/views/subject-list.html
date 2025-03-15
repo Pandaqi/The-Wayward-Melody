@@ -1,0 +1,22 @@
+{{ $all_subjects := .Site.Taxonomies.subject }}
+<ul>
+    {{ range $k, $v := $all_subjects }}
+        {{ $url := printf "/subject/%s/" $k }}
+        <li><a class="navigation-link" href="{{ $url }}">{{ $k | humanize }}</a></li>
+    {{ end }}
+</ul>
+<!---
+<li><a href="/subject/language/">Language</a></li>
+<li><a href="/subject/math/">Math</a></li>
+<li><a href="/subject/logic/">Logic</a></li>
+<li><a href="/subject/life-skills/">Life Skills ("Social")</a></li>
+<li><a href="/subject/physical/">Physical ("Exercise")</a></li>
+<li><a href="/subject/physics/">Physics</a></li>
+<li><a href="/subject/chemistry/">Chemistry</a></li>
+<li><a href="/subject/biology/">Biology</a></li>
+<li><a href="/subject/economics/">Economics</a></li>
+<li><a href="/subject/geography/">Geography</a></li>
+<li><a href="/subject/arts/">Arts</a></li>
+<li><a href="/subject/history/">History</a></li>
+<li><a href="/subject/society/">Society & Law</a></li>
+--->

@@ -72,17 +72,23 @@ Remember why we do this: to help children learn new skills and grow. The questio
 
 Recognize and discriminate sounds, Listen to and repeat stories, First Vocabulary, First Syllables, First Alphabet, Challenges like rhyming or naming first/last word in a short sentence.
 
+![Explore the first Teaching Resource in this topic!](/teachers/level-1/my-first-sounds/).
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
 Recognition & Discrimination, Comparison (more/less, smaller/larger) which leads to Sorting/Contrast/Grouping (without counting), First Shapes, First Colors, Count to 10, Recognize and name numbers 1--5, First introduction to numerical patterns in life (such as seasons)
 
+![Explore the first Teaching Resource in this topic!](/teachers/level-1/recognition-and-discrimination/).
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="Social" %}}
 
 Habits and routine (such as "you have to go to school (except weekends)"), Taking turns, Trying something new
+
+![Explore the first Teaching Resource in this topic!](/teachers/level-1/habits-and-routine/).
 
 {{% /section-foldable %}}
 
@@ -92,14 +98,13 @@ Anything that challenges gross and fine motor skills. Common activities are: cut
 
 The need to be physically active is true for everyone, though, for their entire life. So it won't be mentioned again.
 
+![Explore the first Teaching Resource in this topic!](/teachers/level-1/my-first-motor-skills/).
+
 {{% /section-foldable %}}
 
 {{% /double-view-item %}}
 
 {{% /double-view %}}
-
-
-
 
 <!--- LEVEL 2 --->
 {{< banner-image title="Level 2" >}}
@@ -141,12 +146,16 @@ This also combats the issue of "rote memorization". The real world throws endles
 * Recognize letters and sounds, Write/read own name, Listen and speak for longer periods, Combine words into larger whole, More Vocabulary
 * Read short texts, Write lowercase, Write really simple texts, Conversation/Opinions, Spelling pure sounds ( = words that sound exactly like you write them), More Vocabulary
 
+![Explore the first Teaching Resource in this topic!](/teachers/level-2/my-first-letters/).
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
 * Count, recognize and name to 20, Compare and sort quantities up to 12, Simple add/remove/split elements up to 12, Complex Shapes/Colors, Telling Time, Units (e.g. length, weight)
 * Count to 100, actual addition/subtraction up to 20, Doubling and Halving, Measuring, Money, Automation ( = repeating math tasks until they are second nature)
+
+![Explore the first Teaching Resource in this topic!](/teachers/level-2/my-first-addition/).
 
 {{% /section-foldable %}}
 
@@ -155,12 +164,16 @@ This also combats the issue of "rote memorization". The real world throws endles
 * Prolonged focus or work (includes working through challenges), Playing/working together, Emotions, Do tasks independently
 * More working together and taking others into account, first consciousness about self and self image (still hard to empathize with others)
 
+![Explore the first Teaching Resource in this topic!](/teachers/level-2/world-of-who-am-i/).
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="World" %}}
 
 * X
 * Traffic rules, Religion (mostly events and names), Nature (mammals/birds/fish; food chain; seasons; body; magnetism; moon/sun; health; climate), Geography (maps, your own home, weather, towns vs cities), History (work and leisure, now and then; jobs; hierarchy; knights and castles; middle ages; first vehicles; world wars; moon landing; role of modern media; multicultural)
+
+![Explore the first Teaching Resource in this topic!](/teachers/level-2/??/).
 
 {{% /section-foldable %}}
 
@@ -183,17 +196,15 @@ This also combats the issue of "rote memorization". The real world throws endles
 * **AU**: Stage 2 
 * **NL**: Group 3--4
 
-This is a bit of a middle ground where most people find it hard to see concrete "progress". Something we call the "muddy middle" as writers, because you're far from the start but also far from the finish. Nevertheless, learning surely goes on and contains many important steps. I guess the most important task here is to _keep doing things_ and _keep spirits high_.
+This level mostly means children are starting to write and read more, and more, and more.
 
-When it comes to language, the crucial part is to **vocalize**. We evolved to _speak_, written language only came much later, which means teaching language becomes far more effective when people sound out words and read everythig aloud.
+In doing so, the crucial part is to **vocalize**. We evolved to _speak_, written language only came much later, which means teaching language becomes far more effective when people sound out words and read everythig aloud.
 
 Also notice the "More Vocabulary" tacked onto every level. This usually means growing vocabulary by about 1,000 words, but it's obviously not measured as strictly as that. More importantly, we distinguish between _active vocabulary_ (words someone would use themselves) and _passive vocabulary_ (words they'd understand if they appeared).
 
-<a href="/level/3/" class="navigation-link display-block align-center">Explore all resources in this level!</a>
+Just as this level solidifies the language basics, it does the same for a maths basics. Children can handle large enough numbers now, and start to see multiplication and division, which makes many other mathematical or logical puzzles possible.
 
-{{% remark %}}
-Age 7 or 8 often displays the first signs of your child really not liking school anymore. They'll be more hesitant to go, stop obeying commands, or literally say it's boring or useless. Of course, you can find many "helpful" articles online about how to force your child to keep doing the work anyway. I'll obviously recommend that you fully agree, then ask _what your child wants_ and provide ways to challenge them in the right way.
-{{% /remark %}}
+<a href="/level/3/" class="navigation-link display-block align-center">Explore all resources in this level!</a>
 
 {{% /double-view-item %}}
 
@@ -206,12 +217,16 @@ Age 7 or 8 often displays the first signs of your child really not liking school
 * Read instructive texts (e.g recipe) and sources, Write connected including uppercase, Spelling combined sounds/syllables, First Punctuation (.?!), More Vocabulary, Automation ( = reading a lot to increase tempo and intuition)
 * Reading longer words/sentences, First word types (noun->verb->pronoun->modifier=adverb/adjective), More Punctuation (,":;), Writing a variety of short texts (email, letter, poem, story) correctly, Spelling more words with complex/combined sounds, Giving a speech, Recognizing verbs, More Vocabulary
 
+@TODO: Add link to first Teaching Resource once available
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
 * Addition/Subtraction up to 100, Place Value, Express numbers with digits or words, Telling Time (fine detail; digital clock; time elapsed), Measuring (fine detail;cm/m/km), Calendar, Intuition/Strategies for tables up to 10, Intuition for multiplication and division (incl fractions/decimals), Automation up to 20.
 * Intuition for numbers up to 10.000, Addition/Subtraction up to 1000, Fractions/Decimals (halves/thirds/fourths; includes partitioning shapes), Complex Money, Complex Measuring (area, perimeter/circumference, different units), 1-digit Multiplication & Division
+
+@TODO: Add link to first Teaching Resource once available
 
 {{% /section-foldable %}}
 
@@ -220,12 +235,16 @@ Age 7 or 8 often displays the first signs of your child really not liking school
 * Participating in different groups (with different roles) simultaneously, empathizing, finding cause and solution of conflicts, feeling own desires and preferences.
 * Completely independent planning and studying, First Homework
 
+@TODO: Add link to first Teaching Resource once available
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="World" %}}
 
 * More Traffic Rules, Nature (externally observable things, like body parts), Geography (more maps, mostly focused on country/continent/home town)
 * Geography (Topography = learning specific countries, towns, and other geographic locations; Reading maps; Soil types), History (General ages/eras of history), Nature (healthy food; climate; weather/seasons; senses, breathing), Science (light; sound; magnets), Religion (important people and rituals), Society (basic finance, police, elections, bullying/discrimination)   
+
+@TODO: Add link to first Teaching Resource once available
 
 {{% /section-foldable %}}
 
@@ -248,12 +267,12 @@ Age 7 or 8 often displays the first signs of your child really not liking school
 * **AU**: Stage 3 (Primary -> Secondary)
 * **NL**: Group 5--6
 
-This level usually marks the switch from your first school to your second (primary->high). This usually involves a big final test, and lots of time is wasted preparing for this big final test. At least in the Netherlands, they literally teach you "tricks" for months on how to get the best possible score, instead of, you know, teaching valuable skills ;) I do agree, however, with curriculae that say you should prepare your child for this major switch and make sure to properly orient on where they want to go next.
+This is a bit of a middle ground where most people find it hard to see concrete "progress". Something we call the "muddy middle" as writers, because you're far from the start but also far from the finish. Nevertheless, learning surely goes on and contains many important steps. I guess the most important task here is to _keep doing things_ and _keep spirits high_.
 
 <a href="/level/4/" class="navigation-link display-block align-center">Explore all resources in this level!</a>
 
-{{% remark %}} 
-Age 9+ often displays first signs of a child taking an interest in things outside school and their immediate day to day life. Such as society, politics, jobs, etcetera. This is, of course, something to be encouraged. It's also something you can use heavily in education to keep it interesting and tailored to the person, such as involving a breaking news story in your history lesson the next day.
+{{% remark %}}
+Age 7 or 8 often displays the first signs of your child really not liking school anymore. They'll be more hesitant to go, stop obeying commands, or literally say it's boring or useless. Of course, you can find many "helpful" articles online about how to force your child to keep doing the work anyway. I'll obviously recommend that you fully agree, then ask _what your child wants_ and provide ways to challenge them in the right way.
 {{% /remark %}}
 
 {{% /double-view-item %}}
@@ -267,12 +286,16 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 * First Formal Grammar ( = Recognizing subject and (main) verb in sentence), Word Types Done, Spelling verb conjugations, Spelling special situations (countries/towns, inhabitants of said countries, time indications), Reading more complex informational texts and making statements about them, Writing a variety of longer texts
 * Advanced Formal Grammar ( = Object, Subclauses, Fragments, Dangling Modifiers, Preposition, Conjunction), Reading for study (reread, mark, make notes), Reading aloud, Other reading strategies (e.g. recognize signal words), Writing long informative texts, Discussion/Debate, Special Spelling (foreign words, possessives, hyphenated), Recognizing _intention/meaning_ of a text, Passive and Active Tense. => Also, if supported, schools start teaching foreign languages here.
 
+@TODO: Add link to first Teaching Resource once available
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
 * Intuition for numbers up to 100.000, Addition/Subtraction up to 10.000, Roman numerals, Fractions further (eights, tenths, ...), More Measurement Units, Measuring in Comparison (scale, price per part, etc), 2-digit Multiplication & Division, Represent & Interpret Data, Order of Operations, Quadrilaterals
 * Math exercises up to 1.000.000 (+/-/x/:), First use of calculator, Complex fractions, Scale (percentages, averages, proportions), Measurements Done, Mental Calculation (up to 100), Intuitive mathematics (quick ballpark estimates of difficult formulas), 3-digit Multiplication & Division, Factors/Multiples/Patterns, Plane Figures (lines, perpendicular, orthogonal, angles)
+
+@TODO: Add link to first Teaching Resource once available
 
 {{% /section-foldable %}}
 
@@ -287,6 +310,8 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 
 * Geography (focus on major players like Europe and USA), History (Hunters & Gatherers, Ancient Greece, Ancient Romans, Early Middle Ages, Late Middle Ages)
 * Geography (world), Nature (photosynthesis; food cycle; blood circulation; digestion; sexual reproduction), Science (electricity/energy; magnetism; construction; materials), Religion (freedom of religion; major religions; secularization), Traffic (this is usually the final test to see whether a child understands and applies all traffic laws in your country), Society (democracy; norms and values; freedom of speech; discrimination), History (Age of Exploration, Age of Monarchies, Renaissance, Industrial Age, World Wars, Information Age)
+
+@TODO: Add link to first Teaching Resource once available
 
 {{% /section-foldable %}}
 
@@ -311,7 +336,13 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 * **AU**: Stage 4
 * **NL**: Group 7--8 (Primary School -> High School)
 
+This level usually marks the switch from your first school to your second (primary->high). This usually involves a big final test, and lots of time is wasted preparing for this big final test. At least in the Netherlands, they literally teach you "tricks" for months on how to get the best possible score, instead of, you know, teaching valuable skills ;) I do agree, however, with curriculae that say you should prepare your child for this major switch and make sure to properly orient on where they want to go next.
+
 <a href="/level/5/" class="navigation-link display-block align-center">Explore all resources in this level!</a>
+
+{{% remark %}} 
+Age 9+ often displays first signs of a child taking an interest in things outside school and their immediate day to day life. Such as society, politics, jobs, etcetera. This is, of course, something to be encouraged. It's also something you can use heavily in education to keep it interesting and tailored to the person, such as involving a breaking news story in your history lesson the next day.
+{{% /remark %}}
 
 {{% /double-view-item %}}
 
@@ -324,6 +355,8 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 * Formal Grammar Done ( = Recognizing and using word types and sentence parts correctly, including advanced bits like word order in English), Reading for study (summarize, schematize), Reading graphics and tables, Writing essays or opinionated pieces, Vocabulary Estimation = 25.000 passive words, 15.000 active words, 5.000 words spelled correctly.
 * Proper sourcing/citing/finding evidence (incl connecting multiple texts/evidence/arguments), Deep understanding of words in context, Comparing Media, Historic Sources/Context, Determining author's purpose. (This is basically all meta-analysis of texts at this point, as grammar and vocab should be good.)
 
+@TODO: Add link to first Teaching Resource once available
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
@@ -331,12 +364,16 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 * Add/Subtract/Divide/Multiply Fractions & Decimals ( + Decimal Place Value), Powers of Ten, Volume, Coordinate Plane, Converting Measurement Units, Line Plots, Properties of Shapes (incl circumference/diameter of circle, quadrilaterals), Mental calculations for numbers above 100, Rounding, Checking yourself with a calculator. Algebraic Thinking ( = turn problem into equations and numbers)
 * Proportional Relationships (Ratios/Rates/Percentages), Negative Numbers, Powers of Any ( = Exponents), Variables & Expressions, Equations & Inequalities, Advanced Coordinate Plane (3D Figures), Data & Statistics (basic probability, mean, median, plotting, ...)
 
+@TODO: Add link to first Teaching Resource once available
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="World" %}}
 
 * ??
 * ??
+
+@TODO: Add link to first Teaching Resource once available
 
 {{% /section-foldable %}}
 
@@ -386,6 +423,8 @@ The guidelines below are therefore sorted, instead, by their individual _subject
 * Lots of reading, lots of writing. And then even more of it. (Diverse genres, authors, book lengths, etcetera. Even reading terrible books is great, as it shows you what not to do.)
 * Away from the technical rules or details, and more towards usage, style and improving communication. (For example, word play, metaphors, stylistic choices, colloquialisms, poetry/meter, etcetera)
 
+@TODO: Add link to first Teaching Resource once available
+
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
@@ -396,6 +435,8 @@ The guidelines below are therefore sorted, instead, by their individual _subject
 * Probability & Statistics (Calculating Probability, Modeling, Analyzing Data, Confidence Intervals, Significance Tests, Variance Analysis, Advanced Regression)
 * Precalculus (Composite Functions, Inverse Functions, Complex Numbers, Rational Functions, Conic Sections, Vectors, Matrices, Combinatorics, Series, Limits & Continuity)
 * Calculus (Multivariable, Differential, Integral => @TODO: Specify more when we get there)
+
+@TODO: Add link to first Teaching Resource once available
 
 {{% /section-foldable %}}
 

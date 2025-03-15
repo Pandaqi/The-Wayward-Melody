@@ -1,0 +1,51 @@
+Question => What Do We Sense?
+Type => Section
+Comment => Every question has a sentence such as "I see X" or "I hear Y". Pick the option that shows what the speaker senses.
+
+Question => What Do We Sense?
+Media => i-hear-a-pig.ogg
+Answers => pig.webp | cow.webp
+
+Question => What Do We Sense?
+Media => i-see-a-tree-female.ogg
+Answers => tree.webp | sheep.webp
+
+Question => What Do We Sense?
+Media => i-taste-candy.ogg
+Answers => candy.webp | apple.webp
+
+Question => What Do We Sense?
+Media => we-feel-the-rain.ogg
+Answers => rain.webp | pillow.webp
+
+Question => What Do We Sense?
+Media => we-hear-a-tiger.ogg
+Answers => tiger.webp | horse.webp
+
+Question => What Do We Sense?
+Media => we-see-a-chair.ogg
+Answers => chair.webp | hair.webp
+
+Question => What Do We Sense?
+Media => you-hear-a-cow.ogg
+Answers => cow.webp | cat.webp
+
+Question => What Do We Sense?
+Media => you-hear-a-violin.ogg
+Answers => violin.webp | guitar.webp
+
+Question => What Do We Sense?
+Media => you-see-a-door.ogg
+Answers => door.webp | floor.webp
+
+Question => What Do We Sense?
+Media => you-see-a-table.ogg
+Answers => table.webp | tiger.webp
+
+Question => What Do We Sense?
+Media => you-smell-a-pie.ogg
+Answers => pie.webp | fly.webp
+
+Question => What Do We Sense?
+Media => i-see-a-tree-male.ogg
+Answers => tree.webp | bee.webp

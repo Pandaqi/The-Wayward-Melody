@@ -64,7 +64,8 @@
     <!--- Show the CONNECTIONS to other products --->
     {{ $my_spell := .Params.spell }}
     {{ if $my_spell }}
-        {{ $relevant_connections := where .Site.RegularPages ".Params.spell" "eq" $my_spell }}
+        {{ if not (reflect.IsSlice $my_spell) }}{{ $my_spell = slice $my_spell }}{{ end }}
+        {{ $relevant_connections := where .Site.RegularPages ".Params.spell" "intersect" $my_spell }}
         {{ $relevant_connections = sort $relevant_connections ".Section" "asc" }}
         {{ $has_connections := gt (len $relevant_connections) 0 }}
         {{ if $has_connections }}

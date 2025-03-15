@@ -77,7 +77,9 @@ That said, let's dive into the details of creating this ambitious project.
 
 ## Level 1
 
-Level 1 broadly encompasses the stage from birth until a child goes to school for the first time.
+Level 1 broadly encompasses the stage from birth until a child goes to school for the first time. 
+
+My years of making games, however, ingrained the habit to start things _very easy_, then build on that _step by step_ until you get to advanced and exciting places. As such, the last ~20% of any resource in Level 1 (with the hardest exercises, or the biggest puzzles) is probably grade 2(+) territory. I still include them because there's no harm in taking that next tiny step and challenging someone (who has already done the easier exercises before now). And because it _will_ be achievable for a good chunk of children---those age guidelines are mostly averages, and some kids simply develop faster or have a natural passion/talent in some area.
 
 ### Mathematics
 
@@ -109,6 +111,8 @@ Because yes, the Discrimination one also uses a few shapes and colors. But they'
 
 In _this_ resource, though, you actually see more of them and start to name them. Small differences between them become important. More finetuned puzzles are possible, because we _only_ focus on these subcategories. (For example, a Sudoku-like puzzle about filling in SQUARES and CIRCLES, or one matching colors.)
 
+I split this into two products in the end for clarity, but they're somewhat intertwined and feature "combined exercises". That was one of the things I wanted to achieve. Learning about topics in a vacuum, completely standalone and separated, makes learning _less_ fun and effective. By quickly combining color knowledge with some other practical skills, you immediately _use_ it and build more associations in your brain.
+
 @TODO
 
 #### My First Comparing
@@ -119,7 +123,34 @@ In _this_ resource, though, you actually see more of them and start to name them
 
 @TODO
 
+### Intermezzo: lessons learned
 
+Making the first few products, as expected, revealed many areas of improvement. I'll try to quickly summarize lessons learned so this diary doesn't grow too long.
+
+**LESSON LEARNED: I should work in "product sets"** (or "subjects", or "topics"). Not only should I create all "Factions" around the same topic at the same time, it should be contained in the same folder and **share** a lot of resources. 
+
+* This was one of the major reasons why I wanted to do it this way. My hyperactive brain is bored when it has to do the exact same thing a few days in a row, but with this system I can switch to a new faction almost every day. (Made the teaching resource for Numbers? Tomorrow I'll do the puzzles. The next day I'll write the stories. Variation!) As such, I should actually take advantage of that smart setup.
+* My design software defaults to "embedding" assets (such as images and fonts). This, however, makes every file _larger than I'd like them to be_. Because every individual product gets its own file, this quickly leads to massive bloat, especially if I still have to upload those files to the webshop server too. Instead, by _linking_ to assets (in a shared folder), the "source file" for one teaching resource becomes just ~1 MB. 
+* It also saves me a lot of work, of course, if I can make assets once and share them across several different PDFs.
+* Most importantly, I decided to **not** share outside of product sets. Even if I reuse the exact same drawing of an elephant in product set A and B, I'll still copy it twice into their own shared folders. This was a balance between "self-contained source files" and "sharing" that my experience could agree with. (What if the folder structure ever changes? If _everything_ was linked in some global way, this would now ruin _everything_!)
+
+**LESSON LEARNED: I should be quite harsh in my distinction between "exercise" and "puzzle"**. Between "teaching resource" and "game". Time and time again, I saw myself adding things that were really puzzles, or quizzes, or games, to the Teaching Resource for that product set.
+
+For example, take a Domino "game". You know, the rectangular tiles with a number on one side and a number on the other, and you have to place them on the table with matching numbers. It's a great way to practice number recognition and matching at the same time, so I really wanted to add that to "My First Numbers".
+
+But is it a game? Is it an exercise? Is it a puzzle? I decided to add it to the teaching resource, because it is not really a game or puzzle. It's a test in number recognition. There is no actual choice, or turns, or creative leap needed to "solve" something. At the same time, you probably need a Guardian (teacher/parent) present to play with and check your "work". And so I dubbed it an "exercise".
+
+As another example, take a jigsaw. You know, cut-out shapes that can be recombined back into a neat square (usually). This is an exercise in recognizing shapes and matching, recognizing that two things belong together---or two other edges can NOT go together.
+
+But it's _not_ a teaching resource. It's a puzzle. (Many people call them _jigsaw puzzles_.) You "solve" something. You have to be creative in trying different options and trying different pieces. You can do it on your own---there are no turns or competition. And you know you're done (and did it right) when you've completed the puzzle.
+
+As a last example, the difference between "exercise" and "quiz" can be very unclear too. It took me a few tries to figure this out myself. The takeaway was that a quiz is a _test_ while an exercise is a _learning moment_. If something is mostly about challenging you, making you figure something out, then it's an exercise. If it's "merely" testing if you have mastered something/figured it out---mostly based on callback or memory---then it's probably a quiz. For this reason, none of the teaching resources really contain "tests" or "answer sheets" or anything close. If I deem such a thing useful, it can be found as part of a _Quiz_ instead.
+
+There are no rules set in stone about this. But I was certain I was being too lenient before, adding too much to "Teachers", which both polluted those materials _and_ left me little to work with in the other Factions.
+
+And so, after writing a solid plan for most teaching resources ... I usually went back and moved 2 or 3 things to other Factions anyway. 
+
+This isn't a big deal. I can always move stuff around later. But it's _annoying_ work (having to update some lists, names, and categorization here and there---making sure not to accidentally forget something), so I'd rather avoid it ;)
 
 ### Language
 
@@ -131,7 +162,7 @@ When I made this plan concrete, and did more research, I realized I needed to sp
 
 Happy with this general plan---and having enough ideas on how to turn that into stories/puzzles/whatever---I started work. 
 
-Until ... I realized I needed to become much more granular again, and take steps more slowly. It's far too quick to go from "no idea about language at all" to "recognize letters and their sounds" in a _single_ resource/product. Especially when resources are usually 10--20 pages long, this one would be 50 pages and just a downright mess! Splitting that one thing in _two_ doesn't help much either.
+Until ... I realized I needed to become much more granular again, and take steps more slowly. It's far too quick to go from "no idea about language at all" to "recognize letters and their sounds" in a _single_ resource/product. Especially when resources are usually 10--20 pages long, this one would be 80 pages and just a downright mess! Splitting that one thing in two or three doesn't help much either.
 
 And so, after more exhaustive rewriting and research, I settled on the following _for Level 1_.
 

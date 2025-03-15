@@ -1,10 +1,17 @@
 # My First Sounds
 
 **Description**:
-@TODO
+The first step to learning language
+Is to recognize that sounds have meaning
+This very simple resource brings awareness
+As a first step to linguistic feeling
 
 **Extra:**
-@TODO
+This teaching resource is basically a physical version of the _Quizzes_ around this topic. Those quizzes are digital and allow playing _sounds_. With this resource, the sounds have to be made by the Guardian and Apprentices themselves.
+
+The disadvantage is, of course, that this requires extra effort. The advantage is that you don't have to involve screens and have more creativity in the exercises.
+
+For that reason, this resource is rather short and we'd actually recommend the other Factions (stories, quizzes, activities) for this step. We also recommend moving on from here rather quickly to start building word and syllable awareness next.
 
 **Advances:** X
 
@@ -20,6 +27,7 @@
 * "What animal am I?"-game => Every kid gets their own animal image (secret). They look at it and make its _sound_. The others have to guess the name of the animal.
   * Probably requires a round of _learning_ those sounds first.
   * And if we do that, then we can include the actual _words_ that belong to the thing too, of course.
+* "What object am I?" => Kids get a secret object. Others must guess what it is. BUT the child may only say one _part_ of the object's word, not the whole thing. (So if they have a CHAIR, they may only say TSJ or AIR.)
 
 **KEEP IT SIMPLE AND SHORT, THIS REALLY ISN'T THAT IMPORTANT.**
 
@@ -34,7 +42,7 @@
   * Quiz of Sound
     * Do these two sound the same?
     * What is this sound? ( = Show an image of an animal that makes that sound, or a car, and that's what they pick)
-    * What do I see? ( = Repeated sentence of "I see a XX", with images of cows and stuff to pick)
+    * What do I Sense? ( = Repeated sentence of "I see a XX", with images of cows and stuff to pick)
     * Audioventure / Audio Adventure ( = Tell an actual story, while asking questions like "what do you think the explorer heard in the jungle?" or "what direction did the guide say we should go?")
 * (Puzzlepages) X
 * (Runaways) 

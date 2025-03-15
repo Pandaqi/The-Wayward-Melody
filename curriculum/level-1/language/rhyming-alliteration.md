@@ -1,10 +1,19 @@
 # Rhyming & Alliteration
 
 **Description**:
-@TODO
+A fun, practical step learning language
+Is to learn to some word-play and rhyme
+This simple resource brings awareness
+Until anyone understands word manipulation just fine
 
 **Extra:**
-@TODO
+The concept of _rhyming_ is often used to play with words, syllables and phonemes (individual sounds in a word). They provide a way to have fun and build an intuition for it, without needing to know what they are or what you're really doing. 
+
+They also provide a way to "check" if you're correct: most people can quickly get a feeling for a rhyme, and thus "feel" it when something does _not_ rhyme nicely.
+
+We added a second step with similar properties to this resource too: alliteration. It's relatively easy to recognize if two words start with the same sound, while being just as satisfying to create/hear.
+
+When taken together, this prepares anyone for the final step in "phonetics awareness" (which is the precursor to learning the alphabet). The resource after this one actually introduces those phonemes "formally", and perhaps helps understand rhymes on a deeper level.
 
 **Advances:** syllable-awareness
 

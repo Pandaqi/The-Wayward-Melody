@@ -5,7 +5,7 @@ id: "the-magical-lock"
 price: 5.95
 image: ""
 file: "@TODO"
-spell: "recognition-and-discrimination"
+spell: ["recognition-and-discrimination"]
 description: | 
   The first step to any path of growth
   Is the ability to say things are the same (or not)
@@ -13,8 +13,9 @@ description: |
   Until patterns and differences are easy to spot
 
 contents:
-- An introduction sheet which explains the simple rules and introduces the story. (To be read to the players, by the Guardian.)
-- X sheets to cut out and spread across a table (or even room).
+- An introduction sheet which explains the simple rules and introduces the story. (To be read by the Guardian, to the Apprentices.)
+- A sheet that explains and illustrates the solution.
+- 3 sheets to cut out and spread across a table (or even room).
 
 level: 1
 language: "EN"
@@ -26,4 +27,4 @@ reusable: true
 
 This escape room is meant as "a child's first escape room". It mostly explains and tests the skill of "matching": finding two things that are the same or not. "Escaping" is only based on how well (and how creatively) you can do that.
 
-And when it comes down to it, that same sill is the basis of _all_ escape rooms! Almost every escape kit experience we've designed or played was filled to the brim with puzzles where you had to realize two pieces of information _matched_. As such, this escape room might seem incredibly easy to anyone with experience, but it's a great first step into this world for a young child.
+And when it comes down to it, that same skill is the basis of _all_ escape rooms! Almost every escape kit experience we've designed or played was filled to the brim with puzzles where you had to realize two pieces of information _matched_. As such, this escape room might seem incredibly easy to anyone with experience, but it's a great first step into this world for a young child.

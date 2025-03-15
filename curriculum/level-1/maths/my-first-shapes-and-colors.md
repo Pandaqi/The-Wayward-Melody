@@ -11,6 +11,8 @@ Shapes and colors are some of the first things that children learn to consciousl
 
 You might be surprised by how early (and easily) young brains can pick up on this. That's probably because it is a very natural first step to understanding more complex things in the world. Because, after all, what is a tiger, or a chair, or a smartphone, if not an amalgamation of basic shapes and colors?
 
+**@NOTE: I SPLIT THESE INTO TWO ANYWAY! Colors comes AFTER shapes, as it's slightly easier and thus leaves room to also do COMBINED exercises for both.**
+
 **Contents:**
 * Cut out shapes (of different colors).
 * Discrimination in terms of connecting the same ones with lines or something.
@@ -24,5 +26,8 @@ You might be surprised by how early (and easily) young brains can pick up on thi
 **Advanced Spells**:
 * (Explorers): Some story about shape and color? "The Piqarine Painter" ("The Squirrel Who Invented A New Color", a bit like The Emperor's Clothes)
 * (Quizmasters): Finish the shape, Recognize the shape, Name the shape
-* (Puzzlepages): JIGSAW / Can I invent some simple puzzle about placing shapes in a grid?
+* (Puzzlepages): 
+  * SHAPES => JIGSAW / Can I invent some simple puzzle about placing shapes in a grid?
+    * Jigsaw Puzzle (freeform first, then with forced setup/overall shape) => move to other faction?
+  * SHAPES => Shape Path Game (connect A and B with a path built from weird shapes) => move to other faction?
 * (Runaways): Same as _Recognition/Discrimination_, but now we can use variations in shape and color, as well as combinations and naming.

@@ -41,7 +41,7 @@ But once your students have played around with a topic for a bit, maybe try a _q
 Just go up the Factions and see how much more fun and effective education can be! 
 
 {{% remark %}}
-In fact, if you try the different Factions for the same specific topic, you might notice that the same information and little games are reused.
+In fact, if you try the different Factions for the same specific topic, you might notice that the same information and little games are reused. Every product has a nice list on the page that links to all other resources within the same topic.
 {{% /remark %}}
 
 It is my sincere hope that providing the full path convinces more people to give it a try. And once they've tried some of our materials, they apply their skepticism to the utterly failed systems of education instead of to anyone who tries to change it.
@@ -54,6 +54,33 @@ This allows the difficulty level of our teaching resources, in general, to be a 
 The age ranges for topics that many systems of education use are based on either nothing at all or small samples of neurotypical children. There's a vast variety to when children are ready for challenges, and the more you challenge them, the more they'll be "ahead" of the curve.
 {{% /remark %}}
 
+## Guardian & Apprentice
+
+Many of our resources are meant to be experienced _together_. Especially the teaching resources require participation from whoever is doing the teaching, and they obviously have a different role than those learning. 
+
+We could've simply called it a _Teacher-Student_ relationship, but this implies the wrong things (such as that these can only be used by _teachers_ in classrooms). Another option was _Instructor-Player_, but this language was also too colored (as certainly not all our resources are "playable").
+
+Instead, we use the following terminology.
+
+* **Guardian:** whoever is doing the teaching or overseeing the resource. Their job isn't just to execute some activity or explain material, but to actively participate and make sure learning happens.
+* **Apprentice:** whoever is playing the game or experiencing the activity. In most cases, a single parent/teacher is the Guardian, and one or more children are Apprentices. But such neutral terminology makes it easier to apply our resources in _any_ configuration.
+
+When resources are individual exercises (such as logic puzzles to solve), we'll still call the one doing it the Apprentice.
+
+## Want a curriculum anyway?
+
+As a big part of this "nudging spell", we still provide a [nice and linear curriculum](/info/curriculum/). It tells you what topics are taught in each level and how these correspond to typical educational policies around the world. This is as "traditional" as possible, to give people a handhold and a clear starting point.
+
+You can use the curriculum page as a loose guide. It is updated as more research surfaces, as we get more experience, and as the offerings of this store expand.
+
+Notice, however, that every product says "comes before" and "comes after" on its page. These sections give handy links to the exact resource before/after this one within the curriculum! So when you're done with a resource, simply click on the next one, and you can be certain you're in the right place.
+
+For example, the resource "My First Letters" comes before "My First Words". It says so on the product page. Once you're done exploring the letters of the alphabet, the next step on the learning path is to combine them into words. 
+
+You can follow these links on the product pages without ever looking at the curriculum as a whole. And yes, this is important to many, because it's _overwhelming_ to see the massive amount of things one could do at once. For both Guardian and Apprentice, taking things only one step at a time is much more manageable and effective. 
+
+It also prevents feeling like you have to finish resource X _this week_ because you planned to do resource Y _next week_, and otherwise your whole planning goes wrong! Such thinking just causes stress. And it makes you overlook whether a child is even _ready_ for resource Y when your planning says they should be.
+
 ## Our Graceful Guarantees
 
 When you try any product---but especially teaching resources---we strive to give the following guarantees.
@@ -63,10 +90,9 @@ When you try any product---but especially teaching resources---we strive to give
 * **Multi-Disciplinary**: we mostly learn through association. The more different skills and topics that can be combined into a single activity, the better, and we try to leverage that. (_Example: many level 1 activities start by cutting out the necessary components yourself, which means children get both that physical and mental exercise at once._)
 * **Unique**: the reason this product exists is because it's doing something that we think is fun, interesting, or very effective for learning ... but we're not seeing it done anywhere else. Similarly, we're not interested in creating twelve almost-identical resources just to pad stats.
 * **Magical**: as you probably noticed, this entire online store is branded as a cozy fantasy world. This kind of thinking, imagery and terminology is carried through all our offerings. (_This is, again, different from most teaching resources that all use the exact same overly bright and aggressive colors and fonts._)
-* **Transparency**: we don't use shady tactics to trick you into thinking you need something, or hitting you with surprise fees, or misrepresenting a product. No amount of profit is worth the dangers of such dark magic ... You get exactly what you see, for a price we believe is fairer than most, and you can often literally see the proof of how we made something by buying its Sneakpeek.
+* **Transparent**: we don't use shady tactics to trick you into thinking you need something, or hitting you with surprise fees, or misrepresenting a product. No amount of profit is worth the dangers of such dark magic ... You get exactly what you see, for a price we believe is fairer than most, and you can often literally see the proof of how we made something by buying its Sneakpeek.
 
 In general, we provide _one_ product (per Faction) for every small step or topic on the learning path. That one product will have a number of materials and options inside, as opposed to just being a single page PDF. We do this to justify asking money _per product_ (over, say, a subscription model), to prevent needlessly overwhelming people with hundreds of different materials, and, most of all, because one or two bundles are really all you need.
-
 
 ## Skeptical Sorcerers
 

@@ -5,7 +5,7 @@ id: "the-quiz-of-same"
 price: 4.95
 image: ""
 file: "@TODO"
-spell: "recognition-and-discrimination"
+spell: ["recognition-and-discrimination"]
 description: | 
   The first step to any path of growth
   Is the ability to say things are the same (or not)

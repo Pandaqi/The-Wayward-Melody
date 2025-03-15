@@ -1,10 +1,17 @@
 # Word Awareness
 
 **Description**:
-@TODO
+The next step to learning language
+Is to break it down into individual parts
+This simple resource brings awareness
+To the words that are sentence's beating hearts
 
 **Extra:**
-@TODO
+Children intuitively (or "naturally") learn language through speaking and sound. That doesn't necessarily mean they understand what a word is or how they build their own sentences.
+
+This resource marks the first step to "breaking down" whole sentences into smaller pieces. Words come first, of course. After this resource, you can continue by building _syllable_ awareness, and eventually _phonemes_ (the individual sounds when speaking). 
+
+All of this is necessary to build a strong foundation for jumping into actual alphabet letters ("_graphemes_") when Level 2 comes around. Always remember: counting words seems very basic to any adult, but is a new and challenging skill for those who just entered our beautiful world.
 
 **Advances:** my-first-sounds
 

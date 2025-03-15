@@ -5,7 +5,7 @@ id: "the-alphabeasts"
 price: 1.95
 image: ""
 file: "@TODO"
-spell: "my-first-letters"
+spell: ["my-first-letters"]
 description: | 
   In enchanted woods not far from here
   Lived a dragon, a rhino, and even a bear

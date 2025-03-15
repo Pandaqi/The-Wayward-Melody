@@ -1,13 +1,30 @@
 # Phantasy Phonics (Phonemic Awareness)
 
 **Description**:
-The first step to understanding a word
-Is to recognize syllables and letter sound
-With enough practice and effort
-These resources build a strong language ground
+The final step to phonetic awareness
+Is to learn the phonemes that make up all syllables
+This simple resource formally breaks down language
+So we can build it back up in the next resource
 
 **Extra**:
 
+The English language has 44 different phonemes, though some are definitely more common than others. Many of them are represented by a single letter, but equally many have two or three letters.
+
+For example, the word "CHIMP" has 5 letters, but only 4 phonemes: CH I M P.
+
+That means this resource is the final step before we have broken down language into individual letters. (At which point an Apprentice is ready to learn about the letters of the alphabet!)
+
+As such, this resource can be used with Apprentices who have no clue about writing or recognizing letters yet. It's all based on sound and feeling when you change the shape of your mouth to start a new phoneme.
+
+{{% remark %}}
+Of course, it's not bad to already start playing with letter shapes. And it certainly helps if someone can already recognize some of them, because you can expand the exercises to include actual reading/writing of the phonemes.
+{{% /remark %}}
+
+There is another resource after this one about phonemes, but it "only" includes many exercises to play around with them and see them in a different way. Similar to how our "Rhyming" resource provides lots of fun ways to build intuition for the Word + Syllable Awareness that came before.
+
+This resource, on its own, explains and tests phonemes in its entirety already.
+
+**OLD DESCRIPTION (from when it was just one small product)**:
 Identifying different sounds is the very first step to learning language. This resource contains several ways to start making sounds and matching those to letters (or words/images).
 
 Research has also shown that it's helpful to involve sound _at every step of language learning_. We recommend spending quite some time on these phonics, but even when you progress, keep being vocal and keep sounding out letters/words. We evolved to _speak_ and to learn language through _sound_, and so this is still the most efficient way for our brains to learn it.
