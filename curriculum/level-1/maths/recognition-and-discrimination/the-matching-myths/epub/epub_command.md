@@ -1,1 +1,0 @@
-pandoc --toc -o the-matching-myths.epub epub/title.md the-twin-tigers.md the-mischievous-mothers.md the-treasure-painter.md the-watchers-of-face.md epub/metadata.yaml
