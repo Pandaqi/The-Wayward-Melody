@@ -2,6 +2,7 @@
 type: "product"
 title: "Mini Mappers"
 id: "mini-mappers"
+date: 2025-04-26
 price: 3.95
 image: ""
 file: "@TODO"

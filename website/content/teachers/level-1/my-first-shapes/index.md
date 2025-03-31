@@ -2,6 +2,7 @@
 type: "product"
 title: "My First Shapes"
 id: "my-first-shapes"
+date: 2025-04-26
 price: 5.95
 image: ""
 file: "@TODO"

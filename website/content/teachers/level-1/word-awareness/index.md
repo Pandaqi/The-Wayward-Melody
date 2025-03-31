@@ -2,6 +2,7 @@
 type: "product"
 title: "Word Awareness"
 id: "word-awareness"
+date: 2025-04-12
 price: 5.95
 image: ""
 file: "@TODO"

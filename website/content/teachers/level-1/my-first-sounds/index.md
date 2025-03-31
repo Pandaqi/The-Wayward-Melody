@@ -2,6 +2,7 @@
 type: "product"
 title: "My First Sounds"
 id: "my-first-sounds"
+date: 2025-04-12
 price: 2.95
 image: ""
 file: "@TODO"

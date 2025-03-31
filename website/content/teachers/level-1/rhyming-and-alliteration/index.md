@@ -3,6 +3,7 @@ type: "product"
 title: "Rhyming & Alliteration"
 id: "rhyming-and-alliteration"
 price: 5.95
+date: 2025-04-12
 image: ""
 file: "@TODO"
 spell: ["rhyming-and-alliteration"]

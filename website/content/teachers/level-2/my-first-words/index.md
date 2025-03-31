@@ -2,6 +2,7 @@
 type: "product"
 title: "My First Words"
 id: "my-first-words"
+date: 2025-09-26
 price: 4.95
 image: ""
 file: "@TODO"

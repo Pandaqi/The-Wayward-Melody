@@ -2,6 +2,7 @@
 type: "product"
 title: "The Matching Myths"
 id: "the-matching-myths"
+date: 2025-04-26
 price: 4.95
 image: ""
 file: "@TODO"

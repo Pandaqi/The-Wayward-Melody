@@ -2,6 +2,7 @@
 type: "product"
 title: "The Alphabeasts"
 id: "the-alphabeasts"
+date: 2025-08-26
 price: 1.95
 image: ""
 file: "@TODO"

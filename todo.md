@@ -1,5 +1,9 @@
 # To-Do
 
+* Turn `customizable` into a top-level metadata? (Instead of a category?)
+* Add default parameter/layout/display for "External Links" or "See Also", which explains we're not affiliated but just want to share the best resources we find, and then lists LINK + EXPLANATION?
+
+
 ## Business
 
 * ONCE I HAVE THEWAYWARDMELODY.COM SETUP

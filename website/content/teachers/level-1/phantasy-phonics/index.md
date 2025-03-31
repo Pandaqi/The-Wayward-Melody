@@ -2,6 +2,7 @@
 type: "product"
 title: "Phantasy Phonics"
 id: "phantasy-phonics"
+date: 2025-05-26
 price: 5.95
 image: ""
 file: "@TODO"

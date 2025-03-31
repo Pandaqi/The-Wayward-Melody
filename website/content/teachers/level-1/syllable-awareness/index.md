@@ -2,6 +2,7 @@
 type: "product"
 title: "Syllable Awareness"
 id: "syllable-awareness"
+date: 2025-04-12
 price: 5.95
 image: ""
 file: "@TODO"
@@ -19,7 +20,7 @@ contents:
 - Which Word Has More Syllables?
 - Sort By Syllables
 - Odd One Out
-- Jumbled-Up Syllables
+- Jumbled-Up Syllables (Syllable Anagrams)
 - "Activity: Syllable Stepping"
 - "Activity: Fill In Syllable Blanks"
 
@@ -57,3 +58,7 @@ All of this can (and perhaps _should_) be done without any reading or writing ye
 In its simplest form, syllables can be explained as "every time you exhale air while saying a word". This isn't a perfect definition, but again, children don't know what vowels and consonants are. These resources provide playful ways to test this definition and see if it starts to intuitively make sense to an Apprentice.
 
 As usual, the best way to complement this material is by using the products from the other factions (reading the stories and doing the quizzes).
+
+Below is a list of related resources we thought were interesting too. (We are not affiliated with them in any way; we simply try to share the love.)
+
+* [Syllacrostic](https://www.syllacrostic.com/daily): Nice daily puzzles that you solve by picking the right syllables from a list of options.

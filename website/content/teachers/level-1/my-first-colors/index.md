@@ -3,6 +3,7 @@ type: "product"
 title: "My First Colors"
 id: "my-first-colors"
 price: 5.95
+date: 2025-04-26
 image: ""
 file: "@TODO"
 spell: ["my-first-colors"]

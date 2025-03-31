@@ -2,6 +2,7 @@
 type: "product"
 title: "My First Comparing"
 id: "my-first-comparing"
+date: 2025-06-26
 price: 9.95
 image: ""
 file: "@TODO"

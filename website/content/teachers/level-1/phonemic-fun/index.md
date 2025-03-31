@@ -2,6 +2,7 @@
 type: "product"
 title: "Phonemic Fun"
 id: "phonemic-fun"
+date: 2025-05-26
 price: 5.95
 image: ""
 file: "@TODO"
