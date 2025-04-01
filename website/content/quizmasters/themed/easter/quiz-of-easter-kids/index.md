@@ -4,7 +4,7 @@ title: "The Quiz of Easter Kids"
 id: "the-quiz-of-easter-kids"
 date: 2026-03-01
 price: 4.95
-image: ""
+image: ["quiz-of-easter-kids-sc1.webp", "quiz-of-easter-kids-sc2.webp", "quiz-of-easter-kids-sc3.webp"]
 file: "@TODO"
 spell: ["easter-batch-1"]
 description: | 

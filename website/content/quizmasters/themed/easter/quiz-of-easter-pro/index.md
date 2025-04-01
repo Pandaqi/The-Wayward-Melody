@@ -4,7 +4,7 @@ title: "The Quiz of Easter Eggspert"
 id: "the-quiz-of-easter-eggspert"
 date: 2026-03-01
 price: 9.95
-image: ""
+image: ["quiz-of-easter-pro-sc1.webp", "quiz-of-easter-pro-sc2.webp", "quiz-of-easter-pro-sc3.webp"]
 file: "@TODO"
 spell: ["easter-batch-1"]
 description: | 

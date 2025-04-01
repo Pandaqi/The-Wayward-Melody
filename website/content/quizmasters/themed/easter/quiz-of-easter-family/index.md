@@ -4,7 +4,7 @@ title: "The Quiz of Easter Family"
 id: "the-quiz-of-easter-family"
 date: 2026-03-01
 price: 6.95
-image: ""
+image: ["quiz-of-easter-family-sc1.webp", "quiz-of-easter-family-sc2.webp", "quiz-of-easter-family-sc3.webp"]
 file: "@TODO"
 spell: ["easter-batch-1"]
 description: | 
