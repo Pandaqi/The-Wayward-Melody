@@ -3,9 +3,9 @@ type: "product"
 title: "The Quiz of Easter Kids"
 id: "the-quiz-of-easter-kids"
 date: 2026-03-01
-price: 4.95
-image: ["quiz-of-easter-kids-sc1.webp", "quiz-of-easter-kids-sc2.webp", "quiz-of-easter-kids-sc3.webp"]
-file: "@TODO"
+price: 7.95
+image: ["quiz-of-easter-kids-header.webp", "quiz-of-easter-kids-sc1.webp", "quiz-of-easter-kids-sc2.webp", "quiz-of-easter-kids-sc3.webp"]
+file: "2867131d-7562-4922-857c-b7240026e75b"
 spell: ["easter-batch-1"]
 description: | 
   To celebrate or learn about Easter
@@ -14,7 +14,7 @@ description: |
   Before they start their feasting
 
 contents:
-- "How to play?" PDF
+- Instructions PDF
 - Digital Quiz (open in any browser); 40 questions
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF

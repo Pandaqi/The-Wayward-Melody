@@ -3,9 +3,9 @@ type: "product"
 title: "The Quiz of Easter Family"
 id: "the-quiz-of-easter-family"
 date: 2026-03-01
-price: 6.95
-image: ["quiz-of-easter-family-sc1.webp", "quiz-of-easter-family-sc2.webp", "quiz-of-easter-family-sc3.webp"]
-file: "@TODO"
+price: 8.95
+image: ["quiz-of-easter-family-header.webp", "quiz-of-easter-family-sc1.webp", "quiz-of-easter-family-sc2.webp", "quiz-of-easter-family-sc3.webp"]
+file: "c738d28f-f026-4a82-9472-0a50648b89f7"
 spell: ["easter-batch-1"]
 description: | 
   To celebrate or learn about Easter
@@ -14,7 +14,7 @@ description: |
   Before they start their feasting
 
 contents:
-- "How to play?" PDF
+- Instructions PDF
 - Digital Quiz (open in any browser); 65 questions
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF

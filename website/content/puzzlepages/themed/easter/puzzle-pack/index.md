@@ -4,8 +4,8 @@ title: "Easter Puzzle Pack"
 id: "easter-puzzle-pack"
 date: 2026-03-01
 price: 9.95
-image: ""
-file: "@TODO"
+image: "puzzle-pack-header.webp"
+file: "2fe72572-77b3-452d-a8d2-981b5dc4c43b"
 spell: ["easter-batch-1"]
 description: | 
   A set of puzzles Easter-themedish
@@ -15,17 +15,18 @@ description: |
 
 contents:
 - Easter Word Search
-- Easter Crosswords
-- Coloring Puzzle (Addiction/Subtraction)
-- Easter Riddles / Rebuses
-- Easter Anagrams / Word Scramble
-- Emoji / Drawing Puzzle
+- Easter Crosswords (Easy->Medium->Hard)
+- CROSS-words
+- Colorcounting (Addiction/Subtraction + Multiplication/Division)
+- Easter Riddles
+- Easter Word Scramble
 - Scattergories
-- Help The Easter Bunny ("Collect All Eggs in X Moves")
-- Egg Alphabet Cipher
-- Eggudoku
-- CarrotCross
-- Egg Inside Egg Puzzle
+- Eggudoku (Easy->Medium->Hard)
+- Egg Pyramid
+- Carrot Pyramid
+- Emoji Pictionary
+- Easter Cipher (Three Parts)
+- Egg Paths ("Help The Easter Bunny Collect Al Eggs")
 
 level: 2
 language: "EN"

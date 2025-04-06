@@ -1,0 +1,7 @@
+{{ $file := .file }}
+{{ $shipping := .shipping }}
+{{ $platform := .platform }}
+<!--- This is highly specific to my system of working. File needs to have some value, but it can't have `@` (as I often write @TODO for placeholder), and it needs to have `-` as Snipcart uses that in all file GUIDS --->
+{{ $is_digital := and (and (gt (len $file) 0) (not (strings.Contains $file "@"))) (strings.Contains $file "-") }}
+{{ $is_physical := and (gt (len $shipping) 0) (ne $platform "Unknown") }}
+{{ return (or $is_digital $is_physical) }}

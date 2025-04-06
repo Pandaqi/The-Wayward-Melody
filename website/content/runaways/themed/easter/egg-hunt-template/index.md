@@ -4,19 +4,19 @@ title: "Easter Egg Hunt"
 id: "easter-egg-hunt"
 price: 9.95
 date: 2026-03-01
-image: ""
-file: "@TODO"
+image: "egg-hunt-template-header.webp"
+file: "dace2362-281b-440c-b950-a2d9201c5ce7"
 spell: ["easter-batch-1"]
 description: | 
   When Easter rolls around
   Children want to explore and play
-  This book will keep them busy all day
-  In which shared game experiences abound
+  This egg hunt will keep them busy all day
+  In which clues and egg spotting abound
 
 contents:
 - "How does it work?"
 - "Answer Sheet (+ Detailed Explanation Customization)"
-- "Puzzle Sheets (5 easy, 4 medium, 1 hard)"
+- "Clue Sheets (5 easy, 4 medium, 1 hard)"
 
 level: 2
 language: "EN"
@@ -34,7 +34,7 @@ color: false
 # mature: false
 # textless: true
 parallel-play: true
-double-sided-allowed: false
+double-sided-allowed: true
 # game-master: false
 # game-master-can-play: false
 paper-choice: true

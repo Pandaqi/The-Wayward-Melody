@@ -4,8 +4,8 @@ title: "The Quiz of Easter Eggspert"
 id: "the-quiz-of-easter-eggspert"
 date: 2026-03-01
 price: 9.95
-image: ["quiz-of-easter-pro-sc1.webp", "quiz-of-easter-pro-sc2.webp", "quiz-of-easter-pro-sc3.webp"]
-file: "@TODO"
+image: ["quiz-of-easter-pro-header.webp", "quiz-of-easter-pro-sc1.webp", "quiz-of-easter-pro-sc2.webp", "quiz-of-easter-pro-sc3.webp"]
+file: "e71631d4-2c65-4717-856f-7bcc9c2cb9dc"
 spell: ["easter-batch-1"]
 description: | 
   To celebrate or learn about Easter
@@ -14,7 +14,7 @@ description: |
   Before they start their feasting
 
 contents:
-- "How to play?" PDF
+- Instructions PDF
 - Digital Quiz (open in any browser); 90 questions
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF

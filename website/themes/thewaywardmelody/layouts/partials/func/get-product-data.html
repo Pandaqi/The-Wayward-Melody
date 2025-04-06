@@ -36,6 +36,7 @@
     {{ $images_default_raw = index (index (sort $products "image" "desc") 0) "image" }}
 {{ end }}
 {{ if not $images_default_raw }}{{ $images_default_raw = slice "https://picsum.photos/500/386" }}{{ end }}
+{{ if not (reflect.IsSlice $images_default_raw) }}{{ $images_default_raw = slice $images_default_raw }}{{ end }}
 {{ $images_default := slice }}
 {{ range $k, $v := $images_default_raw }}
     {{ $is_absolute_url := or (eq (substr $v 0 1) "/") (eq (substr $v 0 4) "http") }}
@@ -94,6 +95,7 @@
 {{ $categories_default := or .Params.categories slice }}
 {{ $url_default := or .Permalink "/" }}
 {{ $description_default := or .Params.description "No description given." }}
+{{ $file_default := or .Params.file "" }}
 {{ $shipping_default := or .Params.productsShipping slice }}
 {{ if not (reflect.IsSlice $shipping_default) }}{{ $shipping_default = slice $shipping_default }}{{ end }}
 {{ $weight_default := or .Params.productsWeight 10 }}
@@ -114,7 +116,9 @@
     {{ if reflect.IsSlice $main_image }}{{ $main_image = index $main_image 0 }}{{ end }}
     {{ $all_images := or .image $images_default }}
     {{ if not (reflect.IsSlice $all_images) }}{{ $all_images = slice $all_images }}{{ end }}
-    {{ $new_product := dict "sku" (or .sku $sku_default) "name" (or .name $name_default) "price" (or .price $price_lowest) "platform" (or .platform $platform) "image" $main_image "images" $all_images "categories" (or .categories $categories_default) "url" (or .url $url_default) "description" (or .desc $description_default) "shipping" (or .shipping $shipping_default) "file" (or .file "") "weight" (or .weight $weight_default) "size" (or .size $size_default) }}
+    {{ $new_product := dict "sku" (or .sku $sku_default) "name" (or .name $name_default) "price" (or .price $price_lowest) "platform" (or .platform $platform) "image" $main_image "images" $all_images "categories" (or .categories $categories_default) "url" (or .url $url_default) "description" (or .desc $description_default) "shipping" (or .shipping $shipping_default) "file" (or .file $file_default) "weight" (or .weight $weight_default) "size" (or .size $size_default) }}
+    {{ $is_valid := partial "func/is-product-valid" $new_product }}
+    {{ if not $is_valid }}{{ continue }}{{ end }}
     {{ $products_full = $products_full | append $new_product }}
     {{ $zones = $zones | append (index $new_product "shipping") }}
 {{ end }}

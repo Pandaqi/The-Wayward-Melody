@@ -21,9 +21,13 @@
     </div>
     <p class="preserve-whitespace">{{ .Params.description }}</p>
     <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Visit Product Page</a>
-    {{ if $data.single_button }}
-        {{ partial "products/product-button" (index $data.products 0) }}
+    {{ if gt (len $data.products) 0 }}
+        {{ if $data.single_button }}
+            {{ partial "products/product-button" (index $data.products 0) }}
+        {{ else }}
+            <div class="text-style-italic font-size-s align-center">(Visit page to pick a variant.)</div>
+        {{ end }}
     {{ else }}
-        <div class="text-style-italic font-size-s align-center">(Visit page to pick a variant.)</div>
+        <div class="text-style-italic font-size-s align-center">(Currently unavailable and/or coming soon.)</div>
     {{ end }}
 </div>
