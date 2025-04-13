@@ -3,8 +3,8 @@ type: "product"
 title: "Easter Boardgame Book"
 id: "easter-boardgame-book"
 price: 9.95
-date: 2026-03-01
-image: "@TODO"
+date: 2026-02-18
+image: "boardgame-book-header.webp"
 file: "9dcb3eb7-e9fb-400a-a26c-2e9dbe14beef"
 spell: ["easter-batch-1"]
 description: | 

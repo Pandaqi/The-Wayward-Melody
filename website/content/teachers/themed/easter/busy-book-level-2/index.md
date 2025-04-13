@@ -1,11 +1,11 @@
 ---
 type: "product"
 title: "Easter Busy Book"
-id: "easter-busy-book"
+id: "easter-busy-book-level-2"
 price: 9.95
-date: 2026-03-01
-image: ""
-file: "@TODO"
+date: 2026-02-18
+image: "busy-book-level-2-header.webp"
+file: "f6c5c595-f92e-4a90-956b-463def302d01"
 spell: ["easter-batch-1"]
 description: | 
   When Easter rolls around
@@ -15,38 +15,38 @@ description: |
 
 contents:
 - Front Page (Explainer, Name, Customization)
-- Easter Bingo (check if something happens or someone says a word during Easter)
-- Mazes x4
-- Easter Charades / Pictionary
-- Coloring Page x4 + Design an Easter Egg
-- Egg Pattern/Line Tracing
+- Eggs Cut-out Sheet (to be used in many ways in the rest of the book)
+- Egg Math (counting without digits yet)
+- Match First/Middle/Last Letter
+- Egg Magicoloring (color egg based on which topics/words/numbers match)
+- Count the (Hidden) Eggs (3x; increasing difficulty)
+- Sorting Exercises (10x; letter, number, color, size, shape, vowel/consonant, odd/even, quantity, word, geography---country flags and Easter traditions around the world)
+- Connect the Dots (2x; letter-based and number-based)
+- What's your Bunny Name?
 - Easter Dilemmas
-- Easter Fill in the Blanks
-- Easter Connect Exercise (connect the right word/concept/image on one side with the matching thing on other side)
-- Easter Connect the Dots
-- Easter Egg Coloring Puzzle (color parts of an egg depending on matching word/image inside)
-- Odd One Out Exercise
-- Easter Egg Counting/Spotting Exercises
-- Easter Rebusses
-- What's Your Bunny Name?
-- Egg Exchange (Dice) Game
+- Easter Charades / Pictionary
+- Acrostic Easter Poem
+- Creative Easter Sentence Builder
+- Eggonomics (simple exercises calculating price of chocolate eggs and such)
+- Egg Measuring (introduction to measuring, then application to egg hunt route)
+- Easter Bingo (2x; check if something happens or appears during Easter)
 
-level: 1
+level: 2
 language: "EN"
 subject: ["Logic", "Mathematics", "Language"]
 categories: ["holiday", "Easter"]
 # brand: ""
 player-count: 1
-age: 4
+age: 5
 # requirements: ""
 reusable: false
 duration: 240
-difficulty: 1
+difficulty: 2
 setup: 1
 prior-wisdom: false
-color: false
+color: true
 # mature: false
-textless: true
+textless: false
 parallel-play: true
 double-sided-allowed: false
 # game-master: false
@@ -58,7 +58,7 @@ indoors: true
 
 ---
 
-This is the quintessential book of activities (for young children) during Easter! 
+This is the quintessential book of activities for **young children** (Level 1; ages 4~6) during Easter! 
 
 We put every kind of activity, challenge or fun experience into one cohesive "Busy Book". It allows children to explore the Easter holiday, while giving them something to do during the days _and_ challenging core skills such as counting or word recognition.
 
@@ -68,4 +68,4 @@ One kind of activity has been left out, though. The one we actually like the mos
 It's a mixture between a busy book and board games, which means way fewer rules to learn or material to set up, educational value, and multiple "games" inside the same PDF.
 {{% /remark %}}
 
-Also please note that, for actual _puzzles_, check out the Easter materials in the Puzzlepages faction. A Busy Book like this contains activities, exercises and challenges---but not puzzles like an "Eggdoku" (Sudoku with Eggs) or Easter Crosswords.
+Also please note that, for actual _puzzles_, check out the Easter materials in the Puzzlepages faction. A Busy Book like this contains activities, exercises and challenges---but not puzzles like an "Eggudoku" (Sudoku with Eggs) or Easter Crosswords.

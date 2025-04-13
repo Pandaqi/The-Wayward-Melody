@@ -36,7 +36,7 @@ All transactions follow the security and privacy guidelines within the European 
 
 **No.** We do **not** condone the dark magic that is called **"buy now, pay later"**. 
 
-It leads to debt and irresponsible behavior. Buyers who could actually benefit from such schemes, especially in the long term, are far and in between. 
+It leads to debt and irresponsible behavior. Buyers who could actually benefit from such schemes, especially in the long term, are few and far between. 
 
 If you stumble upon a method to pay this way in our system, inform us and we'll take it down.
 
@@ -185,11 +185,19 @@ Even a cheap and custom webshop solution has high fixed costs. All my other webs
 
 {{% /section-foldable %}}
 
+{{% section-foldable header="Any tips for reducing printing costs?" %}}
+
+Yes, many of our Digital Products must be printed, especially the educational ones to be used in classrooms. Printing is expensive; wasting ink and paper isn't great for the environment.
+
+This is such an important topic, in fact, that we wrote [a separate article with printing and usage tips](/info/printing-tips/)
+
+{{% /section-foldable %}}
+
 {{% section-foldable header="What's the roadmap for the future?" %}}
 
 When the webshop launched, we still had a **huge backlog** of old projects to make available or give merchandise. It will be a while before it's caught up. We decided to lean on _Digital Goods_ first, as they were easier to make and sell securely. _Physical Goods_ are on a delay at the moment, as we verify all the systems are robust before going all-in.
 
-**A few more general "categories"** for the website are planned. They will only release, however, once the associated project / website / franchise is fully off the ground. There's no public timeline for that yet.
+**A few more large "product batches"** for the website are planned. They will only release, however, once the associated project / website / franchise is fully off the ground. There's no public timeline for that yet.
 
 Otherwise, the webshop is set up to follow Tiamo's actual projects. When a new book series is released, for example, _that's_ when it will get merchandise and bonus materials.
 
