@@ -4,8 +4,8 @@ title: "The Lost Eggs"
 id: "the-lost-eggs"
 date: 2026-03-01
 price: 9.95
-image: ""
-file: "@TODO"
+image: "7ac78a37-651b-44b5-be2c-30ec310c828a"
+file: "the-lost-eggs-header.webp"
 spell: ["easter-batch-1"]
 description: | 
   The first step to any path of growth
@@ -15,8 +15,8 @@ description: |
 
 contents:
 - Intro Sheet; explains the simple rules and introduces the story. (To be read by the Guardian, to the Apprentices.)
-- Solution Sheet; explained and illustrated.
-- XX sheets with eggs and puzzles to cut out.
+- Solution/Hint Sheet; explained and illustrated.
+- 9 sheets with puzzle eggs, decoy eggs, and a basket to cut out.
 
 level: 2
 language: "EN"
@@ -33,7 +33,7 @@ prior-wisdom: false
 color: true
 # mature: false
 # textless: true
-parallel-play: true
+parallel-play: false
 double-sided-allowed: false
 # game-master: false
 # game-master-can-play: false
