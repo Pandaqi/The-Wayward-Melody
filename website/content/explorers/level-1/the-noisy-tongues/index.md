@@ -1,0 +1,34 @@
+---
+type: "product"
+title: "The Noisy Tongues"
+id: "the-noisy-tongues"
+date: 2025-04-26
+price: 9.95
+image: ""
+file: "@TODO"
+spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
+description: | 
+  The Noisy Tongues are a folk strange
+  They're always up to no good
+  Their nosy noses be not where they should
+  So learn the sounds, words, and more to scare them away!
+
+contents:
+- Five short stories (that build on each other) about spoken language.
+- Each story is included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+
+level: 1
+language: "EN"
+subject: "Language"
+categories: ["sound-awareness", "words", "syllables", "phonetic-awareness", "phonemes", "language-comprehension"]
+
+---
+
+These are **interactive fairy tales**. They are meant to be read by the Guardian to the Apprentices (most likely young children).
+
+They tell the story of an odd folk that tries to cause mischief. How do you scare them off? By making a specific sound! Read the story, and try to get the kids to say the right sounds (or recognize someone made the wrong sound) whenever a member of the Noisy Tongues appears.
+
+Every short story takes the next step in early language comprehension. For example, the first story scares them away with general sounds (like animal sounds), the next story requires specific words, and so forth. 
+
+That's why this resource is marked as an option in almost all Level 1 Language Resources. Don't feel the need to read all short stories in one go.
+

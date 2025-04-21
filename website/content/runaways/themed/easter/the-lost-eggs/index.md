@@ -8,10 +8,10 @@ image: "7ac78a37-651b-44b5-be2c-30ec310c828a"
 file: "the-lost-eggs-header.webp"
 spell: ["easter-batch-1"]
 description: | 
-  The first step to any path of growth
-  Is the ability to say things are the same (or not)
-  This escape room experience is fun and tests both
-  Until patterns and differences are easy to spot
+  When puzzles are hidden inside Easter eggs
+  Magical, lost, mysterious, and in doubt
+  This escape room puts your skills to the test
+  So see if you can figure it all out!
 
 contents:
 - Intro Sheet; explains the simple rules and introduces the story. (To be read by the Guardian, to the Apprentices.)

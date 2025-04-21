@@ -1,0 +1,35 @@
+---
+type: "product"
+title: "Quiz of Sound"
+id: "quiz-of-sound"
+date: 2025-04-26
+price: 4.95
+image: ""
+file: "@TODO"
+spell: ["my-first-sounds"]
+description: | 
+  The first step to learning language
+  Is to recognize that sounds have meaning
+  These very simple quizzes brings awareness
+  As a first step to linguistic feeling
+
+contents:
+- "Question Set: Are these sounds the same?"
+- "Question Set: What makes this sound?"
+- "Question Set: Sensing sentences (I see X; what do I see)?"
+- "Question Set: Audio Adventure! (Jariboo Jungle; 6 comprehension questions)"
+
+level: 1
+language: "EN"
+subject: "Language"
+categories: ["sound-awareness", "phonetic-awareness", "language-comprehension"]
+
+---
+
+This is a **digital quiz** (with 4 short rounds of increasing difficulty), because it needs to play **sound** for every question!
+
+It teaches children the first step in learning language: identifying that spoken sounds they hear have (consistent) meaning. For this first step, merely recognizing that sounds are similar is challenging enough. So that's what these simple quiz questions do.
+
+We added an Audio Adventure ("_Audioventure_") as the final question set because it's such a fun thing to practice and test this skill. But it might be too difficult for some children. (It's a short spoken story about exploring a magical jungle, interrupted a few times to ask questions about the sounds you just heard or might hear.)
+
+The Teachers resource for this topic practices more or less the same things. In that resource, however, the Guardian and Apprentices have to make the sounds themselves.
