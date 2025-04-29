@@ -4,8 +4,8 @@ title: "Syllable Awareness"
 id: "syllable-awareness"
 date: 2025-04-12
 price: 5.95
-image: ""
-file: "@TODO"
+image: "syllable-awareness-header.webp"
+file: "0624adf4-184c-4a87-9710-b4436d7ae1c5"
 spell: ["syllable-awareness"]
 advances: ["word-awareness"]
 description: | 

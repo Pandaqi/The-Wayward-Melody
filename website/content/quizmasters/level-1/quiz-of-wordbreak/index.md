@@ -4,8 +4,8 @@ title: "Quiz of Wordbreak"
 id: "quiz-of-wordbreak"
 date: 2025-04-26
 price: 8.95
-image: ""
-file: "@TODO"
+image: ["quiz-of-wordbreak-header.webp", "quiz-of-wordbreak-screenshot.webp"]
+file: "70dd747f-9e5c-4763-8a86-b1602d2a1a7e"
 spell: ["syllable-awareness"]
 description: | 
   The next step to learning language

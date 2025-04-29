@@ -3,9 +3,9 @@ type: "product"
 title: "Quiz of Sound"
 id: "quiz-of-sound"
 date: 2025-04-26
-price: 4.95
-image: ""
-file: "@TODO"
+price: 7.95
+image: ["quiz-of-sound-header.webp", "quiz-of-sound-screenshot.webp"]
+file: "9b4baac3-b71d-4ac2-992c-3e24378f6a76"
 spell: ["my-first-sounds"]
 description: | 
   The first step to learning language

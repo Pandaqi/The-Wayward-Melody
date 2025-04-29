@@ -1,27 +1,26 @@
 ---
 type: "product"
-title: "Crossyllabi (Pre-Reader)"
-id: "crossyllabi-pre-reader"
-date: 2025-04-26
-price: 4.95
-image: ""
+title: "Crossyllabi Reader"
+id: "crossyllabi-reader"
+date: 2026-04-26
+price: 7.95
+image: ["crossyllabi-reader.header.webp", "crossyllabi-reader-screenshot-0.webp", "crossyllabi-reader-screenshot-1.webp", "crossyllabi-reader-screenshot-2.webp"]
 file: "@TODO"
 spell: ["syllable-awareness"]
 description: | 
-  The first step to any path of growth
-  Is the ability to say things are the same (or not)
-  This puzzle challenges a child's skill in both
-  Until patterns and differences are easy to spot
+  Crossyllabi Reader is a kind of Crosswords, but unique
+  Because it has syllables---not letters---in every space
+  And so every puzzle becomes a test and a race
+  To figure out the right syllables and become a language geek
 
 contents:
-- Puzzle Rules Explainer (text for Guardian; images for Apprentice)
-- Token Cut-Out Sheet
-- "15 Crossyllabi Puzzles"
+- Puzzle Rules Explainer
+- 20 Crossyllabi Puzzles
 
-level: 1
+level: 2
 language: "EN"
 subject: "Language"
-categories: ["phonetic-awareness", "syllables"]
+categories: ["syllables"]
 
 ---
 

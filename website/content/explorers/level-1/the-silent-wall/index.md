@@ -4,7 +4,7 @@ title: "The Silent Wall"
 id: "the-silent-wall"
 date: 2025-04-26
 price: 9.95
-image: ""
+image: "the-silent-wall-cover.webp"
 file: "@TODO"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
 description: | 

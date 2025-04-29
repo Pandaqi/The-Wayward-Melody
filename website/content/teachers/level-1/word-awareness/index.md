@@ -4,8 +4,8 @@ title: "Word Awareness"
 id: "word-awareness"
 date: 2025-04-12
 price: 5.95
-image: ""
-file: "@TODO"
+image: "word-awareness-header.webp"
+file: "26856110-0d6d-4f98-aae3-d480681f30e1"
 spell: ["word-awareness"]
 advances: ["my-first-sounds"]
 description: | 

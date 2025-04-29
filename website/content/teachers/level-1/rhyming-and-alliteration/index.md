@@ -9,8 +9,8 @@ file: "@TODO"
 spell: ["rhyming-and-alliteration"]
 advances: ["syllable-awareness"]
 description: | 
-  A fun, practical step learning language
-  Is to learn to some word-play and rhyme
+  A fun, practical step when learning language
+  Is to learn some word-play and rhyme
   This simple resource brings awareness
   Until anyone understands word manipulation just fine
 

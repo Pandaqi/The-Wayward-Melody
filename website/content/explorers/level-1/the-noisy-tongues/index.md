@@ -4,7 +4,7 @@ title: "The Noisy Tongues"
 id: "the-noisy-tongues"
 date: 2025-04-26
 price: 9.95
-image: ""
+image: "the-noisy-tongues-cover.webp"
 file: "@TODO"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
 description: | 

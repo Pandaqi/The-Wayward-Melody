@@ -4,8 +4,8 @@ title: "My First Sounds"
 id: "my-first-sounds"
 date: 2025-04-12
 price: 2.95
-image: ""
-file: "@TODO"
+image: "my-first-sounds-header.webp"
+file: "92277b70-2b05-4fb3-a999-b1e534408346"
 spell: ["my-first-sounds"]
 description: | 
   The first step to learning language
@@ -14,6 +14,7 @@ description: |
   As a first step to linguistic feeling
 
 contents:
+- Two Cut-Out Sheets (with cards to cut out and use)
 - Same Sound Game
 - Find The Sound Game
 - What Animal Am I?
