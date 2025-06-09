@@ -8,9 +8,9 @@ banners: ["banner_art_media_1", "banner_art_media_2", "banner_art_media_3", "ban
 
 {{% double-view-item %}}
 
-Check out all the **art and media (content)** we offer! Get inspired. Get curious. Feel alive. 
+All of life and learning starts by **exploring**. Exploring the world, being curious, getting inspired by what others are doing or have made. Get inspired. Get curious. Feel alive. 
 
-This includes projects in all possible creative categories, from stories, to music, to visual art. Most of these are sold in the webshop because they didn't fit any of the traditional sales channels. It also includes more raw, prototype, or simply as of yet unreleased art.
+This includes projects in all possible creative categories, from stories, to music, to visual art. In practice, you can view it as the category where things end up if they really do not fit any of the other categories (better).
 
 {{< metadata-navigation >}}
 
@@ -18,29 +18,31 @@ This includes projects in all possible creative categories, from stories, to mus
 
 {{% double-view-item %}}
 
-{{% section-foldable header="When should I be interested in this?" %}}
+{{% section-foldable header="What can I find here?" %}}
 
-If you're interested in collecting art. Maybe you need some unique piece to finish your interior design, or something to complement an exposition, or just a gift for that creative friend of yours.
+Most of this category contains **stories**. Educational fairy tales or children's stories, or the "Type B" stories for _Saga of Life_. It also contains anything that wouldn't fit the traditional sales channel for that creation, or raw, prototype, or simply as of yet unreleased art. 
 
-Most of all, though, these are "extensions" of my usual work. Perhaps I wrote a few tiny stories for _The Saga of Life_ that I thought were good, but just didn't end up making the cut for practical reasons. (There's a clear structure and min/max length to these stories, for example, which must be obeyed on the website.) 
+Besides that, this category contains "extensions" of my usual work. Perhaps I wrote a few tiny stories for _Wildebyte Arcades_ that I thought were good, but are practically impossible to sell on Amazon (which is by far the largest book seller).
 
-Perhaps I have some unreleased demo songs that can't be published on a streaming service, but which I still want to share. Or perhaps I made something that simply has no other clear "sales channel".
-
-All of those things are collected and sold in this category. You can view these as **"unreleased gems"**, often attached to some existing work of mine.
+Perhaps I have some unreleased demo songs that can't be published on a streaming service, but which I still want to share. Or perhaps I made something that simply has no other clear "sales channel". All of those things are collected and sold in this category. You can view these as **"unreleased gems"**, often attached to some existing work of mine.
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="Why Art & Media combined?" %}}
+{{% section-foldable header="When should I be interested in this?" %}}
 
-We _really_ struggled to name this category, and this ended up being the (most) common denominator. 
+Of course, the most important reason to enjoy art is ... to enjoy it! You don't need a reason. If you read the first line of a story and want to know what happens next, read the story. Explore the explorers category and see what happens.
 
-Art is a very subjective term. Media is very broad---could be stories, could be a YouTube video. We felt like most of the creative work offered in this webshop lie somewhere in the area where these two overlap. We've always said that we make **"practical art"** or **"playable art"**.
+For those who need more reasons: the stories are often clearly linked to (eductional) products in later categories. Such as fairy tales about shapes that lead into the educational material for it, or a story about wonderful magic that mimics the rules in a board game.
+
+For those who need even more reasons: you can explore this category if you're interested in collecting art. Maybe you need some unique piece to finish your interior design, or something to complement an exposition, or just a gift for that creative friend of yours. We must say, however, that we mostly make "practical art" or "playable art". It's meant to be _used_, not just hung on a wall and left alone.
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="What do I get?" %}}
 
 This highly depends on what you buy! In general, though, these are _Digital Goods_ and you get a single **ZIP file**. Unpack it to get access to a breadth of different digital files. 
+
+If you buy a book, you get it both as an **ebook** and a **printable PDF**. We're also experimenting with interactive books, such as adding Bingo cards that kids can use to check if they understood what happened. This can't be done every time, however, and will be separate files inside the ZIP file if present.
 
 Some of these products are _Physical Goods_, such as paintings showcasing my art. In this case, your order is automatically submitted to a merchandise provider who will ship the requested product right to your doorstep.
 

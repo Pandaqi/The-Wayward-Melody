@@ -38,12 +38,13 @@ They can test your knowledge and be educational, or just be really funny as you 
 
 {{% section-foldable header="What do I get?" %}}
 
-We provide two types of trivia activities.
+We've created our own **custom and powerful quiz system**! This allows us to sell a single quiz that can be played in many ways, including both _digitally_ and _physically_.
 
-* **Old School**: you get a simple PDF with questions and one with answers. The PDF can be printed, or played as a slideshow on a screen. Answers are filled out in writing and checked manually.
-* **New School**: you get a "program" to execute in any browser. The quiz happens on a screen, and there are more possibilities (such as video questions). Nobody knows the answers beforehand; answers _can_ be checked digitally too.
+* _Digital_: You get a "file" to open/execute in any browser. The quiz happens on a screen, looks fancy, and allows more possibilities (such as video questions). Nobody knows the answers beforehand; answers _can_ be checked digitally too.
+* _Physical_: You get several PDF files that you can print (or play as a slideshow), with both the quiz as well as dedicated answer forms/sheets (tailored to _that specific quiz_).
+* This also means that you get all the individual source files that went into the quiz, allowing you to customize/copy/use it however you want. (Or just see the magic that goes on behind the scenes if that interests you.)
 
-One is not better than the other. The first type is _absolutely fine_ for many occassions, while being cheaper and requiring less. We simply like trying new things and advancing what's _possible_ with a pub quiz.
+Practically all our quizzes are able to fit in this format. In the rare cases it doesn't, we'll clearly state this, and you will only get a PDF with a manually designed quiz experience inside.
 
 {{% /section-foldable %}}
 
@@ -57,9 +58,11 @@ You don't need a special license or permission for anything. You bought the expe
 
 {{% section-foldable header="Can I customize these?" %}}
 
-The **"Old School"** versions can be customized by using any PDF editing program. In a way, when you buy such an experience, you mostly pay for a _question pack_. We're not evil villains who force you to _use_ our quiz exactly how we intended.
+The **digital** version can be customized by writing your own questions in text files, then using the "Upload Custom Files" button at the start. Our software behind this experience is [publicly available](https://github.com/Pandaqi/pq-trivia). You can read how to format your questions so the system understands.
 
-The **"New School"** versions can be customized by writing your own questions in text files, then using the "Upload Custom Files" button at the start. Our software behind this experience is [publicly available](https://github.com/Pandaqi/pq-quiz) @TODO:Link! You can read how to format your questions so the system understands.
+The **physical** version can be customized in any PDF editing software. Additionally, you're obviously free to simply "get inspired" by the quiz and use it to create your own variant on it, skipping or modifying questions for your own work.
+
+In a way, when you buy such an experience, you mostly pay for a _question pack_ (and its _assets_; images, video, audio, and so forth). We're not evil villains who force you to _use_ our quiz exactly how we intended.
 
 {{% /section-foldable %}}
 
@@ -67,7 +70,7 @@ The **"New School"** versions can be customized by writing your own questions in
 
 For many years, my little sister and I created a litle "New Year's Eve Quiz" at home. This easily became a ritual that anyone could enjoy, regardless of group size or other circumstances at the time (long story). 
 
-Over time, my systems and skill evolved. The very first pub quiz was a simple one on paper. Then I created a website that took a lot of work out of our hands, while allowing audio and video questions. 
+Over time, my systems and skill evolved. The very first pub quiz was a simple one on paper. Then I created a website that took a lot of work out of our hands, while allowing audio and video questions. Then I improved that general system again, and again, and again, as more nice features and practical ideas suggested themselves.
 
 Until I thought it would be a crime not to share that with the world!
 

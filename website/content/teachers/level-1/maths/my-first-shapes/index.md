@@ -3,9 +3,9 @@ type: "product"
 title: "My First Shapes"
 id: "my-first-shapes"
 date: 2025-04-26
-price: 5.95
-image: ""
-file: "@TODO"
+price: 9.95
+image: "my-first-shapes-header.webp"
+file: "9e601ca1-da5d-4951-92d1-502b6273c863"
 spell: ["my-first-shapes"]
 advances: "recognition-and-discrimination"
 description: | 
@@ -16,15 +16,21 @@ description: |
 
 contents:
 - Explainer Basic Shapes
-- Shapes Sheet I (cut out; to be used in exercises)
 - Connect Same Shapes I
 - Group Same Shapes I
 - Shape Tarsia I (connect edges to match, but only shapes given on tile are allowed to be made)
+- Explainer + Exercise for Shape modifications/variations (triangles can look very different and still be a triangle)
+- Connect the Shapes
+- Explainer Counting Corners -> Polygons
+- Connect Same Polygons
+- Group Polygons
+- Connect The Dots (Polygon Mode)
+- Complete The Shape Pattern
 - Explainer Advanced Shapes
-- Shape Sheet II
-- Connect Same Shapes II (distorted shapes; oblong triangles; etcetera)
+- Shape Sorting Exercise
+- Shape Sorting Exercise from a Detailed Illustration
 - Shape Tarsia II
-- Group Same Shapes II
+- Activity Ideas/Setups
 
 level: 1
 language: "EN"
@@ -57,4 +63,4 @@ Shapes and colors are some of the first things that children learn to consciousl
 
 You might be surprised by how early (and easily) young brains can pick up on this. That's probably because it is a very natural first step to understanding more complex things in the world. Because, after all, what is a tiger, or a chair, or a smartphone, if not an amalgamation of basic shapes and colors?
 
-**This resource only explores shapes. Check out [My First Colors](/teachers/level-1/my-first-colors/) for the resource on color, which also has exercises that combines both.**
+**This resource only explores shapes. Check out [My First Colors](/teachers/level-1/maths/my-first-colors/) for the resource on color, which also has exercises that combines both.**

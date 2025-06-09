@@ -166,12 +166,12 @@ Until ... I realized I needed to become much more granular again, and take steps
 
 And so, after more exhaustive rewriting and research, I settled on the following _for Level 1_.
 
-* Sound Recognition (simply recognize two sounds are the same, or two words are the same when spoken)
-* Word Awareness (learn to recognize sentences contain smaller units called words)
-* Syllable Awareness (learn to recognize words contain smaller units called syllables)
-* Phonemic Awareness (learn to recognize syllables contain one or multiple distinct sounds that your voice makes)
-* Rhyme & Alliteration (using all these skills in a fun and intuitive way; rhyming is about recognizing the ending phoneme of two words is the same)
-* Phonemic Fun (play around with adding/changing/deleting phonemes in words)
+* **Sound Recognition** (simply recognize two sounds are the same, or two words are the same when spoken)
+* **Word Awareness** (learn to recognize sentences contain smaller units called words)
+* **Syllable Awareness** (learn to recognize words contain smaller units called syllables)
+* **Phonemic Awareness** (learn to recognize syllables contain one or multiple distinct sounds that your voice makes)
+* **Rhyme & Alliteration** (using all these skills in a fun and intuitive way; rhyming is about recognizing the ending phoneme of two words is the same)
+* **Phonemic Fun** (play around with adding/changing/deleting phonemes in words)
 
 The general idea here is that language comes natural to people _when spoken_. Children will know what language sounds like and the meaning of words, but only through _sound_. As such, to "formalize" that and turn it into rules, we need to first BREAK IT DOWN (spoken language > words, syllables, phonemes), so we can later BUILD IT BACK UP (letters > syllables, words, sentences, etcetera).
 
@@ -187,52 +187,25 @@ I want to decouple specific skills/topics from each other, or from _age_. Instea
 
 Nevertheless, it requires more creativity and tough decisions on my end, and I decided to keep Level 1 Language entirely focused on _sound_ and _language awareness_ (no alphabet/writing yet).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-In general, I settled on the following steps for learning language.
-
-* (SOUND) It starts with _sound_ (spoken language). Identify sounds are the same (Discrimination needed!), identify bigger sounds (words) contain smaller sounds (syllables), rhyming is often used here.
-* (LETTERS) Then you learn the actual _letter shapes_ (that belong to the sound). It's silly to present them all at once, though, or in ABC order. Similarly, there's a never-ending debate about whether to teach uppercase only or both uppercase and lowercase at once.
-* (LETTERS) Now that you know individual letters, you start to _combine_ them again (= "apply special rules"). Learn about vowels/consonants, digraphs and blends.
-* (WORDS) Finally, this gives you the tools to build the parts into words and sentences. This usually starts with CVC words (Consonant-Vowel-Consonant; such as CAT and DOG), then CVCe, and so forth.
-
 One important step, however, is mentioned everywhere but usually missing from actual lesson plans/material. It's the importance of **stories**. People _know_ they should read a lot of stories to their kids, until they are ready to read a lot themselves. But how? What to do? There's usually a vague recommendation to "buy books that look fun" or "buy quality children's literature".
 
-And so I sought to include stories as a first-class citizen from the start. It's probably why we started telling stories in the first place: to make it easier to learn and remember stuff, including language. 
+And so I sought to include stories as a first-class citizen from the start. It's probably why we started telling stories in the first place: to make it easier to learn and remember stuff, including language. I added one final product called **My First Stories** to level 1. 
+
+{{% remark %}}
+Because all the other products also already have stories, I struggled a bit to find enough content for this product at first. I was about to just delete it and forget about it. After letting it rest for a few days, however, I found the right direction and enough ideas to make it worthwhile.
+{{% /remark %}}
 
 It's no surprise that, in recent times, more research has surfaced that at least a good chunk of children are "gestalt learners" (instead of "analytical learners"). It means they learn language by going from BIG to SMALL: they learn individual words from stories, sentences, phrases. (Analytical means that you learn SMALL to BIG, so letters/syllables to words.) Such learners would benefit far more from hearing a lot of different stories, than from the typical path I outlined above.
 
-And so I came up with the ludicrously ambitious plan to **write a fairy tale for every letter**.
+#### Batch 1
 
-Remember that I am using "established educational guidelines" as a way to lure people in and create traditional Teaching Resources. I don't actually agree with all of it, and I want to move on to the other factions as quickly as possible. (I am extremely explicit about this on the store itself, but of course many people don't read that and are surprised at some of the things I go for ...)
+At this time, I had _finally_ bought a new computer. (I had saved the money and I thought: this webshop thing is my biggest next project, let's get a new computer and do it right.) Buuuuut it was faulty and I had to send it back :/ 
 
-#### Phantasy Phonics
+Which brought me into an awkward position. I wanted to continue working on these products, but now I was back to using my old hardware, with files scattered in multiple places. I needed to progress, but was also kind of just "waiting" until my new computer replacement arrived.
 
-Initially, I resigned myself to making digital quizzes only for this one. I mean, we need SOUND, right? Ink on a paper can't do that!
+As such, the first "batch" of Language products wasn't done in any sensible order. I made _Sound, Word and Syllable Awareness_ in one confusing blob of work over 2--3 weeks.
 
-And yes, those still make up the majority of this resource. But I realized we had some more options too.
-
-* Parents reading stories to their children. I can write an interactive story where you have to make sounds yourself (either the parent, the kid, or both)
-* A video game. Though I'm reluctant, as I said, to add screens and digital elements at such young ages.
-
-Any other exercise or puzzle I could come up with, though, was just a quiz in disguise. It felt silly to separate them, so I ended up going with 99% digital quizzes anyway.
-
-Something like an ABC song is obviously an option ... but already been done to death. I didn't feel like I could add anything useful there.
+I started with the digital quizzes. Because my general system was finished (and really nice!), but also because I thought this was the _only_ thing I could make. Children can't read or write yet, so playing sound and asking questions about that was all we could do, right?
 
 Because of my current circumstances, I couldn't record anything myself. I gave AI voice generation a try and found it natural and diverse enough in its output, so I used that.
 
@@ -240,17 +213,179 @@ Because of my current circumstances, I couldn't record anything myself. I gave A
 _Circumstances?_ The home is being renovated, which creates massive noise and means I barely have space to stand/sit anywhere at all. My recording equipment is also packed away in boxes and unreachable. I would wait until renovations are done ... if it wasn't expected to take several more years. Long story, shitty situation, unprofessional builders.
 {{% /remark %}}
 
-As I waited for my new computer---I had to send back the first one, as it was faulty :/---I collected all sounds I needed and wrote the `.txt` files connecting them to questions. My own quiz system could just read it all and turn it into the final quiz ... once I have a functional computer again.
-
-For the most part, these quizzes are split into different "rounds" that test Phonics in a different way again. (One with rhyming, one with matching identical sounds, one with matching animal sound to animal, etcetera.) Again, I could have combined these into one giant quiz or one expensive resource. I decided to keep them all split up to keep things minimalist and allow purchasing just the one you need.
+For the most part, these quizzes are split into different "rounds" that test the topic in a different way. I could have combined these into one giant quiz or one expensive resource. I decided to keep them all split up to keep things minimalist and allow purchasing just the one you need.
 
 {{% remark %}}
 This also helps, admittedly, to keep myself on track. It's far easier to tell yourself "just create 10 questions today and the next product is done", than to say "we need 100 questions spread over 10 quizzes, let's start".
 {{% /remark %}}
 
-@TODO: Any interesting notes once I actually make it.
+By the time I finished those quizzes, I realized we could do a _Teachers_ resource too. We could just do the same exercises ... but now the Guardian was making sounds or reading words if needed. I also found some nice activities to help out, which I could explain and show in that resource.
+
+Once I realized that, I realized that I could add some _Explorers_ too. Obviously, the Guardian could _read_ stories _to_ the children! I was quickly able to invent several stories that would explain (in a magical, fun way) what we're doing with language here.
+
+* **The Noisy Tongues**: creatures that you must scare away (or attract, later in the story) by making a specific sound, or saying a specific word. An _interactive_ story that helps children through the different elements of language in a fun way.
+* **The Silent Wall**: a "metaphorical" way to handle this same topic. We have this big wall that separates two folks and makes them unable to communicate. But by breaking it down ... brick by brick ... you can start to understand letters, and words, and the small parts that make up language.
+
+The stories were some of the last things I did for this batch. Simply because I struggled how to actually _execute_ the vague vision I had for them. In the end, after giving it some time, my brain found the path forward and actually writing these took only a few days.
+
+My biggest issue with them, however, was that they covered _all_ the steps (Sentences -> Words -> Syllables -> Phonemes -> Letters). So ... to what product do the stories belong? It would be a bit silly to sell every chapter of this story (only ~1000 words) as a standalone product. 
+
+And so I ended up improving the website code to allow a specific product to belong to _multiple parts of the curriculum_. These two Explorers are a single bundle, but it's connected to all the _Teachers_ that cover its content.
+
+All this time, I kept asking myself "is there really no way to create puzzles or games for this?" I _knew_ it had to be possible. But it was tough. How do you make a Language game/puzzle for people who can't read/write yet?
+
+I had my first breakthrough when I made the Quiz for Syllable Awareness. One of the "rounds" has you play a sound and pick the answer (sound) that _shares a syllable_. (Example: The main sound is "SNOWMAN" and one answer is "FIREMAN".) This gave me a sudden insight: _What if we do crossword puzzles, but with syllables?_ This led to Crossyllabi, which is an actually fun and challenging puzzle that pre-readers can do to practice syllables.
+
+Once I actually _made_ that, the floodgates opened. I realized, again, that we can do everything through _images_, and with a Guardian (Parent/Teacher) present who _can_ read. 
+
+A very simple example is a game based on "Slap Jack": you have a deck of cards/tiles with images of common items. The Guardian says a word. Then they start flipping tiles from the deck, the next one, and the next one, until one of them has a syllable/sound/letter that _matches_ with the Guardian's word. If so, the first player to _slap_ the deck of cards, wins that round.
+
+It's nothing ground-breaking, of course not. But it's an _actual game_ that practises language awareness, which 4 year olds can definitely get the hang of. It just took 3 weeks of non-stop work on this topic for my brain to finally realize these solutions. As such, these were the final products I made.
+
+{{% remark %}}
+By this time, I'd assembled a library of over 200 hand-drawn images. Whenever I needed a new image for something, I simply drew it myself in the same style and then also saved it in my library. This meant that, over time, creating products became faster as I could reuse images I already had.
+{{% /remark %}}
+
+#### Batch 2
+
+As expected, this batch contained all the other products for Language (Level 1): _Phonics, Rhyming, and Stories_.
+
+For the most part, this followed the same paradigm.
+
+* We start with Quizzes based on _sound_.
+* Then I created the _Teachers_ resource that does the same general things as the quiz (but the Guardian/Kids make the sounds), and adds some bonus activities.
+* Then I wrote the _Explorers_ (stories) connected to it.
+* And then I looked for ways to turn them into puzzles and games.
+
+I realized that the games I'd imagined for Batch 1 could be re-used here. In fact, it felt silly again to split them into different products. (Lots of printing and cutting of the same cards for nothing!) And so I ended up combining those ideas into only a few games---the rules simply change slightly depending on what you want to practice. 
+
+{{% example %}}
+Take my Slap Jack game I just mentioned. You can do it to practice matching syllables. But you can easily reuse the same cards and general idea to test if _phonemes_ match between two words, for example. Those two are not different enough to make them separate products, in my eyes.
+{{% /example %}}
+
+Similarly, I could do "Crossyllabi" again, but with Phonemes this time.
+
+That's why I was slightly ambitious and thought Batch 2 (with _more_ products inside) would take equally long to make as Batch 1. I was wrong, as always---it took longer. But that's simply because, as I work on something, I always get more ideas and want to put more into it.
+
+For example, the more stories I wrote (for _Explorers_), the more ideas I got for other fairy tales. Stories that were supposed to be only ~1,000 words suddenly became a _bundle_ with multiple 1000 word stories. Sometimes I feared I was writing something too complicated for such a young age. But then I thought: all the really really basic stories for this age range have already been written, so let's continue doing the unique thing we do. I am, after all, a writer first and foremost.
+
+Finally, I wondered about _escape rooms_ for this topic and age. This is, again, hard to do, but not impossible. I decided to do only a _single one_ at the end, which would use _all skills you learned_ for the puzzles. 
+
+{{% remark %}}
+In fact, this realization was quite important. An escape room is characterized by _multiple puzzles_ that _reference each other_. As such, it makes no sense to create an escape room for only one single product, as then you could only do one or two different puzzles at most. By having one such experience test multiple related products, it becomes much easier to make and to fill with diverse puzzles.
+{{{% /remark %}}}
+
+And then it was done! I'm an entire month behind schedule at this point. I made faaaar more products and creative ideas for Language Level 1 than I intended. But the offerings are really solid now, covering everything that you might want to possibly cover. And I believe putting in that work is what lead me to get unique insights into how to teach these things in new and more fun ways.
+
+#### My First Stories
+
+I wanted to give some extra notes on this specific resource.
+
+As stated, with stories being a first-class citizen, they are already included in all the other resources. Almost every single one has 2 or 3 fairy tales in the _Explorers_ faction already.
+
+As such, this product isn't just another list of extra stories. 
+
+* It only has stories about _what a story is_ and _why we tell stories in the first place_.
+* It's about story _comprehension_, and a start to telling/producing stories _yourself_.
+
+Around this time, I made my large group of Easter-themed resources. Among them was one exercise where the Guardian would read a (much shorter, simplified) version of the Easter bible story. The Apprentices could cut out a few images displaying events in the story, and then had to place them on a basic timeline. (First A happened, then B, etcetera.)
+
+This worked _great_. It's relatively easy to make. But it absolutely practicses story _comprehension_. You need to actually understand what happened and when, cause and effect, to be able to recognize what an image represents and place it correctly.
+
+As such, these kinds of exercises became the backbone of this product.
+
+{{% remark %}}
+It was so effective that I even included it with some other Explorers. In some cases, this came down to just creating a "Bingo" card where children could cross off an event if it happened in the story. It's a lot of extra work, of course, but it adds so much.
+{{% /remark %}}
+
+It took some effort to figure out the paradox of "the kids can't read/write/identify many words yet yet, but they should still understand stories and interact with them through exercises". As usual, the bridge turned out to be "real world concept > image/non-reader association > word".
+
+* It starts with exercises to simply _find_ a word in a story.
+* Then it turns into filling in blanks, with images giving the options. (And context has to make clear which option is the only one possible. For example, kids know that a human is not as large as a house. Thus, the sentence "He was as tall as ___" can't be completed with that.)
+* Which finally turns into filling actual letters/simple words, and constructing/finishing a story yourself.
+
+The first step would be taken in this resource. The next steps would be taken in the Story resource of Level 2.
+
+At first, the resource felt a bit ... weak? Vague? Wishy-washy? But after this extra experience and planning, it became much stronger.
+
+Yes, stories are a bit messier by default. Because they are about _context_, reading between the lines, adding _detail_ and _emotion_ to what would otherwise be an abstract list of facts. In a way, I just accepted that this resource would be more "subjective" and more "if your kid is ready for it" than others.
+
+### Other
+
+Level 1 doesn't have many "other" products yet. I only saw the need for some small "social" products (about planning and working together with other kids), and some "physical" products (ideas for activities and practice for pencil control).
+
+But this is, once again, where you see why I set up the webshop the way I did. Those social skills? You get them automatically by playing games with others, doing quizzes with others, sharing activities, etcetera! Those physical skills? Same thing!
+
+I only included them because of the funnel idea. To attract people who believe in the more traditional curriculum and have at least one product that focuses on this.
+
+Long story short: I used this part to win back some of the time lost in my planning ;) It still took a lot of work to make these things. But I only made some simple _Teachers_ here, which included small activities/puzzles/quizzes (to be done in GROUPS) too, and that's that. 
+
+My original planning was to have all Level 1 resources done by the Summer---and then launch the online store. This originally gave me 6 months to make them. I lost 1 month finishing other work first. I lost another month being very sick. I lost another month being demotivated and putting too much time in preparing things I'd only really need in Level 2 and beyond. At that point, as you might expect, I had given up on that deadline.
+
+I also realized now that "physical quizzes" were somewhat useless for most basic topics in level 1. Because my _Teachers_ resource were already fulfilling the same function! I found myself creating digital quizzes, and then simply asking the same questions/doing the same exercises in _Teachers_ (only keeping the ones that were possible/sensible, of course). As such, creating physical quizzes in _Quizmasters_ was nonsensical. It would be like doing the same thing (or 80% of the same thing) twice!
+
+And so I made another decision. (Which was quite a breakthrough, because I really struggled to pinpoint when I should use my digital system for _Quizmasters_ things and when I should not.) The quizzes are almost exclusively digital, except for topics and situations where it makes sense to go manual (because then I can add lots of different questions and answer types + there is no Teachers resource for this thing). If you don't want to use a screen, go for my _Teachers_ resource instead, as it's basically a physical version of the quiz.
+
+## A note about Gamiverses
+
+Before I planned the online store, I planned a different major new website/project. After making board games for _years_ (for free, on Pandaqi.com), I wanted to finally take that one step further and create a _curriculum of games_. A new website with actual paid board games, which would teach all those topics for which I'm now making resources and quizzes and whatnot.
+
+As you see, this idea was basically "consumed" by the bigger webshop idea. _Gamiverses_ is just the final faction of the store now. I copied over all those original ideas, until it made no sense anymore to make this a separate website or project.
+
+That's all fine. The issue, however, is that games are obviously _the hardest thing to make_. That's why I spent the last 5 years slowly building frameworks for it on Pandaqi, building general systems, interactive rulebooks, learning from all that. 
+
+I wanted to _use all the frameworks and lessons learned_ for the Gamiverses games. I didn't want them to be tiny throwaway games that didn't live up to their potential.
+
+But this meant I had to rethink my approach. I "procrastinated" on creating the few games that fit in Level 1 because I couldn't figure it out.
+
+* Would I simply create these games on Pandaqi (which has all systems and stuff already set up)? It means anyone could generate them for free themselves, or buy the final product from the webshop.
+* Would I create a _new_ system (for generating games and rulebooks) with the lessons I learned?
+* Would I refactor the existing system to make it much more "portable"? So that I can move it to a _new_ folder/local website, and generate all games through that?
+* Would I ditch all that extra complexity and create all these games _by hand_ instead?
+* Or maybe I can make the _base game_ free on Pandaqi, but have people pay for _expansions_ on the webshop?
+
+It was a lot to figure out. I _really want_ to make these games the highlight. A "curriculum of games" is still the dream---you should definitely be able to teach a kid anything just by playing these games. I want to make them free and easily accessible---but I also need to earn money to survive.
+
+And so, in the end, I decided to split it entirely.
+
+* I rewrote my existing Pandaqi systems so I could just "copy-paste" them to a new website. (A local website, only available in a folder on my computer.)
+* Every Gamiverse game is another web page with its own code on that local website. (As I've been doing for the past 5 years.)
+* The system can export the PDF (for rules + Material) for each game, which is what is sold on the webshop.
+* And we sell the base game + all expansions/variants/other material in _one product_ in _one place_.
+
+Out of all options, this one was the fastest and easiest to maintain. Doing a major rewrite of the Pandaqi systems was a bit of a chore, but I wanted to do that anyway. (Pandaqi had become a mess after years of updating it, ever since I was a young boy and made the first game. I wanted to streamline it and make it look more professional, because now it has to somewhat become a "marketing tool" for the webshop.)
+
+I _did_ decide to add a note to these games saying that I would just give them away for free if you asked nicely. Hopefully, over time, I earn enough to make a large range of games free again.
+
+{{% remark %}}
+I also try to link to many other resources on my webshop. Because my games are printable, there are many things I obviously cannot do. Such as having really nice wooden chunky pieces, which kids like to pick up and play with! And so I link to existing physical board games from other designers/publishers that I think teach this skill too and are really nice. Share the love---actually help parents pick out the best games.
+{{% /remark %}}
+
+I just told you that these games are by far the hardest to make, and the lowest return on investment. Now let me put that into numbers for you. 
+
+* Creating the first Gamiverse game took _five days_ of non-stop work. (Design rules, draw assets, write code to generate pretty and correct material on the fly, fix and finetune, get exported PDFs, create marketing image, explain gist of game and why it's good on product page.) That's a single game for 5--10 euros.
+* Creating _all_ the Teachers resources for the entirety of Batch 1 took five days too. And I took more breaks. These resources sell for 5--10 euros _each_, and they sell more easily.
+
+It's just _much much easier_ to explain a basic concept and come up with some questions/exercises. It's much easier, for me at least, to write a short fairy tale in a day. But board games? Absolutely the most educational and rewarding, but also the most intensive to make.
+
+In that sense, it was a good choice to make these products in order. Level 1 only has a few games in total ;) (As there's only so much you can do with kids who can't sit still, can't read or count, and might not understand the idea of taking turns yet.)
+
+
+## Level 2
+
+### Mathematics
+
+@TODO
+
+### Language
 
 #### My First Letters (I, II, III, IV)
+
+Remember my commitment to _stories_ as an important part of learning language? Yes, so, that's how I came up with the ludicrously ambitious plan to **write a fairy tale for every letter**.
+
+{{% remark %}}
+Remember that I am using "established educational guidelines" as a way to lure people in and create traditional Teaching Resources. I don't actually agree with all of it, and I want to move on to the other factions as quickly as possible. (I am extremely explicit about this on the store itself, but of course many people don't read that and are surprised at some of the things I go for ...)
+{{% /remark %}}
 
 After quite some debate and trial-and-error, I made the following decision for teaching the letters.
 
@@ -308,23 +443,6 @@ When the flood gates opened, I had _too many_ ideas and opted to move a lot of t
 
 @TODO: Any interesting notes once I actually make it.
 
-#### My First Stories
-
-Stories being a first-class citizen, they are already included in all the other resources. Almost every single one has 2 or 3 fairy tales in the _Explorers_ faction.
-
-As such, this product isn't just another list of extra stories. It's about story _comprehension_, and a start to telling/producing stories _yourself_.
-
-It took some effort to figure out the paradox of "the kids can't read/write/identify many words yet yet, but they should still understand stories and interact with them through exercises". As usual, the bridge turned out to be "real world concept > image > word".
-
-* It starts with exercises to simply _find_ a word in a story.
-* Then it turns into filling in blanks, with images giving the options. (And context has to make clear which option is the only one possible. For example, kids know that a human is not as large as a house. Thus, the sentence "He was as tall as ___" can't be completed with that.)
-* Which finally turns into filling actual letters/simple words, and constructing/finishing a story yourself.
-
-As I planned this, I felt the resource was a bit ... weak? Vague? Wishy-washy? But as I actually worked on it, I saw that my hunches were right and that this was a good thing to include. 
-
-Yes, stories are a bit messier by default. Because they are about _context_, reading between the lines, adding _detail_ and _emotion_ to what would otherwise be an abstract list of facts. In a way, I just accepted that this resource would be more "subjective" and more "if your kid is ready for it" than others.
-
-@TODO: Any interesting notes once I actually make it.
 
 ### Other
 

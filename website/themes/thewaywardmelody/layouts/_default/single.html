@@ -110,5 +110,24 @@
         </table>
     </div>
     {{ end }}
+
+    <!--- Also EXTERNAL resources/links/references --->
+    {{ $external := or .Params.external slice }}
+    {{ $has_external := gt (len $external) 0 }}
+    {{ if $has_external }}
+    <div data-pagefind-weight="1">
+        <h2>External Sources / References</h2>
+        <p>We try to share the love and improve education, not be greedy goblins, which is why we link to the work of other people that inspired us or is related to this product. Check out the list below and support them!</p>
+        <table>
+            <thead><tr><td>Link</td><td>Explanation</td></tr></thead>
+            {{ range $external }}
+                {{ $name := or .name "Unnamed" }}
+                {{ $url := or .url "#" }}
+                {{ $desc := or .desc "No description provided." }}
+                <tr><td><a href="{{ $url }}">{{ $name }}</a></td><td>{{ $desc | markdownify }}</td></tr>
+            {{ end }}
+        </table>
+    </div>
+    {{ end }}
 </main>
 {{ end }}

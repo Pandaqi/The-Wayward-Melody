@@ -113,7 +113,7 @@ const createFullscreenOverlay = () =>
     document.body.appendChild(overlay);
 
     overlay.style.display = "none";
-    overlay.style.position = "absolute";
+    overlay.style.position = "fixed";
     overlay.style.left = "0";
     overlay.style.right = "0";
     overlay.style.top = "0";

@@ -14,7 +14,7 @@ description: |
   So learn the sounds, words, and more to scare them away!
 
 contents:
-- Five short stories (that build on each other) about spoken language.
+- Six short stories (that build on each other) about spoken language.
 - Each story is included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 
 level: 1

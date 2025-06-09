@@ -235,7 +235,7 @@ In general, though, we encourage people to _learn how to customize themselves_! 
 
 {{% section-foldable header="I have a free evening, what should I do?" %}}
 
-Invite friends, family or coworkers. Yes, in real life, at your real table. Then play a [board game](https://pandaqi.com), or an [escape room](/escape-rooms/), or a [pub quiz](/puz-quizzes/)!
+Invite friends, family or coworkers. Yes, in real life, at your real table. Then play a [board game](/gamiverses/), or an [escape room](/runaways/), or a [pub quiz](/quizmasters/)!
 
 {{% /section-foldable %}}
 

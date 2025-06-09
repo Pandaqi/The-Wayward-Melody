@@ -4,7 +4,7 @@ title: "Crossyllabi (Pre-Reader)"
 id: "crossyllabi-pre-reader"
 date: 2025-04-26
 price: 4.95
-image: ["crossyllabi-pre-reader.header.webp", "crossyllabi-pre-reader-screenshot-0.webp", "crossyllabi-pre-reader-screenshot-1.webp", "crossyllabi-pre-reader-screenshot-2.webp"]
+image: ["crossyllabi-pre-reader-header.webp", "crossyllabi-pre-reader-screenshot-0.webp", "crossyllabi-pre-reader-screenshot-1.webp", "crossyllabi-pre-reader-screenshot-2.webp"]
 file: "7fe69d06-66ce-4846-9edc-c08f9196b1a3"
 spell: ["syllable-awareness"]
 description: | 
@@ -16,7 +16,7 @@ description: |
 contents:
 - Puzzle Rules Explainer (text for Guardian; images for Apprentice)
 - Token Cut-Out Sheet
-- "15 Crossyllabi Puzzles"
+- "14 Crossyllabi Puzzles"
 
 level: 1
 language: "EN"
@@ -35,8 +35,7 @@ How does it work?
   * For example, BASKETBALL and FOOTBALL share the syllable "BALL".
   * Those words will probably cross over and you can only solve the puzzle if you place that special token there.
 * You simply need to place these tokens correctly in the empty squares! (Correctly identifying how many syllables a word has, and which of them is the same as the syllable inside another word.)
-  * Each puzzle has a fun "answer check" to make sure you did it right, without giving anything away.
 
 The first puzzles are really small, with short words and only one "crossover". They are, as usual, just to _explain_ how it works. Later puzzles become larger and more challenging. If you can solve the final puzzles (which can also be done with a pen), you can be certain you're a master of syllables!
 
-Once a child knows the letters of the alphabet, they can continue to the next variant: [Crossyllabi Reader](/puzzlepages/level-2/crossyllabi-reader/). It's about writing/placing the actual syllable letters in all the empty squares.
+Once a child knows the letters of the alphabet, they can continue to the advanced version: [Crossyllabi Reader](/puzzlepages/level-2/crossyllabi-reader/). It's about writing/placing the actual syllable letters in all the empty squares.

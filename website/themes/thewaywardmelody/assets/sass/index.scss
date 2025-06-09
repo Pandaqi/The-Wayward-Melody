@@ -880,6 +880,11 @@ $viewport-xl: 1280px;
         filter: drop-shadow(0 0 0.033em #333);
     }
 
+    .shadow-border-s {
+        border: 1px solid #333;
+        filter: drop-shadow(0 0 0.1em #333);
+    }
+
     .blend-overlay {
         mix-blend-mode: overlay;
     }
