@@ -5,15 +5,18 @@ id: "the-silent-wall"
 date: 2025-04-26
 price: 9.95
 image: "the-silent-wall-cover.webp"
-file: "@TODO"
+file: "174292b2-1e0c-4f31-b6cb-a9ef22bda0f1"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
 description: | 
   The Silent Wall stands tall
-  @TODO
+  Seperating lands, silencing all
+  A girl wants to break it down and see the other side
+  But might break down the blocks of language in her stride
 
 contents:
-- Six short stories (that build on each other) about (spoken) language.
-- Each story is included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- 6 short stories (that build on each other) about (spoken) language.
+- The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- A **bingo** card which allows Apprentices to check if they understood what happened and cross of the related image if so!
 
 level: 1
 language: "EN"
@@ -32,3 +35,4 @@ A fun, simple story that provides a solid intuition for learning the details lat
 
 It's also why this resource is marked as an option in almost all Level 1 Language Resources. Don't feel the need to read all short stories in one go.
 
+This is also the first book where we added an additional file with **bingo cards**! A simple way to check comprehension of the story, as well as make it a little more interactive and allow listeners to fiddle with something. We've never seen it done before, but it seemed such a great idea to us that we had to try. Being a first attempt, we're not sure if we approached it right, so let us know what you thought.

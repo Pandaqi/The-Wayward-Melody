@@ -19,7 +19,7 @@
         <span><a href="{{ .CurrentSection.RelPermalink }}" class="hover_underline">{{ .Section | upper }}</a></span>
         {{ partial "views/faction-icon" (dict "context" . "invert" true) }} 
     </div>
-    <p class="preserve-whitespace">{{ .Params.description }}</p>
+    <p class="preserve-whitespace text-style-italic align-center">{{ .Params.description }}</p>
     <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Visit Product Page</a>
     {{ if gt (len $data.products) 0 }}
         {{ if $data.single_button }}

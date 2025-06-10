@@ -48,7 +48,7 @@ Practically all our quizzes are able to fit in this format. In the rare cases it
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="How am I allowed to use these pub quizzes?" %}}
+{{% section-foldable header="How am I allowed to use these trivia experiences?" %}}
 
 **However you like!** Share them with an entire class. Prepare one as a surprise gift. Customize it for your kid's birthday party.
 

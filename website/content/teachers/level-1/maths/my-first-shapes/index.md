@@ -6,7 +6,7 @@ date: 2025-04-26
 price: 9.95
 image: "my-first-shapes-header.webp"
 file: "9e601ca1-da5d-4951-92d1-502b6273c863"
-spell: ["my-first-shapes"]
+spell: "my-first-shapes"
 advances: "recognition-and-discrimination"
 description: | 
   The first step to recognizing complex things in life

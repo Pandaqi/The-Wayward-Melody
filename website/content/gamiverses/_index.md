@@ -18,7 +18,7 @@ This category is the "final boss" of this online store, because it contains **(b
 
 {{% section-foldable header="Can I get FREE games too?" %}}
 
-Yes! Before starting this online store, we designed and published board games completely for free for 10 years at [Pandaqi](https://pandaqi.com). We vowed to keep a clear separation between that old website and this store, and keeping free games, well, free. You can find some 100 professional board games there, for free, and we hope to always keep it that way.
+Yes! Before starting this online store, we designed and published board games completely for free for 10 years at [Pandaqi](https://pandaqi.com). We vowed to keep a clear separation between that old website and this store, and keeping free games, well, free. You can find some 100 professional board games there, and we hope to always keep it that way.
 
 Education _should_ be free for all. We only sell paid games here because, surprisingly, we need a bit of money to survive. But whenever the budget allows, we make older products free, so keep an eye out for games you like but can't afford right now.
 
@@ -28,13 +28,19 @@ Please note that many of the Pandaqi games are older work _and_ made as a hobby.
 
 {{% section-foldable header="What kind of games can I expect?" %}}
 
-We focus on simple and minimalist games (at most 1 page of rules, 1 minute of setup, only several pages of material). To prevent making it simplistic, however, we usually add a single well-designed twist to make them interesting for kids and adults alike. After ten years of making games simpler, shorter and more streamlined, we have the 1-page-rulebook down to a science.
+We focus on **simple and minimalist games** (at most 1 page of rules, 1 minute of setup, only several pages of material). To prevent making it simplistic, however, we usually add a single well-designed twist to make them interesting for kids and adults alike. After ten years of making games simpler, shorter and more streamlined, we have the 1-page-rulebook down to a science.
 
-We focus on clever games, not homework or lots of reading, that simulate something in real life and teaches how that works. Sure, you could force a child to read ten pages about the Roman Empire. You could _also_ design a game in which they _live_ inside the Roman Empire, or _run_ a part of it, and have fun while gaining a far deeper understanding of it.
+We focus on **clever games**, not homework or lots of reading, that simulate something in real life and teaches how that works. Sure, you could force a child to read ten pages about the Roman Empire. You could _also_ design a game in which they _live_ inside the Roman Empire, or _run_ a part of it, and have fun while gaining a far deeper understanding of it.
 
-Because of our focus on educational games for all ages, they will usually be textless, short, and family friendly too. The core of the game is something anyone can understand, and communication happens through icons/colors/shapes. Once in a while, we break this trend to go all-out on a really thematic, colorful, immersive game, which is usually reflected by their price tag and marketing ;)
+Because of our focus on educational games for all ages, they will usually be **textless, short, and family friendly** too. The core of the game is something anyone can understand, and communication happens through icons/colors/shapes. Once in a while, we break this trend to go all-out on a really thematic, colorful, immersive game, which is usually reflected by their price tag and marketing ;)
 
-Our biggest asset, however, is our broad knowledge of what games can be. How we can apply proven ideas and mechanics to do away with _any_ hurdles standing between (young/inexperienced) players and new board games. In general,
+Our biggest asset, however, is our broad knowledge of what games can be. How we can apply proven ideas and mechanics to do away with _any_ hurdles standing between (young/inexperienced) players and new board games. See the next section for what that means.
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="The Gamiverse Laws" %}}
+
+We have some overall principles that govern that types of games we make here. In general,
 
 * **Level 1** games are _cooperative_ and _simultaneous_. This means that you win/lose _together_, and that you _take turns at the same time_. It reduces game duration to something palatable to young kids, it removes any tension from winning/losing/waiting your turn, and it fosters collaboration and being proactive.
 * **Level 2** games are _cooperative_ still, but can be turn-based. Longer and more strategic games are possible, but we don't lose the social and collaborative aspect. We can't state often enough how crucial the social part of games is, and how important it is to share time as a parent/teacher _with_ the child.
@@ -48,11 +54,11 @@ There are plenty exceptions to this, of course. Some games just do not work with
 
 I have always loved _learning_, but hated _education_. I've researched how people actually _learn_ all my life, literally since I was a boy, and came away with a few certain conclusions. One of them is that **playing games = learning**. Absolutely. No questions about it. Moving on. (I have actually written countless articles on this if you want details, both on this website, my Pandaqi blog, and my personal blog.)
 
-I wrote educational _stories_, such as the Saga of Life. I wrote literal educational tutorials/courses, on Pandaqi Tutorials. But with every project I did, every study I read, everything I experienced, I kept coming back to the holy grail of learning. Reading is inefficient and often not fun. Sitting in class and letting the teacher waffle on about something is _incredibly_ inefficient. All the things I tried, all the things school is doing, simply paled in comparison to the effectiveness and pleasure of well-designed board games. 
+I wrote educational _stories_, such as [The Saga of Life](https://thesagaoflife.com). I wrote literal educational tutorials/courses on [Pandaqi Tutorials](https://pandaqi.com/tutorials/). But with every project I did, every study I read, everything I experienced, I kept coming back to the holy grail of learning. Reading is inefficient and often not fun. Sitting in class and letting the teacher waffle on about something is _incredibly_ inefficient. All the things I tried, all the things school is doing, simply paled in comparison to the **effectiveness and pleasure of well-designed board games**. 
 
-And so I started developing an entire curriculum of board games. Literally a school curriculum where every important topic or skill is handled through a board game.
+And so I started developing an entire **curriculum of board games**. Literally a school curriculum where every important topic or skill is handled through a board game.
 
-This project became known as "Explorers of the Fun Frontier". I had intended to launch it as its own website, but plans change, this online store was created, and it seamlessly slotted into it. You might still find traces of the words "fun frontier" in my writing or this website's code ;)
+This project became known as **"Explorers of the Fun Frontier"**. I had intended to launch it as its own website, but plans change, this online store was created, and it seamlessly slotted into it. You might still find traces of the words "fun frontier" in my writing or this website's code ;)
 
 Download these games, print them, play them with your children or pupils. Watch them have fun while _actually_ learning.
 

@@ -5,7 +5,7 @@ id: "the-noisy-tongues"
 date: 2025-04-26
 price: 9.95
 image: "the-noisy-tongues-cover.webp"
-file: "@TODO"
+file: "5683eb4e-314e-4f7e-a281-58b18c4311d2"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
 description: | 
   The Noisy Tongues are a folk strange

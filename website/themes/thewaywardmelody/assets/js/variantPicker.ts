@@ -2,6 +2,18 @@ import { convertTimezoneToShippingZone } from "./shippingZones";
 
 const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElement) =>
 {
+    // hide everything first
+    // @NOTE: we could do this by default in the HTML template itself, but that always feels like the worst solution, so trying to avoid that
+    const productImages = Array.from(carousel.getElementsByClassName("image-carousel-image")) as HTMLImageElement[];
+    for(const productImage of productImages)
+    {
+        const parentElement = productImage.parentElement as HTMLElement;
+        const buttonsPrev = Array.from(parentElement.getElementsByClassName("image-carousel-prev")) as HTMLElement[];
+        const buttonsNext = Array.from(parentElement.getElementsByClassName("image-carousel-next")) as HTMLElement[];
+        buttonsPrev.forEach((x) => x.style.display = "none");
+        buttonsNext.forEach((x) => x.style.display = "none");
+    }
+
     // find the associated button
     const buttonContainers = Array.from(carousel.getElementsByClassName("product-variant-buttons")) as HTMLElement[];
     if(buttonContainers.length <= 0) { console.error("No button container found to show this variant!", buttonContainers); return; }
@@ -24,13 +36,14 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
     button.style.display = "block";
     
     // switch image(s) to variant, if possible
-    const productImages = Array.from(carousel.getElementsByClassName("image-carousel-image")) as HTMLImageElement[];
     for(const productImage of productImages)
     {
         productImage.src = button.dataset.itemImage ?? "";
-        productImage.dataset.images = button.dataset.itemImages;
+        productImage.dataset.images = button.dataset.itemImages ?? "";
+
         const hasMultipleImages = productImage.dataset.images.split("|").length > 1;
         const parentElement = productImage.parentElement as HTMLElement;
+
         const buttonsPrev = Array.from(parentElement.getElementsByClassName("image-carousel-prev")) as HTMLElement[];
         const buttonsNext = Array.from(parentElement.getElementsByClassName("image-carousel-next")) as HTMLElement[];
         buttonsPrev.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");

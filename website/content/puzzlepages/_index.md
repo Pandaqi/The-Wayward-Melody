@@ -29,11 +29,11 @@ It contains puzzle challenges in the broadest sense of the word. There are two m
 
 All files in this category are **digital goods**. Once bought, you get a download link to a ZIP file. Once unpacked, it often contains the puzzles in several different formats. (Such as one with color, one without, and one with every puzzle as a separate image.)
 
-You can solve the puzzles **digitally or physically**. They can all be played on pen and paper, but you can also load the image into any note-taking app and simply draw over it on your screen!
+You can solve the puzzles **digitally or physically**. They can all be played with pen and paper, but you can also load the image into any note-taking app and simply draw over it on your screen! (Some puzzles ask you to cut out pieces or prepare things another way, but those are the exception and will clearly mention this.)
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="How am I allowed to use these games?" %}}
+{{% section-foldable header="How am I allowed to use these puzzles?" %}}
 
 **However you like!** Share them with an entire class. Prepare one as a surprise gift. Customize it for your kid.
 

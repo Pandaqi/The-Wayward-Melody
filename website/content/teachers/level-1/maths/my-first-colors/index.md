@@ -72,4 +72,4 @@ Some resources also call the color _cyan_ things like "sky blue", or "light blue
 
 This resource, therefore, approaches some things differently to give a proper explanation, while staying simple and fun!
 
-**This resource only explores colors, and some combined exercises with shapes. Check out [My First Shapes](/teachers/level-1/my-first-shapes/) to learn about shapes in the first place!**
+**This resource only explores colors, and some combined exercises with shapes. Check out [My First Shapes](/teachers/level-1/maths/my-first-shapes/) to learn about shapes in the first place!**

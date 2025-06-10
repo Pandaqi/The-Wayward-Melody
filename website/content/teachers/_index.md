@@ -22,7 +22,9 @@ Check out the [Gamiverses](/gamiverses/) for educational _games_ instead. Check 
 
 Anyone can use them, of course. Education and fun activities are not bound to age or classroom.
 
-They are, however, mainly used by **teachers** and **parents**. These are not intended to _replace_ an explanation or test. They are bonus material to help strengthen, expand or simply periodically remind someone of a skill or topic.
+They are, however, mainly used by **teachers** and **parents**. We try to follow established curriculae closely and make our teaching material as complete, effective and creative as possible. 
+
+That said, no single approach or textbook can ever be 100% effective for everyone every time. We do things _our_ way, a bit more magical and freeform than most. Try our methods, then try those from someone else, and then someone else again, as you offer your Apprentices a variety of experiences and explanations. That's the best way to get a deep understanding of a broad range of topics and skills.
 
 {{% /section-foldable %}}
 
