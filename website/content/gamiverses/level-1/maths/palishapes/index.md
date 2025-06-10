@@ -56,3 +56,5 @@ Over time, as you get tired of one board and try the next one, you will subtly l
 {{% remark %}}
 Of course, to make this possible, we do have to change the rules for certain pieces quite considerably. For example, the Circle piece moves in Circles, and there's obviously no Chess piece that even remotely does the same thing. For the most part, though, this just means that the games in this bundle are unique and interesting games in their own right. "Chess Variants", if you will.
 {{% /remark %}}
+
+Early titles for this project were _The Royal Games of King Triangle_ and _Royal Games of Trioking_. The word Tri-King was, unfortunately, already used by another project. We decided against these titles because they would have probably given the wrong impression, and because we have [other games with King Triangle](/gamiverses/level-1/maths/court-of-king-triangle/) not within this product!

@@ -4,7 +4,7 @@ title: "The Matching Myths"
 id: "the-matching-myths"
 date: 2025-04-26
 price: 4.95
-image: ""
+image: "the-matching-myths-header.webp"
 file: "@TODO"
 spell: ["recognition-and-discrimination"]
 description: | 
@@ -15,7 +15,7 @@ description: |
 
 contents:
 - "Four stories (with illustrations): **The Twin Tigers**, **The Mischievous Mothers**, **The Treasure Painter** and **The Watchers of Face**"
-- Each story is included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 
 level: 1
 language: "EN"
