@@ -7,7 +7,7 @@
 {{ $ctx := dict "context" . }}
 {{ $is_bundle := or .Params.bundle false }}
 {{ $product_ids := .Params.productsBundled }}
-{{ $limit_width := $is_bundle }}
+{{ $limit_width := or $is_bundle .Params.library }}
 {{ $pages := where .Pages "Type" "product" }}
 {{ if and $is_bundle $product_ids }}
     {{ $pages = where .Site.Pages "Params.id" "in" $product_ids }}

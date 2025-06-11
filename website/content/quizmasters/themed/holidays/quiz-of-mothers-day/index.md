@@ -21,7 +21,31 @@ contents:
 
 level: 2
 language: "EN"
-categories: ["holiday", "mother's day"]
+categories: ["holiday", "mothers-day"]
+player-count: 1-100
+age: 6
+# requirements: ""
+# single-use: false
+duration: 90
+difficulty: 2
+# setup: 1
+# prior-wisdom: false
+# color: false
+# mature: false
+# textless: false
+# parallel-play: false
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

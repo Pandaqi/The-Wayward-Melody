@@ -1,0 +1,14 @@
+{{ define "main" }}
+  {{ partial "views/banner-image" (dict "context" . ) }}
+  <main class="text-reader margin-m limit-width-m block-align-center">
+    <p>{{ .Content }}</p>
+    {{ $paginator := (.Paginate .RegularPages) }}
+    <h2>Browse the Shelves</h2>
+    <ul class="remove-list-styling">
+    {{ range $paginator.Pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </main>
+  {{ partial "navigation/pagination" (dict "paginator" $paginator)}}
+{{ end }}

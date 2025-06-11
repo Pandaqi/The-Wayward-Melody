@@ -4,7 +4,7 @@ title: "Once Upon A Rhyme"
 id: "once-upon-a-rhyme"
 date: 2025-04-26
 price: 9.95
-image: "once-upon-a-rhyme-cover.webp"
+image: "once-upon-a-rhyme-header.webp"
 file: "@TODO"
 spell: "rhyming-and-alliteration"
 description: | 
@@ -12,7 +12,8 @@ description: |
 
 contents:
 - Five short stories written in rhyme. (They are related to each other and also showcase many other stylistic language elements.)
-- Each story is included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 
 level: 1
 language: "EN"

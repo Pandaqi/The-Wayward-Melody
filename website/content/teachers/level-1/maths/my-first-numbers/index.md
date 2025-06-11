@@ -34,26 +34,30 @@ level: 1
 language: "EN"
 subject: "Maths"
 categories: ["numbers", "counting"]
-# brand: ""
-player-count: 1
+player-count: 1-100
 age: 3
 # requirements: ""
-reusable: false
-duration: 60
-difficulty: 1
-setup: 1
-prior-wisdom: false
-color: false
+single-use: true
+# duration: 60
+# difficulty: 1
+# setup: 1
+# prior-wisdom: false
+# color: false
 # mature: false
 textless: true
-# parallel-play: true
-double-sided-allowed: false
-# game-master: false
-# game-master-can-play: false
-paper-choice: true
-linear: true
-indoors: true
-# outdoors: true
+parallel-play: true
+# double-sided-required: false
+guardian-required: true
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

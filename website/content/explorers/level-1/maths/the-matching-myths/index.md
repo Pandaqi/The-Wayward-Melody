@@ -16,6 +16,7 @@ description: |
 contents:
 - "Four stories (with illustrations): **The Twin Tigers**, **The Mischievous Mothers**, **The Treasure Painter** and **The Watchers of Face**"
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 
 level: 1
 language: "EN"

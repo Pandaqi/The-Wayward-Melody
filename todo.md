@@ -1,16 +1,13 @@
 # To-Do
 
 
+
 # Specific Fixes
 
-* Probably turn OFF navigation part on Taxonomy page (it's useless/wrong; just click through to the specific VALUE of this metadata key for the full thing)
+
 * On things ALREADY INPUT ...
-  * Turn `player-count` metadata into one that explains BOTH min and max (`A-B` format) on things I input earlier
-  * Remove IRRELEVANT METADATA completely on things I input earlier, as it might be wrong and makes things slow for no reason
   * Add MORE SCREENSHOTS of what's inside! I only realize now how little information this is to convince someone to buy. => **DUH, I can just use the screenshots I embedded in the main image anyway ...**
 * FUTURE: Make thumbnail images LARGER+HIGHER QUALITY
-
-Add support for BLOG / ARTICLES / INFO LIBRARY => Yeah, probably call it _library_ and make it a subfolder of _info_, then move aaaaalll my articles (including FUN FRONTIER) into it? => The biggest question is how these will be linked/findable/indexed/searchable?
 
 # ON TABLET
 
@@ -19,6 +16,7 @@ Add support for BLOG / ARTICLES / INFO LIBRARY => Yeah, probably call it _librar
   * [interactive-media] desc = "Whether the experience plays interactive media (audio/video) or has an interactive program (file) to open."
   * [multiplayer-mode] desc = "Whether the experience is competitive (against each other), cooperative (working together), or something else entirely."
   * [activity-structure] desc = "The overall structure of actions/turns in this activity. (Turn-based, simultaneous, real-time, ...)"
+  * MAYBE need to change the changed metadata (paper-fixed, guardian-cant-play, single-use, ...)
 * Alfables Part IV => Image still says "Part III", fix that
 
 
@@ -41,10 +39,13 @@ Add support for BLOG / ARTICLES / INFO LIBRARY => Yeah, probably call it _librar
 * Actually register webhooks => Add signature/secrets to server for Printify and Printful => TEST THIS SHIT
 * @TODO: Do I still need to make my own Snipcart notification when I update orders? (Getting stuff back from Print provider) Or does that happen automatically?
 * Any other sanity checks for ALL products in the HUGO/API system?
-  * Force myself to manually add a `free` frontmatter parameter when something should be free? And otherwise discard things with price 0?
 
 # Niceties/Future To-Do
 
+* LIBRARY
+  * Add table-of-contents / breadcrumbs / links-to-other-articles to the individual articles
+  * Make the overview page (`/info/library/`) look a bit more detailed and usable.
+  * (Possibly unique custom images for articles, both for the BANNER and WITHIN THE ARTICLE)
 * HOME PAGE
   * The home page should look much more _open_ and _custom_ anyway. Custom shop logo, more space, more images, less AI-first-impression.
 * Make CURRICULUM page much nicer: graphics, table of contents, an image for the whole "path through the factions"

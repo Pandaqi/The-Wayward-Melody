@@ -21,27 +21,30 @@ contents:
 level: 1
 language: "EN"
 subject: ["Language", "World"]
-# categories: ["shapes", "geometry"]
-# brand: ""
-# player-count: 1
+player-count: 1-100
 age: 2
 # requirements: ""
-reusable: true
+# single-use: false
 # duration: 60
 # difficulty: 1
 setup: 2
 # prior-wisdom: false
-color: false
+# color: false
 # mature: false
 textless: true
-# parallel-play: true
-double-sided-allowed: true
-# game-master: false
-# game-master-can-play: false
-# paper-choice: true
-# linear: true
-# indoors: true
-# outdoors: true
+# parallel-play: false
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

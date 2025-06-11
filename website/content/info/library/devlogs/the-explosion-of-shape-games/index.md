@@ -1,4 +1,6 @@
-# The Explosion Of Shape Games
+---
+title: The Explosion Of Shape Games
+---
 
 When my online store launched, I had (mostly) finished "Level 1" of my curriculum. This level generally overlaps with the skills that children learn around age 3--5. It contains early language awareness, simple activities to explore, but also the core concept of **shapes**.
 

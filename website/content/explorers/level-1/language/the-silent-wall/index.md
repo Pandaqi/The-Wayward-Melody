@@ -4,7 +4,7 @@ title: "The Silent Wall"
 id: "the-silent-wall"
 date: 2025-04-26
 price: 9.95
-image: "the-silent-wall-cover.webp"
+image: ["the-silent-wall-cover.webp", "the-silent-wall-screenshot-1.webp", "the-silent-wall-screenshot-2.webp"]
 file: "174292b2-1e0c-4f31-b6cb-a9ef22bda0f1"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
 description: | 
@@ -16,6 +16,7 @@ description: |
 contents:
 - 6 short stories (that build on each other) about (spoken) language.
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 - A **bingo** card which allows Apprentices to check if they understood what happened and cross of the related image if so!
 
 level: 1

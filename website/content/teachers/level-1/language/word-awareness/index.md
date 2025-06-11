@@ -3,8 +3,8 @@ type: "product"
 title: "Word Awareness"
 id: "word-awareness"
 date: 2025-04-12
-price: 5.95
-image: "word-awareness-header.webp"
+price: 6.95
+image: ["word-awareness-header.webp", "word-awareness-1.webp", "word-awareness-2.webp", "word-awareness-3.webp"]
 file: "26856110-0d6d-4f98-aae3-d480681f30e1"
 spell: ["word-awareness"]
 advances: ["my-first-sounds"]
@@ -31,26 +31,30 @@ level: 1
 language: "EN"
 subject: "Language"
 categories: ["sound-awareness", "words", "phonetic-awareness", "phonemes"]
-# brand: ""
-player-count: 1
+player-count: 1-100
 age: 3
 # requirements: ""
-reusable: false
-duration: 60
-difficulty: 1
-setup: 1
-prior-wisdom: false
-color: false
+single-use: true
+# duration: 60
+# difficulty: 1
+# setup: 1
+# prior-wisdom: false
+# color: false
 # mature: false
-textless: true
-# parallel-play: true
-double-sided-allowed: true
-# game-master: false
-# game-master-can-play: false
-paper-choice: true
-linear: true
-indoors: true
-# outdoors: true
+# textless: false
+parallel-play: true
+# double-sided-required: false
+guardian-required: true
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

@@ -22,26 +22,30 @@ level: 1
 language: "EN"
 subject: ["Logic", "Mathematics"]
 categories: ["shapes"]
-# brand: ""
 player-count: 2-6
 age: 4
 # requirements: ""
-reusable: true
+# single-use: false
 duration: 20
-difficulty: 1
-setup: 1
-prior-wisdom: false
-color: false
+# difficulty: 1
+# setup: 1
+# prior-wisdom: false
+# color: false
 # mature: false
 textless: true
-parallel-play: false
-double-sided-allowed: true
-# game-master: false
-# game-master-can-play: false
-paper-choice: true
-linear: true
-indoors: true
-# outdoors: true
+# parallel-play: false
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+multiplayer-mode: "cooperative"
+activity-structure: "turn-based"
+# brand: ""
 
 ---
 

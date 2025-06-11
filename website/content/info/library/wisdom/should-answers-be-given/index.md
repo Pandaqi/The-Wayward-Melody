@@ -1,5 +1,6 @@
-
-# "Should exercises have the answers available?"
+---
+title: "Should Exercises Always Have Answers Available?"
+---
 
 Many teachers are dead set against providing answers to exercises. I myself had several professors at university who'd regularly rant about this if someone _dared_ ask for clarification. Their most common argument, which is indeed true at face value, is that studies have shown that having easy answers available makes students put in less time and effort. If they have the answers, well, they're not going to do the exercises! They'll just look it up! 
 

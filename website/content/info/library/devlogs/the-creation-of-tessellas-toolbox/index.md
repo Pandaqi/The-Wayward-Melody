@@ -1,5 +1,6 @@
-
-# The Tangram Realizations
+---
+title: "The Creation of Tessella's Toolbox"
+---
 
 I've been working hard to create fun puzzles, quizzes, educational resources, and more for my upcoming online store. For a few months I was (mostly) able to follow my carefully laid plan: start with the very earliest skills for 3--4 year olds and work my way up from there. You can think of early language awareness, shapes and colors, early pencil control, etcetera.
 
@@ -147,6 +148,16 @@ Oh! Another example from the Pentominoes set I did. To fit the final puzzle on t
 
 _However_, I personally like big chunky pieces, and I know young children do too, so I added a _second_ set of pieces to the PDF that's the usual size. And a note explaining why and how. This is, again, something I would've never seen/considered/thought about in theory, but which instantly became apparant when I tried to fit the first puzzle onto a single page.
 {{% /remark %}}
+
+## Tessella Comes Along
+
+By now, I had put _so much effort_ into the Tangrams and Pentominoes that they had become massive products with huge value. A highlight of the early work for the webshop, and certainly worth promoting and expanding later. That's why I decided to put them into a sub project, which will also (hopefully) contain common puzzles like Pattern Blocks and the Geoboard in the future. Just to give it a nice name people can click on/memorize, and to keep these related projects together.
+
+After brainstorming some wildly different names, I settled on _Tessella's Toolbox_. Because the one overarching theme in all these puzzles is "tessellation": the act of dividing some larger shape/image/form into smaller pieces.
+
+So far, I had already written a few _fairy tales_ (for "Explorers") about topics too. Each time, I would invent one or two fun characters that kids could latch onto, usually with some weird _magical skill_ that helped understand the topic at hand. And so ... Tessella became the ideal name for one such character too! She ended up in the stories about shapes. She obviously had a magical toolbox now, the name of the project pretty much required it.
+
+And that's how, over time, I both overcame my hesitation + made some solid products, as well as found a way to tie it all together and introduce a creative fun character into my stories. Because yes, that's how creativity works ;) Tessella was mostly chosen because it just _sounded_ right. I had already finished these products and only came up with the name _later_. And I only happened to make the connection with my fairy tales/stories _because_ I had planned to start writing _The Shapesquare Stories_ the next morning.
 
 # Conclusion
 

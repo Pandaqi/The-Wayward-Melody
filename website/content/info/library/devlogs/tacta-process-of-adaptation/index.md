@@ -1,4 +1,6 @@
-# My Process For Educational Games: An Example
+---
+title: "My Process For Educational Games: An Example"
+---
 
 Today I actually created and finished one of the first educational games available on my online store. I have great plans for many more, but I wanted to make other resources (educational material, puzzles, quizzes) first, so it took a while before I actually got to the games.
 
@@ -53,4 +55,12 @@ I _know_ the immense effort it takes to explain board games to people (adults an
 
 ## The Results
 
-@TODO
+All this work ended up as the game [Strateshape](/gamiverses/level-1/maths/strateshape/)!
+
+You can clearly see the resemblance from the material and the marketing image. But hopefully you can also see how it's slightly simpler, more friendly to printing at home, and closer to all the other goals I outlined.
+
+As always, give the game a try if you want. Or try any of the other games where we clearly reference our inspiration, and perhaps learn from the changes we made.
+
+Until next time,
+
+Tiamo

@@ -21,26 +21,30 @@ contents:
 level: 2
 language: "EN"
 categories: ["holiday", "Easter"]
-# brand: ""
-player-count: 8
+player-count: 1-8
 age: 6
 # requirements: ""
-reusable: false
+single-use: true
 duration: 90
 difficulty: 2
 setup: 2
-prior-wisdom: false
+# prior-wisdom: false
 color: true
 # mature: false
-# textless: true
-parallel-play: false
-double-sided-allowed: false
-# game-master: false
-# game-master-can-play: false
-paper-choice: true
+# textless: false
+# parallel-play: false
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
 linear: true
-indoors: true
-# outdoors: true
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 
@@ -51,3 +55,7 @@ This is not an "egg hunt", at least not in the common sense of the word. It's a 
 The escape room will usually take about 1 hour. You don't need a lot of space, though you do need to print in color (for the unique egg patterns to be recognizable). As usual, the challenge here is to think out of the box. All material matters. Older puzzles might become important again. Every puzzle has a really simple solution, but you won't find it by just "trying all options" or "stumbling on the solution". 
 
 That's the difference between an "escape room" and just puzzles: it's a _collection_ of creative, linked puzzles that you can solve _together_.
+
+{{% remark %}}
+**Can't** be printed double-sided, due to some things to cut out. This was one of the very first products we made and we hadn't established our principle of making _everything_ able to be printed double-sided by default (with some rather simple tricks in hindsight). Sorry!
+{{% /remark %}}

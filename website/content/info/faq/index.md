@@ -189,7 +189,7 @@ Even a cheap and custom webshop solution has high fixed costs. All my other webs
 
 Yes, many of our Digital Products must be printed, especially the educational ones to be used in classrooms. Printing is expensive; wasting ink and paper isn't great for the environment.
 
-This is such an important topic, in fact, that we wrote [a separate article with printing and usage tips](/info/printing-tips/)
+This is such an important topic, in fact, that we wrote [a separate article with printing and usage tips](/info/library/wisdom/printing-tips/)
 
 {{% /section-foldable %}}
 

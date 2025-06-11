@@ -22,6 +22,30 @@ contents:
 level: 4
 language: "EN"
 categories: ["holiday", "Easter"]
+player-count: 1-100
+age: 9
+# requirements: ""
+# single-use: false
+duration: 120
+difficulty: 3
+# setup: 1
+prior-wisdom: true
+# color: false
+# mature: false
+# textless: false
+# parallel-play: false
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+interactive-media: true
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

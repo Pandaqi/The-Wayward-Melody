@@ -22,26 +22,30 @@ level: 1
 language: "EN"
 subject: "Language"
 categories: ["words", "syllable-awareness", "phonics", "alphabet"]
-# brand: ""
 player-count: 2-8
 age: 4
 # requirements: ""
-reusable: true
+# single-use: false
 duration: 20
 difficulty: 1
 setup: 1
-prior-wisdom: false
-color: false
+# prior-wisdom: false
+# color: false
 # mature: false
 textless: true
 parallel-play: true
-double-sided-allowed: true
-# game-master: false
-# game-master-can-play: false
-paper-choice: true
-linear: true
-indoors: true
-# outdoors: true
+# double-sided-required: false
+guardian-required: true
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

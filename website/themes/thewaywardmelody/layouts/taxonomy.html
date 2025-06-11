@@ -6,12 +6,13 @@
 {{ $key := .Data.Plural }}
 {{ $data := partial "func/get-taxonomy-data.html" (dict "context" $context "key" $key) }}
 <main class="text-reader margin-m limit-width-m block-align-center">
-    <p>You searched for all products grouped by property <span class="metadata-icon {{ $data.icon }}"></span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ . | lower }}</em>){{ end }}</p>
+    <p>You searched for all products grouped by property <span class="metadata-icon {{ $data.icon }}"></span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ partial "func/de-capitalize" . }}</em>){{ end }}</p>
+    <p>Displaying latest 10 results per value. Click the heading for the full list of products for that specific value.</p>
 </main>
 {{ range $k, $v := .Data.Terms }}
     {{ $data_term := partial "func/get-taxonomy-data.html" (dict "context" $context "key" $key "value" $k) }}
     <h2><a class="underline" href="{{ $data_term.url }}">{{ $data_term.value_readable }}</a></h2>
     {{ $pages := sort $v ".Params.level" "asc" }}
-    {{ partial "products/product-list" (dict "context" $context "paginator" ($context.Paginate $pages)) }}
+    {{ partial "products/product-list" (dict "context" $context "paginator" ($pages | first 10) "suppress_navigation" true) }}
 {{ end }}
 {{ end }}

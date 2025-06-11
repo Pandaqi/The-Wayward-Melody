@@ -3,8 +3,8 @@ type: "product"
 title: "My First Sounds"
 id: "my-first-sounds"
 date: 2025-04-12
-price: 2.95
-image: "my-first-sounds-header.webp"
+price: 4.95
+image: ["my-first-sounds-header.webp", "my-first-sounds-1.webp", "my-first-sounds-2.webp"]
 file: "92277b70-2b05-4fb3-a999-b1e534408346"
 spell: ["my-first-sounds"]
 description: | 
@@ -24,26 +24,31 @@ level: 1
 language: "EN"
 subject: "Language"
 categories: ["sound-awareness", "phonetic-awareness"]
-# brand: ""
-player-count: 1
+player-count: 1-100
 age: 3
 # requirements: ""
-reusable: false
-duration: 60
-difficulty: 1
-setup: 1
-prior-wisdom: false
-color: false
+# single-use: false
+# duration: 60
+# difficulty: 1
+# setup: 1
+# prior-wisdom: false
+# color: false
 # mature: false
 textless: true
-# parallel-play: true
-double-sided-allowed: true
-# game-master: false
-# game-master-can-play: false
-paper-choice: true
-linear: true
-indoors: true
-# outdoors: true
+parallel-play: true
+# double-sided-required: false
+guardian-required: true
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
+
 
 ---
 

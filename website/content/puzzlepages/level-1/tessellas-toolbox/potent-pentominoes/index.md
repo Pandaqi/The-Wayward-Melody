@@ -24,8 +24,30 @@ level: 1
 language: "EN"
 subject: "Logic"
 categories: ["shapes", "tessellas-toolbox"]
-reusable: true
-
+player-count: 1
+age: 4
+# requirements: ""
+# single-use: false
+duration: 240
+difficulty: 2
+# setup: 1
+# prior-wisdom: false
+# color: false
+# mature: false
+textless: true
+# parallel-play: false
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 ---
 
 This product contains **70 pentomino puzzles**. You get some recognizable image ("silhouette"), such as one of a bird or a house. You have to _recreate_ that image by combining the "pentomino" pieces given to you!

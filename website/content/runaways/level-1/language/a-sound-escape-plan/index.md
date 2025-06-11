@@ -18,7 +18,30 @@ level: 1
 language: "EN"
 subject: "Language"
 categories: ["sound-awareness", "words", "syllables", "phonetic-awareness", "phonemes", "language-comprehension"]
-reusable: true
+# player-count: 1-100
+# age: 3
+# requirements: ""
+# single-use: false
+# duration: 60
+# difficulty: 1
+# setup: 1
+# prior-wisdom: false
+# color: false
+# mature: false
+# textless: false
+# parallel-play: false
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

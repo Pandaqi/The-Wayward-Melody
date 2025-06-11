@@ -16,6 +16,7 @@ description: |
 contents:
 - 10 Stories, each one focused on a different color
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 
 level: 1
 language: "EN"

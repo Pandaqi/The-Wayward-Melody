@@ -5,7 +5,6 @@
 <!--- Products show an image left, description + tags right --->
 {{ if $is_product }}
 {{ $data := partial "func/get-product-data" . }}
-{{ $data }}
 {{ $good_type_string := cond $data.physical "Physical" "Digital" }}
 {{ $root_section := .FirstSection }}
 {{ $sub_section := .CurrentSection }}

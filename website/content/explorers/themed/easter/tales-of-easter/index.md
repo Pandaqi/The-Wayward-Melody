@@ -3,8 +3,8 @@ type: "product"
 title: "Tales of Easter"
 id: "tales-of-easter"
 date: 2026-03-01
-price: 7.95
-image: "tales-of-easter-header.webp"
+price: 9.95
+image: ["tales-of-easter-header.webp", "tales-of-easter-screenshot-1.webp", "tales-of-easter-screenshot-2.webp"]
 file: "bb150642-849e-483b-93e5-fad842579f1a"
 spell: ["easter-batch-1"]
 description: | 
@@ -14,7 +14,8 @@ description: |
   Magical bunnies and biblical adventures, at least
 
 contents:
-- Ten fantastical short stories about (the origins and history of) Easter (as `.pdf` and `.epub`)
+- 10 fantastical short stories about (the origins and history of) Easter (as `.pdf` and `.epub`)
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 
 level: 2
 language: "EN"
@@ -26,7 +27,7 @@ This is a bundle of Easter-related stories. The first few stories are an adaptat
 
 Each story is _short_ and written in relatively _simple language_, which means it can be read to young children, and slightly older children can read it themselves. The language used can teach them a few new words, but should otherwise be no problem. The deeper themes of Easter, however---including faith, life and death, betrayal, and more---might take younger readers several reads to grasp.
 
-This is **not** an accurate retelling of what's in the Bible. It's a loose adaptation bordering on parody. These stories are spin-off stories ("Type B") for the larger [The Saga of Life](https://thesagaoflife.com) universe, bundled because they all relate to Easter.
+This is **not** a 100% accurate retelling of what's in the Bible. It's a loose adaptation bordering on parody. These stories are spin-off stories ("Type B") for the larger [The Saga of Life](https://thesagaoflife.com) universe, bundled because they all relate to Easter.
 
 Why do this?
 

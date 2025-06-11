@@ -94,7 +94,7 @@ When you try any product---but especially teaching resources---we strive to give
 
 In general, we provide _one_ product (per Faction) for every small step or topic on the learning path. That one product will have a number of materials and options inside, as opposed to just being a single page PDF. We do this to justify asking money _per product_ (over, say, a subscription model), to prevent needlessly overwhelming people with hundreds of different materials, and, most of all, because one or two bundles are really all you need.
 
-Also, check out our [Printing & Usage Tips](/info/printing-tips) to see how serious we really are about being minimalist and good to the magical environment.
+Also, check out our [Printing & Usage Tips](/info/library/wisdom/printing-tips) to see how serious we really are about being minimalist and good to the magical environment.
 
 ## Skeptical Sorcerers
 

@@ -35,26 +35,30 @@ level: 2
 language: "EN"
 subject: ["Logic", "Mathematics", "Language"]
 categories: ["holiday", "Easter"]
-# brand: ""
 player-count: 1
 age: 5
 # requirements: ""
-reusable: false
+single-use: true
 duration: 240
 difficulty: 2
-setup: 1
-prior-wisdom: false
+# setup: 1
+# prior-wisdom: false
 color: true
 # mature: false
-textless: false
+# textless: false
 parallel-play: true
-double-sided-allowed: false
-# game-master: false
-# game-master-can-play: false
-paper-choice: true
-linear: true
-indoors: true
-# outdoors: true
+# double-sided-required: false
+# guardian-required: false
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 
@@ -69,3 +73,7 @@ It's a mixture between a busy book and board games, which means way fewer rules 
 {{% /remark %}}
 
 Also please note that, for actual _puzzles_, check out the Easter materials in the Puzzlepages faction. A Busy Book like this contains activities, exercises and challenges---but not puzzles like an "Eggudoku" (Sudoku with Eggs) or Easter Crosswords.
+
+{{% remark %}}
+**Can't** be printed double-sided, due to some things to cut out. This was one of the very first products we made and we hadn't established our principle of making _everything_ able to be printed double-sided by default (with some rather simple tricks in hindsight). Sorry!
+{{% /remark %}}

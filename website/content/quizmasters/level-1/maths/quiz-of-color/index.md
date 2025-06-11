@@ -23,6 +23,30 @@ level: 1
 language: "EN"
 subject: ["Mathematics"]
 categories: ["colors"]
+player-count: 1-100
+age: 3
+# requirements: ""
+# single-use: false
+duration: 30
+# difficulty: 1
+# setup: 1
+# prior-wisdom: false
+color: true
+# mature: false
+# textless: false
+# parallel-play: false
+# double-sided-required: false
+guardian-required: true
+# guardian-cant-play: false
+# paper-fixed: false
+# linear: false
+# indoors: false
+# outdoors: false
+# customizable: false
+interactive-media: true
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+# brand: ""
 
 ---
 

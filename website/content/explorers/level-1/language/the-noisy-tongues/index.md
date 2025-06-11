@@ -4,7 +4,7 @@ title: "The Noisy Tongues"
 id: "the-noisy-tongues"
 date: 2025-04-26
 price: 9.95
-image: "the-noisy-tongues-cover.webp"
+image: ["the-noisy-tongues-cover.webp", "the-noisy-tongues-screenshot-1.webp", "the-noisy-tongues-screenshot-2.webp"]
 file: "5683eb4e-314e-4f7e-a281-58b18c4311d2"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
 description: | 
@@ -15,7 +15,8 @@ description: |
 
 contents:
 - Six short stories (that build on each other) about spoken language.
-- Each story is included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 
 level: 1
 language: "EN"
