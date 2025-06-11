@@ -1,9 +1,7 @@
-baseURL = 'https://webshop-test.pages.dev' # 'https://thewaywardmelody.com'
-languageCode = 'en-us'
-title = 'The Wayward Melody | Webshop of Magic'
+baseURL = "https://webshop-test.pages.dev" # "https://thewaywardmelody.com"
+languageCode = "en-us"
+title = "The Wayward Melody | Webshop of Magic"
 theme = "thewaywardmelody"
-
-paginate = 10
 
 [params]
   showTax = true
@@ -42,3 +40,7 @@ paginate = 10
   linear = "linear"
   indoors = "indoors"
   outdoors = "outdoors"
+  customizable = "customizable"
+  interactive-media = "interactive-media" 
+  multiplayer-mode = "multiplayer-mode" # cooperative, competitive, team-based, one-against-many
+  activity-structure = "activity-structure" # turn-based, simultaneous, real-time, seasonal

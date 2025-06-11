@@ -1,28 +1,27 @@
 # To-Do
 
 
-
-# Extra Metadata Settings
-
-* Turn `customizable` into a top-level metadata? (Instead of a category?)
-* Add `interactive-media` metadata => Communicates that this thing "plays audio/video or has an interactive file/program to open"
-* Add `cooperative/competitive` metadata
-* Add `simultaneous/turn-based/real-time` metadata
-* => Write down exact extra icons I'll need to draw on tablet + add this full list of metadata somewhere (commented out) to easily copy to new products??
-
 # Specific Fixes
 
-* Did I already add the `free` frontmatter check? Do I still want to? => In any case, the Shape Animal Cards _doesn't show the button now_, so at least I have to do something to fix that check
+* Probably turn OFF navigation part on Taxonomy page (it's useless/wrong; just click through to the specific VALUE of this metadata key for the full thing)
 * On things ALREADY INPUT ...
   * Turn `player-count` metadata into one that explains BOTH min and max (`A-B` format) on things I input earlier
   * Remove IRRELEVANT METADATA completely on things I input earlier, as it might be wrong and makes things slow for no reason
-  * Add MORE SCREENSHOTS of what's inside! I only realize now how little information this is to convince someone to buy.
-  * Add `double-sided-required` to the general metadata list copied to every new project ...
+  * Add MORE SCREENSHOTS of what's inside! I only realize now how little information this is to convince someone to buy. => **DUH, I can just use the screenshots I embedded in the main image anyway ...**
 * FUTURE: Make thumbnail images LARGER+HIGHER QUALITY
-* The Faction List on the front page is still in the wrong order ...
-* Alfables Part IV => Image still says "Part III", fix that
 
 Add support for BLOG / ARTICLES / INFO LIBRARY => Yeah, probably call it _library_ and make it a subfolder of _info_, then move aaaaalll my articles (including FUN FRONTIER) into it? => The biggest question is how these will be linked/findable/indexed/searchable?
+
+# ON TABLET
+
+* Extra metadata icons (frames 30-33)
+  * [customizable] desc = "Whether the experience is MEANT to be customized. (All our products CAN be customized.)"
+  * [interactive-media] desc = "Whether the experience plays interactive media (audio/video) or has an interactive program (file) to open."
+  * [multiplayer-mode] desc = "Whether the experience is competitive (against each other), cooperative (working together), or something else entirely."
+  * [activity-structure] desc = "The overall structure of actions/turns in this activity. (Turn-based, simultaneous, real-time, ...)"
+* Alfables Part IV => Image still says "Part III", fix that
+
+
 
 
 ## Systems To Build

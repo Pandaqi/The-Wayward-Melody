@@ -10,7 +10,7 @@
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
 	{{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed") }}
-	{{ $style := resources.Get "scss/style.scss" | resources.ToCSS $options }}
+	{{ $style := resources.Get "scss/style.scss" | css.Sass $options }}
 	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 	
 	{{ with .OutputFormats.Get "RSS" -}}

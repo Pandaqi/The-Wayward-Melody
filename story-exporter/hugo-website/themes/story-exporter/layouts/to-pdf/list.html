@@ -12,7 +12,7 @@
 
         <!-- My default styles for the book -->
         {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "compressed") }}
-        {{ $style := resources.Get "scss/style.scss" | resources.ToCSS $options }}
+        {{ $style := resources.Get "scss/style.scss" | css.Sass $options }}
         <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
         <!-- Specific styles for the PDF creation -->

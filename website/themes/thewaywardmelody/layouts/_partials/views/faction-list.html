@@ -1,5 +1,5 @@
-{{ $should_shuffle := or .shuffle true }}
-{{ $all_factions := .context.Site.Sections }} <!--- remember that .Section is always only the TOP-LEVEL/ROOT-LEVEL sections of websites --->
+{{ $should_shuffle := or .shuffle false }}
+{{ $all_factions := .context.Site.Sections.ByWeight }} <!--- remember that .Section is always only the TOP-LEVEL/ROOT-LEVEL sections of websites --->
 {{ if $should_shuffle }}
     {{ $all_factions = shuffle $all_factions }}
 {{ end }}

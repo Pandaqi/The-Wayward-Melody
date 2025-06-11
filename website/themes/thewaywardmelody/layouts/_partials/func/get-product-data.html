@@ -1,38 +1,43 @@
 {{ $products := or .Params.products slice }}
 {{ $num_products := len $products }}
-{{ $has_multiple_products := gt $num_products 1 }}
-{{ $has_product := gt $num_products 0 }}
+<!--- We call it has_LISTED_product because this is about a custom list of products in the frontmatter params. If a product has just 1 variant (most common), it does not have this list and these values don't matter --->
+{{ $has_multiple_listed_products := gt $num_products 1 }}
+{{ $has_listed_product := gt $num_products 0 }}
 {{ $url := .RelPermalink }}
 
 <!--- Use main platform if set. Otherwise pick one from product variants. --->
 <!--- The descending sort will simply put anything that HAS this value set at the front, while empty values go last --->
 {{ $platform := .Params.productsPlatform }}
-{{ if and (not $platform) $has_product }}
+{{ if and (not $platform) $has_listed_product }}
     {{ $platform = index (index (sort $products "platform" "desc") 0) "platform" }} 
 {{ end }}
 {{ if not $platform }}{{ $platform = "Unknown" }}{{ end }}
 
 <!--- Now we can make some general judgements about this --->
 {{ $is_physical := or .Params.physical (ne $platform "Unknown") }}
-{{ $single_button := and (not .Params.bundle) (not $has_multiple_products) }}
+{{ $single_button := and (not .Params.bundle) (not $has_multiple_listed_products) }}
 
 <!--- Use main/single price if set. Otherwise pick lowest from variants and modify string. 9.99 is random backup value to prevent accidental free. --->
-{{ $price_lowest := or .Params.price 9.99 }}
-{{ if $has_product }}
+{{ $price_lowest := .Params.price }}
+{{ if eq $price_lowest nil }}
+    {{ $price_lowest = 999.99 }}
+{{ end}}
+{{ if $has_listed_product }}
     {{ $price_lowest = or (index (index (sort $products "price" "asc") 0) "price") $price_lowest }}
 {{ end }}
 {{ $price := printf "€%s" (string $price_lowest) }}
-{{ if $has_multiple_products }}
+{{ if $has_multiple_listed_products }}
     {{ $price = printf "From €%s" (string $price_lowest) }}
 {{ end }}
 {{ $tax_type := cond (or .Params.priceIncludesTax false) " (incl tax)" " (excl tax)" }}
+{{ if le $price_lowest 0 }}{{ $tax_type = "" }}{{ end }}
 {{ $str_tax := cond (or .Site.Params.showTax false) $tax_type "" }}
 {{ $price = printf "%s%s" (string $price) $str_tax }}
 
 <!--- Use main image if set. Otherwise select random from product variants. If not available, placeholder. --->
 <!--- @NOTE: Images can be a SINGLE URL or an ARRAY of them. The `image` return ($image_default) must be a single image (used for search, no-js load, etcetera). But products themselves have a second `images` that should be the full list --->
 {{ $images_default_raw := or .Params.image "" }}
-{{ if and (not $images_default_raw) $has_product }}
+{{ if and (not $images_default_raw) $has_listed_product }}
     {{ $images_default_raw = index (index (sort $products "image" "desc") 0) "image" }}
 {{ end }}
 {{ if not $images_default_raw }}{{ $images_default_raw = slice "https://picsum.photos/500/386" }}{{ end }}
@@ -100,11 +105,12 @@
 {{ if not (reflect.IsSlice $shipping_default) }}{{ $shipping_default = slice $shipping_default }}{{ end }}
 {{ $weight_default := or .Params.productsWeight 10 }}
 {{ $size_default := or .Params.productsSize "0|0|0" }}
+{{ $free_default := or .Params.free false }}
 {{ $level := or .Params.level 5 }}
 
 <!--- If default stuff set, but no products in list, insert an empty one to inherit the default stuff --->
-{{ $default_values_set := or .Params.price .Params.productsSku }}
-{{ if and $default_values_set (not $has_product) }}
+{{ $default_values_set := or (ne .Params.price nil) .Params.productsSku }}
+{{ if and $default_values_set (not $has_listed_product) }}
     {{ $products = $products | append dict }}
 {{ end }}
 
@@ -116,7 +122,7 @@
     {{ if reflect.IsSlice $main_image }}{{ $main_image = index $main_image 0 }}{{ end }}
     {{ $all_images := or .image $images_default }}
     {{ if not (reflect.IsSlice $all_images) }}{{ $all_images = slice $all_images }}{{ end }}
-    {{ $new_product := dict "sku" (or .sku $sku_default) "name" (or .name $name_default) "price" (or .price $price_lowest) "platform" (or .platform $platform) "image" $main_image "images" $all_images "categories" (or .categories $categories_default) "url" (or .url $url_default) "description" (or .desc $description_default) "shipping" (or .shipping $shipping_default) "file" (or .file $file_default) "weight" (or .weight $weight_default) "size" (or .size $size_default) }}
+    {{ $new_product := dict "sku" (or .sku $sku_default) "name" (or .name $name_default) "price" (or .price $price_lowest) "platform" (or .platform $platform) "image" $main_image "images" $all_images "categories" (or .categories $categories_default) "url" (or .url $url_default) "description" (or .desc $description_default) "shipping" (or .shipping $shipping_default) "file" (or .file $file_default) "weight" (or .weight $weight_default) "size" (or .size $size_default) "free" (or .free $free_default) }}
     {{ $is_valid := partial "func/is-product-valid" $new_product }}
     {{ if not $is_valid }}{{ continue }}{{ end }}
     {{ $products_full = $products_full | append $new_product }}

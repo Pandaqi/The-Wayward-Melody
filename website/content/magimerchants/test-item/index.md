@@ -25,6 +25,37 @@ details:
   akey: avalue
   akey2: avalue2
 
+
+level: 1
+language: "EN"
+subject: "Logic"
+categories: []
+# brand: ""
+player-count: 1-4
+age: 3
+# requirements: ""
+# reusable: true
+# duration: 60
+# difficulty: 1
+# setup: 1
+# prior-wisdom: false
+# color: false
+# mature: false
+# textless: true
+# parallel-play: true
+# double-sided-allowed: true
+# double-sided-required: false
+# game-master: false
+# game-master-can-play: false
+# paper-choice: true
+# linear: true
+# indoors: true
+# outdoors: true
+# customizable: false
+# interactive-media: false
+# multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
+# activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
+
 ---
 
 Lalal

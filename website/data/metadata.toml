@@ -55,7 +55,7 @@
 
 [paper-choice]
     name = "Paper Choice"
-    desc = "Whether the material can be printed on any other paper format than the one provided (A4)."
+    desc = "Whether the material can be printed on any other paper format than the one provided (usually A4)."
 
 [linear]
     name = "Linear"
@@ -74,7 +74,8 @@
     desc = "The language used in and/or required for the activity."
 
 [player-count]
-    desc = "How many different people can join this activity."
+    name = "Player Count"
+    desc = "How many different people can join this activity; MINIMUM-MAXIMUM."
 
 [reusable]
     desc = "The materials can be reused (e.g. without printing again) after using them."
@@ -90,3 +91,18 @@
 
 [brand]
     desc = "The recognizable brand to which this product belongs."
+
+[customizable]
+    desc = "Whether the experience is MEANT to be customized. (All our products CAN be customized.)"
+
+[interactive-media]
+    name = "Interactive Media"
+    desc = "Whether the experience plays interactive media (audio/video) or has an interactive program (file) to open."
+
+[multiplayer-mode]
+    name = "Multiplayer Mode"
+    desc = "Whether the experience is competitive (against each other), cooperative (working together), or something else entirely."
+
+[activity-structure]
+    name = "Activity Structure"
+    desc = "The overall structure of actions/turns in this activity. (Turn-based, simultaneous, real-time, ...)"
