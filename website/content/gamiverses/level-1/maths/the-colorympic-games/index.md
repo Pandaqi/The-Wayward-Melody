@@ -4,7 +4,7 @@ title: "The Colorympic Games"
 id: "the-colorympic-games"
 price: 9.95
 date: 2025-02-18
-image: ["the-colorympic-games-header.webp"]
+image: ["the-colorympic-games-header.webp", "the-colorympic-games-1.webp", "the-colorympic-games-2.webp", "the-colorympic-games-3.webp", "the-colorympic-games-4.webp"]
 file: "015cb8be-28eb-4efb-a818-cebd59f9f052"
 spell: ["my-first-colors"]
 description: | 
@@ -62,3 +62,7 @@ textless: true
 The games are all of a different variety: some competitive, some cooperative, some more of a loose creative game, and so forth. But all the games are _simple_, with at most 1 page of rules, and completely focused on recognizing, matching, manipulating and drawing with a set of given colors. There is sure to be a game that fits every player or playing group.
 
 And if you have the time, you can play the games _in order_ and see who wins the bigger event called ... The Colorympic Games.
+
+{{% remark %}}
+**Can't** be printed double-sided, due to some things to cut out. This was one of the very first products we made and we hadn't established our principle of making _everything_ able to be printed double-sided by default (with some rather simple tricks in hindsight). Sorry!
+{{% /remark %}}

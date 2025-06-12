@@ -4,8 +4,8 @@ title: "The Lost Eggs"
 id: "the-lost-eggs"
 date: 2026-03-01
 price: 9.95
-image: "7ac78a37-651b-44b5-be2c-30ec310c828a"
-file: "the-lost-eggs-header.webp"
+image: ["the-lost-eggs-header.webp", "the-lost-eggs-1.webp", "the-lost-eggs-2.webp", "the-lost-eggs-3.webp"]
+file: "7ac78a37-651b-44b5-be2c-30ec310c828a"
 spell: ["easter-batch-1"]
 description: | 
   When puzzles are hidden inside Easter eggs

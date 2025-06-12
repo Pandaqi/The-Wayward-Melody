@@ -4,7 +4,7 @@ title: "Shapeways"
 id: "shapeways"
 price: 7.95
 date: 2025-02-18
-image: ["shapeways-header.webp"]
+image: ["shapeways-header.webp", "shapeways-1.webp", "shapeways-2.webp", "shapeways-3.webp"]
 file: "8870661d-4b63-4d31-9b7b-eea40d95d3d4"
 spell: ["my-first-shapes"]
 description: | 

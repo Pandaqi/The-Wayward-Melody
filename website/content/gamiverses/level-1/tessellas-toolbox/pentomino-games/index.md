@@ -2,9 +2,9 @@
 type: "product"
 title: "Pentomino Games"
 id: "pentomino-games"
-price: 6.95
+price: 8.95
 date: 2025-02-18
-image: ["pentomino-games-header.webp"]
+image: ["pentomino-games-header.webp", "pentomino-games-1.webp", "pentomino-games-2.webp", "pentomino-games-3.webp"]
 file: "@TODO"
 spell: ["tessellas-toolbox", "my-first-shapes"]
 description: | 

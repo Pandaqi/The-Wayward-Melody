@@ -4,7 +4,7 @@ title: "Shapastimes"
 id: "shapastimes"
 price: 9.95
 date: 2025-02-18
-image: ["shapastimes-header.webp"]
+image: ["shapastimes-header.webp", "shapastimes-1.webp", "shapastimes-2.webp", "shapastimes-3.webp", "shapastimes-4.webp"]
 file: "86120d68-29f1-4333-af20-8182e34377ca"
 spell: ["my-first-shapes"]
 description: | 

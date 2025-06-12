@@ -4,7 +4,7 @@ title: "Easter Egg Hunt"
 id: "easter-egg-hunt"
 price: 9.95
 date: 2026-03-01
-image: "egg-hunt-template-header.webp"
+image: ["egg-hunt-template-header.webp", "egg-hunt-template-1.webp", "egg-hunt-template-2.webp", "egg-hunt-template-3.webp"]
 file: "dace2362-281b-440c-b950-a2d9201c5ce7"
 spell: ["easter-batch-1"]
 description: | 

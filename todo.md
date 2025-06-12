@@ -5,10 +5,6 @@
 # Specific Fixes
 
 
-* On things ALREADY INPUT ...
-  * Add MORE SCREENSHOTS of what's inside! I only realize now how little information this is to convince someone to buy. => **DUH, I can just use the screenshots I embedded in the main image anyway ...**
-* FUTURE: Make thumbnail images LARGER+HIGHER QUALITY
-
 # ON TABLET
 
 * Extra metadata icons (frames 30-33)
@@ -17,9 +13,9 @@
   * [multiplayer-mode] desc = "Whether the experience is competitive (against each other), cooperative (working together), or something else entirely."
   * [activity-structure] desc = "The overall structure of actions/turns in this activity. (Turn-based, simultaneous, real-time, ...)"
   * MAYBE need to change the changed metadata (paper-fixed, guardian-cant-play, single-use, ...)
-* Alfables Part IV => Image still says "Part III", fix that
-
-
+* FIX: Alfables Part IV => Image still says "Part III", fix that
+* FIX: Jigsaw Puzzlepack has wrong empty page order (after circle there are 2, which means there is NONE after pentagon/hexagon)
+* FUTURE: Make thumbnail images LARGER+HIGHER QUALITY
 
 
 ## Systems To Build

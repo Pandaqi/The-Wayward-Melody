@@ -4,7 +4,7 @@ title: "Tricksy Tangrams"
 id: "tricksy-tangrams"
 date: 2025-04-26
 price: 9.95
-image: "tricksy-tangrams-header.webp"
+image: ["tricksy-tangrams-header.webp", "tricksy-tangrams-1.webp", "tricksy-tangrams-2.webp", "tricksy-tangrams-3.webp", "tricksy-tangrams-4.webp"]
 file: "51452897-a6ca-4c6e-868c-e2b15dc1b060"
 spell: ["tessellas-toolbox", "my-first-shapes"]
 description: | 

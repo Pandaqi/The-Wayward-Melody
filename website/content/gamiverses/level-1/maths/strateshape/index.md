@@ -4,7 +4,7 @@ title: "Strateshape"
 id: "strateshape"
 price: 8.95
 date: 2025-02-18
-image: ["strateshape-header.webp"]
+image: ["strateshape-header.webp", "strateshape-1.webp", "strateshape-2.webp", "strateshape-3.webp"]
 file: "0a9c8c7e-24d7-4d37-b86b-2266da6f16e6"
 spell: ["my-first-shapes"]
 description: | 

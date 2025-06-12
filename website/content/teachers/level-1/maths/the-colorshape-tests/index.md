@@ -4,7 +4,7 @@ title: "The Colorshape Tests"
 id: "the-colorshape-tests"
 date: 2025-04-26
 price: 9.95
-image: "the-colorshape-tests-header.webp"
+image: ["the-colorshape-tests-header.webp", "the-colorshape-tests-1.webp", "the-colorshape-tests-2.webp", "the-colorshape-tests-3.webp"]
 file: "5e13e388-effd-46bc-9c7a-cd5de35028b7"
 spell: ["my-first-colors", "my-first-shapes"]
 description: | 

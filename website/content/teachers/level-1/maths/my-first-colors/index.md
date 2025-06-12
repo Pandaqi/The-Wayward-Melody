@@ -4,7 +4,7 @@ title: "My First Colors"
 id: "my-first-colors"
 price: 9.95
 date: 2025-04-26
-image: "my-first-colors-header.webp"
+image: ["my-first-colors-header.webp", "my-first-colors-1.webp", "my-first-colors-2.webp", "my-first-colors-3.webp"]
 file: "4837e985-ee36-427a-90bc-3792ed8f3534"
 spell: ["my-first-colors"]
 advances: "my-first-shapes"

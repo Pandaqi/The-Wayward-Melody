@@ -3,8 +3,8 @@ type: "product"
 title: "The Piqarine Paintings"
 id: "the-piqarine-paintings"
 date: 2025-04-26
-price: 7.95
-image: "the-piqarine-paintings-header.webp"
+price: 8.95
+image: ["the-piqarine-paintings-header.webp", "the-piqarine-paintings-1.webp", "the-piqarine-paintings-2.webp", "the-piqarine-paintings-2.webp"]
 file: "d6169205-250a-4ee9-9b72-a8f3d865491e"
 spell: ["my-first-colors"]
 description: | 

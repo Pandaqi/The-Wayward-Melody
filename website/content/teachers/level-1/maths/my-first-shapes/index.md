@@ -4,7 +4,7 @@ title: "My First Shapes"
 id: "my-first-shapes"
 date: 2025-04-26
 price: 9.95
-image: "my-first-shapes-header.webp"
+image: ["my-first-shapes-header.webp", "my-first-shapes-1.webp", "my-first-shapes-2.webp", "my-first-shapes-3.webp"]
 file: "9e601ca1-da5d-4951-92d1-502b6273c863"
 spell: "my-first-shapes"
 advances: "recognition-and-discrimination"

@@ -4,7 +4,7 @@ title: "Fortis"
 id: "fortis"
 price: 7.95
 date: 2025-02-18
-image: ["fortis-header.webp"]
+image: ["fortis-header.webp", "fortis-1.webp", "fortis-2.webp", "fortis-3.webp"]
 file: "d477da2e-c088-4c29-96a4-e60db200b266"
 spell: ["my-first-shapes"]
 description: | 

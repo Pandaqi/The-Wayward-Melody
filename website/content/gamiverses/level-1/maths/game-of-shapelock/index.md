@@ -2,9 +2,9 @@
 type: "product"
 title: "Game of Shapelock"
 id: "game-of-shapelock"
-price: 5.95
+price: 6.95
 date: 2025-02-18
-image: ["game-of-shapelock-header.webp"]
+image: ["game-of-shapelock-header.webp", "game-of-shapelock-1.webp", "game-of-shapelock-2.webp", "game-of-shapelock-3.webp"]
 file: "c94f63c0-bdd4-4b74-9208-90976696c9ef"
 spell: ["my-first-shapes"]
 description: | 
