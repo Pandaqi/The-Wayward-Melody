@@ -1,136 +1,270 @@
 ---
-title: "The Buried Treasure"
-weight: 5
+title: "The Lake of Skyfish"
+weight: 50
+color: Blue
 ---
 
-# The Buried Treasure
+<!---
 
-Jenna's plan was immediately ruined. She imagined they'd have a catapult on this side too. Or a tall tree. Or _something_ that could bring a message over the wall. But they had none of that.
+### 🔵 Blue – “The Lake of the Skyfish”
 
-"Or we'd all go back, don't you think?" said the woman. "Wall is ... pointless ... if everyone hops over it all the time. No, Basco made sure of it."
+BLIND to how **strong** they are, both physically and mentally? (To overcome sadness and fear and futility and keep going. Which means, at the start, they are blind to how **lazy/not-strong/inactive** they are.)
 
-"How?" asked Jenna.
+**BLUE = SADNESS/DEPRESSION (which is awfully close to PARALYZING FEAR):** The main character's pet rainbow unicorn died. They're so sad about it they refuse to eat, to go to school, go non-responsive as everything turns blue. This causes their father/mother (who is like a leader in that country?) to write a command like "The feeling of blue must be defeated, it makes you weak. Anyone who paints blue next week, will be arrested by the police!" And so the main character really really struggles to hide this feeling and remove it, until at the end they realize "_The blue feeling is never defeated. Life is full of surprise, and not all of it is nice. But you use it for new, make it the strongest part of you. Why shouldn't life be allowed to be a little bit blue?_"
 
-"He took all ... knowledge. About building, and inventions, and math ... e ... mat ... ics. And Basco ... buried it all inside The Wall. So we would never discover how to ... build catapult ourselves. Or destroy wall."
+Setting: A sparkling blue lake under a periwinkle sky, where fish fly at night.
 
-Night had fallen. They walked home together. Or, at least, the woman walked to _her_ home. Jenna awkwardly stood at the door, unsure if she was allowed to go in or not. She had missed a bed to sleep in. She had missed a proper home.
+Theme: Calm, depth, sadness, wisdom.
 
-But how could she sleep, when there was so much to do? And so many mysteries for which she wanted answers? She had to ask everyone to break down the wall. To remove brick after brick, until they found Basco's treasure inside it. 
+Objects: Water, sky, sapphires, bluebirds, waves.
 
-She still had to _write_ that message to send home. Which was an issue, as Jenna had never written anything before. And they didn't have anything resembling a pencil on this side. That invention was also buried inside the wall by Basco, she imagined.
+Magic Twist: The Skyfish grant one question to those who find the Quiet Shell.
 
-"Thanks for inviting me in," said Jenna quickly, "but I have to go!"
+Plot Idea: A lonely girl sails the lake to find answers about her past, learning along the way that stillness holds truth.
 
-The woman was left behind in a puzzled state, frowning and watching Jenna go. "I ... didn't ..."
+--->
 
-Jenna returned to the wall. Of course, it had magically repaired itself again. But that's not what caught her interest.
+# The Lake of Skyfish
 
-On the other side, where Jenna was born, the wall had these strange _glyphs_. Marks carved into the stone. Some were straight, some were curvy, and some looked like an accident. Her mother always said they were some magical spell. Basco wrote them into The Wall, in a magical language, to keep it strong.
+Skaia had a pet unicorn since she was a baby. It grew up with her. As she got bigger, her unicorn got bigger. When she learned her first words, the unicorn received its first colored manes. She couldn't remember a morning when she woke up and her unicorn wasn't snuggled against her.
 
-Now, however, Jenna had learned this was another lie. Those glyphs appeared _everywere_ in this town! Whenever the Other People wrote something down, they used the same symbols. They weren't some old magical language. They were just ... their language.
+_Wonder_, she had called the beast. And she still liked the name. It was a wonder that such beautiful creatures existed. It was a wonder they would want to be someone's pet, instead of being happy on their own in the Dreamforest or something. It was a wonder they could walk over water. And very useful, too, as Skaia lived in a kingdom that was one giant like. And no, she wasn't a fish.
 
-On this side of the wall, the bricks had glyphs too. But Jenna could recognize them. Because they were _her_ letters. The ones she had seen mother and father write down. The ones that appeared on signs saying "Don't damage the wall!" and "Stay away from the wall!" If only Jenna could have read those signs.
+But as you might know, my child, not every animal lives for as long as humans. Unicorns are so strong and magical that they can only live for a short time. Like a flame that burns brightly, until it's eaten all its fuel. The Rainbow God probably thought it was unfair to have them live longer, Skaia told herself. The wonderful unicorns would take over the entire world! They would grow and grow until they were as large as mammoths!
 
-This was odd, Jenna thought. Why were her letters on _this side_, where nobody could read them? And why were those weird glyphs on _the other side_, were nobody could read them? 
+And so it was that Skaia woke up one day, and Wonder was not by her side.
 
-Why were the bricks the wrong way around?
+In a panic, she ran outside. Like most things in this kingdom, Skaia's home was built on the water. Wooden poles kept the house high and dry. Several wooden paths---so-called "boardwalks"---extended in all directions like spider legs. 
 
-Why ... why was there something written on the bricks at all?
+Wonder had walked to the edge of one such boardwalk. Its head hung over the edge, as if it wanted to take a drink, or wanted to look at its reflection a final time. Its manes lost their color now; just gray and white. Wonder wasn't moving.
 
-Jenna took out a brick and smashed it again. One half was made of sand, and she picked it up. She looked at the letters written on it: the _P_, the _S_ and the _T_. 
+Her unicorn had passed away.
 
-Then she crushed the sand. She heard the familiar _psst_ sound. Similar to turning an hourglass and hearing the sand run to the other side.
+Skaia fell to her knees. Her tears rained into the water, until Wonder's reflection was all blurry and rippled. She held Wonder one last time. Combing its hair, stroking its fur. She wanted to whisper a farewell, but found she couldn't speak anymore. All she could do was cry, as her throat locked up.
 
-Pssst. P ... S ... T.
+A hand fell on her shoulder.
 
-Jenna smiled and sung. She picked up the other half of the brick, made of balloons. She popped one of them and heard a sound like _sssss_ as it deflated. She looked at the letters written on the balloons: all of them were an _S_.
+"My child," said her father. "You're almost late for school. Come on."
 
-Jenna had made her final discovery about language. The letters on the bricks were exactly the ones you needed to write down the sound! Surely, this was the smallest part of language. She had found it, and she understood it. It was quite easy to see a shape and remember the sound it made. Much easier than remembering long words that she heard the Other People say.
+_I'm never going to school again!_ Skaia wanted to yell. But she couldn't make a sound. _I'm never going anywhere! I'm staying here, with Wonder._
 
-Even better, she could _translate_ it. Because one side of the brick showed _her_ alphabet, and the other side showed the translation using the _other_ glyphs.
+"Child? Did you hear me?" repeated father.
 
-It was as simple as that. If everyone just agreed that this symbol meant the "A" sound, and this symbol meant the "B" sound, you could write down language! Simple sounds simply get one letter. More complicated sounds might need a combination of letters. But with a small group of glyphs---let's call it the _alphabet_---you could write down anything you said!
+Skaia let herself fall. She closed her eyes and clung onto her unicorn. She was never moving again. She didn't have the strength! Why would she ever run again, if Wonder wasn't there to run next to her? How could she play a game with someone else?
 
-Jenna ran around The Wall again, collecting bricks with the letters she wanted. An "M" made of mango here, an "S" from sand there, a "T" from the weird section made of tea leaves. 
+The entire boardwalk was painted blue from her sadness. To anyone else, it would look like Skaia was standing on water alone.
 
-Soon enough, she was exhausted, but also full of pride. Because she held a message in her hands. A simple message that said: "NO MONSTERS ON THIS SIDE. REMOVE WALL. LIVE TOGETHER."
+"I know it's sad, child," said father. "But you must eat. Life goes on, and---"
 
-She had also made a second message: "HELP ME BREAK DOWN THE WALL. IF WE TAKE OUT ENTIRE BRICKS TOGETHER, WE CAN DO IT." 
+Why? Why should life go on? If Wonder isn't here to see it anymore.
 
-When she assembled this message, she was only looking at _her_ letters. But once done, she flipped it around. If she was right, the other side had to have the same message, just written in different glyphs.
+Skaia started crying again. She even painted the house blue, though it was far away. Any fish unlucky enough to pass by right there would also suddenly look very blue.
 
-She showed the message to the first person that passed by. Anxious, nervous. What if she was wrong? What if she'd accidentally given them a silly message like "I am a duck" or "Maybe you should take a bath, stranger"?
+Her father tried to lift her up. Skaia did nothing. She barely felt his touch anymore.
 
-But the stranger looked up with a smile. Jenna pointed at the weakest sections of the wall, which were obviously the ones made of balloons or dried fruit. She showed him that it was made of small bricks. And if you took out the entire brick, it couldn't repair itself.
+"No, no, no, we're not doing this," said father. "Come on! Use your own feet!"
 
-Jenna was startled when the stranger suddenly yelled.
+Skaia refused. She kept falling back onto her unicorn's hair, until father sighed and carried her back to bed. Once in bed, she went still as a statue, and all she could dream about was Wonder coming back to life. But every time she woke up, the beast wasn't there, and she'd cry again.
 
-But he didn't yell at her. In fact, it probably wasn't even yelling, just normal speaking for them.
+Her entire bedroom had painted itself blue by now. A darker blue than the happy sky. A darker blue than the lake.
 
-He was telling everyone else to help too.
+She hadn't even noticed her father coming back from work. He was probably talking to her, but she only heard mumbling and noise. 
 
-Soon enough, Jenna found herself climbing up the wall, followed by at least fifty Other People. Strong adults who could tear out the bricks much faster. Good climbers that could reach higher and make a dent in the Strawberry Section.
+He had to pull away the blanket to get her attention.
 
-She couldn't believe her eyes.
+"You get _one day_," he said. "One day to grieve your pet. Then I want you out of bed, doing your chores, because life goes on. I'm too ... I'm too busy to deal with this. We never should've bought Wonder for you."
 
-The Wall ... it was actually breaking down.
+One day? She was only allowed to be sad for _one day_?
 
-It was all she'd ever seen, her entire life. She had always been in the shadow of that Stupid Wall. 
+She had heard about the Rainbow Soldiers visiting the lake. She had heard that they forbid emotions too. Anger wasn't allowed anymore in Dragonstripe. Joy wasn't allowed anymore in Sunstripe, which is why its prince fled. Together with a large group of gold miners, for some reason.
 
-And now it was full of holes. Now it was growing smaller, and smaller, and smaller---
+Unfortunately, her father was a powerful president in _this_ kingdom. And he was inspired by this.
 
-But The Wall fought, of course it did. It tried to repair itself any way it could. If you weren't careful, it would regrow right where you are, getting a hand or a foot stuck inside the stone. If you were even less careful, The Wall would shiver and throw you back to the ground.
+The next time she woke up, he was giving a speech in front of the house. There were journalists, princes, witches with some magical thing they called "camera". Father was explaining some new rule he made up. A new law that would "help the kingdom" and "prevent disaster".
 
-Jenna wasn't sure if they were winning. The Other People were equally nervous, but they kept singing together and working hard. Sometimes The Wall had a victory, such as when it suddenly added a hundred more balloons to the Balloon Section. And sometimes Jenna had a victory, such as when the Chocolate Section crumbled and melted.
+He said,
 
-When night fell, she stood inside one of the holes, high up in the air. For the first time in a while, she saw her old town again. It was, indeed, as tiny as she remembered. She saw her mom and dad wake up and step outside.
+> _The feeling of blue must be defeated,_
+> _It creates problems and makes you weak_ 
+> _Anyone who paints blue starting next week_ 
+> _will be arrested by the Rainbow Police!_
 
-She saw her people look up at the wall and scream. They pointed at all the holes. The guards were alerted. The catapult was filled with cannonballs, aimed at Jenna and the others.
+And so it was done. Skaia fell back in bed, trying to pretend her tears didn't exist. Trying to pretend she was happy. Because if she didn't, her own father would put her in a prison.
 
-"Stop this right now!" yelled the guards. "Or we'll shoot!"
+___
 
-"And we mean it!" added another.
+Skaia couldn't take it any longer. Everything reminded her of Wonder.
 
-"Of course we mean it!"
+The cozy bed she made for the unicorn was empty now. She still found colorful hairs scattered across her entire bedroom. On a dry day, when the water was low, she could see the place where they buried her pet.
 
-Jenna grabbed her first message. The one explaining the situation, using language that her parents would understand. She hoped it would survive the fall.
+And every time her throat locked up again. She had to close her eyes, pinch herself, to stop herself from crying. To prevent painting something blue.
 
-She threw the message off the wall.
+She told herself to be strong. But it was clear, wasn't it? She _was not strong_. She was weak, like father said. She was perfectly healthy, but because a pet died she refused to move, or eat, or sleep. It didn't make sense. But she _felt_ it. She felt so strongly that life should _not_ go on, at least not yet. Right now, going to school and eating like everything was fine, felt like she was a whale trying to move over land. And through a doorway that was far too small.
 
-It was too dark to see where it landed. Too dark to see if anyone read it, and what they thought. Some whispers and murmurs rose from below, but Jenna was reminded of how _softly_ her own people spoke.
+When she was at school, she couldn't pay attention. When she was at home, she avoided father and mother.
 
-"Don't stop and watch! Keep destroying!" said Jenna, forgetting the Other People couldn't understand. She waved her arms and continued destroying The Wall herself. The others soon understood the message that way.
+One time she couldn't hold it back. She had run to the toilet just in time, painting the whole thing blue. The only thing that saved her was _fear_. The boots of the Rainbow Soldiers sounded nearby then. Soldiers, of course, also need to use the toilet. She could suddenly hold it all back and think happy thoughts, painting the toilet yellow and pink instead.
 
-"We're counting down!" said the guards. "Then we'll shoot you all off the wall, no mercy!"
+She felt like a dam holding back the water in the lake. And she was close to breaking.
 
-"Three!"
+"I am proud of you," said father, playfully slapping her knee. "You are stronger than you think, I told you. You're going to school again, you're eating---"
 
-Jenna bit her lip. It was a tie, at the moment. A tie between them and The Wall. They had broken off large sections, but not enough. She had found a secret corridor, but it had sealed itself before she could enter. Surely, that one would lead to Basco's buried treasure.
+"I'm not," admitted Skaia. With all the sadness in her, she couldn't find the strength to lie. "I keep thinking about Wonder. I can barely stop myself from crying."
 
-"Two!"
+Just saying the words _almost_ made her cry.
 
-Shouts came from below. Where she'd thrown down her message, people had started climbing The Wall.
+"Then it's extra strong of you," said mother. She sat down on the couch too with a mug of hot chocolate. "To keep going all the same."
 
-Jenna was too anxious to move. The Wall shivered and shook. As if it was sick and the people were germs that it had to cough up. As if it couldn't take the weight of so many people climbing it.
+Skaia sat squished between her parents. They had always been nice to her. She definitely didn't hate her father for creating that Law Against Blue. But something had always been off about him. Half the time, he was playful and kind. And half the time he was strict and serious and at work. All she knew was that her father used to have a different wife before, but left her.
 
-"One!"
+"Can I ... can I have a new pet?" asked Skaia. It had been three weeks, and somehow this was the first time she even thought of it. She didn't want to ... want to _replace_ Wonder. Erase the beautiful beast like it was never there. But her father had been right. Life goes on. Surprisingly. Terrifyingly. How quickly she forgot how much happier she was a month ago. How quickly her parents forgot they ever had a pet.
 
-Then, out of the darkness below, faces appeared. Indeed, many of _her_ people were climbing The Wall too. Some held hammers, axes and torches. Inventions that Basco let them have.
+Well, that could change. Her unicorn would've wanted her to be happy, and to find a new pet, right?
 
-They hadn't come to attack her. They had come to _help_!
+"Absolutely not," said father.
 
-Jenna jumped with joy.
+"Maybe, one day, we'll think about it, dear," said mother.
 
-"SHOOT!" yelled one guard.
+"But ... but it would make me happy. No more blue," tried Skaia.
 
-"NO DON'T SHOOT!" yelled another. "That's our people on the wall!"
+"Until something happened to that pet," said mother, "and we might lose you forever."
 
-"But ... but ..." One guard really wanted to shoot something, it seemed. The others held firm as they didn't want to hurt their own parents or children.
+Lose her? She was just ... she was just sad. She just wanted to lay in bed for a few days, draw a nice painting of Wonder to remember. Or was it that much worse a few weeks ago?
 
-With the help of Jenna's people, they were winning. The Strawberry Section was gone. The Wood Section was no more than a few planks. The Wall was low enough now that it barely cast a shadow anymore. 
+"You may feel like you need it," said father sternly. "But no good can come of it! I had that Law ready for years. You just proved that we really needed to defeat the feeling of Blue, forever."
 
-For the first time in a while, the sun could shine on _both_ sides at once.
+"What happened to you!?" yelled Skaia. "Who made you so afraid of blue!?"
 
-The secret corridor opened up again. Jenna didn't hesitate. She jumped in. Soon, she thought, she would find out the truth about Basco and The Wall.
+Her father put away his newspaper; her mother put away her mug. Her parents looked at each other for a while, then grabbed each other's hand.
 
-She didn't know that someone else had followed her into the dark corridors.
+"You know I had another wife, years ago," said father. "And we had a child. A beautiful baby boy. I thought we were happy, I loved the start of this family."
+
+"And then?"
+
+"Then the blue came," said father. He struggled to keep his voice from breaking. "My previous wife, she was a good woman. She would cry when she found a dead cat on the street. She would cry when she heard of someone dying in a fire. She would be sad for days when a war broke out somewhere. She would wake up at night, crying because of all the evil things in the world. She was too ... too kind for this world."
+
+Everyone fell still. Mother embraced father and kissed his cheek.
+
+"Until she just couldn't take it anymore. She was sad all the time. Our neighbors would visit and complain that she had painted their house completely blue. She was fired from her job, she refused to leave the bed. She ... believed she couldn't be a good mother like that. And I may have told her she was right."
+
+Father looked out the window. He stared at his reflection in the lake, as if he could see it all happen again. "One morning, I woke up and she and the boy were gone. She was last seen moving to Snowstripe. The most cold and deadly kingdom of all."
+
+He coughed and picked up the newspaper again. 
+
+"Nothing good ever came of the blue feeling. I'm not changing my mind on this, child."
+
+Skaia swallowed, loudly. She had no choice then. She cleaned up her bedroom. Everything that could possibly remind her of Wonder had to go. That painting? She'd drawn it with the unicorn on her lap. That chair? The unicorn had once tried to sit on it, and hilariously fell off each time. The bed? Surely the bed had to go too, as they always snuggled there.
+
+She cleaned up her bedroom all day. 
+
+Until she looked back and saw an empty room.
+
+___
+
+
+Skaia stood before her classmates. Most of them she could call really good friends. Some she thought were weird and mean, but okay. 
+
+Among them, however, were also a few new faces: Rainbow Soldiers. They had come to school to make sure the Law Against Blue was being followed.
+
+"We tried so hard to warn you," said one Rainbow Soldier. He spoke angrily, sat down angrily, and even ate his bread angrily. "But many of you must have broken our law! Endless Blackness has appeared at the edge of the lake. You probably caused it."
+
+"We're going to be around for a while," said the other Rainbow Soldier. "Checking if nobody is painting blue. We want to ask every kid some questions later."
+
+Her teacher was normally happy and caring. She knew Skaia wasn't paying attention the past few weeks, but she let it go. Today, however, she gave the soldiers her grumpiest of stares and said. "And I want to continue with my class without interruption. Shall we?"
+
+Skaia nodded. She really wanted to get this over with. It was bad enough to give a presentation. To stand before thirty people and talk about your favorite thing. To do it when Rainbow Soldiers are listening, ready to arrest you for any mistake, was even worse.
+
+"My presentation is about my favorite ... my favorite ... pencil."
+
+"Pencil?" asked the teacher in surprise. "That's your most favorite thing in the world?"
+
+"Yes. Sure. Completely." Skaia tried really hard not to think about Wonder. She had already prepared many presentations about her pet. But she couldn't give one now without crying. So, at the last moment, she had to pick something else. And she had to bring it to the presentation, so picking a fish or her bed wasn't going to work. "I loooove pencils."
+
+"Okay. Well, I'll be interested to hear what's so special about them," said the teacher.
+
+"So are we," added the Rainbow Soldiers with a frown.
+
+"Well, with a pencil you can draw things. And my favorite coloring pencils are really sharp, and they have beautiful colors, like the manes of my pet unicorn---"
+
+No. No, no, don't think about it.
+
+"Pet unicorn?" asked a girl. "That would be _my_ favorite thing!"
+
+"Yes!" said Skaia, before placing a hand over her mouth. "I mean, no, that was a joke, I never had a---anyway, pencils can also be used for fake swordfights. And if you're out of hairties, you can use pencils too, I guess, and---"
+
+Memories flooded back to Skaia. Her unicorn taking a coloring pencil in its mouth and trying to paint something too. Fake swordfights with her pet, with her using a pencil, and Wonder, obviously, using its horn. The tears were already coming. The Rainbow Soldiers watched her, almost looked _through_ her. She quickly rubbed her forehead, wiping the tears with her sleave.
+
+"Hot in here, isn't it?"
+
+"Not particularly," said the teacher with a frown. 
+
+"It's actually more like Snowstripe in here," said a Rainbow Soldier, visibly shivering.
+
+"Well, erm, so---"
+
+"Can we meet your pet unicorn?" asked the girl with an innocent smile. "After school?"
+
+"NO! YOU CAN'T!" yelled Skaia.
+
+"Oh. Sorry I ask---"
+
+"BECAUSE WONDER DIED!"
+
+Skaia fell to her knees, hands over her eyes. Blue erupted on the wall behind her, like flames spreading.
+
+"Wonder had its own pencil," said Skaia through her sobbing, _trying_ to finish her presentation. "And we'd draw together. And Wonder was terrible at drawing, but so am I, so it was really funny. And then ... then Wonder would lick my face ... and I would stroke its hair ... and I had promised to show the Dreamforest to it one day ... but now ..."
+
+Skaia could barely speak anymore. All the words came out like squeaks. All the tables of the front row were blue by now.
+
+But not because of Skaia. Her classmates were crying too.
+
+She looked up. The Rainbow Soldiers got out of their seats, preparing handcuffs.
+
+Let them arrest her. She was never going to move again. Why would she? Why go on without Wonder?
+
+"And every morning Wonder would be next to me when I woke up ... and we threw a party for it when he received his first colorful hair ... but unicorns don't understand the idea of parties, so he trampled the cake and got stuck in the garlands ... and then I made a drawing of that with my favorite pencil ..."
+
+The second row was painted blue too. The girl who had asked to see the unicorn, stood up too. She bumped into the Rainbow Soldiers with all the force she had. The surprised men screamed and rolled over some chairs.
+
+The girl sat down next to Skaia, embracing her. "I had a dog like that too. Once. He'd be so happy when you get home ... like you were the best thing in the world, just by existing ... and he protected me once when I was attacked by a bird ... that puppy wasn't larger than my hands, and he fought for me! ..."
+
+"Wonder saved my life too once, on accident ... why couldn't I save its life too ..."
+
+The entire classroom started to sob. A splash of paint erupted so blue, so violently blue, that it covered the entire school and then some more.
+
+Her friends walked to the front and joined the embrace. Almost twenty children sat on the floor, just crying, and talking about their lost pets, their lost family, their sick grandmother, the Rainbow Soldiers who took their grandfather. The teacher joined in with a whole list of things only adults should be sad about, if the world was fair at all.
+
+The Rainbow Soldiers stood before them. Were they going to arrest the whole class? Did she ruin---were they---
+
+They were crying too.
+
+One of them sat down before Skaia. He whispered, "Your unicorn would've gotten along well with my cat. Maybe they are getting along now, somewhere in heaven."
+
+"Somewhere over the rainbow," added the other.
+
+Nobody knew how long they sat there. Whenever someone thought they could go on, someone else would share something that just darkened the blue.
+
+In the end, her father had personally visited the school. He was informed of a "big disaster" that painted half the kingdom blue. He ran into the classroom thinking Skaia had an accident, that something terrible happened, but found a lot of kids---and three adults---sitting on the floor wiping their eyes.
+
+"You're ... you're ... you're all under arrest!" yelled father. He waved at the Rainbow Soldiers behind him. "Take them!"
+
+"Don't be ridiculous," said the soldiers.
+
+"Do you want the world to end? Do you want everyone to sit on the floor and do nothing, when Endless Blackness comes?"
+
+The Rainbow Soldier who had a cat, stood up and faced my father. "If we're not allowed to care about the world, then why save it?"
+
+The soldiers turned on her father instead. They threatened to arrest him if he didn't undo the law. 
+
+Skaia loved her father, she did. But she also knew him better than anyone. He was not someone to back down, to admit he was wrong, to change his mind.
+
+He simply fled the kingdom that night.
+
+Skaia had predicted this, because of the story about his first wive. So mother hid her away in a cupboard, until he was gone.
+
+The law was undone. When Skaia was old enough, she traveled to the other kingdoms to convince them to stop forbidding emotions too. To this day, the Lake of Skyfish is the only kingdom where every emotion is allowed. And with a school building that is somehow covered in blue paint that refuses to go away.
+
+> _The blue feeling is never defeated_
+> _Life is full of surprise, and not all of it nice_ 
+> _But you use it for new, make it the strongest part of you_ 
+> _Why shouldn't life be allowed to be a little bit blue?_

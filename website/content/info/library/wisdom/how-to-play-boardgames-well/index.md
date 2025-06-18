@@ -97,7 +97,7 @@ This is a running gag with my gaming groups. When I ask them if they want to kno
 
 But then I explain all the rules, and people get restless. Impatient. They start asking questions about the very first rule I taught 5 minutes ago, because they already forgot. They might cut me off to say "Can we just start playing?"
 
-Based on many, many years of experience teaching games ... I can confidently say that yes, you should just start playing. Nobody remembers the entire list of rules if it's explained in one go, before even starting. Nobody can do any proper strategy the first time they play a game anyway---that first game should always be treated as a "test game" or "learning the game, game".
+Based on many, many years of experience teaching games ... I can confidently say that yes, you should just start playing. Nobody remembers the entire list of rules if it's explained in one go, before even starting. Nobody can execute any proper strategy the first time they play a game anyway---that first game should always be treated as a "test game" or "learning the game, game".
 
 Using _story_, intuitively teach players the _bare minimum of rules needed_ to get started.
 
@@ -113,13 +113,13 @@ For example, take a tile placement game. Every player starts with their own litt
 
 What's a very common rule? "You can't place tiles that go out of bounds / outside your map."
 
-Do we need to explain this beforehand? No! Half the players will assume this. The other half will try to do it ones, see that it looks odd, you tell them "yes, there's no space for that tile!", and you're good.
+Do we need to explain this beforehand? No! Half the players will assume this. The other half will try to do it once, see that it looks odd, you tell them "yes, there's no space for that tile!", and you're good.
 
 If players have trouble with this, it's really a mind-set change that needs to happen.
 
 * They might say it's "not fair if they don't know all the rules". But ... _all the players_ don't know all the rules, so how is that not fair?
-* They might say they can't properly play now. So explain to them that you only learn real strategy by actually playing the game, and your very first attempt will always be a "test game". (If needed, actually call it that, and pretend the results of it don't matter.)
-* They might say they want to know all the rules. Tell them they really don't ;)
+* They might say they can't properly play now. So explain to them that you only learn real strategy by actually playing the game, and your very first attempt will always be a "test game". (If needed, actually call it that, and pretend the results of it don't matter.) Or you might ask a question like "Oh, so I should have kept you inside for years until you had perfectly memorized all traffic rules?"
+* They might say they want to know all the rules. Tell them they really don't, but they're free to read the rulebook themselves ;) (Any time I've offered someone else to read the rulebook and teach the game instead, be it on the spot or as preparation beforehand, they've declined and mostly stopped bugging me about knowing all the rules beforehand.)
 
 Many people learn that games are about winning, but they're not. They're about having fun, and the fact someone wins at the end _should_ just be an afterthought.
 
@@ -149,7 +149,7 @@ What's the most important aspect there? Reward instead of punish. Praise instead
 
 This is just general parenting advice, but it certainly applies to games. We're often overly focused on the negative. A child could do everything right, but all they hear from their parents is the one thing they did wrong.
 
-I've been fighting for years to turn this around. Punishment is rarely, if at all, needed. Correction has its uses, but also limited.
+I've been fighting for years to turn this around. Punishment is rarely, if at all, needed. Correction has its uses, but should be limited.
 
 Instead, 
 
@@ -197,7 +197,7 @@ But while we play? We're doing the whole list I gave above, completely by instin
 
 In a way, it's more rewarding if you helped your opponent and _still won_ ;)
 
-### Tips for Picking Games
+## Tips for Picking Games
 
 Another tip for picking games is to **vary it**. 
 

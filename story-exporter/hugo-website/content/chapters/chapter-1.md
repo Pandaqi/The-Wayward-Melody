@@ -1,152 +1,291 @@
 ---
-title: "The Half-Shade Homes"
-weight: 1
+title: Kingdom of Ember Apples
+weight: 10
+color: Red
 ---
 
-# The Half-Shade Homes
+# Kingdom of Ember Apples
 
-It was almost afternoon in Jenna's town. But her world was still completely dark. The sun had risen long ago, but Jenna still had to find her way using a burning torch.
+They say the world started from nothing but blackness. Ruby never believed it. All she ever saw, and had ever seen, was _red_.
 
-It was like this every day. The Wall was so large, so high, so big, that it kept out the sun for half the day---when it shone on the other side. Soon, the sun would travel over the wall. Jenna would finally get some warm light.
+Just now, she dashed past a red tree. She jumped over the red river and scared some red sheep. Just out of reach, her favorite toy rolled down the hill growing red grass, ever closer to being lost in the red sea. She screamed a nasty word. One that I'll merely translate as _Flubberdygollocks!_ She kicked the earth as her doll swam to the bottom of the ocean, a plastic smile forever on her face. 
 
-Normally, she would be happy about that. Everyone is happier while hopping in sunlight than while stubbing their toes in the dark. This time, however, she was in a rush. What she was about to do, had to be done in the dark.
+Yes, yes, Ruby let _everyone_ know how angry she was on the way home. The trees. The grass, now stomped flat. Even the sheep. Oh, even the Rainbow Soldiers that ran past her. They looked panicked but still _stunning_, with their feathers, flags, and rainbow aura. 
 
-She felt the grass below her bare feet. The wood of watchtower. The heat of the torch.
+Ruby's shoulders could not sag further if they tried---and they really tried. Her face was, you wouldn't believe it, glowing hot red. On days like these, Ruby's _eyes_ could even glow red, as if she were a dragon about to spit fire.
 
-She was almost there. She blowed on her torch to lessen its light.
+"I want to move away," declared Ruby to her parents. She fell onto the nearest chair and crossed her arms. Just then, the chair creaked and a leg broke off. Ruby soon rolled over the ground, screaming Flubberdygollocks again, and asking herself: _Why me? Why always me?_
 
-Her right hand felt the cold stone of The Wall. Her fingers traced the odd shapes and lines. Deep grooves, scratched into the stone by a vandal or bored kid, which her mother called _glyphs_.
+"Why?" asked mom. "It's nice here! And we're far from the Rainbow Front."
 
-Jenna looked over her shoulder one last time: nobody was watching her.
+"Don't speak too soon," said father. He looked up from a newspaper that painted its images on the fly, as if an incredibly creative toddler was caught inside the pages. "Didn't you see the Rainbow Soldiers?"
 
-She extinguished her torch. Then she attached a stone at the top. A small stone, a nearly invisible stone, but also the strongest one she could find. The torch had now become a hammer.
+"An exception," said mother. "Maybe an exercise?"
 
-She swung it over her shoulder, breathed in, and _slammed_ The Wall.
+Ruby thought those soldiers looked far too scared for just doing some exercises. 
 
-_Slam!_
+With all her angry power, she hauled another chair into the kitchen. Still red-faced, she sat down on it.
 
-She was done with being alone.
+Needless to say, this chair suddenly felt a desire to sleep in a horizontal position. Ruby soon rolled over the floor again, inventing a new curse word like _Rainbows and Rats_!
 
-_Slam!_
+"Don't you see?" she said. "This place is unlucky! Everything goes wrong! It ... it must be cursed!"
 
-She was done with not knowing what was on the other side.
+"You're just having a bad day," said father.
 
-_Slam!_
+"Like _every_ day," mumbled mother. The two of them looked at each other, but still didn't agree with Ruby. "Why don't you try playing with some friends? Or maybe you would like a pet to ... calm you down? Have you seen that new litter of rainbow unicorns---"
 
-She was done with being trapped in a small cage of a town.
+A pet? Her parents had _never_ offered to give her one before!
 
-_Slam!_
+Ruby _would_ like a pet. Or friends.
 
-She was done stumbling around in the dark for half the day.
+She stomped out of the house again. Her kingdom was one large orchard, located inside the Valley of Flame. Outside of the valley, finding your way wasn't much easier, though. Their border with the Dreamforest was one large _maze_ instead.
 
-_Slam!_
+Ruby weaved through the trees and thorny rose bushes. Until she saw some children playing.
 
-She was---she was being too loud. She had attracted attention, and several black figures climbed down the wooden watchtower.
+She approached silently, like a predator spying on prey. Until she stepped on a twig which  _snapped_, loudly. Because of course it did! Why her? Why always her?
 
-Jenna leapt to her feet. She swiped her torch along the Wall's stones to ignite it. Like a match, only this one was the size of her arms.
+The children saw her too. Without hesitation, they decided to continue their ball game somewhere else.
 
-The ball of fire revealed a frowning face right in front of her.
+"Hey! Hey!" yelled Ruby, chasing after them. "I know what game you're playing! Can I play too?"
 
-"Oh no! Oh no!" said Jenna dramatically. "Someone was destroying The Wall! But don't you worry, sir. I got here just in time and scared them away!"
+Some of the children stopped and turned. Others kept pretending they didn't hear. The boy holding the blue ball under his armpit stood frozen in-between the two groups.
 
-She waved her torch to point at the damaged spot. With some pride, she noticed she had actually created a small _hole_.
+Ruby caught her breath. She tried to smile---it didn't come naturally to her.
 
-"Yes," she said, nodding, "someone _very strong_ and _very pretty_ attacked that wall real good."
+"I'm Ruby."
 
-The man's frown deepened, until Jenna feared he'd accidentally eat his eyebrows.
+"We know," said the ballbearer.
 
-"You think I'm dumb?" grunted the guard. "Think you can play me for a fool?"
+"Well, then, erm, can I join?" Ruby already reached for the ball. If there was one thing she was good at, it was _kicking_ a ball _real hard_.
 
-"Why---I would never!" said Jenna, pretending to be offended.
+But the boy turned away. Ruby merely touched the ball with her fingertips. And what was once a shiny blue ball now had a streak of red.
 
-She realized the stone was still attached to her torch. She quickly brought it behind her back and pried the stone loose, while keeping up a smile and talking.
+"She always ruins it," mumbled a girl behind him.
 
-"How are you, sir? Did you sleep well---"
+"Bad luck goes wherever she goes," mumbled another girl.
 
-"This is no behavior for a young girl," said the guard sternly. "This is no behavior for _anyone_! The Wall exists for a good reason---"
+"And terrible taste in colors," mumbled the first girl.
 
-Jenna interrupted. "Like annoying little girls and spreading darkness---"
+"But ... but ..."
 
-"---you wouldn't understand," said the guard. He grabbed her wrists and pulled her away from the wall. "You're coming with me. Wait until your parents hear about this! You'll be grounded for _months_, I tell you!"
+All the apples fell from the trees. Red. Red as fire.
 
-As Jenna was dragged along, the soles of her feet made tracks in the grass. And she fell silent. Not because she accepted punishment, or had no idea how to talk herself out of trouble. 
+"You're _stupid_!" yelled Ruby. "And _mean_! And, and, and---"
 
-She fell silent because she _listened_. She thought she heard sound _on the other side_.
+She kicked the ball out of the boy's hands and ran away again. 
 
-It was soft, like a whisper in the distance. It was a chorus of voices interrupting one another. They made sounds Jenna could not understand. Surely, they were no words that she knew of.
+The sun had started to set, and the apple trees grew long and mysterious shadows. Her parents were looking for her, but they weren't worried. For whever Ruby stomped, she left a clear trail of red paint in her wake.
 
-But she was certain the sounds came from the other side of The Wall.
+Her parents had seen the whole thing. As Ruby bounced into their arms, they sighed and agreed to move away.
 
-Right then, the sun passed overhead. Afternoon had arrived. The bells rang. Her town suddenly switched from night and darkness to day and brightness. 
+___
 
-She glanced over her shoulder, peeking through the hole one last time. As she expected: now the _other side_ would be in darkness for the rest of the day. She didn't hear any more sounds.
+Ruby and her parents couldn't find a unicorn to ride on. There were plenty available, but all of them grew terribly nervous when Ruby got near. This made Ruby even angrier, which painted the entire unicorn farm red, which had them banished from the grounds. They had to settle for a simple dragon-drawn carriage instead.
 
-When Jenna arrived back home, she immediately raised her hands.
+"We could go to the Dreamforest," said mother. "They say it's beautiful and---"
 
-"I can explain!" she said. "I was right!"
+The carriage came to a sudden stop. Ruby twisted to stick her head out of the window.
 
-"Right about what?" said mother with a red face. "How much trouble you're in?"
+Their driver! Several Rainbow Soldiers _pulled_ him off the dragon, as if he were a doll. One of them already climbed onto the carriage.
 
-"There are creatures on the other side of The Wall!"
+"There are passengers inside!" cried their driver, as he struggled to get out of the mud.
 
-"Of course there are," said mother. She kneeled until she was at Jenna's eye level. "That's why we built The Wall. To keep them out."
+"Kick them out too," said the commander to the soldiers.
 
-"They didn't ... _sound_ very dangerous?"
+"What's this about?" demanded father.
 
-"You _talked_ to them?" said mother and the guard at the same time. And with a voice pitched several times higher than usual.
+"Calm down, sir. Or we'll need to arrest you."
 
-"No. No, I just heard ..."
+"Excuse me?"
 
-"What did you hear?"
+A younger soldier opened the carriage door. He shoved Ruby around, but she slipped away. "Look, we're doing this for you. The Blackness is closer than we thought. There's no telling what happens if it reaches our volcanoes."
 
-"I don't know," admitted Jenna.
+"So?" asked Ruby.
 
-"_Exactly,_" said mother. She turned away, back to her work. This usually meant she thought the conversation was over. Or that the food she was preparing had almost burned.
+"Get out!" screamed the commander. His face, however, looked weirdly neutral, almost friendly. "We need this carriage for the fight. Everyone is ordered to stay inside the kingdom."
 
-Jenna was even _more_ confused than before.
+"You can't tell us what to do!" screamed Ruby. "Let us go! This is our carriage!"
 
-Like all children in town, she had heard the _Legend of The Wall_ over and over. Of _Basco the Builder_ who made it. About its massive size, its unbreakable stone, and how thankful she had to be. Long ago, they said, monsters had terrorized the town. Monsters who were dumb, and didn't think, didn't listen to what they said. The legend says that Basco asked nicely every day, "Could you please stop attacking us?" and "What do you want? We'll give it to you and you leave us alone!" But the monsters just tilted their head, like a dog who thinks they hear a strange sound, and looked at him funny.
+"Calm down, girl."
 
-That Wall was the only reason they survived the monster attacks, everyone said.
+"You can't tell me what to---"
 
-Jenna was beginning to doubt it.
+"Do _not_ feel angry!" clarified the commander. "Or I'll have no choice but to arrest you and lock you---"
 
-That night, Jenna showed what she thought of the words "grounded" and "house arrest". Her parents had barred her windows, but that was no match for Jenna and her hammering skills. Her parents had asked neighbors to see if Jenna left. But Jenna stayed in the shadows and reached The Wall without problem.
+Ruby wanted to scream---but she couldn't. She wanted to kick the soldiers away---but she couldn't. They had just told her she was not allowed to feel something. They had forbidden the emotion called _anger_.
 
-She looked up. The massive pile of rock loomed over her, like a stone giant ready to smash her. It was so ... overwhelming. So large. 
+And that, unsurprisingly, just made her even _angrier_.
 
-Where would she even start? How long would it take before she'd created a hole large enough to go through? She felt exhausted and hopeless just thinking about it.
+"Look," said the young soldier again, losing his patience. "We can't allow people to come and go at the moment. Who knows what emotions they bring with them? We _can't_ let Blackness descend over the Valley of Flame! We're the only country that has _never_ been defeated by _anything_! And today is no---"
 
-She heard the sounds again. The whisperings from the other side that she couldn't understand. She listened and listened, but the sounds meant nothing to her. They were not speaking the same language, that part of the legend was right.
+Let me remind you that it was midnight. The forest was dark, the scene barely lit by the soldier's shiny uniforms. In this kingdom, even the moon seemed more red than white. Even the sharpest of eyes wouldn't be able to make out colors in this darkness.
 
-But ... the whisperings had a pattern to them. They would say something, then _pause_---be silent for a bit. 
+But when Ruby jumped from the carriage and bit the soldier's hand, she might as well have set the clearing on fire.
 
-Jenna made her first big discovery. They were _sentences_! Every time the noises paused, they were done with a sentence and started a new one. Done saying one thing, and getting ready to say the next thing.
+The carriage painted itself red. The ground became bright red. The soldiers scrambled as their uniforms and weapons became a shiny red.
 
-She shuffled even closer. The hole she'd made yesterday was barely as large as her eye. Still she tried to push her entire face through it.
+"Go away!" yelled Ruby. "Leave my family alone! Why can't the world just _let me be happy_?"
 
-Often, the voices would would say something, and then other person would respond by saying _the exact same thing_. Did they only know one sentence? Were they cursed to repeat each other?
+"Dear, dear," mumbled mother, "maybe you should---"
 
-No ... it slowly dawned on Jenna.
+Ruby had already climbed on top of the carriage herself. She pushed the commander, but he was far too heavy to budge. He reached for his special handcuffs that could suppress all emotions. Ruby kicked them out of his hands.
 
-You must remember, dear listener, that "night" meant "late morning" here. The sun was currently on the other side, while Jenna's town was completely dark. But it would soon be afternoon again, and the sun would switch to this side of the wall.
+In the faraway distance, the first volcano went off, followed by a minor shaking of the ground. Nobody took notice.
 
-The bells rang. Afternoon had arrived. The sun crept over the wall and illuminated Jenna's town---which meant the other side was cast in darkness.
+The commander balled his fists and studied his white knuckles for a tense moment. 
 
-In other words, the other side was preparing to go to sleep.
+"Don't get angry, don't get angry, don't get angry," he mumbled to himself.
 
-Jenna was certain of it now. The noises she'd heard had _meaning_. They could be understood if she broke it down into sentences. 
+Then he left the carriage and pulled his soldiers away. 
 
-The monsters on the other side were saying something like _"Good night."_ and _"Sleep tight."_ Possibly _"Don't forget your alarm clock."_ or _"Big day tomorrow!"_ She didn't know _exactly_ what they were saying. But she knew it was a sentence and that it meant something close to that. Which was much more than she knew yesterday.
+"Go on then," he said, trying to sound calm. He waved a piece of paper that was writing itself as he spoke. "Leave the Kingdom of Ember Apples. But if you ever return, Ruby, you'll be arrested _immediately_! You brought danger upon us all! This piece of paper proves you felt an illegal emotion, on purpose!"
 
-And now the monsters had all gone to sleep. 
+On purpose? Ruby _never_ felt like emotions were on purpose. They just arrived. Like raindrops inside her head. She couldn't control them, and believed nobody could. Other children were just lucky to be born without a lot of anger---Ruby was unlucky to be born with a talent for it.
 
-Jenna had to hurry back to her bedroom. To pretend she'd been asleep herself all this time, of course.
+The driver climbed back on the tiny dragon steering the carriage. His face flustered, his hands shaking, he continued their journey. Away from those stupid red lands, thought Ruby. Away from their cursed home.
 
-She failed. She wasn't quick enough, and her furious mother waited for her in her bedroom.
+___
 
-"This stops now, little girl!" she said. "If you sneak out once more, if you destroy The Wall again, then you'll get the worst punishment!"
+Ruby had never seen lands so ... _not-red_. There were other colors here! Nature was supposed to be _green_, apparently. The sky was supposed to be _blue_. Animals were supposed to have a variety of colors. Who knew that elephants weren't supposed to be red?
 
-Jenna gulped and shivered. She knew what that punishment was. It had happened to a handful of other people, and they never returned. Not alive at any rate.
+For hours, Ruby hung out of the window, and nearly fell out five times. She wanted to see it all. Touch it all. The smile on her face came quite naturally this time, and stayed until they arrived at their new home.
 
-"We'd be forced to throw you to the other side of The Wall!"
+She had already spotted some children playing a ball game.
+
+Her mother nodded and smiled. "Go on then. Go and introduce yourself. Be on your best behavior!"
+
+"Always, always," mumbled Ruby. 
+
+She skipped towards the group, waving all the way. They looked up. The ball was in mid-air, so it hit the cheek of an unfortunate boy not paying attention anymore.
+
+"Hello!" said Ruby. "I'm Ruby. I'm new here. Can I play?"
+
+"Erm, sure?" said the boy. He rubbed his sore cheek, then picked up the ball to give it to her.
+
+The ball was beautiful. A mixture of natural colors, green, blue, and a bit of yellow. Most importantly: Ruby held it for a few seconds, and it did _not_ turn red!
+
+Ruby smiled. Then she kicked the ball so hard that the boy's other cheek was now sore. They laughed about it. But a few of them told Ruby to "calm down", and the boy kicked the ball back into _her_ face. On purpose! He must have!
+
+"You're just mad because I _scored_ ... right? Did I score?" asked Ruby. "Wait, what are your goals? What are the rules?"
+
+"Of course you didn't score. Because we don't---"
+
+Ruby frowned. Her arms were already crossed. "_Of course_ I didn't score? What's that supposed to mean?"
+
+"Maybe you should---"
+
+"Don't tell me what to do! Or what to feel!" The ball turned red again. "Maybe _you_ should not hate on strangers!"
+
+"We don't! We just want to explain the rules of our handball game---"
+
+Ruby kicked the ball away again. This time, the boy had to walk for a minute to retrieve it from someone's garage.
+
+In the meantime, the girls interrogated her. "What was your name again? Where did you come from? Did you see the Rainbow Soldiers? How bad is it out there? What is---"
+
+"Stop making so much noise!" said Ruby, waving her arms to get everyone away from her.
+
+By the time the boy returned, the entire playing area was red again. All the beautiful and diverse colors from before were gone, and Ruby stood at the center of it.
+
+The children grew stone-faced. The boy kept the ball far away from her. "Well, rule number one is that you _play nicely_."
+
+"I already know where you're from, filthy _dragon_," spit the girl that interrogated her before. "As they say: _Valley of Flame, all anger no brain._"
+
+Ruby _screamed_. Everyone was against her! No matter where she went! Everyone was the same. Her life was cursed. 
+
+Tears streaming down her face, she ran away. 
+
+___
+
+Ruby would've run back home if she could. But first of all, it was a long way away, and with her "luck" she would surely break a leg halfway through. Second of all, she remembered they would just arrest her for daring to _feel angry_.
+
+And so she ran in circles, finding nowhere to go, and waited until her mother found her. 
+
+Ruby was easy to find. She left a clear trail of not-red objects painted red in her wake.
+
+"What is it now?" asked mother.
+
+"Everyone hates me!"
+
+"What did they do?"
+
+"They ... they ..."
+
+What _did_ they do? Ruby struggled to explain it. It wasn't like they attacked her. They let her play without even knowing her. And ... and what was it they said? They had _different_ rules? _Handball_? So, no kicking, she guessed. 
+
+"They did nothing?"
+
+"Oh, great, so you're doubting me as well now!" yelled Ruby, pushing mother away.
+
+"Could it be, dear," tried mother gently, "that it was _you_ who---"
+
+Ruby shook her head. "It's not me! It's that curse! I can't help but see red."
+
+"Then stop looking for it," said mother, gently stroking Ruby's hair.
+
+"What?"
+
+"Whatever someone says, you take it as an insult. Whatever happens, you told yourself it's a curse and a bad thing. You keep saying it over and over, until all you can see is ... red."
+
+Ruby frowned. "You don't think I'm cursed?"
+
+"I know for a fact that you're not," said mother. "You were the luckiest girl alive, the first years after you were born. That jar of coins besides your bed? You _found_ them all in the orchard, at random."
+
+Mother pulled Ruby back to her feet. She brushed the twigs, and mud, and unidentifiable red objects off her clothes and face.
+
+"And the way you handled those soldiers?" she said. "Anyone else would've been arrested right there! Or we'd be left in the dark, alone, and without a carriage! But no, you got us out of the country, and not in a jail. Quite a lucky outcome, don't you think?"
+
+Mother turned her around. To Ruby's surprise, the children who played their _handball_ game had been standing there all this time.
+
+First there was silence. How _dare_ mother play this trick on her? Who does she think she is?
+
+"Try," whispered mother behind her.
+
+Ruby looked at the grass around her feet. Slowly, the grass lost its red color. "Could you ... maybe ... explain the rules of your game to me?"
+
+"We'd love to," said the boy, smiling.
+
+"I promise not to kick it anymore."
+
+"Well---we thought---" said the girl. "It could be a fun extra rule, right? Maybe one player per team can kick?"
+
+"Wait, wait, wait, then I want her on my team!" yelled the boy.
+
+"You can have her," said another girl, rolling her eyes. "She's probably rubbish at the rest of the game."
+
+_Rubbish!?_ How _dare_ they call her rubb---
+
+Ruby felt as if she had just woken up. As if everything that had come before was just a dream, and now she saw the world for real. As if she'd only had one eye open all this time, only using half her brain.
+
+It was all so _clear_ to her now. She could almost she herself from her mother's eyes---see how she was turning red.
+
+Instead, Ruby broke the cycle.
+
+"I _am_ probably terrible at the game, yes," she said, smiling. "But the only way to get better, is to play. Right?"
+
+The grass around her turned green again. The river shone blue. Her fingers played with the currents, testing if it would stay that way. It did.
+
+They played their game as it was meant to be played. Plus the extra rule about kicking.
+
+Whenever the ball bounced away, Ruby did not think any more of it. It wasn't a curse. Just the randomness of the world. She shrugged and ran faster than anyone else to get the ball back.
+
+When someone accused her of cheating, she didn't get angry. She simply explained she wasn't, and asked them why they thought that.
+
+When she got home one day and her jar of coins had crashed to the floor, she didn't blame it on some mysterious curse. She simply told herself to place it more securely next time. Like, perhaps, _not_ right on the edge of her nightstand. From the glass shards she even built a little present for her new friend.
+
+A year later, her parents suddenly thought she was ready to own a pet and care for it. She received a beautiful unicorn that joined her in her adventures. And even though they couldn't always see eye to eye---such as when Ruby wanted to sleep but the unicorn kept pushing her out of bed to play---she never got angry or treated her pet badly.
+
+No, the only time Ruby became _real angry_ again, was some years later. When the Rainbow Soldiers entered this kingdom too and started forbidding even more emotions.
+
+<!---
+### 🔴 Red – “The Kingdom of Ember Apples”
+
+Setting: A vibrant red orchard in the enchanted Valley of Flame.
+
+Theme: Passion, courage, love, danger.
+
+Objects: Apples, roses, rubies, cardinals, fire.
+
+Magic Twist: The apples can glow and warm hearts—but only when plucked by someone brave.
+
+Plot Idea: A timid girl must cross the thorny rose maze and retrieve a glowing Ember Apple to awaken the sleeping heart of her kingdom.
+--->

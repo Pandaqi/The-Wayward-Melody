@@ -1,126 +1,313 @@
 ---
-title: "The Silent Wall"
-weight: 4
+title: "The Critical Coven"
+weight: 40
+color: Purple
 ---
 
-# The Silent Wall
+<!---
 
-Jenna watched in disbelief. And she covered her ears.
+### 🟣 Purple – “The Pink-Haired Witch of Midnight”
 
-All the people on this side of The Wall started singing. Or melodic shouting, really. They sung as one, saying the exact same words, facing The Wall. It was a hurricane of sound. Jenna's entire body vibrated and shook. If it had continued any longer, Jenna feared, her teeth would have fallen out.
+BLIND to how **clever/smart/genius** they are ("it's magical!" "It's just ... thinking/common sense. They'll laugh if I say this/tell them to do this." or "they can do it themselves.").
 
-Then it stopped.
+Setting: A twilight realm of glowing pink mist and tricksy magic.
 
-All of them looked at The Wall, expecting ... something. They looked in silence, until it was clear that absolutely nothing was going to happen. Jenna hoped that their song might have damaged the wall, or maybe opened some secret passage. But it did _nothing_, as far as she could tell.
+Theme: Creativity, fun, mischief, transformation.
 
-Which was strange enough. Because as Jenna stayed here longer, she learned that they sang this song at least once a week. In fact, they had built devices that could amplify their singing, and the only subject their schools teached seemed to be _how to make more noise_. 
+Objects: Orchids, jellyfish, spellbooks, lipstick, twilight clouds.
 
-A wave of noise ... and they didn't hear _any_ of it on the other side! For most of her life, Jenna even believed that all the "monsters" had died. That's how quiet it was on the other side.
+Magic Twist: The witch casts illusions in pink fog—but only the truly imaginative can see the truth.
 
-Well, she was wrong about that. It seemed the people on this side desperately wanted to say something. They wanted to communicate with her town, or maybe ask for the wall to be destroyed. Was that why they learned to talk so loudly? In hopes of being heard on the other side?
+Plot Idea: A shy boy enters the realm to recover his stolen reflection, discovering he’s braver than he thought.
 
-Basco the Builder might not have been he best builder, as his granddaughter Bibi had said. But Jenna now understood why he called it The _Silent_ Wall. Unless someone broke it down, one side could never hear the other side. 
+--->
 
-And how can you learn a language if you never hear it? 
+# The Critical Coven
 
-Jenna was suspecting that Basco lied about even more things. What really happened here? Why was The Wall built?
+Tomsy made an incredible breakthrough. He had a solution to a problem. He suddenly understood something important, something that might save the world.
 
-Jenna was hungry, and tired, but that didn't bother her. She desperately wanted to break down The Wall and discover its secrets. Unfortunately, on this side, the Strawberry Section was impossible to reach. There was no handy hill that brought her to it, and Jenna couldn't fly. In any case, the Wall had already repaired the hole Jenna made some days ago.
+And he told absolutely _nobody_. 
 
-She needed a better plan.
+It was probably obvious, right? Everyone else had already figured it out. It was so obvious that nobody had to say it, and Tomsy was just late to the party.
 
-She started to see a pattern now.
+And he wasn't sure. No, you could never be sure. That's why they call it a _theory_ in science. Even if gravity makes everything fall down today, all of that might change tomorrow! Maybe tomorrow things fall _up_ instead! So even gravity is just a _theory_.
 
-Previously, she learned that the wall was made of smaller walls---like language is made of smaller sentences. Those were made of smaller bricks---words. Those were sometimes long, sometimes short, and sometimes made of mixed materials---syllables. But even syllables took her ages to hear and understand. She could not even say a single sentence in _their_ language, also because her mouth couldn't make those sounds at all.
+His sister Anibela studied his drawings. They were completely _purple_. Tomsy's entire _bedroom_ was painted purple from the many things he'd discoverd. 
 
-Could she go even smaller? Smaller than syllables? It would make it easier to learn new ones. She could just learn this smaller thing, then combine a few of those.
+Anibela traced all the lines and read the scribbles a thousand times. Then she nodded and smiled. "You _have_ to show your theory to the Coven, Tomsy."
 
-She found the strongest possible stone and started hammering the wall again. She often looked over her shoulder, afraid to see guards that punished her again. But nobody cared. In fact, they couldn't even hear the sound of the wall breaking down over their own loud singing.
+"And then what? Be laughed out of the room? Be turned into a ... a ... _frog_ by those witches?"
 
-Jenna removed an entire stone. Then she smashed it on the ground, cutting it into two different types: sandstone and banana. The sand had a magical glimmer in the sunlight, while seeing the banana mostly made Jenna's stomach rumble.
+Anibela sighed. She rolled the drawings into one and pushed them into Tomsy's hand. "This might be the answer, little bro. The answer to where the Endless Blackness came from. If we can _understand_ that ... that danger, maybe we can fight it---"
 
-The moment she picked up the sand, it slipped from her fingers. She tried again; it slipped from her fingers again.
+"It's just some silly lines," mumbled Tomsy. He pointed at some particularly silly lines, scratched out with a red pencil. "I made at least five errors when calculating this! Wrote down a 2 when I meant a 1!"
 
-She stomped her foot and was ready to curse her unfortunate life---until she _listened_ to what she just did.
+"So what?"
 
-The sand slipping from her fingers made a sound. The closest thing you can say would be _psssh_ or _ssssht_. But it wasn't exactly that sound. It was a sound that Jenna had only heard the Other People make, with their big mouths.
+Tomsy shook his head. "The Coven of witches already has an explanation. Mine is likely wrong."
 
-She tried again with a different pile of sand. It produced a slightly different sound.
+Anibela rolled her eyes. "Yeah, the Coven thinks the Endless Blackness was an accident by some magical god. When she tripped over the paint bucket or something. Does that _really_ sound believable?"
 
-She tried again with the dried banana brick. The moment she took a bite, her teeth regretted it immensely, but she heard what she wanted. A sound closest to _k_ in your language. But it wasn't exactly that sound. It was a slightly different sound that Jenna had only heard the Other People make.
+"My theory sounds even sillier."
 
-Jenna jumped to her feet, smiling brighter than the sun. This was the answer! This was how she could talk to them!
+"Then _I_ will tell the Coven, little bro!" said Anibela, reaching for the doorknob.
 
-She started removing more and more bricks, then smashing them into pieces. Crushing wood in her hand produced different sounds again. There was a section of The Wall reinforced by _gum_, which made sounds as she chew on it.
+"No! No. Please, don't go telling people about it. They already think I have peas for a brain."
 
-Before long, she had discovered how to produce that syllable that meant _good_. Crushing wood made a sound like "ggg", chewing gum made a sound like "oooe", and throwing sand made a sound like "ddd".
+Tomsy hated the expression they came up with. He'd accidentally dropped five entire barrels full of food, mostly peas, into the river. That's a lot of food, and a lot of responsibility. And he wasted it because he was distracted. He placed the barrels on the edge of a fence, just for a second, so he could write down his realization as to what _caused_ the Endless Blackness.
 
-It sounded _perfect_. _Exactly_ like how the Other People said it. Now they could understand her perfectly.
+Well, two seconds later the river washed their food away. And everyone pointed at Tomsy and laughed.
 
-This was what syllables were made of: smaller separate sounds you could make with your tongue. Or, possibly, the materials of a magical wall. These were called _phonemes_, but Jenna didn't know that.
+Anibela sighed again, then opened the door. 
 
-She chipped away at the wall for a day and a night. Some people looked at her funny; some merely offered a sharper rock. She created tiny holes in many different places, because she was interested in specific materials. The ones she needed to make the phonemes.
+Someone else immediately ran inside
 
-Once she had enough material, she approached the most important-looking person she could find. This was hard to judge, however. So she settled for the first person she recognized: the woman who had looked her over right after she landed.
+"It's your mother! She was arrested by the witches!"
 
-She dropped the sand. She squished some banana. She made all the phonemes in the right order, to create some syllables, which combined into a word.
+"For what?"
 
-And she hoped, very much, that she had just asked for _help_. Instead of, say, accidentally requesting an alligator or calling the woman an ugly word.
+"They claim she stole their magical crystal ball!"
 
-"Good try," said the woman with some difficulty.
+Tomsy and Anibela were out of the room before she finished the sentence. Being accused of a crime by the coven ... usually didn't end well.
 
-Jenna had learned their words for _good_ and _try_ by now. 
+___
 
-That's why it took her some time to realize that the woman had mixed languages.
+The Coven was made of five witches, each one uglier than the previous. They wore purple robes at all times and a pointy hat they looked to sharpen every morning. Whoever looked ugliest on a given day was deemed the "leader" of the Coven. Tomsy didn't think this was a very good structure. But what did he know? His thoughts were sometimes so _slow_ that he wondered if he was missing half his brain.
 
-She had said _good_ in the language of the Other People. But _try_ in Jenna's own language.
+Their leader spoke now. "Ah! The children have arrived. Any last words before you say goodbye?"
 
-"Wait, wait, wait," said Jenna. "You can speak our language? Are you---"
+Their mother squirmed and tried to run. A strong spell, however, kept her in place. "I'm innocent! Let me go!"
 
-The woman raised her hands. She frowned and shook her head, pointing at her ears.
+"The evidence is right there," said the leader. She pointed at the crystal ball, still in mother's hands. A piece of glass had broken off, and black paint---mother's fear---was covering parts of the glass. Or maybe it was ...
 
-Oh, thought Jenna, maybe that's it. They might all have large ears, but they're just very hard of hearing!
+Tomsy looked around. They were inside the main tent of the Coven, where they usually kept the ball. They must have caught mother red-handed, and immediately arrested her.
 
-So Jenna repeated herself, in her own language. But louder.
+But it made no sense. He knew his mother would never steal anything.
 
-Now, it is common knowledge, dear listener, that talking loudly does _not_ help. If someone else doesn't speak your language, volume doesn't matter. Saying "strawberry" louder doesn't change that it sounds like gibberish to them. Then again, I can't imagine a situation in which your first word to a foreigner would be "strawberry". The customary greeting seems to be "Hello".
+A crowd had gathered. A few people claimed they saw my mother steal something before---which was a _lie_. But what did Tomsy know? Maybe he was too dumb to see his mother had always been a thief! Other people claimed his mother was an angel and wasn't even inside the tent. Their assistant had probably seen it all, because he was repairing the tent, but he stuttered and claimed he didn't know anything.
 
-No, the woman simply meant that Jenna was talking too quickly.
+Tomsy walked around all of them. He reached the pedestal that usually held the crystal ball.
 
-"Been ... long ... time," said the woman with difficulty.
+It stood in a different place. It had been moved a few steps, and rotated a bit. The floor still had marks in the carpet from where the pedestal _used_ to stand.
 
-"Long time? So you used to speak my language?"
+Should he tell them? No, no, everyone already saw this, of course. They already have a different explanation for this. Must be.
 
-"Yes," said the woman after thinking for a bit. "When ... lived ... on other side."
+Then Tomsy lifted the silk blanket, which was like a soft bed for the crystal ball. Below it was a _huge hole_. Someone had cut a large hole in the stone. That must have taken quite a bit of time, and made a lot of noise. How did nobody notice? Well, they probably already knew. He wasn't going to make a fool of himself. Maybe the hole was meant to be there, like, like a trap for if you wanted to steal the ball!
 
-"Oh!" yelled Jenna. "You were also catapulted here as punishment!"
+"I simply _caught_ the ball!" claimed mother. "I saved it from breaking. Someone threw it at me when you entered the tent!"
 
-"Yes!" said the woman. "Many were."
+"A weak excuse," said the coven leader. "And weak final words. Prepare to be burned."
 
-Jenna barely dared to ask the question. "Did ... are ... did the others survive?"
+"_Burned_!?" exclaimed his mother, Tomsy, and Anibela at the same time.
 
-The woman grinned. She pointed behind herself at no building in particular. "Sure. There's ... hundreds of us in this town."
+"Assistant! Assistant!" yelled the leader. "Prepare the torches. And don't forget the matches this time!"
 
-Jenna's eyes went wide. They had _all_ survived. Everyone who had been cast over the wall had simply ... continued living here. With the so-called monsters. They had slowly learned _their_ language, while forgetting their own. 
+Their assistant, a young man with hair like a hedgehog, nodded and eagerly made his way out of the tent.
 
-Even worse, they had no way to bring this good news to the other side. The Silent Wall kept everyone silent. And so everyone on Jenna's side still believed there were only monsters and silence here.
+Why ... why are they letting him go?
 
-Then the woman lost her smile. "My children. Didn't come with me. Still on other side."
+It's obvious, thought Tomsy.
 
-So _that's_ why they looked at Jenna for so long. That's why so many were waiting in the stands. To see if their children, or family members, would come back to them.
+He did it.
 
-"You must miss them very much," said Jenna. "I miss my parents too."
+Why weren't they stopping him? Why didn't they let mother go? Did they not see the hole, the moved pedestal, the---
 
-"Yes," said the woman simply. "Now it's time ... for our ... singing together."
+Tomsy's mouth fell open, then closed again. He prepared the words, then thought he'd probably sound stupid. Surely they had examined the place for evidence, and then---
 
-"Don't you realize we hear _nothing_ of that on the other side?" asked Jenna.
+Anibela had followed Tomsy around. She coughed loudly, then raised Tomsy's arm to get attention.
 
-"We do. Still we try."
+"Yes? One of the children wants a goodbye too? Fine, fine, we'll be kind today."
 
-And so, for the first time, Jenna joined their loud singing. But she did it by kicking against some wooden brick, smashing dried mango, and throwing a rock against a tree. Because that was the only way she could copy their sounds. Thanks to the magical material of The Wall.
+"No," said Tomsy, nervously adjusting his shirt a thousand times. "I believe you have the wrong thief. I can prove it."
 
-Then Jenna realized how they could tell the other side.
+"Of course you do. Anything else?"
 
-If they could _write down_ their message, they could just shoot that to the other side.
+Tomsy frowned, then explained his thinking. "The pedestal has a hole in it. A hole that allows stealing the ball unseen. Creating such a hole can't be done quickly. It would make so much noise that you would have heard mother from miles away. No, this hole was made _beforehand_."
 
-But how ... do you write down a bunch of sounds?
+"Oh. Oh, we didn't---we were _just about_ to check the pedestal for evidence. Absolutely."
+
+"And who might have access to the pedestal?" asked Tomsy. "Who could easily create the hole when he knew the Coven was away for the day?"
+
+"Doesn't matter," said the witch leader. "There's a spell protecting the ball. Only a witch, even a minor one like your mother, could remove it!"
+
+"Or ... someone who has been spying on you for a year. Listening to your spells. Eavesdropping. Copying you."
+
+"You're being awfully cryptic, boy," said the Coven, irritated. "Well! Give us the answer then!"
+
+Tomsy thought he was going insane. They hadn't checked the pedestal? They had not done _any_ research?
+
+"_Your assistant!_" he cried out. "When you entered the tent, he was just about to steal the ball. He panicked, threw it at my mother. Case solved."
+
+The assistent went wide-eyed. The crowd parted, as if he suddenly carried a terrible illness. And stepping aside isn't the best way to stop a thief from escaping.
+
+The assistant ran for his life.
+
+Fortuately, witches can cast spells from quite a distance.
+
+The Coven trapped him in a purple bubble and reined him back in.
+
+Their mother was released. She carefully returned the crystal ball, then hugged her children. The crowd applauded.
+
+"That was _magical_!" said Anibela. Bystanders agreed.
+
+"It was just ... common sense?"
+
+The Coven approached him too, apologizing for their behavior. They asked where Tomsy had learned such detective skills.
+
+Anibela nudged him in his side. "Go on then," she whispered, "explain your theory."
+
+"Well, erm, you see," said Tomsy, fiddling with his trousers until they almost fell down. "I have thought a lot about the Endless Blackness. And I think I know where it came from."
+
+The Coven forgot to blink. The witches stared at each other, then agreed to keep listening.
+
+"I've been reading the history books. The ones I could get my hands on, anyway. And I saw a pattern."
+
+"A what?"
+
+Did he say the wrong word? Tomsy started to doubt himself. No, wait, pattern _was_ the right word. Right? Right. The witches simply didn't know it.
+
+"I noticed the same thing happening each time. Something happened in a kingdom. This made everyone feel _the same way_. Somehow, everyone had the _same emotion_. Right after, Endless Blackness would appear somewhere in the kingdom."
+
+Everyone fell silent. Tomsy got out the papers, shuffled them, then found the scribbles he was looking for.
+
+"See? We all know that, in Dragonstripe, the Rainbow Soldiers were very mean. They stole everyone's carriages. Nobody was allowed to leave anymore. This made everyone _angry_. Everyone. It says right here: _Even the pets, and the babies, everyone was angry, and the entire kingdom painted itself red. Then the Endless Blackness appeared._"
+
+The Coven looked at each other again. The crowd around them murmured.
+
+The leader stepped forward and grabbed Tomsy's hand. Her wrinkled fingers felt scratchy against Tomsy's itchy fingers.
+
+"My word, boy," said the leader breathlessly. "Never in my life ... have I heard such ... _NONSENSE_!"
+
+___
+
+Tomsy had locked himself in his bedroom. He hadn't left his bed for two days. Anibela knocked and let herself inside.
+
+"Go away!" yelled Tomsy. "I told you it was a stupid theory!"
+
+"So? So what the witches didn't believe it?"
+
+"I'm dumb. They know I'm dumb. I'm just waiting for them to arrest me. Put some ... some ... no-dumb spell on me."
+
+Anibela sat down on the bed. "You saved our mother, little bro. You immediately solved the case when nobody else had even tried."
+
+"Because it was an easy case. If they had just tried ..."
+
+"_I_ didn't see it," said Anibela. "Are you saying I'm dumber than you, little bro?"
+
+"No. No, of course not. You know you're smart, Anibela."
+
+"Then why don't you believe it when I say _you_ are smart?"
+
+Tomsy looked up. His eyes were glassy from crying. "You ... really believe that, don't you?"
+
+"And who knows you better? Your sister or some shriveled witches?"
+
+Tomsy sniggered. "Don't let them hear you say it."
+
+Anibela smiled and playfully pushed her brother around. "Oh, I'm not worried, little bro. If they arrest me, you'll just talk them around, convince them the trees said it or something."
+
+Silence. Tomsy felt you shouldn't use being smart for bad things like that.
+
+So Tomsy fell back on the bed again. "But you're wrong. If I were really that smart, I would have found more proof long ago. I would have already figured out how to defeat the Endless Blackness! But I don't, so---"
+
+"No, don't---"
+
+"Oh just forget it." He teared his notes apart and threw them in the garbage. "I won't try to solve any big problems ever again. I'm not smart enough. I'll stick to homework and carrying barrels of peas."
+
+Silence again.
+
+"You know," said Anibela cautiously, "they have more history books in the Rainbow Library, little bro."
+
+She did a terrible job of hiding her grin with her hand. "Loads of them. Just waiting to be used. Information about the Dreamforest kingdom, and Sunstripe, and ..."
+
+"Is ... is the library still open?" said Tomsy after a while.
+
+"Just about. We'd need to hurry. But only if you want, little bro ..."
+
+"Ugh. Fine. I'm doing this for _you_."
+
+Tomsy sat up. He gave his sister a stern face, as if he were going to give her a lecture. Anibela knew better than that---he was already smiling when they made the trip together.
+
+When they entered the library, a woman behind a desk perked up.
+
+"We're about to close," she said.
+
+"Oh, just picking out some books for my brother."
+
+"Picture books? We don't have many, but---"
+
+"No, regular books. Big books. Lots of text."
+
+"He's ... but ..." The woman stepped away from the desk. She studied Tomsy as if he were a rare animal. "Is he older than he looks? Four year old boys can't read books for adults."
+
+Anibela smiled. "This one can."
+
+A splash of purple paint exploded from Tomsy. It turned all bookshelves near him purple. But don't worry, they were used to it. In a land where emotions paint everything around you, they had long ago learned to protect objects from that.
+
+Other kids ... couldn't read yet? Tomsy had been reading whatever he liked for years!
+
+"Shouldn't he be playing outside? Or stacking blocks? I think I have a few for---"
+
+_That's_ what other kids his age were doing? Tomsy couldn't just stack blocks. He had built his own bed. He was building an entire garage at the moment.
+
+The purple spread out from him, until the entire first storey of the library was covered.
+
+Anibela explained this too. The woman stepped behind her desk again and pointed them in the right direction. "But seriously, we're about to clos---"
+
+Rainbow Soldiers entered the library. They made a lot of noisy, smashed a bookshelf, and ordered the woman to step away.
+
+Behind them, a voice screamed to calm down. The soldiers stepped aside. Probably to make way for their leader, Tomsy thought.
+
+Their leader, however, was a girl not much older than him. She had a face as if she thought everything and everyone was _smelly_. She had a voice like an old woman. 
+
+"We think this library contains dangerous documents. It might give people the wrong ideas."
+
+"About what?"
+
+"The Endless Blackness. The brave and necessary work our Rainbow Soldiers are doing." She quickly told everyone their tasks. Most of it seemed to be kicking over bookshelves or destroying books. "We're snatching control immediately---everyone out."
+
+"B-But let us grab our books first," tried Tomsy.
+
+"No way. Get out."
+
+Tomsy could see the books he needed. The woman had pointed them in the right direction. Just a few steps forward, some to the left, and he should be able to grab them.
+
+He started moving.
+
+"Do not move!" yelled the girl. "By command of General Leyla, daughter of the High Witch, if you take one more step---"
+
+Tomsy turned around. He smiled his best smile. "But how can we _get out_ if we can't move?"
+
+"Don't play games with me. The entrance is on the other side."
+
+"No, no, you must be mistaken. That was the _exit_. You came in the wrong way."
+
+Leyla frowned. For just a second, she looked over her shoulder.
+
+"You're lying."
+
+"You can read it on the sign above the doors. Your side is the exit, the entrance is on our side."
+
+She wasn't much older than him, Tomsy had guessed. Which meant ... she couldn't read yet.
+
+Leyla looked back again, squinting. As if that would help her read.
+
+It gave Tomsy just enough time to run away. He dove behind the bookshelf as Anibela opened the bag. They threw in all the books within reach.
+
+And they left before Leyla had figured it out.
+
+"That was ... _magical_!" whispered Anibela as they walked home.
+
+"No. It was just smart," said Tomsy with a smile. "Now let's show everyone why I am _right_. The Endless Blackness appears when everyone is feeling the same emotion."
+
+"So how do you guess we defeat it?" asked his sister.
+
+"Don't know. But it must be something similar."
+
+The books they stole had the information they needed. It explained what had happened in other kingdoms. And it was, indeed, a _pattern_. The same anywhere. Something happened, everyone felt the same---anger, sadness, fear, joy---and then it all went wrong.
+
+Every day, Tomsy noticed the Rainbow Soldiers getting meaner. They stole buildings now, like the library. They forced everyone to fight the Endless Blackness. Soon, they forbid everyone from feeling _curiosity_ in his kingdom.
+
+To Tomsy, that felt like the world was ending.
+
+He needed to fight it. He _was_ smart enough. Maybe even smarter. If there was someone who could find the secret to world peas, it would be him.

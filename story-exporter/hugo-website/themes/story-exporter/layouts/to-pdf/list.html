@@ -61,11 +61,13 @@
 
     <body>
 
-        <!-- Colofon -->
-        {{ $custom_data := index .Site.Data "book-data" }}
+        <!-- Front Page -->
+        {{ $custom_data := index .Site.Data "metadata" }}
+        {{ $title := index (index (index $custom_data "title") 0) "text" }}
+        {{ $author := index (index (index $custom_data "creator") 0) "text" }}
         <div class="cover-text">
-            <h2 class="cover-title">{{ index $custom_data "title" }}</h2>
-            <p class="cover-author">Tiamo Pastoor</p>
+            <h2 class="cover-title">{{ $title }}</h2>
+            <p class="cover-author">{{ $author }}</p>
         </div>
 
         <!-- TOC -->

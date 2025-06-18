@@ -3,8 +3,8 @@ type: "product"
 title: "Quiz of Sims"
 id: "quiz-of-sims"
 date: 2025-03-01
-price: 7.95
-image: ["quiz-of-sims-header.webp", "quiz-of-sims-screenshot-1.webp", "quiz-of-sims-screenshot-2.webp", "quiz-of-sims-screenshot-3.webp"]
+price: 9.95
+image: ["quiz-of-sims-header.webp", "quiz-of-sims-1.webp", "quiz-of-sims-2.webp", "quiz-of-sims-3.webp", "quiz-of-sims-4.webp", "quiz-of-sims-5.webp"]
 file: "@TODO"
 spell: ["video-games-batch-1"]
 description: | 
@@ -15,7 +15,7 @@ description: |
 
 contents:
 - Instructions PDF
-- Digital Quiz (open in any browser); @TODO questions
+- Digital Quiz (open in any browser); 79 questions
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
 
@@ -23,7 +23,7 @@ level: 2
 language: "EN"
 categories: ["video-games", "the-sims"]
 player-count: 1-100
-age: 6
+age: 5
 # requirements: ""
 # single-use: false
 duration: 90
@@ -49,16 +49,18 @@ interactive-media: true
 
 ---
 
-This is a family quiz themed around **The Sims** (the entire video game franchise). It's a perfect gift for someone who loves playing The Sims, perhaps on their birthday. This is the _family_ edition, which means the questions are of medium difficulty, and people who barely know anything about The Sims can still play along!
+This is a family quiz themed around **The Sims** (the entire video game franchise). It's a perfect gift for someone who loves playing The Sims, perhaps on their birthday. This is the _family_ edition, which means the questions are of easy-to-medium difficulty. People who barely know anything about The Sims can still play along!
 
-This quiz divided into @TODO rounds, @TODO questions total, though you can select which ones to play in the settings.
+This quiz is divided into 8 rounds, 79 questions total. So roughly 10 questions per round. Though you can select which rounds to play in the settings and are obviously not required to do it all (at once)!
 
 * General Knowledge
-* Moms & Media
-* Save the Date
-* Famous Mothers
-* Animal King-mom
-* Gifts & Traditions
+* Buildings Bottled (about the building part of the game)
+* Sound Effects (about Simlish, its soundtrack, etcetera)
+* Inexpensive Items & Crazy Careers (about general elements of the game, mostly items and careers/skills)
+* Living the Lore (rumors, theories, backstories, lore established by fans over the years)
+* How does THAT work? (crazy interactions and secrets within The Sims games)
+* Townies & Frownies (about he playable families, recurring characters, etcetera)
+* The Expansion Pack Pile (about the many many expansions and extras)
 
 If you want to play with die-hard Sims players, check out the [Quiz of Sims Pro](/quizmasters/themed/video-games/quiz-of-sims-pro/) instead! It contains much harder questions and obscure references.
 

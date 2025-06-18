@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: Chronicles of the Colorblind
+description: "A world where emotions paint the world specific colors and heroes who try to fight Endless Blackness."
+cover-image: "./epub/cover.png"
+css: "./epub/ebook_style.css"
+lang: en-EN
+creator:
+- role: author
+  text: Tiamo Pastoor
+---

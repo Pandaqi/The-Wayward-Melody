@@ -4,9 +4,9 @@ title: "Chronicles of the Colorblind"
 id: "chronicles-of-the-colorblind"
 date: 2025-04-26
 price: 9.95
-image: "chronicles-of-the-colorblind-header.webp"
-file: "@TODO"
-spell: ["my-first-colors"]
+image: ["chronicles-of-the-colorblind-header.webp", "chronicles-of-the-colorblind-1.webp", "chronicles-of-the-colorblind-2.webp", "chronicles-of-the-colorblind-3.webp", "chronicles-of-the-colorblind-4.webp", "chronicles-of-the-colorblind-5.webp"]
+file: "96c05080-6482-49e1-adc1-328419f921fa"
+spell: ["my-first-colors", "my-first-emotions"]
 description: | 
   A strange magic runs the Rainbow World
   As emotions paint the land certain colors and tints
@@ -14,18 +14,23 @@ description: |
   To solve their problems before Endless Blackness descends
 
 contents:
-- 10 Stories, each one focused on a different color
+- 12 Stories, each one focused on a different color
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 
 level: 1
+age: 4
 language: "EN"
 subject: "Logic"
-categories: ["colors"]
+categories: ["colors", "emotions"]
 
 ---
 
-This bundle contains **a collection of related short stories** (fairy tales the length of book chapters) about **basic colors**. Each story focuses on one specific color, sneakily introducing many situations where it occurs, and telling a tale around the emotions commonly associated with that color.
+This bundle contains **a collection of related short stories** (fairy tales the length of book chapters) about **basic colors and emotions**. Each story focuses on one specific color, sneakily introducing many situations where it occurs, and telling a tale around the emotions commonly associated with that color. 
+
+* The stories can be read standalone, but it's highly recommended to just read them in order and see **the bigger story**!
+* It can be read **to** children aged 4/5 to explore basic colors and emotions
+* It can also be read **by** older children who can appreciate the deeper meanings and context.
 
 All these stories take place in Rainbow World, which is infused with a strange magic. The land is _painted_ by your emotions. Angry? Your home is suddenly red. Sad? The baguette in your hand is suddenly blue. 
 
@@ -39,5 +44,5 @@ Fun Facts:
 
 * [The Piqarine Painter](/runaways/level-1/maths/the-piqarine-paintings/), from the escape room with the same name, appears here!
 * The [Colorcountries](/puzzlepages/level-1/maths/colorcountries/) puzzle contains drawings of all the different (made-up) countries mentioned in this bundle!
-* The initial title for this bundle was _All The Beauty We Cannot See_. Although we love this phrase and it fits, we felt it would probably radiate the wrong idea. (That these were serious stories for grown-ups, instead of fairy tales about all colors of the rainbow.)
+* The initial title for this bundle was _All The Beauty We Cannot See_. Although we love this phrase and it fits, we felt it would probably radiate the wrong idea. (That these were serious stories for grown-ups, instead of fairy tales about all colors of the rainbow.) It does indicate that these stories became much better and more refined than we initially planned, and we think this is some of the best storytelling work we ever did.
 
