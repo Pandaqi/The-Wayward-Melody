@@ -3,11 +3,11 @@ type: "product"
 title: "My First Numbers"
 id: "my-first-numbers"
 date: 2025-06-26
-price: 5.95
+price: 9.95
 image: ""
 file: "@TODO"
-spell: ["my-first-numbers"]
-advances: "my-first-comparing"
+spell: "my-first-numbers"
+advances: "my-first-grouping"
 description: | 
   Once your apprentice has mastered comparing, sorting and more
   It might be time for the real deal, so find the witches

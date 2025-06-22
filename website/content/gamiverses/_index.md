@@ -30,11 +30,11 @@ Please note that many of the Pandaqi games are older work _and_ made as a hobby.
 
 We focus on **simple and minimalist games** (at most 1 page of rules, 1 minute of setup, only several pages of material). To prevent making it simplistic, however, we usually add a single well-designed twist to make them interesting for kids and adults alike. After ten years of making games simpler, shorter and more streamlined, we have the 1-page-rulebook down to a science.
 
-We focus on **clever games**, not homework or lots of reading, that simulate something in real life and teaches how that works. Sure, you could force a child to read ten pages about the Roman Empire. You could _also_ design a game in which they _live_ inside the Roman Empire, or _run_ a part of it, and have fun while gaining a far deeper understanding of it.
+We focus on **clever games**, not homework or lots of reading, that simulate something in real life and teach how that works. Sure, you could force a child to read ten pages about the Roman Empire. You could _also_ design a game in which they _live_ inside the Roman Empire, or _run_ a part of it, and have fun while gaining a far deeper understanding of it.
 
 Because of our focus on educational games for all ages, they will usually be **textless, short, and family friendly** too. The core of the game is something anyone can understand, and communication happens through icons/colors/shapes. Once in a while, we break this trend to go all-out on a really thematic, colorful, immersive game, which is usually reflected by their price tag and marketing ;)
 
-Our biggest asset, however, is our broad knowledge of what games can be. How we can apply proven ideas and mechanics to do away with _any_ hurdles standing between (young/inexperienced) players and new board games. See the next section for what that means.
+Our biggest asset, however, is our broad knowledge of **what games can be**. How we can apply proven ideas and mechanics to do away with _any_ hurdles standing between (young/inexperienced) players and new board games. See the next section for what that means.
 
 {{% /section-foldable %}}
 
@@ -54,7 +54,7 @@ There are plenty exceptions to this, of course. Some games just do not work with
 
 I have always loved _learning_, but hated _education_. I've researched how people actually _learn_ all my life, literally since I was a boy, and came away with a few certain conclusions. One of them is that **playing games = learning**. Absolutely. No questions about it. Moving on. (I have actually written countless articles on this if you want details, both on this website, my Pandaqi blog, and my personal blog.)
 
-I wrote educational _stories_, such as [The Saga of Life](https://thesagaoflife.com). I wrote literal educational tutorials/courses on [Pandaqi Tutorials](https://pandaqi.com/tutorials/). But with every project I did, every study I read, everything I experienced, I kept coming back to the holy grail of learning. Reading is inefficient and often not fun. Sitting in class and letting the teacher waffle on about something is _incredibly_ inefficient. All the things I tried, all the things school is doing, simply paled in comparison to the **effectiveness and pleasure of well-designed board games**. 
+I wrote educational _stories_, such as [The Saga of Life](https://thesagaoflife.com). I wrote literal educational tutorials/courses on [Pandaqi Tutorials](https://pandaqi.com/tutorials/). But with every project I did, every study I read, everything I experienced, I kept coming back to the holy grail of learning. Reading is inefficient and often not fun. Sitting in class and letting the teacher waffle on about something is _incredibly_ inefficient. All the things I tried, all the things schools are doing, simply paled in comparison to the **effectiveness and pleasure of well-designed board games**. 
 
 And so I started developing an entire **curriculum of board games**. Literally a school curriculum where every important topic or skill is handled through a board game.
 

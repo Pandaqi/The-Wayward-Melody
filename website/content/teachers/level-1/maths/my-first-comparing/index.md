@@ -4,9 +4,9 @@ title: "My First Comparing"
 id: "my-first-comparing"
 date: 2025-06-26
 price: 9.95
-image: ""
+image: "my-first-comparing-header.webp"
 file: "@TODO"
-spell: ["my-first-comparing"]
+spell: "my-first-comparing"
 advances: "my-first-colors"
 description: | 
   Once an Apprentice recognizes shapes, colors and more
@@ -25,15 +25,11 @@ contents:
 - Wizard Sorting (cut out funny beings, sort by properties such as length, width or number of eyes)
 - Animal Sorting (cut out animals, sort based on weight as illustrated by given examples)
 - Fantasy Forest Paths x7 (Feasting Fox, Lazy Lion, Eww-Height Elephant, Bluesight Bull, Mathy Mouse, Scared Spider, Circle Cat)
-- Combined Exercise; Group & Sort (first group cutouts by type, then sort the _groups_)
-- Combined Exercise; Loosy-Goosy Grouping (draw multiple lines through images on the same page, based on different properties, and it reveals something)
-
-
 
 level: 1
 language: "EN"
 subject: "Logic"
-categories: ["comparing", "sorting", "grouping"]
+categories: ["comparing", "sorting"]
 player-count: 1-100
 age: 3
 # requirements: ""
@@ -61,7 +57,7 @@ guardian-required: true
 
 ---
 
-Once someone can differentiate between objects, the next logical step is to differentiate in _more detail_. Yes, thing A is different from thing B, but _how_? The most intuitive way to practice this, especially for someone who can't read/write yet, is to group and sort objects on some metric.
+Once someone can differentiate between objects, the next logical step is to differentiate in _more detail_. Yes, thing A is different from thing B, but _how_? The most intuitive way to practice this, especially for someone who can't read/write yet, is to _compare_ objects on some metric. (And later _group_ or _sort_ them, in the next teaching resource.)
 
 This is such a core skill, connected to and needed for almost everything, that we decided to pack a lot into this one resource. It approaches the skill from many different angles. It starts off very easy but moves to more and more advanced applications with every exercise/puzzle/game. 
 
@@ -74,3 +70,11 @@ In those exercises,
 * If you did it right, the path ends at the (secret) home of the animal!
 
 It tests the skill numerous times, while allowing fun stories and characters, while allowing diverse rules each time, while automatically checking if you did it right. (In many cases, you can even do the same path multiple times, switching to a _different_ animal.)
+
+{{% update %}}
+This part of the curriculum used to be a single resource called **Comparing & Grouping**. These two are highly connected, which is why we put them in a single product at first.
+
+When you compare two things, and determine they're the same ... well, they belong to the same group. If you compare two things and determine they're not the same ... they are in a different group. This skill directly leads to the ability to spot patterns and group things according to that.
+
+In the end, however, we had too many interesting things to say and teach about this. This single product/category became far too big, and we split it again into **My First Comparing** followed by **My First Grouping**. 
+{{% /update %}}

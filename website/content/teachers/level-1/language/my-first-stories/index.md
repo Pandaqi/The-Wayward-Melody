@@ -7,7 +7,7 @@ price: 5.95
 image: ""
 file: "@TODO"
 spell: ["my-first-stories"]
-advances: ["phonemic-fun", "phantasy-phonics", "syllable-awareness"]
+advances: ["phantasy-phonics"]
 description: | 
   With a few words and letters under your belt
   An apprentice can quickly start to appreciate a tale

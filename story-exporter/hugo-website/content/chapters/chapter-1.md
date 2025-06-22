@@ -1,291 +1,191 @@
 ---
-title: Kingdom of Ember Apples
+title: "King Triangle & Circlesnake Spy"
 weight: 10
-color: Red
+shape: Triangle
 ---
 
-# Kingdom of Ember Apples
+# King Triangle & Circlesnake Spy
 
-They say the world started from nothing but blackness. Ruby never believed it. All she ever saw, and had ever seen, was _red_.
+Once upon a time, the land of Shapesong had magical beings in all shapes. Rectangular humans. Star-shaped foxes. Fishes shaped like a donut. 
 
-Just now, she dashed past a red tree. She jumped over the red river and scared some red sheep. Just out of reach, her favorite toy rolled down the hill growing red grass, ever closer to being lost in the red sea. She screamed a nasty word. One that I'll merely translate as _Flubberdygollocks!_ She kicked the earth as her doll swam to the bottom of the ocean, a plastic smile forever on her face. 
+Until, one day, a new king sat on the throne. He was a Triangle himself, wearing a Triangle crown, and a Triangle robe, with Triangle fangs coming out of his mouth. In fact, you could look at him for days, and find no part that _wasn't_ a Triangle.
 
-Yes, yes, Ruby let _everyone_ know how angry she was on the way home. The trees. The grass, now stomped flat. Even the sheep. Oh, even the Rainbow Soldiers that ran past her. They looked panicked but still _stunning_, with their feathers, flags, and rainbow aura. 
+And on his first day he said: "_Only Triangles are allowed in my kingdom! Everyone else is the wrong shape and doesn't belong here!_"
 
-Ruby's shoulders could not sag further if they tried---and they really tried. Her face was, you wouldn't believe it, glowing hot red. On days like these, Ruby's _eyes_ could even glow red, as if she were a dragon about to spit fire.
+Nobody had seen this coming. Nobody understood _why_. Nobody was prepared. Especially not his own son, the Prince, who was a proud Circlesnake.
 
-"I want to move away," declared Ruby to her parents. She fell onto the nearest chair and crossed her arms. Just then, the chair creaked and a leg broke off. Ruby soon rolled over the ground, screaming Flubberdygollocks again, and asking herself: _Why me? Why always me?_
+Prince Circle woke up to guards around his bed. They took him to the "dungeons", which were prison cells below the castle. Like a basement meant for locking up bad shapes.
 
-"Why?" asked mom. "It's nice here! And we're far from the Rainbow Front."
+"But ... but father!" was all the Prince could say. He had no way to fight back. The guards easily _rolled_ his body down the stairs, through the hallway, and into a small gray box.
 
-"Don't speak too soon," said father. He looked up from a newspaper that painted its images on the fly, as if an incredibly creative toddler was caught inside the pages. "Didn't you see the Rainbow Soldiers?"
+Shapesong was a large kingdom. And so, many animals hoped that King Triangle wouldn't notice them. Cats shaped like Pentagons thought they were safe if they lived far away from the castle. Hedgehogs shaped like Trapezoids hid inside cupboards to hide their shape.
 
-"An exception," said mother. "Maybe an exercise?"
+The animals would be wrong. King Triangle was furious whenever he saw something that was _not_ a Triangle.
 
-Ruby thought those soldiers looked far too scared for just doing some exercises. 
+The walls of the castle? They had to be broken down and made a Triangle too. His bed? A Triangle mattress, of course. The doors in the castle? All Triangles as well, which meant they opened by going _upwards_.
 
-With all her angry power, she hauled another chair into the kitchen. Still red-faced, she sat down on it.
+He forced everyone in the palace to look at screens so much that they didn't just get Square eyes, they got Triangle eyes. And needed glasses afterwards. Triangle glasses, of course.
 
-Needless to say, this chair suddenly felt a desire to sleep in a horizontal position. Ruby soon rolled over the floor again, inventing a new curse word like _Rainbows and Rats_!
+In the dungeons, Prince Circle met other animals. A farmer shaped like a Hexagon. A guard unlucky enough to be an Ellipse. They thought his father was _insane_. Gone mad!
 
-"Don't you see?" she said. "This place is unlucky! Everything goes wrong! It ... it must be cursed!"
+"Someone has to stop him," said the farmer.
 
-"You're just having a bad day," said father.
+"Yes. It's not right," said the guard.
 
-"Like _every_ day," mumbled mother. The two of them looked at each other, but still didn't agree with Ruby. "Why don't you try playing with some friends? Or maybe you would like a pet to ... calm you down? Have you seen that new litter of rainbow unicorns---"
+"My father must have a good reason," said the Prince. Even though he couldn't imagine what the reason would be.
 
-A pet? Her parents had _never_ offered to give her one before!
+The other prisoners shook their heads. Which, in most cases, meant shaking their entire shape. 
 
-Ruby _would_ like a pet. Or friends.
+The farmer said: "Trust me, Prince Circlesnake. Before morning, the Piqarine Painter will save us."
 
-She stomped out of the house again. Her kingdom was one large orchard, located inside the Valley of Flame. Outside of the valley, finding your way wasn't much easier, though. Their border with the Dreamforest was one large _maze_ instead.
+Ah. Yes. The Prince had heard of that name. A thief. A criminal. Stealing gold from King Triangle, though mostly stealing his paintings for some reason.
 
-Ruby weaved through the trees and thorny rose bushes. Until she saw some children playing.
+The problem was that he only ever heard the _name_. The Piqarine Painter did whatever she liked, but nobody could see her or catch her. She could be a ghost. She might be in the castle already ...
 
-She approached silently, like a predator spying on prey. Until she stepped on a twig which  _snapped_, loudly. Because of course it did! Why her? Why always her?
+"And what ... what will happen to my father then?" asked the Prince.
 
-The children saw her too. Without hesitation, they decided to continue their ball game somewhere else.
+"The punishment is to lose a corner," said the guard. "But your father is already a Triangle ..."
 
-"Hey! Hey!" yelled Ruby, chasing after them. "I know what game you're playing! Can I play too?"
+"He'd become a _line_!" said the farmer. "Nobody survives that!"
 
-Some of the children stopped and turned. Others kept pretending they didn't hear. The boy holding the blue ball under his armpit stood frozen in-between the two groups.
+The Prince shivered. His father a line? He had nightmares about it. Lines couldn't have eyes, or a mouth, or arms. It looked terrible. Must be painful, too. No living thing was meant to look like a _line_!
 
-Ruby caught her breath. She tried to smile---it didn't come naturally to her.
+Then something flashed past his dungeon cell.
 
-"I'm Ruby."
+It went too fast. Like an explosion. Like smoke spreading, then disappearing. If he looked real hard, he thought he saw a fierce animal dancing around.
 
-"We know," said the ballbearer.
+Then, all the cell doors suddenly opened.
 
-"Well, then, erm, can I join?" Ruby already reached for the ball. If there was one thing she was good at, it was _kicking_ a ball _real hard_.
+The smoke was gone. They were all free.
 
-But the boy turned away. Ruby merely touched the ball with her fingertips. And what was once a shiny blue ball now had a streak of red.
+"Haha! Told you!" said the farmer. "_Thank you Piqarine Painter!_"
 
-"She always ruins it," mumbled a girl behind him.
+Everyone fled the dungeons. They were outside before anyone noticed. They probably went back to their home, grabbed their family, and ran away.
 
-"Bad luck goes wherever she goes," mumbled another girl.
+Prince Circle didn't know what to do. His father had locked him up! Just for looking like a Circle! But ... but ... he couldn't let the Piqarine Painter win. She was his biggest enemy. He had trained for years on how to defeat her with a snake bite. 
 
-"And terrible taste in colors," mumbled the first girl.
+Most of all, he couldn't let his father become a _line_.
 
-"But ... but ..."
+Prince Circle didn't escape when he could. A huge mistake, dear reader, if you ask me. 
 
-All the apples fell from the trees. Red. Red as fire.
-
-"You're _stupid_!" yelled Ruby. "And _mean_! And, and, and---"
-
-She kicked the ball out of the boy's hands and ran away again. 
-
-The sun had started to set, and the apple trees grew long and mysterious shadows. Her parents were looking for her, but they weren't worried. For whever Ruby stomped, she left a clear trail of red paint in her wake.
-
-Her parents had seen the whole thing. As Ruby bounced into their arms, they sighed and agreed to move away.
+He walked back into the palace, and demanded a talk with his father King Triangle.
 
 ___
 
-Ruby and her parents couldn't find a unicorn to ride on. There were plenty available, but all of them grew terribly nervous when Ruby got near. This made Ruby even angrier, which painted the entire unicorn farm red, which had them banished from the grounds. They had to settle for a simple dragon-drawn carriage instead.
+King Triangle sat on his Triangle throne. A Triangular book called _The Shape of Good Kings_ lay on his lap.
 
-"We could go to the Dreamforest," said mother. "They say it's beautiful and---"
+"I thought I was very clear!" yelled the king. "My son was to be locked up! Does he look like a Triangle? Eh? Didn't think so. Why is he here?"
 
-The carriage came to a sudden stop. Ruby twisted to stick her head out of the window.
+"We did lock him up," said a guard, shifting on his feet. "But he escaped and came back."
 
-Their driver! Several Rainbow Soldiers _pulled_ him off the dragon, as if he were a doll. One of them already climbed onto the carriage.
+King Triangle frowned. "Hmm. To be expected. Circles can't help but come back to where they came from."
 
-"There are passengers inside!" cried their driver, as he struggled to get out of the mud.
+"I want to help you, father," said the Prince.
 
-"Kick them out too," said the commander to the soldiers.
+"You're not a Triangle. You can't help me. It would look terrible if I let my own son free!"
 
-"What's this about?" demanded father.
+"I have a plan. Let me travel through the kingdom. The shape animals ... they trust me."
 
-"Calm down, sir. Or we'll need to arrest you."
+King Triangle jumped from his throne. "They do? What makes you think that?"
 
-"Excuse me?"
+"I spoke to some of them in the dungeons. As you said: I am _not_ a Triangle. They would never ... suspect me."
 
-A younger soldier opened the carriage door. He shoved Ruby around, but she slipped away. "Look, we're doing this for you. The Blackness is closer than we thought. There's no telling what happens if it reaches our volcanoes."
+King Triangle chuckled. "Ah yes. I see. You want to spy on them. You think you can find shapes hiding from me, then tell me about them?"
 
-"So?" asked Ruby.
+"Yes," said the Prince. He bowed and lowered his eyes. "After all, I am just a humble Circlesnake."
 
-"Get out!" screamed the commander. His face, however, looked weirdly neutral, almost friendly. "We need this carriage for the fight. Everyone is ordered to stay inside the kingdom."
+"Hmm. Hmm." 
 
-"You can't tell us what to do!" screamed Ruby. "Let us go! This is our carriage!"
+King Triangle walked towards his son. Triangles can't walk very well, of course. They'd have to shuffle, if they could move at all. But most animals in Shapesong had tiny little legs and arms around their shape to help out. Scientists didn't understand how such strange animals were ever created. They got a pointy head just thinking about it.
 
-"Calm down, girl."
+"Alright then," he whispered to the Prince. "Be my little snake. Travel the kingdom, pretend you could be friends with a filthy Square or Pentagon. Then bite them when they're not looking."
 
-"You can't tell me what to---"
+The Prince swallowed. It was a dangerous plan. The weight of it made him sag and almost become an ellipse. He just hoped he could pull it off, save his father, and become King Circle himself in the future.
 
-"Do _not_ feel angry!" clarified the commander. "Or I'll have no choice but to arrest you and lock you---"
+"Why must everyone be a Triangle?" asked the Prince.
 
-Ruby wanted to scream---but she couldn't. She wanted to kick the soldiers away---but she couldn't. They had just told her she was not allowed to feel something. They had forbidden the emotion called _anger_.
+"I'm the king. I don't have to explain myself."
 
-And that, unsurprisingly, just made her even _angrier_.
+"But what if they ask me? What if some Rectangle animal asks me _why_ you're doing this?"
 
-"Look," said the young soldier again, losing his patience. "We can't allow people to come and go at the moment. Who knows what emotions they bring with them? We _can't_ let Blackness descend over the Valley of Flame! We're the only country that has _never_ been defeated by _anything_! And today is no---"
+"Hmm. Very well." 
 
-Let me remind you that it was midnight. The forest was dark, the scene barely lit by the soldier's shiny uniforms. In this kingdom, even the moon seemed more red than white. Even the sharpest of eyes wouldn't be able to make out colors in this darkness.
+King Triangle started pacing around the room. His pointy head seemed to glow, which always happened when he was thinking. Then he spread his tiny hands, which always happened when he was telling a story. 
 
-But when Ruby jumped from the carriage and bit the soldier's hand, she might as well have set the clearing on fire.
+"I once had a Circle friend. A bear. His face and body were both inside a perfectly round Circle, which made him very strong. So he became a builder."
 
-The carriage painted itself red. The ground became bright red. The soldiers scrambled as their uniforms and weapons became a shiny red.
+King Triangle pointed all around himself. "He built large parts of this castle!"
 
-"Go away!" yelled Ruby. "Leave my family alone! Why can't the world just _let me be happy_?"
+"Sounds like a nice friend."
 
-"Dear, dear," mumbled mother, "maybe you should---"
+"But he was _not_!" yelled King Triangle. "He built doors shaped like a Circle! Said he had to do it, or he couldn't enter the castle himself! Can you imagine? Doors shaped like a _Circle_!?"
 
-Ruby had already climbed on top of the carriage herself. She pushed the commander, but he was far too heavy to budge. He reached for his special handcuffs that could suppress all emotions. Ruby kicked them out of his hands.
+"I can---"
 
-In the faraway distance, the first volcano went off, followed by a minor shaking of the ground. Nobody took notice.
+"You can't, that's right! He had completely ignored the plan. He had wasted gold and wood on doors that I couldn't even open. My bear friend betrayed me!"
 
-The commander balled his fists and studied his white knuckles for a tense moment. 
+"I ... I don't understand," said the Prince. How did this explain anything? A Circle bear let him down, and now the king arrested all the other shapes?
 
-"Don't get angry, don't get angry, don't get angry," he mumbled to himself.
-
-Then he left the carriage and pulled his soldiers away. 
-
-"Go on then," he said, trying to sound calm. He waved a piece of paper that was writing itself as he spoke. "Leave the Kingdom of Ember Apples. But if you ever return, Ruby, you'll be arrested _immediately_! You brought danger upon us all! This piece of paper proves you felt an illegal emotion, on purpose!"
-
-On purpose? Ruby _never_ felt like emotions were on purpose. They just arrived. Like raindrops inside her head. She couldn't control them, and believed nobody could. Other children were just lucky to be born without a lot of anger---Ruby was unlucky to be born with a talent for it.
-
-The driver climbed back on the tiny dragon steering the carriage. His face flustered, his hands shaking, he continued their journey. Away from those stupid red lands, thought Ruby. Away from their cursed home.
+"You'll understand when you're older," said King Triangle. "Now go out and spy for me."
 
 ___
 
-Ruby had never seen lands so ... _not-red_. There were other colors here! Nature was supposed to be _green_, apparently. The sky was supposed to be _blue_. Animals were supposed to have a variety of colors. Who knew that elephants weren't supposed to be red?
+A farmer stood before King Triangle. He was a Triangle himself, so he didn't need to fear. Still he shivered and shook, his hands sweaty.
 
-For hours, Ruby hung out of the window, and nearly fell out five times. She wanted to see it all. Touch it all. The smile on her face came quite naturally this time, and stayed until they arrived at their new home.
+"It's impossible, sire," said the farmer. "We _can't_ grow bananas in the shape of a Triangle for you."
 
-She had already spotted some children playing a ball game.
+"Try harder."
 
-Her mother nodded and smiled. "Go on then. Go and introduce yourself. Be on your best behavior!"
+"With respect, sire," the farmer's voice nearly broke. "My family are the best farmers. It can't be done."
 
-"Always, always," mumbled Ruby. 
+"Then bananas are forbidden, forever. Try oranges shaped like a Triangle. Or apples."
 
-She skipped towards the group, waving all the way. They looked up. The ball was in mid-air, so it hit the cheek of an unfortunate boy not paying attention anymore.
+"We tried them all. It's not possible."
 
-"Hello!" said Ruby. "I'm Ruby. I'm new here. Can I play?"
+King Triangle stomped the floor. He almost destroyed his own throne in anger. 
 
-"Erm, sure?" said the boy. He rubbed his sore cheek, then picked up the ball to give it to her.
+"Surely we have better farmers! Someone must know how to make a Triangle Pear!"
 
-The ball was beautiful. A mixture of natural colors, green, blue, and a bit of yellow. Most importantly: Ruby held it for a few seconds, and it did _not_ turn red!
+"We do. But you locked them all up." 
 
-Ruby smiled. Then she kicked the ball so hard that the boy's other cheek was now sore. They laughed about it. But a few of them told Ruby to "calm down", and the boy kicked the ball back into _her_ face. On purpose! He must have!
+Before long, his name had changed to The Triangle Tyrant. The word _tyrant_, here, means "very mean person who wants all the power for himself". It should not be confused with the word _hydrant_, which is used to supply water when fighting a fire. It should certainly not be confused with the word _handstand_, which was something a Triangle couldn't do. They'd try to balance on their pointy tip ... and just fall over. Embarrassing.
 
-"You're just mad because I _scored_ ... right? Did I score?" asked Ruby. "Wait, what are your goals? What are the rules?"
+King Triangle did _not_ like to be embarrassed in front of everyone. 
 
-"Of course you didn't score. Because we don't---"
+And so he yelled to the farmer: "Begone, you liar! To the dungeons with you! Locked up for life!"
 
-Ruby frowned. Her arms were already crossed. "_Of course_ I didn't score? What's that supposed to mean?"
+This was problematic, as the dungeons were currently being rebuilt. They used to be Square---a sensible shape for a room, don't you think---but that obviously wasn't an option anymore. Before long, the dungeons were all Triangle shaped. And the guards were constantly getting lost.
 
-"Maybe you should---"
+Then they changed all soccer courts to be triangular too. This was a massive advantage to the side whose goal was just a single point. Not to mention the Triangle ball that didn't roll as easily as it used to. So they completely changed the rules and made it a sport with three teams.
 
-"Don't tell me what to do! Or what to feel!" The ball turned red again. "Maybe _you_ should not hate on strangers!"
+This afternoon, King Triangle looked for a magician that could shape the clouds like Triangles for him. And the sun---did it _have_ to be a Circle? A Triangle sun would do just fine. Better, even. Shapesong would never have looked so beautiful and hooky!
 
-"We don't! We just want to explain the rules of our handball game---"
+The problem, dear reader, was that all magicians were gone. No, they were not on holiday. Even though many hoped they were.
 
-Ruby kicked the ball away again. This time, the boy had to walk for a minute to retrieve it from someone's garage.
+The landscape of Shapesong was full of evidence that magic once existed. But now it was gone. All they had left were mysterious things called _Shaeprints_.
 
-In the meantime, the girls interrogated her. "What was your name again? Where did you come from? Did you see the Rainbow Soldiers? How bad is it out there? What is---"
+They appeared everywhere. Shapes cut out of stone, shapes cut out of wood, shapes cut out of the walls. It was like a footprint pushed into dirt, but in the form of a basic shape.
 
-"Stop making so much noise!" said Ruby, waving her arms to get everyone away from her.
+Every home had at least one Shaeprint. A few Circle holes in the wall. A Square cut out of the roof. The castle even had Pentagons and Hexagons cut out of its towers.
 
-By the time the boy returned, the entire playing area was red again. All the beautiful and diverse colors from before were gone, and Ruby stood at the center of it.
+What did they do? Were they decoration? Was a knight bored and used his sword? Nobody knew.
 
-The children grew stone-faced. The boy kept the ball far away from her. "Well, rule number one is that you _play nicely_."
+They only knew that it felt weird to go near them. You got all tingly. Goosebumps. You'd feel both angry and happy at the same time. Your eyes saw everything in a _slightly_ different color.
 
-"I already know where you're from, filthy _dragon_," spit the girl that interrogated her before. "As they say: _Valley of Flame, all anger no brain._"
+These Shaeprints were magical, alright. But how? And what did they do?
 
-Ruby _screamed_. Everyone was against her! No matter where she went! Everyone was the same. Her life was cursed. 
+King Triangle had figured it out. Or, well, he'd stolen the secret from a certain Circle bear.
 
-Tears streaming down her face, she ran away. 
+His hands held two stones. They were cut like Triangles. And perfectly so. Their edges were smooth, their size exactly the same.
 
-___
+More importantly, the Triangle stones in his hand looked _exactly_ like the Shaeprint before him. They were made for it. He had measured the size of the Shaeprint holes, and asked someone to make these stones.
 
-Ruby would've run back home if she could. But first of all, it was a long way away, and with her "luck" she would surely break a leg halfway through. Second of all, she remembered they would just arrest her for daring to _feel angry_.
+He placed one of them. It fit perfectly.
 
-And so she ran in circles, finding nowhere to go, and waited until her mother found her. 
+He placed the other. It fit perfectly too.
 
-Ruby was easy to find. She left a clear trail of not-red objects painted red in her wake.
+He had filled both the Shaeprint holes. To anyone else, this would look like a normal wall, without holes at all.
 
-"What is it now?" asked mother.
+King Triangle took a step back. Let the magic happen! Two Triangles---this must mean great and powerful magic that was going to help him!
 
-"Everyone hates me!"
-
-"What did they do?"
-
-"They ... they ..."
-
-What _did_ they do? Ruby struggled to explain it. It wasn't like they attacked her. They let her play without even knowing her. And ... and what was it they said? They had _different_ rules? _Handball_? So, no kicking, she guessed. 
-
-"They did nothing?"
-
-"Oh, great, so you're doubting me as well now!" yelled Ruby, pushing mother away.
-
-"Could it be, dear," tried mother gently, "that it was _you_ who---"
-
-Ruby shook her head. "It's not me! It's that curse! I can't help but see red."
-
-"Then stop looking for it," said mother, gently stroking Ruby's hair.
-
-"What?"
-
-"Whatever someone says, you take it as an insult. Whatever happens, you told yourself it's a curse and a bad thing. You keep saying it over and over, until all you can see is ... red."
-
-Ruby frowned. "You don't think I'm cursed?"
-
-"I know for a fact that you're not," said mother. "You were the luckiest girl alive, the first years after you were born. That jar of coins besides your bed? You _found_ them all in the orchard, at random."
-
-Mother pulled Ruby back to her feet. She brushed the twigs, and mud, and unidentifiable red objects off her clothes and face.
-
-"And the way you handled those soldiers?" she said. "Anyone else would've been arrested right there! Or we'd be left in the dark, alone, and without a carriage! But no, you got us out of the country, and not in a jail. Quite a lucky outcome, don't you think?"
-
-Mother turned her around. To Ruby's surprise, the children who played their _handball_ game had been standing there all this time.
-
-First there was silence. How _dare_ mother play this trick on her? Who does she think she is?
-
-"Try," whispered mother behind her.
-
-Ruby looked at the grass around her feet. Slowly, the grass lost its red color. "Could you ... maybe ... explain the rules of your game to me?"
-
-"We'd love to," said the boy, smiling.
-
-"I promise not to kick it anymore."
-
-"Well---we thought---" said the girl. "It could be a fun extra rule, right? Maybe one player per team can kick?"
-
-"Wait, wait, wait, then I want her on my team!" yelled the boy.
-
-"You can have her," said another girl, rolling her eyes. "She's probably rubbish at the rest of the game."
-
-_Rubbish!?_ How _dare_ they call her rubb---
-
-Ruby felt as if she had just woken up. As if everything that had come before was just a dream, and now she saw the world for real. As if she'd only had one eye open all this time, only using half her brain.
-
-It was all so _clear_ to her now. She could almost she herself from her mother's eyes---see how she was turning red.
-
-Instead, Ruby broke the cycle.
-
-"I _am_ probably terrible at the game, yes," she said, smiling. "But the only way to get better, is to play. Right?"
-
-The grass around her turned green again. The river shone blue. Her fingers played with the currents, testing if it would stay that way. It did.
-
-They played their game as it was meant to be played. Plus the extra rule about kicking.
-
-Whenever the ball bounced away, Ruby did not think any more of it. It wasn't a curse. Just the randomness of the world. She shrugged and ran faster than anyone else to get the ball back.
-
-When someone accused her of cheating, she didn't get angry. She simply explained she wasn't, and asked them why they thought that.
-
-When she got home one day and her jar of coins had crashed to the floor, she didn't blame it on some mysterious curse. She simply told herself to place it more securely next time. Like, perhaps, _not_ right on the edge of her nightstand. From the glass shards she even built a little present for her new friend.
-
-A year later, her parents suddenly thought she was ready to own a pet and care for it. She received a beautiful unicorn that joined her in her adventures. And even though they couldn't always see eye to eye---such as when Ruby wanted to sleep but the unicorn kept pushing her out of bed to play---she never got angry or treated her pet badly.
-
-No, the only time Ruby became _real angry_ again, was some years later. When the Rainbow Soldiers entered this kingdom too and started forbidding even more emotions.
-
-<!---
-### 🔴 Red – “The Kingdom of Ember Apples”
-
-Setting: A vibrant red orchard in the enchanted Valley of Flame.
-
-Theme: Passion, courage, love, danger.
-
-Objects: Apples, roses, rubies, cardinals, fire.
-
-Magic Twist: The apples can glow and warm hearts—but only when plucked by someone brave.
-
-Plot Idea: A timid girl must cross the thorny rose maze and retrieve a glowing Ember Apple to awaken the sleeping heart of her kingdom.
---->
+Instead, his castle exploded.

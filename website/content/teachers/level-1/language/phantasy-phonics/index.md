@@ -3,11 +3,11 @@ type: "product"
 title: "Phantasy Phonics"
 id: "phantasy-phonics"
 date: 2025-05-26
-price: 5.95
+price: 9.95
 image: ""
 file: "@TODO"
 spell: ["phantasy-phonics"]
-advances: ["syllable-awareness", "rhyming-and-alliteration"]
+advances: ["rhyming-and-alliteration"]
 description: | 
   The final step to phonetic awareness
   Is to learn the phonemes that make up all syllables

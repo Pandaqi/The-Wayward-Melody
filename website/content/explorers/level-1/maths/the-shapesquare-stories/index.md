@@ -4,8 +4,8 @@ title: "The Shapesquare Stories"
 id: "the-shapesquare-stories"
 date: 2025-04-26
 price: 12.95
-image: "the-shapesquare-stories-header.webp"
-file: "@TODO"
+image: ["the-shapesquare-stories-header.webp", "the-shapesquare-stories-1.webp", "the-shapesquare-stories-2.webp", "the-shapesquare-stories-3.webp", "the-shapesquare-stories-4.webp", "the-shapesquare-stories-5.webp"]
+file: "a5f651df-76e6-40a5-9464-35b72f35af39"
 spell: ["my-first-shapes"]
 description: | 
   Once there was an evil king
@@ -31,6 +31,12 @@ In Shapesong, King Triangle has suddenly declared that everything and everyone s
 
 Follow a diverse set of Rebelshapes on a shape-related adventure as they try to battle the evil King Triangle!
 
-Enjoyed these adventures and want more? No worries! Our shape-related Games regularly include King Triangle or the Rebelshapes (animals shaped suspiciously like a basic shape) in the rules and material! Check the "Continue Exploring" section in this topic.
+Enjoyed these adventures and want more? No worries! Our shape-related games regularly include King Triangle or the Rebelshapes (animals shaped suspiciously like a basic shape) in the rules and material! Check the "Continue Exploring" section in this topic.
 
 You might also want to check out [Chronicles of the Colorblind](/explorers/level-1/maths/chronicles-of-the-colorblind/). It's the same idea, but exploring one basic _color_ per story. That one has slightly longer stories and more grown-up themes (about emotion and making mistakes); the Shapesquare Stories sticks a bit more to whimsical stories suitable to very young ages.
+
+Fun fact (and very light _spoilers_):
+
+* [The Piqarine Painter](/runaways/level-1/maths/the-piqarine-paintings/), from the escape room with the same name, appears here!
+* Tessella and her Toolbox also first appeared here. There's a large number of products within the project called "Tessella's Toolbox", but the [Tricksy Tangrams](/puzzlepages/level-1/tessellas-toolbox/tricksy-tangrams) is a good start.
+* A very young version of our magical easter bunny, called _Astra Buni_, also appears here. You can find more from her in our [Tales of Easter](/explorers/themed/easter/tales-of-easter/) bundle.

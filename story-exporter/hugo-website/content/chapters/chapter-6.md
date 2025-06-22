@@ -1,324 +1,239 @@
 ---
-title: "The Snowmaker's Song"
+title: "Shapes Nobody Had Seen Before"
 weight: 60
+shape: Hexagon | Heptagon | Octagon
 ---
 
-<!---
+# Shapes Nobody Had Seen Before
 
+The Piqarine Painter was a fox called Piqafox. She came from a different part of the world, where she invented the color Piqarine. She had fought the greatest possible danger there---and won. When she heard about evil King Triangle, she came here to do the same. Good had to triumph over evil. Freedom and wonder had to triumph over control and punishment.
 
-### ⚪ White – “The Snowmaker’s Song”
+She'd become quite good at it, she felt. All over Shapesong, she had freed shapes from dungeons, and nobody had been able to catch her. King Triangle had hung posters with her face on every tree and fence. The reward for catching her? Ten thousand gold coins.
 
-BLIND to how **pure/loving/beautiful** they are. (Very kind, naive, holding no grudges, no revenge? Always looking for a fresh start, a new beginning.)
+And so Piqafox fell asleep without a worry, in the tiny town of Newagon.
 
-Setting: A shimmering white world of snow-covered hills and whispering winds.
+When she woke up, all the worry returned.
 
-Theme: Purity, peace, beginnings, clarity.
+She looked through the window and couldn't believe what she saw. 
 
-Objects: Snow, feathers, pearls, lilies, clouds.
+_The entire town was surrounded by a stone wall!_
 
-Magic Twist: The Snowmaker plays a flute that weaves the first snowflakes each winter.
+Insane! Last night, there wasn't a wall. Of course not. The town of Newagon barely had twenty homes, and had always been very peaceful.
 
-Plot Idea: A curious boy accidentally breaks the flute and must journey to the Mountain of Stillness to find its secret note.
+But now Newagon was cast in shadow. They had built a wall overnight, and it was tall enough to block out the sun.
 
---->
+Everyone ran outside in disbelief. Piqafox climbed onto the roof, but no luck. Even from up high she couldn't see a way over the wall.
 
-# The Snowmaker's Song
+Now, dear reader, the story said the town was surrounded, but the wall wasn't actually _round_. It's very hard to build a Circle wall from Rectangle bricks. Instead, the wall was a Hexagon. Six separate walls glued together. They often build castles and forts like this too. It was a very strong shape that could defend a castle on all sides.
 
-The snowstorm raged. A black figure dropped a baby. Left him behind, never to return. 
+Or, as Piqafox now learned, lock you inside.
 
-Babies aren't meant to sleep in the snow, that you probably know. With only a single towel wrapped around him, he soon froze. He cried, but no help came. Not until it was already too late.
+Then she heard a _creak_ and a _squeak_. She turned her head to follow the sound, until she noticed a _gate_. Or, rather, a hole in the wall.
+
+King Triangle's soldiers used it to get inside the town. That's it! That's her exit!
+
+But ... as soon as the soldiers were inside, the hole _changed shape_. And some time later, it changed shape again. Ugh. Piqafox could do a lot, but she couldn't magically predict what shape the hole would be when she tried to flee.
+
+"We have you surrounded!" yelled a Triangle guard. "We know you're here, Piqarine Painter. But we couldn't find you. So ..."
+
+The guards grin, as if this was all a very clever joke. "We just surrounded the _whole town_! Come out now! Or do you want all these innocent other shapes to be locked inside forever too?"
+
+Of course she didn't want that. They were playing a foul game! It was unfair! 
+
+She ran around town looking for an answer. She kept to the shadows; the guards still shouldn't find her. Finally, she approached her secret hiding place, and opened the door. 
+
+In doing so, however, she bumped into a Circle snake. She had completely overlooked him! What had he seen?
+
+When the snake turned around, she almost screamed.
+
+"Ah!" said Prince Circlesnake. "The Piqarine Painter, is it not?"
+
+"No. You must be mistaken."
+
+"Oh please," said the Prince. "I'm not like my father. He kicked me out, remember? I'm _not_ a Triangle!"
+
+Piqafox _knew_ this was true. She was the one who freed the Prince from the dungeons in the first place. 
+
+"Prove it."
+
+"Prove what?"
+
+"That I can trust you."
+
+The Prince nodded. He rolled away from her, onto a wooden bench, then a barrel, then a rooftop. He pointed his tongue at the hole in the wall.
+
+"I overheard some guards," he said. "The hole changes every day. But there is a _pattern_ to it."
+
+"A pattern?" Piqafox stood next to him, squinting. Right now, it was a Hexagon. Six corners.
+
+"Yes. A rule. A rule that says what the next shape will be," continued the Prince. Piqafox couldn't see his smirk, his flashing yellow eyes.
+
+"And the rule is?"
+
+"I didn't hear that, I'm sorry," said the Prince. "Do you believe me now? That I want to help?"
+
+Piqafox nodded. She let the Prince into the secret hideout, where more and more animals were gathered. 
+
+If she hadn't done so, dear reader, believe me that the Prince would never have found it! To get inside, you had to lift a specific barrel, then push on a hidden door in the wall, and then say the password _"Hexagons are Bestagons"_. If you failed any of these tests, you'd be attacked by bees. If you succeeded, you'd land in a living room that felt like a maze. 
+
+The Prince thought it was all very ... normal. Just normal people having dinner. Playing cards. Talking about what they'd do when evil King Triangle finally disappeared. Because they were all sure of one thing: one day soon, his father would _lose_. What would they do to him then?
+
+Everyone gasped when the Prince entered. Two Square elephants already moved to push the Prince away, but Piqafox stopped them.
+
+"He's with us," said Piqafox. "He explained the hole follows a _pattern_. I want people watching it at all times to see when it changes, and how."
+
+"Yes. Yes, I am ... with you," said the Prince. "I'm also very tired of, erm, running from my father. Can I sleep here?"
+
+"Sure," said multiple animals at once. They led him through the maze to a nice bed made of leaves.
+
+He must've been _really_ tired, they all thought, because he _instantly_ fell asleep.
+
+The next time Piqafox looked at the hole in the wall, it was a Heptagon. A polygon with seven corners.
+
+"Heptagons. Don't see those often," muttered Piqafox. "Looks nice."
+
+"It's _not_ nice," said a young Heptagon mouse next to her. "Not square enough, not round enough, not pointy enough ..."
+
+The mouse's mother took him away. "Just hide that one corner, dear, and you can pass for a Hexagon! You could go to Hexagon school. And get a good job as beekeeper later---"
+
+Some time later, a Square elephant looked at the hole in the wall. Now it was an Octagon. A polygon with eight corners.
+
+It made Piqafox wonder: could this go on forever? Was that the "pattern"? Once in a while, an extra corner was added? She didn't even know the word for a shape with nine or ten corners.
+
+And that's when she wondered for the first time: could I invent a new shape? One that nobody has seen before?
+
+Almost the entire town hid in the secret hideout now. Most were still asleep. Piqafox hadn't been able to sleep, her dreams racing between new shapes to invent. 
+
+Outside, the sun rose again. The Triangle guards yelled the same message. They were "coming for Piqafox". But if they didn't find her today, she would be "stuck inside these walls forever".
+
+With sleepy eyes, Piqafox climbed to the roof and looked at the hole in the wall again. 
+
+Her first idea had been wrong. The pattern was _not_ that it got a new corner every time. Because now the hole in the wall ... was a Triangle. Back to three corners.
+
+Then the hairs on her back stood up. She had been _so_ stupid. Why hadn't she checked?
+
+Prince Circlesnake was long gone, his bed empty and cold. He was never really asleep at all.
+
+> **Guardian's Guide:** Ask the Apprentices what they think the "pattern" is for the hole in the wall.
 
 ___
 
-A large figure pushed the tent flap aside. A letter landed just before Purin's nose.
+Piqafox ran around the secret hideout, and she screamed to wake up everyone.
 
-"Are you ready?" asked his father.
+"We have to go! Now! We've been compromised!"
 
-Purin raised his knees to his chin. He hoped he'd get a tent of his own soon, so he could disappear from the world completely when he wanted. 
+"_What?_"
 
-"No."
+That, dear reader, is a word which means you thought a place was safe and secure, but now it isn't anymore. The Prince knew. The Prince had probably told King Triangle about it by now.
 
-"Oh, come on," said father. "It's time. You're more than old enough."
+"I'm sorry, I'm sorry, I'm so sorry," said Piqafox. She should _never_ have trusted that Prince. Of course he was still working for his father. A spy, a slithery snaky spy.
 
-"They don't have enough places," said Purin.
+Piqafox herself was an orange Triangle fox. After waking up the others, she ran to the wall and hoped to squeeze through the Triangle hole. She had to escape now, while she still could.
 
-"They do. That's why the Rainbow School sent you an invite."
+Unfortunately, the hole had already changed into a Square again. And a Triangle didn't fit through a Square hole.
 
-"Yes," mumbled Purin. "Which means they didn't send an invite to some other boy. Who deserved it more."
+She could _look_ through the hole, though. And she saw Prince Circlesnake returning. Guards at his back, and King Triangle nearby too.
 
-His father sighed. As he sat down on the bed, it creaked and eventually relented. 
+Her breath caught, her heart trying to escape her chest. She turned around and made for the hideout again.
 
-"Ah! Sorry lass!" said father in a heavy accent that seemed to change every day. "I don't know me own weight! I'll repair it im---"
+"No, no, we need to get to the hideout!" yelled the Prince in the distance. "That's where they'll all be!"
 
-"No. Don't bother," said Purin. This was the sixth time he'd broken his bed. And, like most boys, he very much preferred to sleep on a straight bed instead of one sloped like a mountain. But they needed the wood for something more important. Here in Snowstripe, you burned wood for _warmth_, and hoped one day your toes would stop looking purple.
+"Sure we shouldn't keep a few guards around the hole?" asked King Triangle.
 
-His surrogate father wrapped a muscular arm around him. "Don't you go saying that now, lass. You deserve a spot there like anyone else."
+"Yes, yes, we'll need them _all_ to capture these filthy rebels!"
 
-No, thought Purin. I deserved to be left behind. My _real_ parents were clear about that.
+And so the entire group ran towards the hideout too. Piqafox entered just in time, closing the hidden door and putting the barrel back where it belonged.
 
-"I've already packed up your things. This be a big step, lass! God knows I'll be missing ye."
+The guards cautiously approached a barrel. Then lifted it.
 
-"Missing---"
+It was the wrong one.
 
-Purin forgot to blink. Then his head sunk even further. 
+"No! You fools! Are you deaf? I said the one on the _right_!" said the Prince.
 
-Father was going to send him away. Alone. He wanted to get rid of Purin too, just like his real parents.
+They lifted the wrong barrel again. A swarm of bees erupted from their honeycombs hidden below the rooftops.
 
-"Me would've loved to come along," said father, hugging Purin. "But I'm needed here. And I know ye can do it alone. You're strong. I trained ye well, that I did."
+"Your _other_ right," said the Prince.
 
-Lies. All of it. What kind of father sends their child into the dangerous snowy lands alone? On their first trip to school?
+"But that's our _left_!?" said the confused guards.
 
-"Then I'll go," said Purin. "I won't annoy you any longer."
+While some of them battled the Hexagon bees, the others finally lifted the right barrel.
 
-"Annoy you!? Listen lass, that's not what me words meant."
+Piqafox was back inside the maze.
 
-"Yes you did. And you're right." Purin grabbed the bag waiting for him at the tent entrance. He gestured towards his broken bed. "Use my bed for fire. More useful that way."
+"All Square animals! Attention!" she yelled. "Form a group. Then run for the hole in the wall. You might not have a lot of time."
 
-"No, no, no."
+They did as she asked. Soon, all Square animals were gone. They tiptoed over the empty streets, avoiding King Triangle. Once at the hole in the wall, they fit through perfectly and escaped.
 
-Purin tried to walk away quickly. It would be best if he was gone immediately. Before he'd annoy father even more, and he might even take away his bag. A quick glance in the bag showed him that his father had been careless. Four bags of carrots? Two bottles of fresh water? That was a fortune he really couldn't miss. It would be wasted on useless little Purin.
+Piqafox counted. She _thought_ she realized the pattern, but she wasn't sure. 
 
-So Purin dropped the bag and walked away without it. Unfortunately, he had forgotten his leg.
+"No! You fools!" said the Prince on the other side of the wall. "The _hidden_ door. Not the actual door! That one leads to a bakery!"
 
-The one he was missing, after it had completely frozen when he was a baby.
+Well, she was out of time.
 
-All he had was a wooden stump. Purin would be the first to tell you that wooden legs made you even slower than snails. And prone to accidentally pushing things to the floor.
+"Pentagons!" she said. "All Pentagon animals, go to the hole in the wall now!"
 
-"You're leaving the bag, lass!?" asked his father, coming after him.
+She sent them all away. They trusted her, like she'd trusted the Prince. Was she sending them to their doom?
 
-Snow fell down outside. This was nothing new, but it was only a mild snow storm and nothing to worry about. Purin could even see the handful of tents in the distance. The other unlucky few stuck in this land. His father once told him that other countries had _trees_, and _buildings_, and more than ten people inside. Lies, too.
+But she had been right! When they arrived at the wall, it had just changed to a Pentagon!
 
-His neighbours watched Purin step through the snow. He caught their eyes, their horrified faces, and looked away immediately. 
+And so Piqafox counted again, then said: "Hexagon shapes! All to the wall now!"
 
-That's right. Look away. His wooden leg always scared people. Scars of frozen skin ran down his face like white-blue thunderbolts. He'd been a monster ever since he was left behind as baby in the snow.
+The pattern was clear. The hole received _one more corner_ every time. And once it reached an Octagon, it reset back to Triangle to start all over again.
 
-The only thing Purin took from the bag was a long, thick cape. He wrapped it around himself for warmth, and to hide his ugly face from the world.
+"Heptagon shapes! All to the wall now!" she yelled. This time, however, no group formed. Only a _single_ mouse waved as he left the building.
 
-He started his journey, through Snowstripe, towards the Rainbow School. To tell them that they should give his chair to some other kid.
+> **Guardian's Guide:** Ask the Apprentices to move their body (alone or together) to recreate these basic shapes! Ask them if they can change how they look so they would fit through the hole in the wall at a certain point.
 
-___
+A _thump_. A _bump_. The Prince's voice on the other side grew louder. "Ugh. You're useless. The door opens by _pushing_, not _pulling_."
 
+"Octagon shapes!" yelled Piqafox. "You're turn now!"
 
-Purin greeted the snowman, but he didn't greet him back. That was unusual. They were always so happy to have someone to talk to. What was even _more_ unusual, was that this snowman wasn't standing up, but laying down.
+And so they left. The Octagon bugs, and the Octagon animal, and their own snake wrapped in an Octagon instead of circle.
 
-"Is everything okay?" asked Purin, kneeling down. He could barely see anything by the moonlight.
+Until only Piqafox was left. All members of Newagon town were safely on the other side now. Except her.
 
-"No," grumbled the snowman, his mouth full of snowflakes.
+It would be a moment before the wall shifted to Triangle again.
 
-Purin quickly stepped back, throwing the hood over his face again. "Sorry. Didn't want to frighten you."
+Prince Circlesnake finally entered the maze.
 
-"What? You're the first to even notice me!" The snowman rolled around, getting his twig-like limbs stuck on the cape. "I can't see! Where are you?"
+"Your time has come!" said King Triangle, pushing past him. "You're trapped in this maze, filthy fox!"
 
-Then Purin saw the issue. The snowman's eyes---two black buttons---had popped from his icy face and rolled away.
+"So are you," she said. But her voice didn't sound as confident.
 
-Purin gently picked up the buttons and pushed them back into his face.
+"There's ten of us. One of you."
 
-"Ah! Thanks my dear sir---boy---oh dear---what happened to your face?"
+Piqafox smiled. "You say that like it's an advantage."
 
-Purin cowered before him. Even snowmen called him ugly, and they had buttons for eyes and a carrot for a nose! 
+"It is---"
 
-"Nice to meet you, sir Snowman. I must go."
+Piqafox dove into a narrow pathway. The ten guards tried to follow, but they didn't fit. They bumped into each other, stumbled over each other, and finally had to walk in a small line.
 
-Purin hobbled away. After years of living in Snowstripe, he could find his way blindly, needing no guides. And that was a good thing, as the harsh kingdom provided no guides. Everything was just ... snow. A blinding white-gray mush. The most exciting thing you could find was a hill slightly taller than the previous hill.
+By that time, Piqafox was already gone.
 
-"Stop!" said the snowman. "Don't go there."
+She arrived at the wall just as it changed to a Triangle, with a _plop_. She stepped through, but noticed some Shaeprints on the wall itself.
 
-"Why not?"
+Aha! That's how they did it! Those Shaeprints had the magic to create this pattern.
 
-"The Rainbow Soldiers patrol the border. They don't like us, or anyone living here. They call us _ice cubes_. Coldhearts. Snowmen! No, wait, that one is true for many of us ..."
+Well ... what happened if she used them? What happened if she filled the Shaeprints, but dreamed up some new pattern?
 
-Purin frowned. "It's probably a misunderstanding. They're trying to protect us from the Endless Blackness. I'm sure they're very friendly once you get to know them."
+She did.
 
-"Did you never wonder, boy?" asked the snowman. He was happy to finally find a human who walked at a speed he could match. "Where it started? What causes it?"
+And it was wonderful.
 
-"I'm sure it's nothing," said Purin. "A misunderstanding, too. Some people with something in their eyes. How can the world be completely black? No color? I don't believe it."
+Her new shape was not a Triangle or Rectangle, but it had three and a half corners. This means it wasn't a Pentagon or Hexagon. It also wasn't a Circle, because half its lines were straight, and only half were round. It wasn't a Heart, or a Star, or a Trapezium. In fact, every time you looked at the shape, your eyes saw something slightly different.
 
-"Thousands have seen this. Thousands are in prison for feeling a forbidden emotion."
+A new shape. A shape that didn't exist before. A shape she called _Piqagon_. 
 
-Purin shrugged. "I'm sure they'll all be released soon, when the Rainbow Soldiers see they were wrong."
+The wall now had a Piqagon hole.
 
-The snowman sighed so violently that the buttons of his mouth flew away. "I wish I had your naivety, boy."
+> **Guardian's Guide:** Ask the Apprentices to be creative and imagine/draw what this new shape (that Piqafox invented) might look like.
 
-"My what?" No, you don't, thought Purin. You want _nothing_ like me and my useless life. He pulled his hood even further over his face and---
+And so, King Triangle and his guards couldn't figure out how to fit through. And, let me tell you, it would take several more days before they _did_ figure it out and escaped their own prison.
 
-"STOP RIGHT THERE!" yelled a female voice.
+The Piqarine Painter smirked as she left them behind. Another victory for her. One day, all those victories would add up. And Shapesong would be a nice place for all shapes again.
 
-A bright light blinded Purin. The snowman took out his eye buttons on purpose.
+I am sad to say, dear reader, that the color Piqarine was lost during the Color Wars. It hasn't been seen or painted with ever since. Human eyes aren't even able to see it, but dogs and cats can. That's why they sometimes seem to stare at nothing.
 
-"Hello there!" said Purin cheerily. "I'm traveling towards the Rainbow School. Can I please pass through?"
+I am also sad to say that the Piqagon shape was lost too, during the Shape Wars. Humans have the bad luck of being stuck with only a few basic shapes, like Rectangles and Circles, never knowing what more could've been. Oh, if you could see the beautiful cities built by the Bearchitects, you would wish to have been born a bear yourself!
 
-"ABSOLUTELY NOT!" yelled the voice. Others chimed in too. They didn't want _ice cubes_ to destroy their lands, and one of them didn't believe the Rainbow School would ever accept a _coldheart_.
-
-"Why ... why not, if I may ask, please?"
-
-"YOU DON'T UNDERSTAND," said the voice. 
-
-But she didn't need to yell anymore, because Purin had shuffled closer. He could see the woman's face; she turned off the light and stepped forward. "We do this to protect all of you. You wouldn't understand, boy. Wait until you're older and have children. You would give _anything_ to see them happy, and _not_ consumed by Endless Blackness."
-
-"Yes. I've heard some parents are like that," said Purin. But his own parents left him for dead. Purin must have been the worst thing that ever happened to them. What if _he_ caused Endless Blackness!? And he was just too young to remember!?
-
-He looked at the Rainbow Soldiers. Their uniforms weren't as stunning as his father had told him. They were mostly black, dark blue, with a hint of red and brown in there. Dull colors. Dark colors. Under the moonlight, to be honest, barely any color at all. Even their barricades---big movable walls to stop anyone from passing through---were black or dark blue. The snowman to Purin's left didn't even see them and accidentally walked into one.
-
-"So why are you here?" asked Purin, still cheerful. "Why not go back to your children?"
-
-The woman was taken aback. A hand flew to her chest and caressed a necklace with a faded picture.
-
-"That's ... well ... we must sometimes do things for the good of others .. and ..."
-
-Purin took another step. Half the Rainbow Soldiers raised a rainbow flag, which might look harmless to you, but was actually their greatest weapon. Their faces looked fearful, which painted the area around them even _darker_ shades of gray and blue.
-
-"Pretty flags," Purin said with a smile. Nobody could see it, though, as he still covered himself out of habit. "You should make a few for my father. He'd love them!"
-
-Then Purin touched the barricades and they turned _white as snow_.
-
-The brightness of it blinded the soldiers. They had to drop their flags. Some touched their uniforms to test if they were still real and not infected with some disease. Now that their uniforms were white again, their emotions could paint on them. Everyone felt a mixture of fear, and anger, but also joy at remembering their family back home. All those things turned into colorful stripes that twisted on the white canvas of their uniform.
-
-"Color ..." said the commander woman under her breath. "I'd forgotten what it looked like ..."
-
-They went home and left the border wide open.
-
-The snowman said his goodbye, as he was obviously unable to leave Snowstripe.
-
-Purin whistled as he stepped into a different kingdom. "Strange people. Hope they get home safe."
-
-___
-
-Purin had barely made progress when a girl ran up to him. 
-
-Oh no, he'd done it again. She had probably seen his wooden leg and was about to explain those were illegal here.
-
-Or, he was using some important road that other people needed. It was hard for him to see. This kingdom looked _very_ similar to Snowstripe. It just had more buildings and people, but they all still looked very white to him. As if a snow storm had passed by yesterday.
-
-"Sorry, sorry," he mumbled in the girl's direction. "I'll get off the road."
-
-"Well, erm, if you want," said the girl. Her clothes had a sickly yellow-green color. The color of _guilt_. "We can talk over there. Sure."
-
-"Talk?"
-
-"I heard all about you!" she said. "And I've come to ask for your help."
-
-"Help?"
-
-"Is there something in your ears? You might hear me better if you take off---" 
-
-The girl yanked on the cape and revealed Purin's face. She took a step back, startled. 
-
-"Sorry, sorry," mumbled Purin again.
-
-Then the girl smiled and grabbed his hand. Her hands were warm. For the first time, Purin saw what his fingers looked like when they were _not_ freezing. He liked it a lot.
-
-"Okay, I mentioned _help_," said the girl. "But I really want to ask for ... _forgiveness_."
-
-"Forgive---" He really had to stop repeating her last words.
-
-The girl knelt before him. As if inspecting his wooden leg and about to say "cheap wood, won't last, like you". 
-
-Purin knelt too. This was much harder for him, though, and he nearly fell over. The girl kept him upright.
-
-"There's this other girl, you see. She's all mean, and smart, it's unfair, and rich, and she has better hair than I do, and---you know."
-
-"I don't. But this clearly means a lot to you."
-
-"It _does_! And so one day I wanted to get back at her, and I, you know, I may have ... I may have stolen her lunch and pushed her into the river."
-
-"You bullied her," said Purin flatly.
-
-"And so I ask forgiveness. I hear you can clean my colors with a touch. Erase them."
-
-Everyone else avoided them. They walked around the pair in a wide arc, looking disgusted. Purin was used to it; the girl was not. Her yellow-green colors of guilt shone from her as if she were a sick lightbulb.
-
-Purin looked down. He was still holding her hands. He had _already_ erased half the colors, giving her completely white trousers and socks.
-
-He pulled away. "I don't know why you're asking my forgiveness. Ask hers. And just, please, don't do it again?"
-
-The girl fell silent. This was probably not what she wanted to hear. But Purin knew it was right.
-
-Then the girl smiled and hugged him. It took ten seconds for Purin to realize he was _not_ being attacked.
-
-"Thank you! Thank you! Yes, you're as good as they say. I'm going to tell everyone!"
-
-She grabbed his hands again. She felt even warmer this time. "I'll introduce you to my family!"
-
-"No, no, no," said Purin, wrestling out of her grip. She blushed, her cheeks pink. Purin told himself that she must love her family very much to get such a bright pink.
-
-"But ..."
-
-"You don't want to scare your family, do you?" said Purin. Holding a faint smile, he put his hood back on.
-
-"Scare them?"
-
-"With my ugliness."
-
-Purin didn't wait for her answer. He found the right direction and kept marching towards Rainbow School.
-
-___
-
-They didn't let him march towards Rainbow School. With every passing day, more people visited him. Wanting his advice. Wanting to erase the bad colors on them, their pet, or their home. 
-
-He didn't understand, not at first. He wasn't angry with any of them! The things they did were probably just a misunderstanding. We all make mistakes, and the Rainbow Soldiers are just doing their job. What did they all worry about?
-
-But even the briefest touch would make him accidentally erase colors. And so, more and more came. They called him _The Eraser_, the _Whiteheart_, the _Endless Goodness_. He didn't deserve any of it and cringed whenever they said it. Why else would his parents throw their baby, their "endless goodness", into the snow?
-
-Finally, Rainbow School was near. He could see its peaks on the horizon. Tomorrow morning he would arrive at the front gate. And tell them to allow some other kid to study in that beautiful school. He wanted nothing more than to return to his tent in the snow and sleep _forever_.
-
-Everyone offered him a place to sleep: from luxury hotels to little shops that sold toys. He declined them all. The place for him was underneath a bridge.
-
-He had selected the smallest, ugliest, about-to-collapse bridge in the entire kingdom. Unfortunately, someone else had already taken his spot.
-
-"Ah, it's you," said a man. His head appeared first, sticking out of a garbage bag. Then his body arrived in fits and starts, as if he was a balloon being blown up. "I've been waiting for you."
-
-Purin thought this was a _very_ strange place to wait for someone. But who was he to judge? "I'm glad I could come. Can I help you?"
-
-"Maybe. Maybe not."
-
-"You want to be forgiven too?"
-
-"Maybe. Maybe not."
-
-The man had an unwieldy beard that contained leftover food. He smelled like garbage. His only color was _dark blue_. Nothing else was allowed, not on his clothes, not on the objects he carried.
-
-"I made a mistake. And it's haunted me for years. It destroyed my family. I didn't ... I didn't protect my children when I should have."
-
-"I can understand," said Purin. Something about the man's face felt familiar.
-
-"In shame, I hid myself from the world. Hiding under a bridge. Thinking I'm too ugly to show my face."
-
-"I can ... understand," said Purin again.
-
-"I thought there was no place for me in this world. A useless human. Who treats a baby like that? Who would ever want to talk to me again?"
-
-"I ... can ... understand," said Purin. He frowned and shuffled closer.
-
-The man had tears in his eyes. Large, hairy arms swung around to grab Purin tightly. Their eyes locked. Purin saw, knew, felt in his bones, that this man was who he believed him to be.
-
-"Then why, my little boy, do you think nobody else will understand _you_?"
-
-Purin blinked. His body went numb. This was ... could it be his real father ...
-
-"I've heard it all," continued the man. "You created peace wherever you went. You fought fire with kindness. You give everyone the benefit of the doubt. Everyone loves you, and your smile, and the pure belief that everyone is, deep down in their heart, as good as you."
-
-"It's a lie. I see that now. Some people are just---"
-
-"It's not. Keep that belief. Keep that naivety."
-
-"_You_ ... you left me for dead!" yelled Purin. "And I ..."
-
-Did that make him evil? He didn't know the reasons. Perhaps it was all a misunderstanding. Perhaps he simply _lost_ Purin in the snow storm, or Rainbow Soldiers were chasing him. Perhaps the reason didn't matter anymore, as it was _years_ ago. Looking at his father, covered in garbage, Purin wondered which of the two really had the better life since.
-
-"I forgive you," said Purin, surprising himself. But not his father.
-
-"I knew you would," he said. "Now forgive yourself."
-
-And Purin did. 
-
-All the habits he'd learned. The cringing, the hiding, the mumbling of "sorry" before anyone had even accused him of anything. The immediate thought that nothing he did was deserved. The thought that _he_ had somehow caused his parents to leave him behind. For a while, he even thought that _he_ caused the Endless Blackness as a baby!
-
-As it turned out, that was actually his parent's fault. At least a little bit.
-
-He erased the bad colors from his father, giving him a chance to start painting a new life for himself. An empty canvas waiting.
-
-Purin left the hood behind. He showed his beautiful face, the wooden leg that was his most striking feature, and took up the space he deserved on the sidewalk. When a girl blushed pink now, he knew what it actually meant. He visited the Rainbow School because he knew it was the right place for him, not to give away his spot.
-
-But he never reached it. 
-
-Because he was intercepted by Rainbow Soldiers, the very ones he'd met in Snowstripe and sent home. And they offered him a very special job. They _needed_ his skill with the color White to fight the Endless Blackness, and they needed it _now_. Of course, Purin saw absolutely no problems with this or ways in which it could go wrong. He accepted immediately, believing he could make the difference to win this war.
+But maybe, just maybe, one day a special child will stand up and have keen eyes, able to see new colors and shapes again ...

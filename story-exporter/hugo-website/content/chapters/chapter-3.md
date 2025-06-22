@@ -1,276 +1,245 @@
 ---
-title: "Destruction of Dreamforest"
+title: "The Weasels Who Weaved"
 weight: 30
-color: Green
+shape: Rectangle | Trapezium | Parallellogram
 ---
 
-<!---
-### 🟢 Green – “The Forest that Grew Dreams”
+# The Weasels Who Weaved
 
-BLIND to the **beauty of nature:** to how controlling and unnatural they are, and how their actions are destroying nature/climate/environment, and how they only see plants/animals as a nuisance.
+King Triangle had a problem. The animals of Shapesong didn't like his new rule. He had hoped that everyone would just, you know, become a Triangle for him. That they would love Triangles as much as he did.
 
-Setting: A lush, whispering forest where leaves grant dreams.
+They did not.
 
-Theme: Growth, peace, nature, envy.
+And so he needed to impress the animals. He was hosting a parade. A word which here means slowly walking through the city, while everyone claps their hands, and says things like "Long live the king!" 
 
-Objects: Trees, frogs, emeralds, moss, vines.
+For that, he needed new clothes. His old jacket had too many pockets that looked suspiciously Square! And a flag that looked like a Rectangle! That wouldn't do. He couldn't sleep until _everything_ about him was a Triangle.
 
-Magic Twist: The forest grants one dream a night to those who care for its plants.
+And so he sent a message into the world. The finest clothesmakers had to come to him.
 
-Plot Idea: A boy with a jealous heart must learn to give instead of take in order to save a fading tree spirit.
+That same night, only hours after sending the message, three weasels knocked on the wall. They would've liked to knock on a door, but they couldn't. Most of the castle was still broken after the explosion. They had only rebuilt the Throne Room so far. And it had been quite difficult to build it only from Triangles.
 
---->
+"Well, that was quick," said King Triangle. "_Very_ quick."
 
-# Destruction of Dreamforest
+"We ... happened to be nearby," said the first weasel, who was shaped like a Rectangle.
 
-Nympha couldn't sleep. Every night it was the same thing: mosquitoes. In the summer it was _too hot_; in the winter it was _too cold_. The night was _too dark_, so she always kept her lightbulb burning. If she could, she would've kept her windows and doors closed, and stayed inside at all times. Then again, those spiders and rats would probably find a way in. Or a tree would have the _audacity_ to grow its roots straight through their marble floor.
+"We're the best weavers you can find," said the second weasel, who was shaped like a Trapezium.
 
-She couldn't wait until father's project had finished. She dreamed about it, in the rare moments she could fall asleep. Tomorrow she would help him again. The only issue, really, was that she needed to go _outside_ to do it. She almost stepped on a prickly hedgehog last time, and she still had _nightmares_ about that.
+"Some have called our clothes ... magical," said the third weasel, who was shaped like a Parallellogram.
 
-Buzzing. Left ear. Right ear. Was that something on her leg?
+King Triangle narrowed his eyes. "Wait a minute. You're not Triangles! How _dare_ you come here! Throw them in the dung---"
 
-She sat up, waved her arms around, slapped her own knees until it hurt, then fell stil.
+"But sire," said the first weasel calmly. "Don't you know?"
 
-Buzzing. Still. _How_ can you _never_ get mosquitoes to leave!?
+"Know what?"
 
-That---was---it. She wasn't sleeping any more tonight. It was almost morning anyway.
+"A rectangle is just _two_ Triangles. Combined! So I am not just a Triangle, I'm a _double_ Triangle!"
 
-She ran down the stairs to start preparations for today's work. The stairs painted yellow in surprise when she found her father already out and about.
+"So is a Parallellogram," said the third weasel. "Just two different Triangles combined."
 
-"You're the best, darling," he told her. "I didn't even need to tell you. You just _felt_ the project had to move faster, didn't you?"
+"Hmm. And the Trapezium?"
 
-"Yes. Yes, sure I did. Erm ... why exactly?"
+"Even better, sire!" said the second weasel. He had a bright smile and a cheerful voice. "I am _three_ Triangles combined!"
 
-"Those idiots in Dragonstripe tried to fight the Endless Blackness. Everyone was forced to stay in the country and to fight. This probably just made it angrier, because it's coming for us even faster."
+King Triangle studied them for a while. The guards stood ready to haul them to the dungeons.
 
-Father revealed a new set of large stones. They were heavy, and not allowed to be carried by children, but Nympha moved them around with ease. She had grown quite strong from doing this work for years. Their entire town already had a stone floor. Some places had used the stones for pretty illustrations---"mosaics"---but Nympha didn't like that. The floor of their garden was just a large block of gray stone, as far as the eye could see. 
+"Very well then," said King Triangle. "Show me how good you are. Show me the prettiest clothes you ever made."
 
-Now they were almost done building brick _walls_ around the entire town too. Nympha started on the final section when something got in her way.
+"We already did," said the first weasel.
 
-Or, rather, a bunch of someones.
+"Excuse me?"
 
-A large group of bunnies had dug a hole right there. They made the hole even bigger, as more bunnies returned with carrots and nuts. They were _precisely_ where she was to place the stone.
+All the weasels frowned. "Can't you see?"
 
-So she picked up their pile of food and threw it away. The bunnies let out a high-pitched cry as they chased it. She wanted to fill the hole with dirt, but she was _not_ going to touch dirt with her hands! A single bunny remained on the spot. She kicked it away, and then, with a satisfied grin, placed the stone perfectly.
+"See ... what?" King Triangle shifted on his throne. Uncertain. Narrowing his eyes until he might as well just shut them completely.
 
-"What are you _doing_!?" yelled a voice. 
+"We're wearing our clothes right now!" said the first weasel.
 
-A boy appeared from behind the trees. The bunny whimpered and jumped into his arms. The boy stroked its fur and kissed its forehead until the bunny calmed down.
+"But they're magical, remember?" said the third weasel. "Only very smart animals can see them."
 
-"These are my pets!"
+"Ah. Ah yes. Sure." 
 
-"Then control them!" said Nympha. "They shouldn't be running around like ... like wild animals."
+King Triangle left his throne and circled the weasels. They weren't afraid of him. They stood tall and proud, showing their shapes with four corners. They couldn't be lying to him, he thought. Nobody would dare.
 
-"They're allowed to go wherever they want. They're living beings. If you don't hurt them, they don't hurt you."
+But that meant ...
 
-"Yeah. Sure. Like mosquitoes."
+"Now that you mention it," said the King. "Yes, yes, I see it now! Such pretty clothes. You are truly great weavers."
 
-"That's different."
+"Thank you sire," said the second weasel. "That means a lot to us humble weasels."
 
-"Don't pretend you don't _squash_ mosquitoes whenever they come near you."
+King Triangle thought about it. He didn't care if dumb animals didn't see it. He cared about the smart animals! They had to like him, and agree with him. The smart animals could then convince the dumber animals to become a Triangle too. Yes, that was a smart plan. Very smart.
 
-The boy had no response. Nympha smiled in satisfaction again, painting the wall green. "Get your bunnies under control, or I'll place the next brick on their head."
+The fact that _he_ didn't see the clothes ... well, that was probably just an accident. He'd try again tomorrow, when his eyes weren't so sleepy. You're always smarter after a good night's sleep.
 
-The boy shook his head. He kicked at the beginnings of a new wall, but this just hurt his toes. You could say a lot about Nympha and her father, but they were very good builders. "It's not right, you know. When I wake up now, I barely hear birds singing anymore. The river has dried up."
+The King took several large bags of gold from behind the throne. He gave each weasel one bag. "You have the job. Make me the prettiest clothes, fit for the best king ever!"
 
-"Boohoo, the world changes."
-
-"No, because _you_ built a dam."
-
-"We just improved the dam the beavers were building anyway. Now go away, I have work to do."
-
-The rains started. Some parts of the Dreamforest were lucky to have only light drizzle with the occasional hail. This part, however, was more of a rainforest and tried to prove that every single day.
-
-"You'll see," said Nympha. "Once we finish this, nobody will _ever_ get caught in a storm again. Nobody will ever die in the wilderness ag---"
-
-"And you can hang clothes out to dry any time," added father. "And you don't have to worry about leaky roofs. And the walls keep out the monsters of the wild. And lightning can't mess up our machines anymore. I see only positives, don't you?"
-
-"Yes," said the boy, his face about ready to spit lightning. "_You only see the positives._"
-
-The boy left, leaving Nympha and her father to shrug and continue work. But she was distracted. The conversation had reminded her of her mother, and how much she missed her. How unfair it was that she died, suddenly, without reason, just because nature can be ...
-
-She worked hard to _not_ think about it and finish her wall today. At this pace, it would only be a few weeks before their project was done.
-
-The Dome of Safety. A building around the entire town, to keep the wilderness at bay for good.
-
-The heavy rains turned into a storm, which raged for the entire day. It forced her to end work and go to bed early.
-
-That night, however, Nympha awoke to a large _crack_, and a _boom_, and a _crash_, and a _wail_.
-
-Nympha looked outside in shock. She saw all colors in the world, except green.
+"Our pleasure," said the weasels together. They bowed as if they were one long animal.
 
 ___
 
-Voices yelled through each other. Nympha only understood that the rains had swept away one of the children in town. They were missing now. Many feared for their life, and the strongest people had started a search, despite rain falling still.
+The weasels were hard at work inside the castle. Their work was so important that they had an entire room to themselves.
 
-Even worse, the wall she'd built had fallen apart. Broken into pieces, shattered as if a giant had stepped on it. Was their wall not strong enough? Could it not withstand rain and thunder? Did a mammoth run into it at full speed? Or was this the work of an angry boy ...
+They had also received one spinning wheel each. It was a simple machine that allowed them to combine single threads into larger cloth. It was a necessary tool in any weaver's toolbox.
 
-"This was a crime!" said Nympha immediately. "Get me the boy with the bunnies! He did it!"
+Or, well, any _normal_ weaver would use it.
 
-Several people asked around, looking for the boy. One of them found a trail of footsteps and followed it into the Dreamforest.
+The three weasels just pretended to use it. They'd turn the wheel round and round---but never attached any cloth.
 
-But if there are large gaps in the wall, that means ...
+At the end of each day, the King wanted to see the progress. 
 
-Animals poured into town. Small ones at first, hard to spot in the dark and the storm. Larger ones followed. Thunder painted the sky yellow in the distance. Rain turned to icy rain, to hail, to whatever it's called when the raindrops hit your head like knives. Even the largest animals sought shelter, including one green mammoth.
+"Ah. Yes. Very good. You're making good progress, I see," said the King.
 
-"Go away!" yelled Nympha. 
+"Indeed," said the Rectangle weasel. "Our magical method is very good."
 
-But the animals kept coming. A storm like this hadn't appeared since her mother ...
+"We could even make multiple clothes, if you want," said the Trapezium weasel.
 
-Her father struggled against the waves of animals leaping over the walls. The entire town had gathered in one location and tried to help, locking arms and creating an extra wall. 
+"That sounds like a good idea," said King Triangle. "But first ..."
 
-The Dome of Safety that her father was building was _huge_. It was a building larger than the town. But in moments like these, it still felt too small. There simply wasn't enough space within their walls for both the townspeople and the larger animals.
+He turned around and yelled into the hallway. Soon enough, a servant entered the room.
 
-Nympha started kicking animals away. Hatred seeped from her, like red rivers creating mosaics on the floor. 
+"Dear servant, can you see the clothes on this table?" asked the King.
 
-"Get out you monsters! Leave us alone!" she yelled. Then she started throwing rocks.
+The servant, a Triangle penguin, frowned. He blushed.
 
-Unfortunately, a monkey hung from a tree nearby. There were no trees left inside town, of course. But this one was probably homesick, as half its branches grew over the walls.
+"It's alright," said the King with a smile. "Only smart animals can see it."
 
-The monkey easily caught the rock Nympha threw. He grinned. As if to say: "You're not the only animal with hands, Nympha".
+"Oh. Oh, no, I was just ..." The servant walked to the table and pretended to touch the clothes. "I fell silent because I was _so_ impressed by the beauty of these clothes! They will look fabulous on you, sire."
 
-And he threw it back. 
+King Triangle grunted. "Yes. Thank you. You may go."
 
-Nympha only felt a sharp pain on the side of her head. Her eyes closed and she lost her balance. She fell, hoping for a patch of soft grass or dirt, but instead landed on the hard stones she'd placed herself.
+"You have very smart servants," said the Parallellogram weasel. He could barely hide his grin.
 
-She didn't know for how long she was unconscious.
+"Hmpf." King Triangle yelled into the hallway again. A little later, Prince Circlesnake entered the room.
 
-When she woke up, it was still night, and still raining heavily, and a soaked man returned with a grave message.
+"Can you tell me what's on these spinning wheels?" asked the King.
 
-"We still haven't found the missing child."
+Prince Circlesnake was in the Throne Room a few days ago. He was the one who let the weasels inside the castle! And so he'd heard about the clothes, and knew just how to respond. "They hold the most beautiful, magical clothes you could ever dream of! Whatever you paid, father, it was worth it!"
 
-"See! This is why we do it!" said Nympha's father. "If all of you had _helped_ build the Dome, well, then we would have been safe and dry inside tonight!"
+"Hmpf. Yes. Thank you. You may go."
 
-"Oh stop whining about your Dome!" cried a mother. "My _son_ is _missing_. Who cares about a few broken parts of your wall?"
+The King looked at empty spinning wheels, and a very empty table. He touched the table. He pretended to pick up his clothes and try them on.
 
-"Have you found the boy with the bunnies yet?" croaked Nympha. Her head throbbed. The pain made it hard to open her eyes for long. When she did, she saw a towel soaked with blood. "He must have destroyed our walls! He should go to jail!"
+He felt silly. Was he _really_ dumb? What was going on? Maybe he would see the clothes when they were _finished_.
 
-"My son ..." said the mother with clenched teeth. Red rain appeared around her, but they turned to a sad blue before the paint hit the floor. "My son _is_ the boy with the bunnies."
+"If you want us to make more, sire," said the Rectangle weasel, "we'll need more silk and money."
 
-She started crying. Her husband comforted her. So did no fewer than _seven_ siblings, going in for a group hug.
+"Yes, yes, you'll get it. Just make sure I look like the best Triangle ever during the parade."
 
-The boy with the bunnies? Missing? Nympha might have been the last one to see him. He probably got caught in the wilderness when the storm became more fierce.
+Not long after, the servant threw more bags their way. The weasels pretended not to notice. Just like they pretended to use the spinning wheels, and gave each other instructions like "you have to hold the flubbinator more tightly!" and "don't upset the clubbelubber or you'll break it!" It sounded like gibberish to the servant---because it was.
 
-Nympha found it hard to see the family crying. She couldn't look, and she couldn't look away. Memories of her mother fought their way into her mind. She was more at peace then. Happier.
+He lingered just long enough to ask: "Is it okay if I _can't_ see the clothes?"
 
-The siblings wiped each other's tears and made a plan to search _again_ when the storm was over. Nympha saw her clothes turn green-blue on the spot. Turquoise---the color of _empathy_.
+The weasels smiled. "Yes, don't you worry. You're smart enough. Our clothes are only visible to the absolute smartest of the smartest."
 
-She knew what it was like to lose a family member to a storm.
+The servant left, satisfied with the answer. What he didn't see, however, was Prince Circlesnake hiding in the hallway.
 
-She had promised herself to never let it happen again. It kept her up at night, and gave her energy to build the Dome during the day.
+The weasels continued for a few more hours. They counted the money in the bags. They loudly said things like "don't overlork the spinning wheel!" and "that color needs more tibbletabble!"
 
-If she didn't act now ... would that not break her promise? She would let the boy with the bunnies die to a storm. It was just rain, right? She could walk through rain for a bit.
+Then they went home.
 
-"I won't let it happen," she heard herself say, her voice still weak.
+And Prince Circlesnake followed.
 
-The mother wiped her tears. "That's nice, darling, but---"
+He chased them through the winding streets of Shapesong. Into dark alleys. Past moon-lit parks. All the way to the edge of the city.
 
-"I saw him last. I saw where he went. You might be looking in the wrong place."
+There, the weasels stopped before a tree. It had Shaeprints of a Rectangle, Trapezium and Parallellogram.
 
-"Of course we are," said an older brother. "We can't _see_ anything in the rain!"
+With their teeth, they quickly cut a few coins into the right shapes. They filled the holes of the Shaeprints. 
 
-Nympha looked around. Where was her father? Through the window, she saw him using a pitchfork to scare the last animals away. He had just walked away when the bunny boy's family started crying. If she told him her plan, he would probably lock _her_ up and call her the most foolish of fools.
+The tree _fell down_ and revealed a hole.
 
-"I'll find him," said Nympha with resolve. "I'll bring him back alive."
+The weasels jumped into their secret hideout. Prince Circlesnake rolled as fast as he could, and barely got in too.
+
+Laughing. Loud, unhinged _laughing_. The weasels were not alone. It sounded like at least ten voices, all laughing.
+
+"The King is _so_ stupid!" yelled the Rectangle weasel. "Our plan worked ten times better than expected."
+
+"Don't celebrate too soon," said a voice from the dark. "We still need to survive the parade."
+
+"Oh, it'll be fine. Look at this! Have you ever seen this much gold?"
+
+"And this much expensive cloth?"
+
+"We'll give most of it to the Piqarine Painter," said the voice. He thought he recognized it, but didn't know from what. "We'll keep the rest ourselves."
+
+Prince Circlesnake had seen enough. These were _criminals_! They were _so_ busted! Their clothes weren't magical at all, as he suspected. He would have arrested them all right now if he could. But he was only one spy, against ten strong animals.
+
+He silently crawled out of the hole.
+
+As he rolled back to the castle, he knew one thing. King Triangle would never listen to him. If he told him now, he'd say the Prince was _dumb_ and just couldn't see the clothes.
+
+No, he had a better plan to reveal the truth.
 
 ___
 
-Nympha regretted her decision. She was soaked to the bone. Her head still hurt, and now she was at risk of headbanging into a tree at every turn too. The rain was so thick that she could barely see her hands before her. The dirt below her feet had turned to slippery mud long ago, and she sometimes wondered if she hadn't accidentally walked into the river.
+The parade had started. It was a sunny day, and everyone was on the streets. Well, everyone who was a Triangle, of course. They cheered for King Triangle, applauding him, asking for a handshake or a signature. All the other shapes stayed away; they hated King Triangle.
 
-"RAYO!" she screamed. She'd learned the name of the boy before leaving. "RAYO!"
+Inside the castle, the weasels presented their clothes.
 
-She _was_ certain that he'd gone this way. The footsteps others had followed looked more like rabbit paw prints to her.
+"For you, sire. They are the prettiest clothes we ever made," said the Rectangle weasel.
 
-It made sense, really. The Dreamforest had gentle hills that slowly turned to mountains on the horizon. You were safer up high in the caves ... if you managed to reach them.
+"See those patterns? It's a new invention by us!" said the Trapezium weasel. "There must be a thousand Triangles on your clothes. They combine into Rectangles, and Trapeziums, and Parallellograms. Like a song!"
 
-Nympha felt dizzy. She couldn't make sense of her surroundings anymore. She often heard breathing, the quick patter of animal paws, but never saw anything. Owls hooted ominously above her, but she couldn't even see the tree in which they sat.
+"We're sure nobody ... has ever seen something like this," said the Parallellogram weasel.
 
-"RAYO! PLEASE! GIVE ME A SIGN!"
+The King accepted empty air. He took off his own clothes, then pretended to put on the magical clothes. Was he doing it right? If he couldn't see it, how did he know he hadn't put it on inside out? Put the left sock on the right foot?
 
-Her words choked. The rain washed them away, and they couldn't have gone very far.
+He had to trust the weasels. They gave instructions, like "no the zibbledip goes on your back!" and "put your left arm through the red sleavypeevy!" Until the smiled, nodded, and told him he was ready.
 
-She slipped.
+"You weavers have made me proud," said King Triangle. "I used to know a Rectangle like you, once. A good friend of mine. Or that's what I thought---he turned out to be a mean guy. I put him in the dungeons."
 
-She fell into the mud and fought for breath. She felt her body sinking deeper and deeper into it. No. No! It can't happen to her too! 
+"How so?" asked the first weasel.
 
-Her arm felt something solid to her left, and she pulled herself onto drier ground.
+"I was only a wee little Triangle then," he said. The King looked at himself in the mirror one final time. And he saw a naked King about to walk outside. "And I was playing sports with my best friends. But whatever I did, I couldn't get the ball into the goal! Because my Rectangle friend was larger than the goal. He blocked everything! I could never score!"
 
-"... you?" asked a familiar voice.
+"Ah yes. That is ... certainly bad enough to put him in the dungeons," said the second weasel.
 
-Nympha held the boy's leg as she pulled herself to her feet. "Yes. Me."
+"That's what I said! Anyway, let's go. The crowd is waiting!"
 
-She looked him over. He had a few scratches and didn't look great, but was otherwise unharmed. Warm fluffy bunnies stuck out of his clothes at all angles, giving Nympha angry looks.
+The guards stepped aside. The road lay ahead of them, with Triangle animals on either side cheering him on.
 
-"Why didn't you come to the town square!?" said Nympha. "Everyone thinks you died!"
+As soon as the King stepped outside, the cheering died. A naked King Triangle paraded through the streets. And the whole city was there to watch. In terrified silence.
 
-He frowned. "Because it was dangerous. I know these lands. I knew I could just wait a few hours for the storms to pass."
+"Is this how you greet a king? Who wears such fine clothes?" said King Triangle indignantly. A word which here means that he believed he _should_ receive cheers and applause, or you would go to the dungeons.
 
-The sky grumbled. Thunder roared. A flash, a yellow strike, and the tree next to them suddenly caught on fire.
+They started clapping again. They complimented his clothes. _Such beautiful colors. Is that magical silk? Wow, that must have cost a fortune._
 
-"But now that _you_ are here, you put us both in danger!"
+King Triangle smiled. He loved the love. He adored the adoration. Surely, everyone would agree with him now? They saw how _great_ Triangles were, and---
 
-"You're blaming _me_!?" cried Nympha. "Blame the weather! Blame nature!"
+Prince Circlesnake appeared. He had fought his way through the crowd, and could almost touch his father.
 
-Another flash. Rayo grabbed her hand and led her through the forest at twice the speed. Almost as if he could feel where the trees were, as if he somehow knew what ground was safe to stand on.
+"Are you all _blind_!?" he yelled. "The King is naked! _Naked!_ We can all see it!"
 
-The next thunderstrike hit part of the mountain behind them. 
+"Son!" roared the king. "Be silent _right now_ or I'll---"
 
-"Oh ... no ..." said Rayo. Nympha followed his eyes: large chunks of rock had broken loose and rolled downhill. Straight at them.
+"We can all see it," agreed those around him.
 
-"Faster!"
+"The King is naaaaaked," a few children started singing. "The King is naaaaaked."
 
-"I can't go much faster!"
+"It's not your fault, father," said the Prince, taking his hand. "Those _weasels_ are criminals! They tricked you!"
 
-"Nature doesn't care."
+He bared his poisonous fangs. He unrolled his snake body and pointed, with his tail, at the weasels standing near the castle.
 
-Nympha tried to keep up. She barely dodged another tree, invisible to her in the rainy dark. At some point, her boots were full of water and too heavy to lift. Once she realized she _was_ standing in the river, Rayo was already out of sight.
+"Arrest them! Now!"
 
-"Wait!"
+Triangle guards did their attack move: pointy end forward, charging at the weasels. They were surrounded. With scared eyes, they surrendered, and the Prince had stopped any rebellion before it---
 
-She turned around. Rocks as large as her _house_ had come down from the mountain. They rolled straight at her.
+"No! Leave them alone!" said King Triangle. "My son is lying. _He_ is the blind one. I am wearing beautiful clothes, and if you can't see them, you are just too _dumb_."
 
-"Climb a tree, you idiot!" yelled Rayo. He stood on a branch above her head, but had to drop down to grab Nympha.
+Everyone froze. The guards kicked some stones instead to unleash their anger, then stepped away from the weasels.
 
-She was too heavy. The branch cracked and they both fell back to the floor.
+"Now let's continue the parade. Cheers! Applause!"
 
-In a daze, she looked up and saw only angry _rock_ coming at her. They sank deeper and deeper into the mud, unable to get out. She and Rayo held each other tight as they prepared to---
+Prince Circlesnake was pushed away by the crowd. Defeated. He rolled himself into an even tighter ball than usual. His father had _chosen_ to lie about the clothes. And everyone was going along.
 
-A figure appeared. A black silhouette stood between them and the rock---and proved it was larger than the rock. With a massive roar and a swing, it _smashed_ into the rocks and launched them safely into the river instead.
+On his way to the castle, he bumped into the weasels. They were quickly stuffing more gold into bags, then ran away.
 
-Nympha blinked the rain and tears from her eyes.
+"I will get you! One day!" yelled the Prince after them.
 
-Two mammoths had saved them.
+The rest of the day, a naked King Triangle paraded through the streets. And everyone loved him. Everyone complimented his amazing clothes. And when he got home, he had never felt more kingly.
 
-A deer approached carefully and extended its antlers. Rayo didn't hesitate. He thanked the beast excessively, as he grabbed an antler and let the deer pull him out of the mud. Nympha did the same thing.
+He only whispered one thing to his son: "I know you're not blind son. But we're never going to admit that to anyone, are we? _Are we?_ And from now on, Rectangles, Trapeziums and Parallellograms are _not_ made of Triangles. Arrest them too!"
 
-They were surrounded by a ring of animals. And they had ... saved them? Weren't they supposed to hate her as much as she hated them?
+The Prince gulped. He nodded quickly and rolled to his bedroom.
 
-The rains stopped.
+As for the weasels, they lived happily ever after. They ran quite a profitable business selling invisible vases and non-existing drawings.
 
-The thunder had passed. The sun rose on a clear blue sky, and a dripping wet Dreamforest.
-
-And Nympha's jaw fell wide open. Across the sky, arcing graciously, was a beautiful rainbow. She still held Rayo's hands, as birdsong erupted all around her. A much nicer alarm clock than mosquitoes and a father yelling at you. Fresh air blew her hair in a tangle, and it just made her laugh. The trees around her suddenly didn't look spooky anymore, but like guardians. The silent, peaceful guardians of the forest that provide life and shelter.
-
-"It's ..." She didn't need to say it. Her face said enough. The colors said enough: Nympha was accidentally leaving large strokes of green paint on _everything_.
-
-She was young when her mother died, and her father instantly started the Dome project. Nympha had never heard birdsong before in her life. Never seen a rainbow. Never started her day with fresh air on her face. Never even given animals a chance to be kind to her, or stroke their soft fur.
-
-And now she knew that she never wanted to start a day without it.
-
-"Come on," said Rayo. "My mother will get a heart attack if I stay away any longer."
-
-They walked back, but slowly. Nympha wanted to touch all the trees and flowers. Spot all the birds. Imitate their songs, and be delighted when they returned the favor.
-
-For the first time, she saw the Dome from the _other side_. And it just looked unnatural. A grey monstrosity, like a scar inside the forest. She barely wanted to set foot on the stone floor, because it felt like leaving behind a dream and returning to a nightmare.
-
-Everyone was relieved to see them, of course. Father immediately used the opportunity to convince everyone that his Dome would've prevented this entire disaster.
-
-Nympha shut him down. She touched the walls she helped built, and they slowly turned green. That overwhelming joy from the power and beauty of nature was the strongest green anyone could produce. It was even enough to break down the walls and turn them into hedges and shrubbery at some points.
-
-She solved her mosquito problem. Spiders trap and eat mosquitoes, for example, so by keeping them out, she actually made her own problem worse. Mosquitoes are also attracted to light. By keeping her lights on all night, when it was supposed to be dark outside, she made her own problem worse. Rayo had to explain most of this to her, and she was quick to listen.
-
-Did no mosquito ever bother her again? Of course not. Nature doesn't care. It is what it is. You either fight it and lose, or you work with it as best you can. Some days you win. Some days the rain is simply pouring down, and you have to shrug and make it a fun day inside.
-
-Or, as Nympha soon learned, you don't care and just dance in the rain, painting the entire town green by feeling alive.
-
-The walls that started as the Dome, eventually became the Maze of hedges for which Dreamforest is now famous. And when the Rainbow Soldiers arrived, after getting lost five times in the maze, they approached Nympha and Rayo first. They asked them to be the Green Soldiers in the fight against Endless Blackness.
+But the Prince knew what he'd seen. There was a secret rebellion fighting against his father. Trying to make him look bad, and steal his gold. He had to find it.

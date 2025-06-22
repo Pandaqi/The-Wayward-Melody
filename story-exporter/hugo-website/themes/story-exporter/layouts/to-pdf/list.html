@@ -78,7 +78,8 @@
         {{ $col_size := len $collection }}
         <ol class="table-of-contents">
             {{ range $collection }}
-                {{ $id := .Title | urlize }}
+                <!--- I need to match the auto-id thing that Paged.js does, and urlize isn't good enough for that --->
+                {{ $id := replaceRE `[\s]` "-" (replaceRE `[#\.\$\[\]\(\)\&]` "" (.Title | lower)) }}
                 <li><a href="#{{ $id }}">{{ .Title }}</a></li>
             {{ end }}
         </ol>

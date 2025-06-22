@@ -1,270 +1,223 @@
 ---
-title: "The Lake of Skyfish"
+title: "Pentagon Problems"
 weight: 50
-color: Blue
+shape: Pentagon
 ---
 
-<!---
+# Pentagon Problems
 
-### 🔵 Blue – “The Lake of the Skyfish”
+Penny took water from the fountain in the middle of the town square. Nobody had asked her to do it. Everyone seemed pretty good at ignoring her. But surely _somebody_ would need water, right? They worked so hard all day. They had to be thirsty.
 
-BLIND to how **strong** they are, both physically and mentally? (To overcome sadness and fear and futility and keep going. Which means, at the start, they are blind to how **lazy/not-strong/inactive** they are.)
+She could help.
 
-**BLUE = SADNESS/DEPRESSION (which is awfully close to PARALYZING FEAR):** The main character's pet rainbow unicorn died. They're so sad about it they refuse to eat, to go to school, go non-responsive as everything turns blue. This causes their father/mother (who is like a leader in that country?) to write a command like "The feeling of blue must be defeated, it makes you weak. Anyone who paints blue next week, will be arrested by the police!" And so the main character really really struggles to hide this feeling and remove it, until at the end they realize "_The blue feeling is never defeated. Life is full of surprise, and not all of it is nice. But you use it for new, make it the strongest part of you. Why shouldn't life be allowed to be a little bit blue?_"
+King Triangle sent a message. He was coming to visit in a few days. And anything that didn't look like a Triangle would be arrested. Or thrown away, if it was an object. It was quite silly to arrest a pencil or a rock and throw them into the dungeons.
 
-Setting: A sparkling blue lake under a periwinkle sky, where fish fly at night.
+Now, dear reader, you've already seen a few stories. Some animals tried to hide.
 
-Theme: Calm, depth, sadness, wisdom.
+Penny's town, like most towns, had a different reaction. They _tried their best_ to listen. They worked _really hard_ to turn everything into Triangles. Nobody ran away, nobody hid inside their cupboard.
 
-Objects: Water, sky, sapphires, bluebirds, waves.
+A few Squares ran past her, holding saws and hammers. They broke down the old fountain, then built a new one that looked like a Triangle.
 
-Magic Twist: The Skyfish grant one question to those who find the Quiet Shell.
+Some Star-shaped animals hopped into the forest. All other trees were taken down, then replaced by Christmas trees. After all, those were made of several Triangles.
 
-Plot Idea: A lonely girl sails the lake to find answers about her past, learning along the way that stillness holds truth.
+Some Circles rolled around the public town square. They took out bricks and tiles in an effort to make it, well, a public town Triangle instead. All homes had to be moved around too, otherwise they'd be too far away now.
 
---->
+The entire town was working hard. But nobody had asked Penny, a Pentagon cat.
 
-# The Lake of Skyfish
+She walked out of the sun, into the shade. There she found a group of Triangle animals lounging. That is, they were doing nothing, laying on the floor, sleeping or talking while they watched the work. Of course, Penny thought. Triangles don't have to change. They had nothing to fear. Lucky them! 
 
-Skaia had a pet unicorn since she was a baby. It grew up with her. As she got bigger, her unicorn got bigger. When she learned her first words, the unicorn received its first colored manes. She couldn't remember a morning when she woke up and her unicorn wasn't snuggled against her.
+Still, they could've helped.
 
-_Wonder_, she had called the beast. And she still liked the name. It was a wonder that such beautiful creatures existed. It was a wonder they would want to be someone's pet, instead of being happy on their own in the Dreamforest or something. It was a wonder they could walk over water. And very useful, too, as Skaia lived in a kingdom that was one giant like. And no, she wasn't a fish.
+Penny approached. She was so nervous that she almost stumbled.
 
-But as you might know, my child, not every animal lives for as long as humans. Unicorns are so strong and magical that they can only live for a short time. Like a flame that burns brightly, until it's eaten all its fuel. The Rainbow God probably thought it was unfair to have them live longer, Skaia told herself. The wonderful unicorns would take over the entire world! They would grow and grow until they were as large as mammoths!
+"Can you please help me?" she asked with a tiny voice and a _meow_.
 
-And so it was that Skaia woke up one day, and Wonder was not by her side.
+"We can't make you a Triangle," said a Triangle frog.
 
-In a panic, she ran outside. Like most things in this kingdom, Skaia's home was built on the water. Wooden poles kept the house high and dry. Several wooden paths---so-called "boardwalks"---extended in all directions like spider legs. 
+"I know. But my house still looks like a Pentagon. We need animals to help change it."
 
-Wonder had walked to the edge of one such boardwalk. Its head hung over the edge, as if it wanted to take a drink, or wanted to look at its reflection a final time. Its manes lost their color now; just gray and white. Wonder wasn't moving.
+The Triangles shrugged. They barely even reacted or lifted off the ground.
 
-Her unicorn had passed away.
+"Not our problem."
 
-Skaia fell to her knees. Her tears rained into the water, until Wonder's reflection was all blurry and rippled. She held Wonder one last time. Combing its hair, stroking its fur. She wanted to whisper a farewell, but found she couldn't speak anymore. All she could do was cry, as her throat locked up.
+"But ..."
 
-A hand fell on her shoulder.
+"Bad luck, cat. Now go away."
 
-"My child," said her father. "You're almost late for school. Come on."
+Among the Triangles were a few Squares. Also lounging in the shade. They were soft and wobbly, one of their corners sagging as if asleep. If you didn't look too closely,  you _might_ think they were triangles too.
 
-_I'm never going to school again!_ Skaia wanted to yell. But she couldn't make a sound. _I'm never going anywhere! I'm staying here, with Wonder._
+"But we're neighbors!" Penny said. "I used to play games with your son! We're not so different. I just have two more corners."
 
-"Child? Did you hear me?" repeated father.
+"Two more corners sounds _very_ different to me." The Triangle wrapped an arm around a Square. "Now, _one_ more corner, we can overlook. But two? Or three? Even more?"
 
-Skaia let herself fall. She closed her eyes and clung onto her unicorn. She was never moving again. She didn't have the strength! Why would she ever run again, if Wonder wasn't there to run next to her? How could she play a game with someone else?
+"Kst kst," said the other Triangles.
 
-The entire boardwalk was painted blue from her sadness. To anyone else, it would look like Skaia was standing on water alone.
+Penny ran away. The message was clear. She belonged with other Pentagons, and nowhere else.
 
-"I know it's sad, child," said father. "But you must eat. Life goes on, and---"
+The problem was, of course, that there wasn't a single other Pentagon in this town. It was a rare shape. You didn't find it a lot in nature. And if you thought you found it, it was usually a _Star_ instead.
 
-Why? Why should life go on? If Wonder isn't here to see it anymore.
+She walked past the fountain again, to the other side.
 
-Skaia started crying again. She even painted the house blue, though it was far away. Any fish unlucky enough to pass by right there would also suddenly look very blue.
+Three weasels were changing the road. And they were making a mess of it.
 
-Her father tried to lift her up. Skaia did nothing. She barely felt his touch anymore.
+"The road _can't_ be a Triangle!" yelled a Rectangle weasel. "It _has_ to be a Rectangle!"
 
-"No, no, no, we're not doing this," said father. "Come on! Use your own feet!"
+"You're only saying that because you're a Rectangle!" responded a Trapezium weasel.
 
-Skaia refused. She kept falling back onto her unicorn's hair, until father sighed and carried her back to bed. Once in bed, she went still as a statue, and all she could dream about was Wonder coming back to life. But every time she woke up, the beast wasn't there, and she'd cry again.
+The third weasel, a Parallellogram, was leaning on a shovel. As if he was about to fall asleep. When he _did_ fall asleep, the shovel broke and the weasel fell on his face.
 
-Her entire bedroom had painted itself blue by now. A darker blue than the happy sky. A darker blue than the lake.
+"Wibolo!" said the other two weasels. "You make the decision. Can roads be a Triangle or not?"
 
-She hadn't even noticed her father coming back from work. He was probably talking to her, but she only heard mumbling and noise. 
+"What? Of course they can't be," said Wibolo. "Weacle is right. The road would get smaller, and smaller, and smaller, until it ended in a sharp corner."
 
-He had to pull away the blanket to get her attention.
+"Do you think King Triangle understands that?" asked Weacle, the Rectangle weasel.
 
-"You get _one day_," he said. "One day to grieve your pet. Then I want you out of bed, doing your chores, because life goes on. I'm too ... I'm too busy to deal with this. We never should've bought Wonder for you."
+Wibolo was already leaning against something else: a fence. It couldn't take the weight and fell down. Wibolo looked for something else to lean on.
 
-One day? She was only allowed to be sad for _one day_?
+Penny walked into their conversation. "He doesn't understand," she said.
 
-She had heard about the Rainbow Soldiers visiting the lake. She had heard that they forbid emotions too. Anger wasn't allowed anymore in Dragonstripe. Joy wasn't allowed anymore in Sunstripe, which is why its prince fled. Together with a large group of gold miners, for some reason.
+"Who are you? Get off our road!" said Weacle.
 
-Unfortunately, her father was a powerful president in _this_ kingdom. And he was inspired by this.
+"I want to help."
 
-The next time she woke up, he was giving a speech in front of the house. There were journalists, princes, witches with some magical thing they called "camera". Father was explaining some new rule he made up. A new law that would "help the kingdom" and "prevent disaster".
+"We're doing just fine!"
 
-He said,
+"Nah, looked like you made a mess."
 
-> _The feeling of blue must be defeated,_
-> _It creates problems and makes you weak_ 
-> _Anyone who paints blue starting next week_ 
-> _will be arrested by the Rainbow Police!_
+"If you're going to be mean to us, you _surely_ can't help," said Weacle.
 
-And so it was done. Skaia fell back in bed, trying to pretend her tears didn't exist. Trying to pretend she was happy. Because if she didn't, her own father would put her in a prison.
+"I didn't mean it like that!" Penny smiled and raised her hands. She tried to look friendly, and apologize, but the weasels already turned away.
+
+"Maybe we need to look at it in a different way," said the second weasel, shaped like a Trapezium. "If we build the road going _up_, it's a Triangle from the side, right?"
+
+"Yes, yes, yes, Weazium. You're on to something ..." said Weacle, stroking his chin.
+
+"But then all the roads in the town must go up and down. Like we were built on a mountain," said Wibolo.
+
+"Do you have a better idea?"
+
+He didn't. Weazium walked to the end of the road, then fell to the ground. On his belly, the Trapezium looked a lot like a staircase. A slope. The other weasels used him to walk to a higher place, and continue building the road there. Before long, the town's roads were all going _up_, shooting for the clouds.
+
+Penny shook her head and walked away again. Nobody wanted her. Nobody understood her. 
+
+Penny had heard of something called an _operation_. Many shape animals underwent an operation in the hospital to lose one corner. You could also get an extra corner, but that wasn't popular right now. 
+
+But Penny knew this also wouldn't solve her problems. Because she was _two corners_ away from a Triangle. Just like she was too many corners away from being an Octagon.
+
+She fit nowhere, and went home.
+
+"Back so soon?" asked her mother, who was a Square bunny. "Don't tell me you didn't do any work! We will not be arrested by King Triangle because I have a lazy daughter!"
+
+"Nobody _lets_ me do any work!" said Penny.
+
+"Pff. Lazy. As I said."
+
+Penny crossed her arms. This was hard to do as a Pentagon, though, so it probably just looked clumsy. "I'm _not_ lazy. I just have one more corner."
+
+"Don't give me that look, miss!" Her mother turned her around and pushed her outside again. She gave Penny a random stack of wood to hold, and her arms trembled under the weight. "I only want the best future for you. I'm doing this for _you_, miss. The world doesn't need Pentagons. It needs, well, Triangles right now. That's how you will be safe in the future, and earn good money."
+
+Penny sighed. Her mother was probably right. Her parents _did_ want the best for her. And they were older, and wiser, so they probably knew better. 
+
+Maybe it was like the Triangle said: bad luck. Bad luck that she was born a Pentagon-shaped cat. She just had to work really hard to become something that _did_ belong somewhere.
+
+Holding the wood, she walked into town again. She looked for a place to put it. Maybe she could build a Triangle gate? To welcome the King? 
+
+She didn't like the idea. She wouldn't be able to walk through that gate herself!
+
+Maybe she could help the bees? The bees themselves were always Hexagons, yes. But their honeycombs were _also_ made of Hexagons. She could build a wooden wall to cover part of it, so they looked like Triangles instead.
+
+But when she arrived in the forest, it was the same Shapesong all over.
+
+"You're not a _hexagon_!" yelled the bees.
+
+"I'm _almost_---"
+
+"Not good enough. King Triangle also doesn't accept _almost_ Triangles."
+
+"Well, just, just think about it, okay?" Penny dropped the wood near them. Like a gift, for free. 
+
+Then she walked away, deeper into the forest. To cry.
+
+What was wrong with her? What did she need to change? _Could_ she even change herself? If she added a corner, would the bees accept her? Or would they still see that she was a Pentagon at heart? She could add _five_ more corners, and the Circles would still call her "not round enough".
+
+She sat down on a large stone. But something felt wrong. She _meowed_, jumped off, and looked at the stone.
+
+It had Shaeprints! Magical Shaeprints! Oh, what would it do? Maybe the magic would change her shape! Or maybe it would grant her a wish! You probably know, dear reader, what she would wish for right now.
+
+Then a trumpet sounded. A large row of soldiers moved through the forest. King Triangle had come to visit her town.
 
 ___
 
-Skaia couldn't take it any longer. Everything reminded her of Wonder.
+Penny couldn't see thing. Her mother had to lift her on her strong, safe Square shoulders. 
 
-The cozy bed she made for the unicorn was empty now. She still found colorful hairs scattered across her entire bedroom. On a dry day, when the water was low, she could see the place where they buried her pet.
+Ugh, another thing Pentagons couldn't do. If she stood on her flat side, she had a pointy had that couldn't carry anything. If she stood on her pointy side, she fell over.
 
-And every time her throat locked up again. She had to close her eyes, pinch herself, to stop herself from crying. To prevent painting something blue.
+Once in the air, she saw King Triangle on a stage. A Triangle stage, of course.
 
-She told herself to be strong. But it was clear, wasn't it? She _was not strong_. She was weak, like father said. She was perfectly healthy, but because a pet died she refused to move, or eat, or sleep. It didn't make sense. But she _felt_ it. She felt so strongly that life should _not_ go on, at least not yet. Right now, going to school and eating like everything was fine, felt like she was a whale trying to move over land. And through a doorway that was far too small.
+"I am pleased, my citizens," said the King. "You have followed my commands. You have turned this town into a Triangle town."
 
-When she was at school, she couldn't pay attention. When she was at home, she avoided father and mother.
+He looked around again. He took out Triangle binoculars to look in the distance. Then he nodded again.
 
-One time she couldn't hold it back. She had run to the toilet just in time, painting the whole thing blue. The only thing that saved her was _fear_. The boots of the Rainbow Soldiers sounded nearby then. Soldiers, of course, also need to use the toilet. She could suddenly hold it all back and think happy thoughts, painting the toilet yellow and pink instead.
+"Yes, very pleased. You are an example to the rest of Shapesong. They hide from me. Like my Prince! But you did your best to follow my law."
 
-She felt like a dam holding back the water in the lake. And she was close to breaking.
+A sigh of relief. Many of the town members were _not_ Triangles. Some didn't have the time, or the money, to become one. But it seemed they would be forgiven. King Triangle was satisfied with _everything else_ being a Triangle.
 
-"I am proud of you," said father, playfully slapping her knee. "You are stronger than you think, I told you. You're going to school again, you're eating---"
+Or was he?
 
-"I'm not," admitted Skaia. With all the sadness in her, she couldn't find the strength to lie. "I keep thinking about Wonder. I can barely stop myself from crying."
+His face turned grim.
 
-Just saying the words _almost_ made her cry.
+"Is that a Pentagon I see there?" He pointed straight at Penny. "Yes, you, cat. Don't look away. You can't hide your filthy shape."
 
-"Then it's extra strong of you," said mother. She sat down on the couch too with a mug of hot chocolate. "To keep going all the same."
+Penny meowed, out of control. Arms grabbed her and brought her to the front. 
 
-Skaia sat squished between her parents. They had always been nice to her. She definitely didn't hate her father for creating that Law Against Blue. But something had always been off about him. Half the time, he was playful and kind. And half the time he was strict and serious and at work. All she knew was that her father used to have a different wife before, but left her.
+Her mother tried to follow. She said things like "I've been trying to change her, but she wouldn't listen!" and "She doesn't know what's good for her!"
 
-"Can I ... can I have a new pet?" asked Skaia. It had been three weeks, and somehow this was the first time she even thought of it. She didn't want to ... want to _replace_ Wonder. Erase the beautiful beast like it was never there. But her father had been right. Life goes on. Surprisingly. Terrifyingly. How quickly she forgot how much happier she was a month ago. How quickly her parents forgot they ever had a pet.
+King Triangle made a fist. "I knew a Pentagon once. I thought she was a friend, a loyal servant. But she was _not_!"
 
-Well, that could change. Her unicorn would've wanted her to be happy, and to find a new pet, right?
+The crowd gasped. Penny cringed.
 
-"Absolutely not," said father.
+"I asked her to be my guard one day, together with a Parallellogram. A simple job! An _honor_! Just stand next to me, and make me feel safe. Protect me. But what did they do?"
 
-"Maybe, one day, we'll think about it, dear," said mother.
+The crowd fell silent. King Triangle waited too, as if he expected someone to yell the right answer.
 
-"But ... but it would make me happy. No more blue," tried Skaia.
+"The Parallellogram leaned against the throne and destroyed it! And we aaaaall know how useless Pentagons are. Not as sturdy as a Triangle or Square. Not as smooth as a Circle. Confusing, really. Everyone always looked at that Pentagon and was like, _is she a Square or a Hexagon? She confuses me!_"
 
-"Until something happened to that pet," said mother, "and we might lose you forever."
+King Triangle coughed and continued without using fake voices. "Long story short: broken pieces of the throne hit the Pentagon, and she just rolled out of the room and left me alone. Useless! What a betrayal! I _hate_ those shapes"
 
-Lose her? She was just ... she was just sad. She just wanted to lay in bed for a few days, draw a nice painting of Wonder to remember. Or was it that much worse a few weeks ago?
+Wibolo, the Parallellogram weasel, suddenly stood next to Penny. He looked just as angry as she was. They looked at each other, just for one heartbeat.
 
-"You may feel like you need it," said father sternly. "But no good can come of it! I had that Law ready for years. You just proved that we really needed to defeat the feeling of Blue, forever."
+Then they turned around and ran away.
 
-"What happened to you!?" yelled Skaia. "Who made you so afraid of blue!?"
+"Grab them! Arrest them!" cried King Triangle.
 
-Her father put away his newspaper; her mother put away her mug. Her parents looked at each other for a while, then grabbed each other's hand.
+Weazium acted fast. He threw himself on the floor again belly first. He became a _slope_.
 
-"You know I had another wife, years ago," said father. "And we had a child. A beautiful baby boy. I thought we were happy, I loved the start of this family."
+Wibolo and Penny ran up his back and were launched far away, into the forest. There, Penny led them to the stone with the Shaeprints.
 
-"And then?"
+"Maybe the magic protects us. We have to try," she said.
 
-"Then the blue came," said father. He struggled to keep his voice from breaking. "My previous wife, she was a good woman. She would cry when she found a dead cat on the street. She would cry when she heard of someone dying in a fire. She would be sad for days when a war broke out somewhere. She would wake up at night, crying because of all the evil things in the world. She was too ... too kind for this world."
+Wibolo felt the Shaeprints. "All the wrong shapes. I have nothing that fits in these holes."
 
-Everyone fell still. Mother embraced father and kissed his cheek.
+"It _has_ to!" Penny looked for rocks around her. 
 
-"Until she just couldn't take it anymore. She was sad all the time. Our neighbors would visit and complain that she had painted their house completely blue. She was fired from her job, she refused to leave the bed. She ... believed she couldn't be a good mother like that. And I may have told her she was right."
+She found one that was almost a Circle. But there were no Circle Shaeprints on the rock. She tried to smash it into the Triangle hole, and the Square hole, but it didn't fit.
 
-Father looked out the window. He stared at his reflection in the lake, as if he could see it all happen again. "One morning, I woke up and she and the boy were gone. She was last seen moving to Snowstripe. The most cold and deadly kingdom of all."
+She tried with another stone, which looked almost like a Square, but not perfectly. She smashed it, pressed it, pushed it into all the Shaeprints. No success.
 
-He coughed and picked up the newspaper again. 
+"But Penny," Wibolo said. "What you want is just impossible. You're trying to fit a Pentagon into a Triangle hole. And a Square into a Star-shaped hole. You can push all day, it's never going to fit! Find some other set of Shaeprints! We have to go!"
 
-"Nothing good ever came of the blue feeling. I'm not changing my mind on this, child."
+Penny leaned against the cool stone. She wanted to fall asleep and wake up when King Triangle was gone. "And what if ... no hole exists that fits me?"
 
-Skaia swallowed, loudly. She had no choice then. She cleaned up her bedroom. Everything that could possibly remind her of Wonder had to go. That painting? She'd drawn it with the unicorn on her lap. That chair? The unicorn had once tried to sit on it, and hilariously fell off each time. The bed? Surely the bed had to go too, as they always snuggled there.
+Wibolo's eyes went wide. He suddenly realized what this was really about. 
 
-She cleaned up her bedroom all day. 
+"Well, duh. Then we _make_ one."
 
-Until she looked back and saw an empty room.
+What ... a good idea. Why hadn't she ever thought of it? This is what you did. Someone long ago needed a space to live, so they build this town. A Triangle became king, so he made spaces for Triangles. 
 
-___
+Why couldn't Penny build her own space for Pentagons? Why couldn't she be the one who started that?
 
+Wibolo did what he does best: lean against things. This time, he leaned against a tree, until it _fell over_. It left a gaping hole in the floor, surrounded by upturned tree roots. They jumped into the hole, and did their best to cover it up.
 
-Skaia stood before her classmates. Most of them she could call really good friends. Some she thought were weird and mean, but okay. 
+It was enough. King Triangle ran past a few minutes later, and never noticed them.
 
-Among them, however, were also a few new faces: Rainbow Soldiers. They had come to school to make sure the Law Against Blue was being followed.
-
-"We tried so hard to warn you," said one Rainbow Soldier. He spoke angrily, sat down angrily, and even ate his bread angrily. "But many of you must have broken our law! Endless Blackness has appeared at the edge of the lake. You probably caused it."
-
-"We're going to be around for a while," said the other Rainbow Soldier. "Checking if nobody is painting blue. We want to ask every kid some questions later."
-
-Her teacher was normally happy and caring. She knew Skaia wasn't paying attention the past few weeks, but she let it go. Today, however, she gave the soldiers her grumpiest of stares and said. "And I want to continue with my class without interruption. Shall we?"
-
-Skaia nodded. She really wanted to get this over with. It was bad enough to give a presentation. To stand before thirty people and talk about your favorite thing. To do it when Rainbow Soldiers are listening, ready to arrest you for any mistake, was even worse.
-
-"My presentation is about my favorite ... my favorite ... pencil."
-
-"Pencil?" asked the teacher in surprise. "That's your most favorite thing in the world?"
-
-"Yes. Sure. Completely." Skaia tried really hard not to think about Wonder. She had already prepared many presentations about her pet. But she couldn't give one now without crying. So, at the last moment, she had to pick something else. And she had to bring it to the presentation, so picking a fish or her bed wasn't going to work. "I loooove pencils."
-
-"Okay. Well, I'll be interested to hear what's so special about them," said the teacher.
-
-"So are we," added the Rainbow Soldiers with a frown.
-
-"Well, with a pencil you can draw things. And my favorite coloring pencils are really sharp, and they have beautiful colors, like the manes of my pet unicorn---"
-
-No. No, no, don't think about it.
-
-"Pet unicorn?" asked a girl. "That would be _my_ favorite thing!"
-
-"Yes!" said Skaia, before placing a hand over her mouth. "I mean, no, that was a joke, I never had a---anyway, pencils can also be used for fake swordfights. And if you're out of hairties, you can use pencils too, I guess, and---"
-
-Memories flooded back to Skaia. Her unicorn taking a coloring pencil in its mouth and trying to paint something too. Fake swordfights with her pet, with her using a pencil, and Wonder, obviously, using its horn. The tears were already coming. The Rainbow Soldiers watched her, almost looked _through_ her. She quickly rubbed her forehead, wiping the tears with her sleave.
-
-"Hot in here, isn't it?"
-
-"Not particularly," said the teacher with a frown. 
-
-"It's actually more like Snowstripe in here," said a Rainbow Soldier, visibly shivering.
-
-"Well, erm, so---"
-
-"Can we meet your pet unicorn?" asked the girl with an innocent smile. "After school?"
-
-"NO! YOU CAN'T!" yelled Skaia.
-
-"Oh. Sorry I ask---"
-
-"BECAUSE WONDER DIED!"
-
-Skaia fell to her knees, hands over her eyes. Blue erupted on the wall behind her, like flames spreading.
-
-"Wonder had its own pencil," said Skaia through her sobbing, _trying_ to finish her presentation. "And we'd draw together. And Wonder was terrible at drawing, but so am I, so it was really funny. And then ... then Wonder would lick my face ... and I would stroke its hair ... and I had promised to show the Dreamforest to it one day ... but now ..."
-
-Skaia could barely speak anymore. All the words came out like squeaks. All the tables of the front row were blue by now.
-
-But not because of Skaia. Her classmates were crying too.
-
-She looked up. The Rainbow Soldiers got out of their seats, preparing handcuffs.
-
-Let them arrest her. She was never going to move again. Why would she? Why go on without Wonder?
-
-"And every morning Wonder would be next to me when I woke up ... and we threw a party for it when he received his first colorful hair ... but unicorns don't understand the idea of parties, so he trampled the cake and got stuck in the garlands ... and then I made a drawing of that with my favorite pencil ..."
-
-The second row was painted blue too. The girl who had asked to see the unicorn, stood up too. She bumped into the Rainbow Soldiers with all the force she had. The surprised men screamed and rolled over some chairs.
-
-The girl sat down next to Skaia, embracing her. "I had a dog like that too. Once. He'd be so happy when you get home ... like you were the best thing in the world, just by existing ... and he protected me once when I was attacked by a bird ... that puppy wasn't larger than my hands, and he fought for me! ..."
-
-"Wonder saved my life too once, on accident ... why couldn't I save its life too ..."
-
-The entire classroom started to sob. A splash of paint erupted so blue, so violently blue, that it covered the entire school and then some more.
-
-Her friends walked to the front and joined the embrace. Almost twenty children sat on the floor, just crying, and talking about their lost pets, their lost family, their sick grandmother, the Rainbow Soldiers who took their grandfather. The teacher joined in with a whole list of things only adults should be sad about, if the world was fair at all.
-
-The Rainbow Soldiers stood before them. Were they going to arrest the whole class? Did she ruin---were they---
-
-They were crying too.
-
-One of them sat down before Skaia. He whispered, "Your unicorn would've gotten along well with my cat. Maybe they are getting along now, somewhere in heaven."
-
-"Somewhere over the rainbow," added the other.
-
-Nobody knew how long they sat there. Whenever someone thought they could go on, someone else would share something that just darkened the blue.
-
-In the end, her father had personally visited the school. He was informed of a "big disaster" that painted half the kingdom blue. He ran into the classroom thinking Skaia had an accident, that something terrible happened, but found a lot of kids---and three adults---sitting on the floor wiping their eyes.
-
-"You're ... you're ... you're all under arrest!" yelled father. He waved at the Rainbow Soldiers behind him. "Take them!"
-
-"Don't be ridiculous," said the soldiers.
-
-"Do you want the world to end? Do you want everyone to sit on the floor and do nothing, when Endless Blackness comes?"
-
-The Rainbow Soldier who had a cat, stood up and faced my father. "If we're not allowed to care about the world, then why save it?"
-
-The soldiers turned on her father instead. They threatened to arrest him if he didn't undo the law. 
-
-Skaia loved her father, she did. But she also knew him better than anyone. He was not someone to back down, to admit he was wrong, to change his mind.
-
-He simply fled the kingdom that night.
-
-Skaia had predicted this, because of the story about his first wive. So mother hid her away in a cupboard, until he was gone.
-
-The law was undone. When Skaia was old enough, she traveled to the other kingdoms to convince them to stop forbidding emotions too. To this day, the Lake of Skyfish is the only kingdom where every emotion is allowed. And with a school building that is somehow covered in blue paint that refuses to go away.
-
-> _The blue feeling is never defeated_
-> _Life is full of surprise, and not all of it nice_ 
-> _But you use it for new, make it the strongest part of you_ 
-> _Why shouldn't life be allowed to be a little bit blue?_
+Soon, they would make this the very first secret hiding place of the Rebelshapes. Rule number one: all shapes are welcome.

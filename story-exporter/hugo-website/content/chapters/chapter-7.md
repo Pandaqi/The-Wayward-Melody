@@ -1,299 +1,247 @@
 ---
-title: "The Piqarine Painter"
+title: "Ballhouse Beaucoup"
 weight: 70
+shape: Circle | Ellipse
 ---
 
-<!---
+# Ballhouse Beaucoup
 
-BLIND to **imagination/creativity**? => This introduces the Piqarine Painter, a fox, who invents their own color? Or ... shouldn't that one be about the PIQARINE COLOR then?
-(There's someone who takes everything as fact, thinks no further, and whatever isn't proven or already exists is worthless and should not exist. Make this a typical story of the "daydreaming" person who gets bad grades in school, attention elsewhere, etcetera?)
+Beau talked to his house. This is perhaps a bit strange, but not too much. Some people talk to their pets, some talk to their dolls, and some yell at their computer when it crashes.
 
-This can be a more philosophical story about "we can only see some of the colors" and "what if we could see more" and such.
+The difference, of course, is that Beau's house _talked back_.
 
-"Who cares if it's real? What _is_ real? If you see it, then it's real to _you_. If you are happier for seeing it, then it means something to you."
+Not in the usual way. Even a living home doesn't have a mouth and a voice. 
 
---->
+But when Beau woke up, the house helpfully opened its closet and already picked out clothes. When he rolled downstairs, the house already set the kitchen table with breakfest. And when he was sleepy, the house would build a bed right next to him, so he could literally just _fall_ asleep.
 
-# The Piqarine Painter
+This morning, Beau took a chair and ate breakfast with his parents. His entire family were Circle peacocks.
 
-They say the world started from nothing but blackness. Piqafox never believed it. Her life had always been full of color. How can there be _nothing_? How can the beautiful sun, and trees, and rainbows appear out of _nothing_? Now, however, as Piqafox ran into Rainbow Soldiers, she was sure the world would _end_ in blackness too.
+"King Triangle is coming to town," said his mother. "Like the previous towns, he has ordered us to make _everything_ a Triangle. If he sees any shape that's different, he'll arrest us all."
 
-Their uniforms had lost most of their color. Lines of black and gray paint covered their faces. One of them wore an eyepatch, and another had a wooden leg. Their commander, strangely enough, was a young girl wearing a name badge that said _Leyla_.
+"When will he be here?"
 
-"Back so soon?" asked Piqafox' mother, Piqalia. Both of them were, as you might have guessed, orange foxes. They had been collecting food in the magical forest---nuts and berries in all colors---when they ran into the Rainbow Front. 
+Beau looked at his mother, but the question was not for his mother. It was for the house.
 
-Piqalia looked hopeful. "Did you defeat the Endless Blackness?"
+Ballhouse Beaucoup was shape as a huge _ball_. Like a golf ball used by giants, plopped in the middle of a jungle. Every room had a different Shape theme. Beau's bedroom was made of Hearts. The kitchen liked its Circles, mostly because of the plates, pans, and cans. The playing room was made of Triangles that all looked like the _play_ button.
 
-Their tired faces told the story. "We _can't_ defeat it."
+And at the top of Beaucoup was a large telescope. After he asked the question, the house extended the telescope until it was as long as a tree. By looking through its glass, you could see far into the distance.
 
-"Well, then," said Piqalia. "That's that. Thanks for trying. How long do we have?"
+The telescope immediately retracted. The kitchen, normally so fond of Circles, dropped a few Triangles in their food instead!
 
-_That's that!?_ Mother was just going to give up. They were all just going to accept the world was ending?
+Triangles. The house only spoke using them in bad situations. That could only mean one thing: _Danger!_ King Triangle was close!
 
-"Not sure. It's not like we have experience with this," said one Rainbow Soldier.
+Suddenly, an alarm went off. A ringing that made Beau's entire family stand up at once. One of the kitchen doors closed and locked itself. The other kitchen door unlocked and opened itself.
 
-"But a friend of mine did some calculations," said the one with the wooden leg. "The Endless Blackness spreads faster every day. It has _never_ slowed down. It could be here before the week is over."
+His father and mother moved to the next room. It was the work room, filled with Rectangle desks, and papers, and typewriters.
 
-"But did you try---" started Piqafox, but the soldiers turned away.
+That was another strange thing about the Ballhouse. You had to keep moving around in circles. Rooms locked and unlocked on a schedule, and if you stayed from morning until evening, you would have seen _all_ the rooms. 
 
-"We tried everything that was supposed to work."
+Beau didn't feel like working. So he just stepped outside. When he locked back, the Kitchen cleaned itself and shut off the light, and then the room went to sleep.
 
-"Which is?"
+Because he was looking over his shoulder, though, he missed what was happening outside hus house.
 
-"Attack it with color. Paint away the black." He pointed at the wooden-legged soldier. "See him? He can literally turn _anything_ bright white. But not this ... this monster."
+He bumped into a crowd of animals.
 
-"So ... you tried _one thing_ and it _didn't work_?" said Piqafox.
+"Haven't you heard?" said his neighbor. "Everything must be a Triangle! Now!"
 
-Piqalia placed her paw over her daughter's mouth. "Don't speak to them like that! They are fighting for _you_."
+"I know," said Beau. "We'll help you if---"
 
-"What else is there to try?" 
+"Help? We've already done our bit. All the shrubs are Triangles. All the fences."
 
-What else---there were _so many things_ left to try! Piqafox saw them in her head, like pictures in a large potion of possibilities. A vague idea about attacking the Endless Blackness from _behind_. A vague idea about _trapping_ it, maybe. If you can't defeat something, then at least make sure it stays in one place!
+"My horses have become Triangle horses," said another. "My kids are playing basketball with Triangle hoops as we speak!"
 
-Piqafox wanted to say so. Her mother's stern gaze shut her up.
+"This morning I had Triangle bread for breakfest, with a Triangle glass of milk from Triangle cows," continued his neighbor.
 
-The soldiers just shrugged. They took the basket of food out of mother's hands and ate it themselves.
+"In other words," said a stranger, "you're the only _bad home_ left."
 
-"This means the border is now _closed_," said Leyla. "Nobody leaves or enters. Go back to your homes. If we prevent the spread of people and animals, we slow down the spread of this monster."
+Beau stepped back. He raised his hands, as if that would protect his home. He looked like an ant compared to his _giant_ Ballhouse Beaucoup. The house itself also heard what was going on and immediately locked all its doors.
 
-Just like that, Piqafox stood before a wall of soldiers. She could _see_ the tasty food on the other side, but wasn't allowed to grab any of it.
+"No! No, no, we, erm, we don't need to change!" Beau tried to smile, but his face went red. "The King gave us an essapition!"
 
-Closing the border was the _only_ thing they ever did! Could they really not try something else? Could they not ... imagine any other solution?
+"_Essapition_!?" asked his confused neighbor.
 
-As Piqafox and her mother walked home, she noticed sunbirds above their head. They were still allowed to go wherever they wanted. Oh, how nice it must be! Piqafox always wondered ...
+"You mean _exception_, boy?" asked someone else.
 
-"I wish I had wings like birds," she said. "Then I could fly over those stupid soldiers."
+"Yes! Yes. _Unlike you_, we don't have to---"
 
-"But you don't," said Piqalia. "No use wasting time wondering."
+"I don't believe that," said his neighbor. "The other towns didn't get exceptions. Why are you making this so hard? Just let us destroy your home and rebuild it as a Triangle home. Our homes already---"
 
-"I could ... maybe ... make wings?"
+Beau almost rolled over his neighbors in anger. "But you don't have a _living_---"
 
-"Nobody ever made wings before. No use wasting time on it, dear."
+Oh no. No, he couldn't say it.
 
-"The Endless Blackness has to end somewhere, right? Maybe, if you fly high enough, you can get _above_ it!"
+When he was young, he believed every home was alive. He'd visit a friend and start asking questions to the walls. They laughed at him and called him stupid, and then he realized: his home was the _only_ one alive.
 
-"And maybe you don't. Maybe you'll just die because it's really cold up there and you get no air! Too risky. No use wasting time on these silly ideas, dear."
+Which made it dangerous. His parents explained that people would try to steal it. That the King might want it for himself, as his next palace. A living palace! Can you imagine?
 
-"Or maybe I could---"
+"A living _what_, boy?"
 
-"Stop your _maybes_! We don't survive on _maybe_ eating. Find us food."
+"You don't ... have ... a living clue about what you're doing!"
 
-Piqalia went one way; Piqafox went the other. As mother always said: _it's no use if you both search in the same spot_.
+"Never heard of that saying before," muttered a Square elephant.
 
-Piqafox' thoughts were cloudy. She painted her environment a mixture of red, blue, and purple. The longer she went without food, the more she just accidentally painted everything _brown_.
+The crowd had grown quite large. They stepped forward anyway, holding hammers, and shovels, and saws.
 
-Until her heart jumped. She had never seen so much food at once! Such a beautiful plant too!
+Beau rolled back in fear. Of all his family members, he could roll the fastest, by far. As the crowd ran after him, he could easily outrace them, rolling over the jungle floor. But that didn't protect the _house_.
 
-She immediately leapt towards it. Her paws carefully scooped all of it out of the dirt. There was _so much_ of it, that she had to carry some in her mouth, some on her back, and some with her tail. Mother was going to love this! Soon, they'd have food for _years_!
+A large window opened above Beau's head. A Circle-shaped window, of course.
 
-Happy with her discovery, Piqafox ran home at top speed.
+"Leave our house alone!" yelled his mother. "Or feel the wrath of Beaucoup!"
 
-"Mom! Look!" she yelled from afar. "Look how much food I found!"
+Beau was glad to see everyone turn away and leave.
 
-Her family left their den at once to meet her. They looked hopeful---and hungry.
-
-When they saw her, their smiles turned into frowns. Tails fell and whiskers drooped.
-
-"Piqa ... piqa piqa ... oh dear ..." said mother with a deep, deep sigh. "Why did you bring us a bunch of green _seeds_? And one tiny stalk? We can't live on those."
-
-"Sister has gone _full crazy_ this time," said her little brothers. Mother immediately sent them away to find "actual food".
-
-Piqafox didn't understand. Did they not see it? Did they see something _else_ than she did? To her eyes, these seeds weren't green, but a shiny twinkling purple. And they weren't seeds anymore: they had already grown into half a tree to her eyes. A tree that would bear apples, and oranges, and other fruit, if they'd plant the seed and let it grow. 
-
-Her family could only see seeds. She already saw the food that would grow from it.
-
-A strong purple painted the walls of their dens. Piqafox realized, for the first time, that what _different animals_ ... might see _different things_.
-
-She didn't see reality, she didn't see things as they were and nothing else. She saw what things _could be_ in the future.
+But of course, they weren't _really_ leaving.
 
 ___
 
-Piqafox lay in the classroom at Rainbow School. She looked out the window when someone bumped her shoulder.
+Night fell. The playing room was shutting itself down, like always, and Beau had to run to get to the next room. His bedroom. Say what you want about Beaucoup, nobody had issues sticking to their bed times.
 
-"Ouch!"
+Beau wondered if the house would ever change. It circled around, every day, like a clock. In _exactly_ the same way. His parents called it a "cycle". 
 
-"This is your final warning!" yelled the teacher. "Pay attention, Piqafox, and answer me when I ask a question."
+His bedroom always opened up at 7 o'clock. Once he was older, would the times change? Maybe there were rooms in his house that he didn't even know about! They'd only become part of the cycle as he grew up! Maybe there was a _gift room_. Or a _snack room_. Or---
 
-"Sorry," she mumbled. "I was distracted."
+The house shook.
 
-The class laughed. 
+Beau rolled towards the window.
 
-"We know. Everyone knows. Stop it, or you'll be punished."
+The whole town had gathered outside. They had snuck into their backyard, holding a few burning torches for light. The jungle was never silent, of course, because of the buzzing insects. But this noise was hard to miss.
 
-"Sorry," she mumbled again. But the daydreams were hard to shake off. The past few days had proven that she was right. She saw everything slightly differently than her classmates. When climbing a tree, Piqafox would grab a branch ... that wasn't there _yet_. Everyone laughed when she fell to the ground. When doing her school work, she'd answer questions that the teacher wanted to ask _tomorrow_. Which made the teacher distrust her even more. When others called something purple, she thought it looked pink instead.
+The crowd _slammed_ their hammers and pitchforks into his house. His home! His beautiful home!
 
-"We were talking about the colors of the rainbow," said the teacher. He was a monkey who wore a tie and overlay large glasses. He pointed at wooden stick at the wall behind him. Every day, it started as a white wall. But as the teacher explained things, as he used different emotions, the wall would paint the right pictures to help him.
+Teardrop shapes fell into his bedroom. It was the only way that his living home knew how to communicate.
 
-Today he had drawn a rough map of all the kingdoms. Each one was drawn in the color you'd see the most. "When the world was created, it was given _ten_ colors. Our eyes can see ten clearly different---"
+After a few hits, the Teardrops changed into red Triangles. 
 
-"Why?" asked Piqafox.
+Beaucoup was done with this now.
 
-"Who cares?" said a male squirrel behind her.
+Beau wanted to leave his bedroom, but he couldn't. The door would only open next morning. He yelled to his parents, but they had the same issue.
 
-"What a strange question indeed," said teacher. "I won't pretend to know why god does the things he---"
+He touched the walls and whispered, "I'm afraid you have to defend yourself."
 
-"Could everyone in this room please answer another question?" said Piqafox.
+Almost immediately, a window opened. A window Beau didn't know existed, but it was right above the crowd.
 
-"What are you up to, girl?" said the teacher gruffly.
+And the house started kicking out furniture.
 
-"Just one question. And it has to do with colors! It has to do with your lesson!"
+A couch flew through the window. A chair. A desk. A potted plant. A collection of toys. A family of mice.
 
-"Fine."
+Well, thought Beau. Whatever that room was, it was surely empty now.
 
-She pointed at the teacher's tie. "Everyone, what colors is his tie?"
+All the objects rained down on the crowd, who noticed the danger just in time.
 
-"Orange," said everyone in unison.
+"Move! Get away!" yelled a Triangle squirrel.
 
-"Maybe brown," said one girl at the back of the class. "Sorry, I forgot my own glasses."
+"No! I can defend you!" yelled a Camel made of two Triangles. The couch hit his back. He was a large and strong camel, of course. But the third couch broke the camel's back, and he had to flee as well.
 
-Piqafox lowered her face. "You see ... to me, his tie looks _green_."
+Some of them noticed Beau staring through the window. They raised their fists, but didn't try another attack.
 
-"Is this a joke?"
+"We will get you!" they yelled. "King Triangle can't arrest us all because of your stupid Circle house!"
 
-"No, sir. I wish it was." So it was true. Piqafox just didn't see the same things as the rest. This made things very difficult. How could she ever trust what she saw? She could be attacked by a tiger, but never see it! Someone could warn her about eating the red berries, but she'd eat them anyway because they looked green to her!
+Beau mostly felt safe, though. The home was clearly alive, and smart, and could defend itself.
 
-The teacher's expression softened. He walked to Piqafox' desk and placed a hand on her paw. "Then I'm afraid you have that new disease. Rainbow blindness. You must be tested and given help, dear. It _does_ explain why you're always looking out the window ..."
+At the same time, what would they try next? Magic? If King Triangle decided to attack with all his soldiers, they wouldn't stand a chance.
 
-"What if everyone was rainbow blind?"
+"When is the king coming? Is he close?" asked Beau of the house.
 
-"Pardon?"
-
-"How can we be _sure_ that my orange is the same as your orange?"
-
-The class fell silent. Some bunnies behind her started a lively discussion about this. They pointed at random things and asked what color they were. Most of the time, they all agreed. But that didn't mean they actually saw the same thing. Just that they had _learned_, from school, to call that thing by the same name.
-
-"Enough of that!" screamed the teacher. "You've taken up enough time already. Everyone agrees the world has ten colors, and so it is, and so it will forever be!"
-
-"Has nobody every looked for color _eleven_!?" said Piqafox.
-
-"If you interrupt class one more time, miss," said the monkey, "you're _banned_ from Rainbow School!"
-
-Piqafox fell silent. She stumbled back, away from the window, and waved her arms as if a swarm of bees attacked.
-
-She looked over her shoulder. Nobody else seemed scared. Were they not seeing this?
-
-To her eyes, paint bombs exploded in the classroom. The walls were quickly covered in a color ... a color she had never seen before.
-
-A _new_ color.
-
-Her eyes saw something she didn't know she _could_ see.
-
-Which means she couldn't describe it. How do you describe a new color? It's _not_ red, nor green, nor blue, it's not any of those things. Because it's a new color.
-
-And nobody else could see the new color. Oh, they were missing something _beautiful_!
-
-And then, Blackness appeared, swallowing the entire classroom like a hungry monster. Everyone had lost their colors at once. And if you lose all your emotions ...
-
-Or, well, that's what Piqafox saw. That's what the _future_ looked like.
-
-"That's _it_!" shrieked the teacher. He pushed Piqafox out of the classroom. Classmates giggled and pointed. "Piqafox, you are hereby _banned_ from school, never to return!"
+It extended the telescope again, but its answer came quickly: Triangles, Triangles, Triangles falling onto his bed.
 
 ___
 
-Piqafox named her new color _Piqarine_. All summer long, she tried to discover how she made it in the first place. 
+King Triangle arrived the next day. He arrived with a lot of trumpet noise and a lot of Triangle guards.
 
-It was all she could do to get away from her mother and her angry stares. Every day, they told her she had ruined her life. That she had to go back to the Rainbow School, apologize, do what they say, and get back in that class. She was the first of their family to even be allowed to go. She was the first of the foxes who could _read and write_. And to throw it away like that? Her mother could barely look at her anymore.
+"Should we go outside to meet him?" asked mother. The house responded by dropped green Circles onto the table.
 
-But Piqafox knew she couldn't go back. After inventing a new color, how can you back to just the old ones? After eating the tastiest food ever, how can you go back to eating less tasty food? After sleeping in the softest bed ever, any other bed would feel like a wooden plank.
+"We do?" said Beau, surprised. "But we're safer in here. Maybe the house is sick."
 
-She felt she wasn't supposed to sit in a class all day. She had always been different anyway. 
+His father shook his head. "We don't question the house, son. It's lived far longer than you. It was born of magic."
 
-She could see what others couldn't see. 
+"It _is_ surprising," admitted mother. "What does it want us to say? We can't _hide_ our house! We can't deny that it looks like a Circle, not a Triangle!"
 
-Literally, yes. Things looked a different color to her. And figuratively. She saw futures that others didn't even dare dream of.
+The trumpets sounded again. Very close, this time.
 
-How could that ever be a bad thing?
+Beau and his family put on their best clothes. The ones that made their Circle bodies look like Triangles the most. 
 
-It certainly felt like a bad thing now. Was everyone else just smarter? She was the weird one, it seemed. She got into trouble, while everyone else was happy. Maybe mother was right---maybe she should just go back to Rainbow School.
+They went outside to meet the King. He was already waiting for them.
 
-Today, like most days, she watched the sunset. She lay high in a tree, and might appear asleep to anyone else, but her mind was racing.
+"They have told me," said King Triangle. He looked angry and ready for a fight. "That you _refused_ to change your house! Is that true?"
 
-The sunset was so pretty. The nicest blue and green she knew. To _her_ eyes, at least. 
+Beau looked at his parents. They held each other's hand, unsure what to say.
 
-Wouldn't that be beautiful? A kingdom where the sun _always_ looked like this!
+"Yes, but---"
 
-And then ... and then maybe it could _always_ be summer! The weather would always be perfect. She wouldn't have to fear humans and their weapons. Maybe ... maybe she could create a place where Rainbow Soldiers weren't allowed? 
+Then Beau realized what the house probably wanted them to do.
 
-Whenever she thought of them, her daydreams would end. Those soldiers had only _one_ solution to everything. Fight it. And if that didn't work, they shrugged and gave up. They couldn't even _imagine_ trying anything else. 
+"This house is very old," said Beau. "It was made long ago, and given to us by, erm, magicians. We don't have the right to destroy it, don't you think?"
 
-They looked at the Endless Blackness, and saw a monster that would kill them all. Piqafox looked at the Endless Blackness, and saw twenty ways to use it for good.
+"Ah yes, I remember this place now," said King Triangle. He stepped closer. The house locked its doors and opened a window above his head. "Made by one of the first Bearchitects, wasn't it?"
 
-Footsteps. Below. They shook Piqafox from her slumber. In surprise she almost fell of the branch.
+"Yes, absolutely," said Beau. "And that's why it would be very mean to destroy it."
 
-Rainbow Soldiers marching below her tree. Of course. That sound would scare the whiskers off her face at any time!
+"If we even could," added his mother. "The magic is, erm, _strong_ around it."
 
-Wait, where were they going?
+King Triangle lost some of his anger. Ballhouse Beaucoup was a wonder to behold. He almost drooled when he noticed the gold on the doors.
 
-They were going to her den!
+"How easily we forget," he said. "Shapesong has a long history, yes!"
 
-The soldiers kicked open the door. "We are here to arrest Piqalia! Do not resist."
+He turned to the crowd, looking disappointed.
 
-"For what?" Father's voice. From up high, Piqafox heard everything as if it were a whisper.
+"You don't like me, I know that. But you forget too! My father was a Circle. It runs in the family. And when he was King, he did the same thing as I! He ordered all the _food_ in Shapesong be shaped like a Circle."
 
-"She's been sneaking over the border to steal more food!"
+That wasn't the same, thought Beau. Old King Circle only wanted _one_ thing to be a certain shape. King Triangle wanted _everything_ to be that shape! Besides, most food was a Circle anyway. Sometimes a squashed circle they called Ellipse.
 
-"Well, then, that's that," said father. "But why did you do it, Piqalia!?"
+"And his father? King Hexagon? Did you all forget?" asked King Triangle. "He demanded that all the _roofs_ of our homes were Hexagons!"
 
-"I'm sorry." They took mother outside. She went with them willingly; she did not resist.
+Beau didn't know this. He wasn't alive then. 
 
-Piqafox saw the future. One of them, anyway. Her mother put in prison for the rest of her life. Their den destroyed, her family scattered.
+"I've never seen a house with a Hexagon-shaped roof?" said Beau before he could stop himself. "Did ... did nobody listen to King Hexagon?"
 
-But she saw another future too. And the Piqarine color was painted all over it.
+"No, they listened. Of course they did," said King Triangle. "You _must_ obey the king, or did you forget that too?"
 
-She ripped branches from the tree, as many as she could. When the soldiers passed below, she dropped them all at once.
+He stepped even closer to Ballhouse Beaucoup. His hands scraped the walls. He closed his eyes, as if he could _feel_ the magic in it. Or maybe the house was speaking to him.
 
-The soldiers got tangled up. They dropped on top of each other, struggling to break free from the weight. One of them shot a ray of red, but it just hit his friend in the face, and now they were fighting each _other_.
+"But, well, King Hexagon died a long time ago. Once he was gone, everyone changed their roofs again. Many changed it to a Circle, to honor King Circle."
 
-Piqafox climbed down from the tree. She grabbed mother's hands.
+"So it's a _cycle_," said Beau. "One King arrives and changes all the shapes to _his_ favorite shape. Then the next King arrives and changes all the shapes back to _his_ favorite shape."
 
-"Come! Come with me! Escape!"
+"The difference," he said, "is that all the other Kings were _wrong_ and I am _right_! Triangles are the best. My father, King Circle, was a _bad king_. Weak. He ruined Shapesong, and my youth, with his sensible policies and fair laws."
 
-"No, no, nothing good will come of that."
+He stomped his foot. "Even my own worthless son is a Circle! How terrible! He definitely isn't a spy for me, no no, surely not. How dare you say that!?"
 
-"What?"
+"No---nobody said that, sire," said a Square elephant.
 
-"It's just the way the world is, dear. I broke the law. Rainbow Soldiers arrest me. I have to go to prison."
+The King continued as if he hadn't heard. "And then I haven't even mentioned Ellipses yet. Failed Circles are even _worse_ than Circles! Circles never did me any good. I hate them all."
 
-"They broke the law too. By stealing our food."
+He turned around to walk away. Beau's family breathed a sigh of relief---but the celebration came too soon.
 
-"That's that, dear. No use changing it now."
+King Triangle pointed over his shoulder and yelled: "Destroy that ugly Circle house! Whatever it takes!"
 
-Piqafox _pulled_ her mother, but she was too heavy. Her paws grabbed the dirt and refused to move again. 
+"No!" yelled Beau. 
 
-Any moment now, the soldiers would free themselves.
+He ran back to touch the walls. Tears already came. 
 
-"Why are you like this!?" yelled Piqafox. "Can't you _try_? Can't you _imagine_ a different world?"
+He whispered: "We're going to save you, Beaucoup. We'll find a way. We won't let them take you."
 
-"No use in trying. Too risky. Nobody else does it."
+His mother joined him and whispered: "You have our permission to do whatever you need to."
 
-"_I_ do it," said Piqafox. And she felt ... pride. Certainty. She _was_ a dreamer, and she was a very very good one. She could see a world that was better, kinder, less scary. And more colorful, literally. "And I have invented _a new color_, mom! Or is that useless too?"
+The house opened a single door to let the family back inside. All the others remained locked.
 
-Piqalia looked around. Piqafox had painted the entire area Piqarine by her actions. But her mother couldn't see it.
+And it opened _all_ the windows. All of them around the entire circle, like cannons able to shoot in every direction.
 
-"But dear, if only _you_ can see it ... then it's probably just not real," said mother.
+And every piece of furniture flew out.
 
-Piqafox let her go. Mother was _not_ going to escape with her. She couldn't even imagine it. 
+Beds. Nightstands. Closets. Multiple pianos. All of Beau's toys were thrown out. He saw them go with a tear in his eye, but he couldn't be sad for long.
 
-It hurt. Her stomach growled, her eyes watered, and her tail felt on fire. The Rainbow Soldiers might as well be attacking Piqafox, that's how much pain she felt. But she was certain now.
+Because the attack chased King Triangle away. Even the best Triangle guards stand no chance when multiple heavy pianos rain down on them. Even King Triangle can't move forward when twenty teddy bears are pushing him backward.
 
-Her imagination was off the charts and it was _the best feeling_.
+Soon enough, the entire area around Ballhouse was littered with broken objects. Like a moat around a castle. A defensive wall made of random furniture.
 
-"Who cares if it's real?" said Piqafox, walking away. "What _is_ real? If you see it, then it's real to _you_. If you are happier for seeing it, then it means something to you!"
+Nobody could get near.
 
-"I'm not following, dear."
+King Triangle called off the attack.
 
-"Yeah. I know."
+"That home sure is magical and old and meaningful ..." King Triangle smirked as he called his troops back. "We should make it my next palace, whatever it takes."
 
-The soldiers untangled themselves. Piqafox climbed into the tree and was soon out of sight.
+Now that everyone knew it was a living home, even their neighbors had the same thought. Everyone wanted to steal it. And, well, they were out of furniture to throw out the window.
 
-Some months later, strange reports popped up. 
+They couldn't just wait inside until someone stole their home. And so it was decided.
 
-The white walls of the Rainbow School were suddenly many different colors. Someone had drawn this entire story on the walls. The unfair treatment of Piqalia, her arrest, all the wrong things the Rainbow Soldiers were doing. All in the name of "protection" against the Endless Blackness. Teachers struggled to draw over it. Classes were cancelled, and police searched for this "graffiti rebel".
-
-Paintings were stolen. Very valuable paintings, from very rich people. And they had no clue who did it. Not even a trace. They had to hire a genius detective called Tomsy to figure this one out.
-
-Commander Leyla once thought she had Piqafox captured. But a little color here, a Piqarine painting there, and she fooled Leyla into believing she was attacked by lions. Leyla _really_ thought she had Piqafox' den surrounded, with a hundred soldiers on all sides.
-
-To her surprise, they found the den full of paintings, but empty of Piqafoxes.
-
-When they looked up, a fox with wings smiled and waved as she escaped.
+In the middle of the night, Beau was secretly sent away. With his enormous speed, he _rolled_ to the capital, and hoped to find the Rebelshapes there.

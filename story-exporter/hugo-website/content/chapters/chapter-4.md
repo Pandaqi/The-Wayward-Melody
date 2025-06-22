@@ -1,313 +1,241 @@
 ---
-title: "The Critical Coven"
+title: "The Treasure of Squaro"
 weight: 40
-color: Purple
+shape: Diamond | Kite
 ---
 
-<!---
+# The Treasure of Squaro
 
-### 🟣 Purple – “The Pink-Haired Witch of Midnight”
+They had done it! After years of searching, they had found the Treasure of Squaro! A large wooden chest stood in the middle of the cave. It glimmered in the darkness. Legends said it contained a thousand gold coins. Blue and red diamonds worth a thousand gold coins each. It was enough money to pay for whatever the Rebelshapes needed. Or, at least, it should be.
 
-BLIND to how **clever/smart/genius** they are ("it's magical!" "It's just ... thinking/common sense. They'll laugh if I say this/tell them to do this." or "they can do it themselves.").
+For when they opened the treasure---nothing was inside.
 
-Setting: A twilight realm of glowing pink mist and tricksy magic.
+"Nothing!?" yelled a crab with a Diamond-shaped body. His body was a flat Diamond, and his many pincers were sharp Diamonds too.
 
-Theme: Creativity, fun, mischief, transformation.
+"Ugh! Someone else must have gotten it before us," said a bird with a Diamond-shaped body. Her wings were Diamonds too, as was her beak.
 
-Objects: Orchids, jellyfish, spellbooks, lipstick, twilight clouds.
+"What are we going to do now?"
 
-Magic Twist: The witch casts illusions in pink fog—but only the truly imaginative can see the truth.
+Further down the cave, stones clattered. All the treasure hunters stared at the entrance.
 
-Plot Idea: A shy boy enters the realm to recover his stolen reflection, discovering he’s braver than he thought.
+A shadow appeared. Then a silhouette. Until a Star-shaped animal crawled inside.
 
---->
+When she saw the treasure, she immediately shapeshifted into a Diamond herself.
 
-# The Critical Coven
+"You! You must have stolen the treasure!" yelled the crab.
 
-Tomsy made an incredible breakthrough. He had a solution to a problem. He suddenly understood something important, something that might save the world.
+"I didn't! I entered after you!" replied the intruder. She dropped a Toolbox next to her, and looked for something inside.
 
-And he told absolutely _nobody_. 
+"She even carries another treasure!" said the bird. "Attack her!"
 
-It was probably obvious, right? Everyone else had already figured it out. It was so obvious that nobody had to say it, and Tomsy was just late to the party.
+"You don't want to do that," said Tessella, as she took out a large shield.
 
-And he wasn't sure. No, you could never be sure. That's why they call it a _theory_ in science. Even if gravity makes everything fall down today, all of that might change tomorrow! Maybe tomorrow things fall _up_ instead! So even gravity is just a _theory_.
+The crab snapped his pincers at her. He tried to grab the shield, but it was too strong. 
 
-His sister Anibela studied his drawings. They were completely _purple_. Tomsy's entire _bedroom_ was painted purple from the many things he'd discoverd. 
+The bird tried to fly over the shield, but it was just too high. She kept hitting the ceiling with her head. Which is how Tessella noticed there were _many_ Shaeprints on the ceiling of this cave. What would they do? Nobody had ever figured it out. Nobody could "read" the Shaeprints and see what magic they held. That's why you had accidents like King Triangle's castle exploding.
 
-Anibela traced all the lines and read the scribbles a thousand times. Then she nodded and smiled. "You _have_ to show your theory to the Coven, Tomsy."
+"I'm on your side!" said Tessella. "I think."
 
-"And then what? Be laughed out of the room? Be turned into a ... a ... _frog_ by those witches?"
+"Prove it!" said the crab. "Or I'll fight you---"
 
-Anibela sighed. She rolled the drawings into one and pushed them into Tomsy's hand. "This might be the answer, little bro. The answer to where the Endless Blackness came from. If we can _understand_ that ... that danger, maybe we can fight it---"
+"Oh stop it," said the bird. "The treasure is empty. We have nothing to protect."
 
-"It's just some silly lines," mumbled Tomsy. He pointed at some particularly silly lines, scratched out with a red pencil. "I made at least five errors when calculating this! Wrote down a 2 when I meant a 1!"
+"It's not empty," said Tessella.
 
-"So what?"
+"Are you blind?" asked the crab.
 
-Tomsy shook his head. "The Coven of witches already has an explanation. Mine is likely wrong."
+"That's the Treasure of Squaro, isn't it?" asked Tessella. She put her shield back in her Toolbox and walked towards the treasure hunters. There were eight of them. But most hadn't tried to fight her, because they were either not very strong---like a Diamond sponge---or trying to find the lost treasure.
 
-Anibela rolled her eyes. "Yeah, the Coven thinks the Endless Blackness was an accident by some magical god. When she tripped over the paint bucket or something. Does that _really_ sound believable?"
+"We think so, yes."
 
-"My theory sounds even sillier."
+"The Diamonds inside are _huge_. You can't get them out the usual way."
 
-"Then _I_ will tell the Coven, little bro!" said Anibela, reaching for the doorknob.
+"What do you mean?" asked the crab.
 
-"No! No. Please, don't go telling people about it. They already think I have peas for a brain."
+Tessella took another object out of her Toolbox. It was a small seesaw. She placed one end underneath the treasure, then _jumped_ on the other end.
 
-Tomsy hated the expression they came up with. He'd accidentally dropped five entire barrels full of food, mostly peas, into the river. That's a lot of food, and a lot of responsibility. And he wasted it because he was distracted. He placed the barrels on the edge of a fence, just for a second, so he could write down his realization as to what _caused_ the Endless Blackness.
+This flipped one side of the treasure into the air. It rotated, and rotated, until the Square treasure ... looked like a Diamond.
 
-Well, two seconds later the river washed their food away. And everyone pointed at Tomsy and laughed.
+Diamonds poured it. Golden coins rained down on the floor, finally free. Now that the treasure stood in the right shape, all its contents poured out.
 
-Anibela sighed again, then opened the door. 
+"Bless you! Bless you, stranger!" yelled the crab as his pincers grabbed ten golden coins at once.
 
-Someone else immediately ran inside
+The treasure hunters produced bags out of nowhere. They filled them all, and still there was more treasure left. They pretended this was their plan all along and gave the rest to Tessella, who threw it into her Toolbox. Her never-ending Toolbox, much bigger inside than outside. It would find a place for all those coins.
 
-"It's your mother! She was arrested by the witches!"
+"Who _are_ you?" asked the bird. "How did you know?"
 
-"For what?"
+Tessella shrugged. "I've been working with shapes for a while. Repairing stuff. Plugging holes. I've had three clients before with treasure chests they thought were empty."
 
-"They claim she stole their magical crystal ball!"
+The treasure hunters looked at one another. "Please, good girl, allow us a moment."
 
-Tomsy and Anibela were out of the room before she finished the sentence. Being accused of a crime by the coven ... usually didn't end well.
+All of them walked into the other corner of the cave. They huddled together, whispering. What were they doing? Making a secret plan? Why couldn't she hear it?
+
+Once in a while, someone pointed at her, and then someone else would loudly say something like "we can't risk it!" or "looks like a spy to me!"
+
+Eventually, they held a _vote_. The crab counted down. Not like humans would, dear reader, but using the Crustacean numeric system. Which only had the numbers 6, 8, and 10, as that was how many legs crab-like animals could have.
+
+Anyway, on 6, the majority of the treasure hunters raised their hand. Or tail, or wing, whatever worked.
+
+"Then it is decided!" said the crab.
+
+He turned around and approached Tessella with a smile.
+
+"We have noticed," he said, "that you are not a Triangle."
+
+"Not my favorite shape, no."
+
+"We ... are part of a ... secret organization. It has only just started, ever since King Triangle went mad. We invite you to _join_!"
+
+Tessella froze. She didn't really do, you know, secret organizations. Working together with others. She had always been alone, working alone.
+
+"No thank you," said Tessella. "I just want to set up a new workshop somewhere else and go back to repairing. Don't worry, though, your secret is safe with me."
+
+The crab frowned with his weirdly Diamond-shaped eyebrows. "You don't hate King Triangle?"
+
+"I'm not good at hating. It's why I can't stay a Triangle for long." Tessella shrugged. She picked up her Toolbox and turned around. "Sure he's a bad King. And his Prince as well. But why force him to change, when I can simply change myself?"
+
+As Tessella walked away, however, she realized a problem.
+
+The entrance had closed. And there were no Shaeprints on _this_ side to open it again.
+
+They were all stuck here.
 
 ___
 
-The Coven was made of five witches, each one uglier than the previous. They wore purple robes at all times and a pointy hat they looked to sharpen every morning. Whoever looked ugliest on a given day was deemed the "leader" of the Coven. Tomsy didn't think this was a very good structure. But what did he know? His thoughts were sometimes so _slow_ that he wondered if he was missing half his brain.
+The crab sat down on a rock, grumpy as gold.
 
-Their leader spoke now. "Ah! The children have arrived. Any last words before you say goodbye?"
+"Finally we _find_ a treasure---and then we can't get it out of the cave! Just our luck!"
 
-Their mother squirmed and tried to run. A strong spell, however, kept her in place. "I'm innocent! Let me go!"
+Tessella remembered the ceiling. She pointed at the Shaeprints up there. "Why don't we try that?"
 
-"The evidence is right there," said the leader. She pointed at the crystal ball, still in mother's hands. A piece of glass had broken off, and black paint---mother's fear---was covering parts of the glass. Or maybe it was ...
+"Do you know what it does then?" asked the bird.
 
-Tomsy looked around. They were inside the main tent of the Coven, where they usually kept the ball. They must have caught mother red-handed, and immediately arrested her.
+"No."
 
-But it made no sense. He knew his mother would never steal anything.
+"It might crumble the ceiling," said the crab. "Destroying the cave and killing us all! We're _doomed_!"
 
-A crowd had gathered. A few people claimed they saw my mother steal something before---which was a _lie_. But what did Tomsy know? Maybe he was too dumb to see his mother had always been a thief! Other people claimed his mother was an angel and wasn't even inside the tent. Their assistant had probably seen it all, because he was repairing the tent, but he stuttered and claimed he didn't know anything.
+"Or not," said Tessella. "Wait. How did _you_ get in the cave?"
 
-Tomsy walked around all of them. He reached the pedestal that usually held the crystal ball.
+"We came from the other side," said the crab.
 
-It stood in a different place. It had been moved a few steps, and rotated a bit. The floor still had marks in the carpet from where the pedestal _used_ to stand.
+"So there's a---"
 
-Should he tell them? No, no, everyone already saw this, of course. They already have a different explanation for this. Must be.
+"No," said the sponge treasure hunter. "That door also closed itself."
 
-Then Tomsy lifted the silk blanket, which was like a soft bed for the crystal ball. Below it was a _huge hole_. Someone had cut a large hole in the stone. That must have taken quite a bit of time, and made a lot of noise. How did nobody notice? Well, they probably already knew. He wasn't going to make a fool of himself. Maybe the hole was meant to be there, like, like a trap for if you wanted to steal the ball!
+Tessella felt confident now. "All the Shaeprints in the cave have just _opened doors_. I believe those on the ceiling will just _open the ceiling_."
 
-"I simply _caught_ the ball!" claimed mother. "I saved it from breaking. Someone threw it at me when you entered the tent!"
+"And then what? I can't fly!" yelled the crab. "I'm _doomed_!"
 
-"A weak excuse," said the coven leader. "And weak final words. Prepare to be burned."
+"Let my Toolbox handle that," said Tessella with a smile. 
 
-"_Burned_!?" exclaimed his mother, Tomsy, and Anibela at the same time.
+She took out a hammer, some nails, and lots of wooden blocks. Everyone watched as she started building something. Soon it became clear she was building a _staircase_.
 
-"Assistant! Assistant!" yelled the leader. "Prepare the torches. And don't forget the matches this time!"
+A Diamond-shaped pig rolled his eyes. "That's going to take _days_ to finish."
 
-Their assistant, a young man with hair like a hedgehog, nodded and eagerly made his way out of the tent.
+Suddenly, the bird grabbed Tessella by the neck. She flew towards the ceiling, carrying Tessella with her.
 
-Why ... why are they letting him go?
+"Why all the nonsense with the stairs?" said the bird. "You could've just asked me to fly you up here."
 
-It's obvious, thought Tomsy.
+"Well ... erm ... didn't want to bother you."
 
-He did it.
+"We surely don't have anything better to do."
 
-Why weren't they stopping him? Why didn't they let mother go? Did they not see the hole, the moved pedestal, the---
+Tessella looked at the Shaeprints. She had shapeshifted into a Teardrop shape. This usually happened when she was curious, as it made her the most flexible. She could easily wiggle around the ceiling and trace all the Shaeprints.
 
-Tomsy's mouth fell open, then closed again. He prepared the words, then thought he'd probably sound stupid. Surely they had examined the place for evidence, and then---
+She didn't like what she saw. 
 
-Anibela had followed Tomsy around. She coughed loudly, then raised Tomsy's arm to get attention.
+"I've never seen these shapes before," she whispered. "They're not basic shapes. Not simple Squares, and Circles, and perfect Triangles. But they're ... weird."
 
-"Yes? One of the children wants a goodbye too? Fine, fine, we'll be kind today."
+"Weird? Weird doesn't sound good."
 
-"No," said Tomsy, nervously adjusting his shirt a thousand times. "I believe you have the wrong thief. I can prove it."
+The bird brought her back to the ground. Tessella found some paper and pencils in her Toolbox, and made a _perfect_ sketch of what she'd seen.
 
-"Of course you do. Anything else?"
+"Well, if our secret organization is not for you," said the crab. "You can always get a job in drawing treasure maps."
 
-Tomsy frowned, then explained his thinking. "The pedestal has a hole in it. A hole that allows stealing the ball unseen. Creating such a hole can't be done quickly. It would make so much noise that you would have heard mother from miles away. No, this hole was made _beforehand_."
+"It's impossible," said the pig. "We don't have _anything_ shaped like that."
 
-"Oh. Oh, we didn't---we were _just about_ to check the pedestal for evidence. Absolutely."
+Tessella rummaged through her Toolbox. It had _all_ the shapes, she believed. She had always been able to find whatever she needed! One time, a client had asked for a heptagon, and she didn't even know what it was yet, but she _still_ found one in her Toolbox!
 
-"And who might have access to the pedestal?" asked Tomsy. "Who could easily create the hole when he knew the Coven was away for the day?"
+But she searched for an hour, sweating and growing frustrated, and found _nothing_.
 
-"Doesn't matter," said the witch leader. "There's a spell protecting the ball. Only a witch, even a minor one like your mother, could remove it!"
+These Shaeprints were all wobbly. They had complicated curves, and lines, and their corners were all over the place.
 
-"Or ... someone who has been spying on you for a year. Listening to your spells. Eavesdropping. Copying you."
+Slowly, panic set in. The crab scuttled in circles. He threw up his pincers and yelled: "We're never getting out of this cave! We're doomed! _Doomed!_"
 
-"You're being awfully cryptic, boy," said the Coven, irritated. "Well! Give us the answer then!"
+The pig oinked as if he thought the noise would break the walls. The bird flew up to the ceiling, and back again, but the Shaeprints hadn't changed.
 
-Tomsy thought he was going insane. They hadn't checked the pedestal? They had not done _any_ research?
+Some started playing games with the Diamonds to pass the time. Some tried to _eat_ the golden coins, but quickly learned it didn't taste well.
 
-"_Your assistant!_" he cried out. "When you entered the tent, he was just about to steal the ball. He panicked, threw it at my mother. Case solved."
+Tessella stood still in the middle of the cave. She saw the mess around her. Treasure hunters running into each other, holding hands, and---
 
-The assistent went wide-eyed. The crowd parted, as if he suddenly carried a terrible illness. And stepping aside isn't the best way to stop a thief from escaping.
+Wait a minute.
 
-The assistant ran for his life.
+Two Diamonds together created a rotated rectangle again. Three or four Diamonds together could be an even longer rectangle, or an L-shape: a shape that looks like a corner in the road.
 
-Fortuately, witches can cast spells from quite a distance.
+She looked at her sketch again. There it was! One of the Shaeprints was L-shaped! 
 
-The Coven trapped him in a purple bubble and reined him back in.
+She slapped her forehead. They'd all been a bit dumb. They _could_ create these shapes ... by combining multiple basic shapes.
 
-Their mother was released. She carefully returned the crystal ball, then hugged her children. The crowd applauded.
+She searched her Toolbox again. A Rectangle here, a Diamond there, a Trapezium as well, and when she _combined_ them, she could create the shapes needed. 
 
-"That was _magical_!" said Anibela. Bystanders agreed.
+It was very slow. She was getting dizzy from looking at so many shapes, and there were a few Shaeprints she couldn't figure out. She just didn't see what basic shapes would make it.
 
-"It was just ... common sense?"
+Then she remembered the bird. She wanted to build a staircase alone, while there was a bird standing next to her that could simply fly her to the ceiling.
 
-The Coven approached him too, apologizing for their behavior. They asked where Tomsy had learned such detective skills.
+Maybe she _was_ making things harder for herself. Maybe she didn't need to do this alone.
 
-Anibela nudged him in his side. "Go on then," she whispered, "explain your theory."
+"Crabbie!" she yelled. "Can you find me a coin that looks like this and this?"
 
-"Well, erm, you see," said Tomsy, fiddling with his trousers until they almost fell down. "I have thought a lot about the Endless Blackness. And I think I know where it came from."
+"My name is Crustaceus Crabbus the Third," said the crab grumpily, "but alright. I have one coin that looks like that, I believe."
 
-The Coven forgot to blink. The witches stared at each other, then agreed to keep listening.
+"Piggie!" she said. "I think we should combine three shapes to get this Shaeprint. Can you see which ones?"
 
-"I've been reading the history books. The ones I could get my hands on, anyway. And I saw a pattern."
+"Hmm," said the pig, oinking in thought. "Think we need two Triangles and a Diamond."
 
-"A what?"
+Yes, thought Tessella. Yes, that might work.
 
-Did he say the wrong word? Tomsy started to doubt himself. No, wait, pattern _was_ the right word. Right? Right. The witches simply didn't know it.
+The treasure hunters worked together very well. They combined simple shapes to get the larger, more complicated shapes. Until they had perfectly matched the Shaeprints, or so they believed.
 
-"I noticed the same thing happening each time. Something happened in a kingdom. This made everyone feel _the same way_. Somehow, everyone had the _same emotion_. Right after, Endless Blackness would appear somewhere in the kingdom."
+The bird took the shapes to the ceiling, one by one.
 
-Everyone fell silent. Tomsy got out the papers, shuffled them, then found the scribbles he was looking for.
+The first one filled the hole, and stayed there.
 
-"See? We all know that, in Dragonstripe, the Rainbow Soldiers were very mean. They stole everyone's carriages. Nobody was allowed to leave anymore. This made everyone _angry_. Everyone. It says right here: _Even the pets, and the babies, everyone was angry, and the entire kingdom painted itself red. Then the Endless Blackness appeared._"
+The second one filled the hole perfectly as well.
 
-The Coven looked at each other again. The crowd around them murmured.
+This continued and continued, until they had filled all Shaeprints.
 
-The leader stepped forward and grabbed Tomsy's hand. Her wrinkled fingers felt scratchy against Tomsy's itchy fingers.
+Something clicked. The cave rumbled. The Shaeprints glowed purple, red, and green. A roar echoed through the cave.
 
-"My word, boy," said the leader breathlessly. "Never in my life ... have I heard such ... _NONSENSE_!"
+All the treasure hunters held onto their bags. As if they were shields that would save them.
 
-___
+The glow faded. And then, like opening a window, the top of the cave folded upwards.
 
-Tomsy had locked himself in his bedroom. He hadn't left his bed for two days. Anibela knocked and let herself inside.
+Eight treasure hunters gazed at the blue sky above.
 
-"Go away!" yelled Tomsy. "I told you it was a stupid theory!"
+Tessella did not. Somehow, she had known the ceiling would open up. It was like she could _read_ what magic Shaeprints had, but only by accident. Only if she didn't think about it too much.
 
-"So? So what the witches didn't believe it?"
+She was already turning her Toolbox upside-down, and this time she found what she needed all along.
 
-"I'm dumb. They know I'm dumb. I'm just waiting for them to arrest me. Put some ... some ... no-dumb spell on me."
+A bunch of _kites_. Diamonds, but with a longer bottom. And a long rope attached to them. 
 
-Anibela sat down on the bed. "You saved our mother, little bro. You immediately solved the case when nobody else had even tried."
+As soon as they were released, the kites already floated upward.
 
-"Because it was an easy case. If they had just tried ..."
+"Quick! Grab a rope!" she yelled.
 
-"_I_ didn't see it," said Anibela. "Are you saying I'm dumber than you, little bro?"
+The treasure hunters picked their favorite kite, then let themselves fly through the hole. Before long, all eleven of them were out of the cave. And between the clouds.
 
-"No. No, of course not. You know you're smart, Anibela."
+"How ... how do we get down again?" asked the crab.
 
-"Then why don't you believe it when I say _you_ are smart?"
+"Not sure," said Tessella. The world below her grew smaller and smaller. Animals, trees, homes, they all became black dots from this distance. She turned into a spiky Triangle out of fear. She couldn't reach into her Toolbox, with one hand on her kite and the other holding the Toolbox. 
 
-Tomsy looked up. His eyes were glassy from crying. "You ... really believe that, don't you?"
+But she wasn't alone. 
 
-"And who knows you better? Your sister or some shriveled witches?"
+"Maybe if we all hang from the _same_ kite," she said. "We're heavy enough to fall down!"
 
-Tomsy sniggered. "Don't let them hear you say it."
+The treasure hunters swung from the ropes, as if they were vines in a jungle. They fearlessly jumped towards Tessella's kite.
 
-Anibela smiled and playfully pushed her brother around. "Oh, I'm not worried, little bro. If they arrest me, you'll just talk them around, convince them the trees said it or something."
+The weight dragged it down. They were falling again, but at a gentle pace. They landed without issue, although they didn't know where.
 
-Silence. Tomsy felt you shouldn't use being smart for bad things like that.
+"We thank you," said the crab. "And if you ever change your mind about our secret organization ..."
 
-So Tomsy fell back on the bed again. "But you're wrong. If I were really that smart, I would have found more proof long ago. I would have already figured out how to defeat the Endless Blackness! But I don't, so---"
-
-"No, don't---"
-
-"Oh just forget it." He teared his notes apart and threw them in the garbage. "I won't try to solve any big problems ever again. I'm not smart enough. I'll stick to homework and carrying barrels of peas."
-
-Silence again.
-
-"You know," said Anibela cautiously, "they have more history books in the Rainbow Library, little bro."
-
-She did a terrible job of hiding her grin with her hand. "Loads of them. Just waiting to be used. Information about the Dreamforest kingdom, and Sunstripe, and ..."
-
-"Is ... is the library still open?" said Tomsy after a while.
-
-"Just about. We'd need to hurry. But only if you want, little bro ..."
-
-"Ugh. Fine. I'm doing this for _you_."
-
-Tomsy sat up. He gave his sister a stern face, as if he were going to give her a lecture. Anibela knew better than that---he was already smiling when they made the trip together.
-
-When they entered the library, a woman behind a desk perked up.
-
-"We're about to close," she said.
-
-"Oh, just picking out some books for my brother."
-
-"Picture books? We don't have many, but---"
-
-"No, regular books. Big books. Lots of text."
-
-"He's ... but ..." The woman stepped away from the desk. She studied Tomsy as if he were a rare animal. "Is he older than he looks? Four year old boys can't read books for adults."
-
-Anibela smiled. "This one can."
-
-A splash of purple paint exploded from Tomsy. It turned all bookshelves near him purple. But don't worry, they were used to it. In a land where emotions paint everything around you, they had long ago learned to protect objects from that.
-
-Other kids ... couldn't read yet? Tomsy had been reading whatever he liked for years!
-
-"Shouldn't he be playing outside? Or stacking blocks? I think I have a few for---"
-
-_That's_ what other kids his age were doing? Tomsy couldn't just stack blocks. He had built his own bed. He was building an entire garage at the moment.
-
-The purple spread out from him, until the entire first storey of the library was covered.
-
-Anibela explained this too. The woman stepped behind her desk again and pointed them in the right direction. "But seriously, we're about to clos---"
-
-Rainbow Soldiers entered the library. They made a lot of noisy, smashed a bookshelf, and ordered the woman to step away.
-
-Behind them, a voice screamed to calm down. The soldiers stepped aside. Probably to make way for their leader, Tomsy thought.
-
-Their leader, however, was a girl not much older than him. She had a face as if she thought everything and everyone was _smelly_. She had a voice like an old woman. 
-
-"We think this library contains dangerous documents. It might give people the wrong ideas."
-
-"About what?"
-
-"The Endless Blackness. The brave and necessary work our Rainbow Soldiers are doing." She quickly told everyone their tasks. Most of it seemed to be kicking over bookshelves or destroying books. "We're snatching control immediately---everyone out."
-
-"B-But let us grab our books first," tried Tomsy.
-
-"No way. Get out."
-
-Tomsy could see the books he needed. The woman had pointed them in the right direction. Just a few steps forward, some to the left, and he should be able to grab them.
-
-He started moving.
-
-"Do not move!" yelled the girl. "By command of General Leyla, daughter of the High Witch, if you take one more step---"
-
-Tomsy turned around. He smiled his best smile. "But how can we _get out_ if we can't move?"
-
-"Don't play games with me. The entrance is on the other side."
-
-"No, no, you must be mistaken. That was the _exit_. You came in the wrong way."
-
-Leyla frowned. For just a second, she looked over her shoulder.
-
-"You're lying."
-
-"You can read it on the sign above the doors. Your side is the exit, the entrance is on our side."
-
-She wasn't much older than him, Tomsy had guessed. Which meant ... she couldn't read yet.
-
-Leyla looked back again, squinting. As if that would help her read.
-
-It gave Tomsy just enough time to run away. He dove behind the bookshelf as Anibela opened the bag. They threw in all the books within reach.
-
-And they left before Leyla had figured it out.
-
-"That was ... _magical_!" whispered Anibela as they walked home.
-
-"No. It was just smart," said Tomsy with a smile. "Now let's show everyone why I am _right_. The Endless Blackness appears when everyone is feeling the same emotion."
-
-"So how do you guess we defeat it?" asked his sister.
-
-"Don't know. But it must be something similar."
-
-The books they stole had the information they needed. It explained what had happened in other kingdoms. And it was, indeed, a _pattern_. The same anywhere. Something happened, everyone felt the same---anger, sadness, fear, joy---and then it all went wrong.
-
-Every day, Tomsy noticed the Rainbow Soldiers getting meaner. They stole buildings now, like the library. They forced everyone to fight the Endless Blackness. Soon, they forbid everyone from feeling _curiosity_ in his kingdom.
-
-To Tomsy, that felt like the world was ending.
-
-He needed to fight it. He _was_ smart enough. Maybe even smarter. If there was someone who could find the secret to world peas, it would be him.
+"Maybe," whispered Tessella. "I just might."

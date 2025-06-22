@@ -1,266 +1,190 @@
 ---
-title: "Kingdom of the Laughing Sun"
+title: "Be There Or Be"
 weight: 20
-color: Yellow
+shape: Square
 ---
 
-<!---
-### 🟡 Yellow – “The Sunflower Sprite and the Laughing Sun”
+# Be There Or Be
 
-BLIND to how **rich** they are. (How privileged, lucky, etcetera)
+Tessella was repairing someone's bicycle. It was a dangerous job. She often used tools that clearly said they should only be used by adults, and many a bike had already fallen over and almost flattened her. 
 
-Setting: Rolling golden hills where the sun giggles and sunflowers hum.
+But the real danger was because of King Triangle. Most bikes, as you might know, are _not_ a Triangle. Their wheels are a Circle. The steering bar is one or more Rectangles. If he caught Tessella repairing these bikes ... she would be in the dungeons soon.
 
-Theme: Joy, energy, curiosity, caution.
+That's why she kept some special tools in her Toolbox. Just in case. 
 
-Objects: Sunflowers, lemons, canaries, honey, lanterns.
+She hoped she never had to use them, because she had a special magic herself too.
 
-Magic Twist: Sunflower seeds bloom only when a true laugh is heard nearby.
+She heard footsteps outside. One look through the window made her panic. That was the sign of King Triangle! She clearly recognized it on a flag! Frankly, the king's logo was hard _not_ to recognize. It was just a Triangle wearing a crown made of three Triangles.
 
-Plot Idea: A sad child must help a grumpy sun learn to laugh again—or the golden fields will fade forever.
---->
+The footsteps grew louder. They were coming for her workshop, for sure.
 
-# The Laughing Sun
+Tessella jumped on the bike she was repairing, and quickly cycled to her kitchen. There, she hid it in a Triangle closet. One that she built the day after King Triangle became King. The day after he said all shapes that were _not_ a Triangle were bad.
 
-Molmo ran out of the palace, fuming. Unbelievable! How dare his parents do this to him? On his _birthday_, of all days? 
+When she came back to the workshop, they were already banging on her door.
 
-What a terrible thing to say. What a terrible thing to do. Maybe even _forbidden_, yes, Molmo should send the police after his parents! His birthday was surely ruined. His week---no, his entire _month_---was ruined!
+Quick! Change shape! She thought to herself. But it wasn't that easy.
 
-Yellow canaries flew away from him in a panic. Bees thought about stinging him, then thought better of it. Here in Sunstripe, honeycombs hung from every tree and wall, and Molmo knew better than to destroy one of them.
+At the moment, she was Star-shaped. Repairing objects made her _feel_ like a Star. And rightly so, because Tessella and her Toolbox were the best handywomen you would find.
 
-The sun beat down on him. Molmo stopped running to prevent drowning in sweat, but he was no less angry. The path behind him had a solid streak of red.
+How did she become a Triangle again? Oh. Oh no. She kept forgetting.
 
-When he reached a patch of sunflowers, he carefully sat down among them. Only to discover someone else was already hiding there.
+"Open up! Or we will blast your door!"
 
-"Watch out!" yelled a girl. "Get off me!"
+Wait. That wasn't King Triangle. Wasn't that his son? Prince Circlesnake?
 
-"No, you get away from, erm, _under me_! This is _my_ sunflower patch."
+Tessella hesitated. He wasn't a Triangle. Maybe he was different? Maybe he could be trusted?
 
-"What?" No wonder Molmo hadn't spotted the girl. She was covered in dirt and sunflower petals, as if she had tried to become one of them. Her face was hollow; her body more bones than muscle. Her sickness painted many sunflowers green, dark brown, or even black.
+No. She couldn't risk it.
 
-"That's right. I'm Prince Molmo, my father is the King, so eeeeeeverything around here is mine."
+"Coming!" said Tessella.
 
-The girl scowled. She pushed Molmo away. "Thought I recognized you. The royal family is a bunch of los---"
+She remembered how to become a Triangle. She had to think _sharp_ thoughts. Pointy thoughts. Things that made her a bit angry, like stubbing her toe, or someone else eating the last cookie.
 
-Molmo pushed back. "Why are you here anyway? Go back to ... whatever hole you crept out of."
+As she opened the door, her shape changed to a Triangle mouse.
 
-"Isn't it your birthday, oh prince?" said the girl, refusing to move. She grinned and tried to sound more sweetly. "Why are you not in the palace celebrating?"
+"Thank you," said the Prince. 
 
-"Don't remind me!" yelled Molmo. He fell on his butt next to her, his anger painting all the sunflowers red. He crossed his arms to cover the yellow crown symbol on his clothes, as if he wanted nothing to do anymore with the king and queen.
+He walked into her workshop like he lived there. He touched all her things and looked around for any forbidden shapes.
 
-"Don't remind you of ... what?" teased the girl, trying to get the information out of him.
+"I've never seen you before," he said. "And I thought I knew everyone who lived around the castle! Before, you know, the castle exploded."
 
-"My parents treated me like garbage today. You wouldn't understand. My parents are the _worst_."
+"Oh. Oh, I just don't go outside much. Working hard, you see?" Tessella showed her hands full of stains and oil smears.
 
-"They ... forgot your birthday?"
+Then she realized. She'd forgotten to change the shape of her Toolbox! It was still a Box, a Rectangle!
 
-"No, no, they had garlands and a cake and all. It's _worse_!"
+She quickly jumped around to stand in front of her Toolbox. Her Triangle mouse shape hid it.
 
-The girl fell silent. She picked at her ruined clothes and the brave blades of green grass that still surrounded them. "I guess I understand. My parents can treat me like a ... like a machine sometimes. Have to work from dawn to dusk. Have to follow their rules, and never eat more than my single loaf of bread---"
+"Please, take a look around. I have nothing to hide. Why don't you look in the next room? Right now?"
 
-"_One birthday gift!_" exclaimed Molmo. "Can you believe it!?"
+The Prince wasn't alone. He had two Triangle guards with him. They looked strong. Shape animals didn't show muscles, of course, as that would ruin their shape. Instead, strong shapes simply didn't bend and twist as much. They didn't flubber and flap like they were made of pudding or lemonade. Their shape was always the same, as if frozen.
 
-"_What?_" The girl's surprise painted the sunflowers a bright yellow again. "That's it?"
+Well, looking at the two guards made Tessella freeze in fear too. Any second now, they might notice the Toolbox. Her life would be over.
 
-"Last year I had twenty gifts," complained Molmo.
+Fortunately, the Prince nodded. They went into the other room first. Tessella could touch her Toolbox and, with effort, make it look like a Triangle.
 
-"You know how many gifts I had last year? And the year before that?" said the girl, standing up to tower over him. Even so, she wasn't scary, as she looked like a skeleton had accidentally come to life.
+She was just about done when they returned.
 
-"How in the rainbow am I supposed to know," said Molmo with a shrug. He looked only at the ground. "I'm not good with numbers. Ten? Eight? Seven and a half?"
+"What kind of work do you do?" asked the Prince in a friendly tone. He rolled back into her workshop and came to a stop against the Toolbox.
 
-"_Zero_."
+"Oh, just, you know, repairing things for clients," said Tessella. "Client" is a word that means someone that pays you to do work for them. Like coming to Tessella's shop and paying her to repair their bicycles. "People bring me things that are _not_ a Triangle, and I whip them into Triangle shape! Ha!"
 
-The girl pushed Molmo a final time and ran off.
+"Wow. My father would like you a lot."
 
-"Huh. She must be _really bad_ with numbers," mumbled Molmo. "Or she has no parents. That's the _only_ explanation."
+"I'd love to meet him one day," lied Tessella. "Any more questions? I'd like to get back to work."
 
-That's when his parents found him. He refused to go back with them. He claimed he was still angry, even though he wasn't painting sunflowers red anymore. Normally, this worked quite well, and his father would leave.
+"Not so fast," said the Prince.
 
-This time, however, his face was cold as stone. He carried Molmo home, whether he liked it or not.
+Tessella was getting restless. It was really hard to keep thinking sharp thoughts. She might loose her Triangle shape at any moment.
 
-"What's wrong?"
+She was always busy. Always repairing. Always making new tools. It was very rare for her to just stand around, wait, and talk with a Prince. Her fingers itched. Her feet wanted to move.
 
-"We have to leave, now," said the king. "The Endless Blackness has entered our kingdom."
+She was getting _bored_.
 
-Just his luck, Molmo thought. On his birthday too. Surely he was the least fortunate person alive.
+You can probably guess what shape she became then. The most boring shape of all.
+
+"Let me remind you," said the Prince. "If you see anyone who isn't a Triangle, you have to tell the King. If you don't do that, you're just as bad. So let me ask you once: _were any of your clients the wrong shape?_"
+
+What? He wanted her to be a telltale? She could. She knew at least twenty shapes that were hiding from the King. But she wouldn't tell him _anything_.
+
+Silence fell. The Prince waited for an answer. The guards entered her kitchen, opening drawers and cupboards.
+
+She felt her shape changing. She couldn't hold onto this Triangle much longer.
+
+The guards returned. They shook their head. 
+
+Tessella breathed a sigh of relief. They hadn't found the hidden bicycle.
+
+"Well then," said the Prince. "Good job, Tessella. I might send the King to your workshop. You could help him repair the castle."
+
+"Oh, no, I am not, erm, worthy."
+
+"Sure you are! Good day to you!"
+
+They opened the door and walked away. But Tessella couldn't hold it any longer.
+
+With a _pop_ and a _plop_, her Triangle turned into her Star-shaped form again. 
+
+She went to shut the door.
+
+But she was too late. The Prince had heard and turned around. They were coming for her now.
 
 ___
 
-Molmo sat in the throne room and studied his one birthday gift. It was a porcelain banana, gigantic and yellow, filled to the brim with golden coins. His father claimed it was enough wealth to _start_ a new kingdom. 
 
-Molmo didn't know what to do with it. His favorite hobbies were eating, sleeping and playing, and you couldn't do any of those with metal coins. Unless you liked the taste of metal, a metal pillow, and pretending a coin was a doll or a train.
+Tessella had shut the door. But it was useless. One heartbeat later, one of the guards _stormed_ through the door as if it wasn't there.
 
-The royal staff ran around him. They prepared a pile of bags, boxes and banners. 
+The Prince rolled towards her, screaming: "Liar! You lied to us!"
 
-"The royal family must be ready to move in _ten minutes_," someone yelled.
+But he misjudged his roll and hit the guard instead. They tumbled over the floor together. Triangles don't roll very well, so they came to an awkward stop against a table.
 
-"Molmo! Which are your favorite toys?" asked his mother, out of breath.
+The other guard frowned, then attacked. How does a Triangle attack, you ask? Well, by leaning forwards, so their pointy sharp top was aimed at you. And then running as fast as they could. Like a bull charging.
 
-"All of them?"
+Tessella jumped on her Toolbox to avoid the first charge. The guard turned around for a second go.
 
-"We can't pack them all. We only have room for a few."
+She reached in her Toolbox for her Hexagon shield. But because she'd made the Toolbox a Triangle, all the tools were in the wrong place! They were all mixed together, and she couldn't find it.
 
-"So we're really leaving? For a while?"
+The guard was about to hit her---then suddenly stepped aside.
 
-"For a while. To a secret safe location."
+"She is mine! I'll catch her!" said the Prince. 
 
-"Hmm. Maybe some other townspeople have room in their bags? I met a girl today that seemed to like me. I can't leave _any_ toy behind, mom!"
+He unrolled himself and revealed his snake teeth. He bit at any of the guards that dared come near.
 
-"Oh boy," was all the queen said. She made the decision to empty a few boxes of cutlery---they would have to eat with their hands, Molmo guessed---and fill them with the rest of his toys.
+"Why do you hate the other shapes so much?" yelled Tessella. "We did nothing wrong!"
 
-Molmo clung to his birthday gift. He felt sadness; the banana received streaks of blue. He tried to make _something_ of his birthday, and this was the one thing he received, so---
+"Father doesn't like the look of you," said the Prince.
 
-"Your birthday gift is not going to fit either," said father. "Leave it behind."
+"Is that it? You want to catch me to impress father?"
 
-"No way!"
+"No. I want to catch you because you're a filthy _Square_!"
 
-"Yes way."
+"You know I'm not. You saw I was half-Triangle!"
 
-"We must be on our way in _five minutes_," someone yelled.
+The Prince had no answer to that. The guards stood in the corner, unsure what to do.
 
-The queen was already moving boxes into her sunbird-drawn carriage. That banana was _not_ going to fit.
+The Circlesnake chased her through the workshop. But she knew the room better than he did. Whenever he got close, she'd kick a table, or grab a chair, or throw a hammer at him. 
 
-So Molmo made a quick decision. He snapped his fingers. Two servants instantly appeared at his side. He ordered them to load his birthday gift onto a cart and follow him.
+They were going in Circles. It made Tessella change shape again, from a Square into a Circle. Changing shape---or "shapeshifting"---was very hard. It always took a lot of energy, and Tessella was dizzy after it happened.
 
-He left the palace and walked towards the mines. They weren't far away. In fact, any city in the Sunstripe kingdom probably had more gold mines than homes. But they had to wade through large patches of sunflowers to get there at all.
+And so the Prince closed in. He could have bitten her. He could have won, maybe. But how could he arrest someone who was a Circle ... just like him?
 
-Molmo knew where the mines were; that didn't mean he had ever visited one.
+"You're ... you're a _magician_!" said the Prince.
 
-The moment they arrived, Molmo coughed. And he coughed some more. A servant immediately offered him water.
+"No. I don't think so. I don't know."
 
-"Is thissa joke?" said a burly man. "We workka ourselves to death to get the coins _out_ of the ground---and you wanna put them back in!?"
+They finished their fifth Circle through the workshop. With a _pop_ and a _plop_, Tessella's Toolbox had gone back to being a box again. She reached in and took out the tool she wanted.
 
-"No, no, no," said Molmo in-between coughs. His water had already turned gray, then black, from the coal dust settling in it. 
+To most, it would look like a simple hammer. A Rectangle handle with a Rectangle part at the top.
 
-"Why ... why aren't you leaving?" he asked. Yellow rivers came from his hands and streaked through the cave walls. It showed he was truly surprised.
+But it was no simple hammer. It was one of Tessella's special tools that she made long ago. 
 
-"Leaving? We're at work. We don't getta paid if we leave!"
+When the Prince got close, she swung it and hit his tail.
 
-"Oh, then you must not have heard," said Molmo confidently. "Everyone is leaving. Endless Blackness is here."
+The Prince flew out of her workshop. He was launched, like from a catapult, with such speed that he landed in a different city.
 
-"_What?_" said a thousand voices further down the mine shaft.
+The guards weren't as dumb as the Prince. They stayed away from the hammer and didn't attack. They ran outside, probably to go rescue their Prince out of a tree somewhere.
 
-The man frowned. "Nobody hassa heard. Because nobody told us."
+Tessella sighed. She was tired. Her shape started to flap and flibble, as if she was a Star made of melting chocolate.
 
-"Huh. Our royal apologies, then. Something must have gone wrong in the palace---"
+She wasn't safe here anymore. King Triangle would come back to get her soon.
 
-The girl from earlier today crawled out of a tunnel. She spit past Molmo, onto his birthday gift. "You can stick your royal apologies---"
+She packed her Toolbox. It was much bigger on the inside than the outside, but she still couldn't take as many things as she wanted. She had to leave behind the bicycle she was repairing. She had to leave behind photographs and letters from her parents, who disappeared long ago and left her this Toolbox. She had to leave behind her beautiful workshop.
 
-"Ah! I wanted to speak to you!" said Molmo. "Do you have room for this porcelain banana? Just leave some room when you pack your bags---"
+And, most importantly, she had to warn everyone else that the Prince wasn't "one of them". He worked for King Triangle still. She had trusted her gut, as she always did, and saved her life today.
 
-"We're not packing our bags," said the girl harshly. Her stomach growled; she cleaned her black hands on Molmo's pristine uniform. "And this is no mistake. Are you really that dumb?"
+She trusted her gut now and left before nightfall. And it was a good thing she did. 
 
-"Excuse me?"
+The next morning, she saw fire and smoke in the distance. She didn't know for sure, but she _felt_ that her workshop had been burned to the ground.
 
-"The royal family gets to escape. _You_ have a secret safe location. The rest of us? We were always meant to stay here."
+Where to go now?
 
-"I'm sure there are more safe loc---"
+She found a small mountain with Shaeprints. A mix of Triangles, Squares and Circles cut out of the stone. She rummaged through her Toolbox until she found exactly those shapes. Some days, she believed that box contained _every_ possible shape in the universe.
 
-"There are _not_! Only the kings and queens of every kingdom have one."
+She placed the shapes into the Shaeprints. She copied the way she'd seen her parents do it in the photographs. And she hoped it didn't cause an explosion like with King Triangle.
 
-Molmo didn't know what to say. It was as if his brain was suddenly covered in ice-cold water. As if thick fog appeared wherever he looked. He couldn't think clearly. His years of training as a prince---which taught him to give his royal apologies in the first place---clashed with what his eyes were seeing. Little girls and boys, his age, were working deep under the ground. To get them his coins. Were they even getting paid? They didn't look like they had much to eat. Their clothes, covered in black, left ugly stains on the shiny yellow colors of the rest of Sunstripe.
+The shapes fit. The holes were filled. Tessella stepped back.
 
-"MOOOOLMOOO," screamed the king in the distance. "WE ARE LEEEAAVVINNG!"
+The ground shook. A rumble filled her ears.
 
-"Why are you not mining _food_ instead?" asked Molmo.
+A hidden cave wall opened. Rocks turned aside, rolled away, or sunk into the ground. Until there was an opening in the mountain that even an elephant could pass through. 
 
-"Mining _food_?" All the miners looked at each other in disbelief. It painted the cave walls a color close to surprise, but darker and more blueish. "Do you havva _any_ idea how the world works?"
-
-Another splash of ice-cold water in his face. Those coins weren't useless metal to show off. His parents _bought_ food with it! That's how delicious snacks arrived on his plate every day! Woah, he sure was a genius for figuring it out. Prince Molmo the Clever. Despite all the bad luck in his life, he would come out on top!
-
-"Then ... then ..." Molmo looked at the banana. That meant his father was right---his birthday gift was worth a kingdom. "Then I will just leave this pile of coins here for _safekeeping_. Yes, keep it safe, please. Don't touch any of it! I, erm, counted the coins, and I will know when any of them are gone!"
-
-Molmo turned around, chased by his servants.
-
-"My royal apologies if the Endless Blackness causes you any trouble while we're gone!"
-
-"Unbelievable," said the miners in unison. "The musta be the most blind boy I havva ever seen."
-
-___
-
-The carriage led them into the mountainous areas of their neighbor kingdom. From this higher place, Molmo could see the Endless Blackness in the distance. 
-
-It was the deepest of nights. Not just a dark color, no, the _absence_ of color. As if looking into it would hurt your eyes. Sometimes he could make out colorful flashes, which must be the Rainbow Soldiers trying to attack it. Most of the time, he could make out nothing at all, as the first towns of Sunstripe became invisible. He shuddered at the thought of the world looking like ... nothing.
-
-"What will happen to them?" asked Molmo.
-
-"To whom, my son?" said the king.
-
-"The gold miners. The people who stay behind."
-
-"If they're smart, they'll build a strong home and hide, or they buy their own passage to a safe location."
-
-"They're not strong enough to build a home," said Molmo, remembering their starving faces. "And they have no money to buy passage."
-
-The king shrugged. "Then they should work harder."
-
-Molmo looked out the window. Something about that felt wrong. He had not worked a day in his life! Yet he had a nice home and piles of money.
-
-"How much do they get paid? The gold miners?"
-
-"One gold coin per month. Fair wage, that is."
-
-Molmo calculated, even though he was bad with numbers. That buys them ... what, a single slice of bread per day? You might buy fifty bricks with that, but that wasn't enough to build a strong shelter.
-
-He looked out the window again, at Sunstripe kingdom. Really _looked_. He saw the palace, large and shiny. And how all the other buildings were _not that_. How everything else was small, broken, decrepit, barely functional. They weren't a rich kingdom, as they always claimed. They were a rich family living inside a poor kingdom. The pretty sunflowers and honeycombs just hid it very well.
-
-By the time he looked inside the carriage again, half of it had gone _purple_. The color of realization and insight. 
-
-"Yes, the Endless Blackness gives you a new perspective, doesn't it?" said his father.
-
-"No. Not the Blackness," mumbled Molmo, as the realization arrived in his brain too.
-
-The girl was telling the truth. She had never received any birthday gifts, because her parents couldn't afford it. She had suffered angry and exhausted parents, from working in the mines all day. They probably didn't even have a dinner table, for they had no food anyway and no space inside their tiny home.
-
-They weren't packing their bags because there was nothing to put into them.
-
-And Molmo had arguments with his parents because he had _too much_ to put into bags.
-
-"STOP!" yelled Molmo. "We need to go back."
-
-"We most assuredly do _not_," said the queen.
-
-"Then I'll go back alone."
-
-Molmo kicked open the door. This caused the sunbirds to immediately stop moving. The carriage was stuck on a slope, near the top of the mountain. Before long, it started skidding _backwards_, rolling back the way it came.
-
-"Keep moving, you feathers for a brain!" yelled father at the sunbirds.
-
-"Come back! Here! Now!" yelled mother.
-
-Molmo landed on the gravel. His knee hurt. The roads here surely weren't as nice and smooth as back home.
-
-But he realized now that he'd taken them for granted. How priviliged he'd been. Never again would he complain about minor stuff, while others were literally starving.
-
-He kept running. He assumed his parents would follow. He heard the carriage turning around and their parents calling for more speed.
-
-But this was just the final privilege he needed to realize. How much his parents had protected him and accepted all his behavior. Running away on your birthday? While they gave you millions of coins, hung special garlands and flags, and mother personally baked your cake? The yellow-green paint of guilt splashed onto all the trees and rocks around him.
-
-His parents didn't follow. Last he heard, the king and queen claimed their son was "insane" and "not to be trusted". The servants that were with him claimed the girl was a witch who had "put him under a spell". In that same message, they complained about their secret safe location. It only had sixteen bedrooms, ten servants, two kitchens, and a single garden the size of a soccer field. On the queen's birthday, only two guests came to visit, because everyone else could not find the secret location.
-
-When Molmo arrived at the foot of the mountain, he was immediately recognized as the Prince. Random people offered to bring him back to the palace. Once he arrived, he became known as the Prince Who Returned.
-
-His first visit was to the gold mines. They were exactly as he left them. Everyone still worked as if Endless Blackness wasn't coming.
-
-His porcelain banana had been untouched. Though Molmo hadn't counted the coins, he judged nothing had been stolen.
-
-"Tempting. But too risky," said the girl from behind. "What if it was a trap? And you were just going to arrest anyone who grabbed a coin?"
-
-"Well, erm, it's yours now."
-
-"Mine?"
-
-"All of you," said Molmo. "Share the coins. Buy yourself food. And a nicer home."
-
-"What if _this_ is a trap?" whispered the girl. Everyone hesitated, but not for long. It's hard to trick people in a world where your emotions paint the world around you. Molmo's touch made the banana a mixture of pink and purple. The color of kindness and sharing, and the color of learning something new.
-
-"Well, thissa is a gift I don't wanna refuse!" said the muscular man. He was the first to break open the gift and start sharing coins. Slowly, others approached, sometimes clapping Molmo on the shoulder to thank him.
-
-Molmo's final realization was that no thanks was necessary. This money was never his in the first place. What did he even do? It's not an achievement to stop _not working_ and stop _keeping others poor_. It shouldn't have happened in the first place, he could see that now.
-
-"Now," said Molmo loudly, clapping his hands. "Let's come up with a plan."
-
-"A plan for what?"
-
-"We have more money than any other kingdom, and more energy. We will not leave. We will defeat the Endless Blackness right here."
-
+She stepped inside, glad to have a new home. Until she saw someone already lived inside.

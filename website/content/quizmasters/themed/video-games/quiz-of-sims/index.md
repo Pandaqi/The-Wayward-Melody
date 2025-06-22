@@ -5,7 +5,7 @@ id: "quiz-of-sims"
 date: 2025-03-01
 price: 9.95
 image: ["quiz-of-sims-header.webp", "quiz-of-sims-1.webp", "quiz-of-sims-2.webp", "quiz-of-sims-3.webp", "quiz-of-sims-4.webp", "quiz-of-sims-5.webp"]
-file: "@TODO"
+file: "9338aedf-d3dc-4c9b-a700-4286d7597491"
 spell: ["video-games-batch-1"]
 description: | 
   Are you a true Sims fan?

@@ -1,293 +1,205 @@
 ---
-title: "Chocolate Legs"
+title: "The Bearshape Builder"
 weight: 100
+shape: Moon | Crescent
 ---
 
-<!---
+# The Bearshape Builder
 
-### BROWN
+Somewhere in Shapesong, in a hidden place, stood the Bearchitect Academy. Young bears were sent there to learn how to build. Chairs, homes, castles, anything. It was a school, but not like the ones you know. There were no classes, no teachers, no exercises. Bears are far too big and restless to sit on a chair all day. Especially Circle bears; they'd just roll off the chair all the time.
 
-BLIND to how **unhealthy** they are. (How their habits are getting worse, leading them down a bad path, etcetera.)
+Instead, the bears received _building projects_. Anyone in Shapesong could ask the Academy to build something. The town of Newagon needed a new bridge. Ovaltown wanted a fountain. And King Triangle wanted a large statue made of himself. From your very first day at Bearchitect Academy, you were building _actual things_ that animals _actually needed_.
 
-=> Endless Blackness should be _actively fought_ now, in these stories. Otherwise we just don't have enough time left and the threat isn't enough.
-=> So, maybe, this person just _can't_ fight anymore because they're too unhealthy.
+The Academy chose which projects it wanted to complete. And then you were simply given one.
 
---->
+This was the problem, thought Ancib. He wanted to _choose_ which project to do! 
 
-# Chocolate Legs
+He could build bridges. Just place some big Rectangles over a river. Simple-dimple!
 
-Fabian prepared all the strength he had. He stood in a line, Rainbow Soldiers to his left and right. He was the last one to get up. His loud breathing made it hard to hear what the others were saying.
+He could make fountains. Just place bricks in a Circle, and dig a hole deep enough to reach water. Easy-peasy!
 
-Also, the Endless Blackness being only ten steps away was not great.
+Instead, he was given the most difficult project of all: the statue of King Triangle. He needed to find bricks shaped like _eyes_, and _ears_, and a _mouth_, and that _crown_ he was always wearing. Where was he going to find those?
 
-He'd never wanted to join the Rainbow Soldiers. But Commander Leyla had come to his town and forced everyone to fight. She said it was our only chance to defeat this danger. 
+His friend, Lunib, walked up to him.
 
-That was only a week ago. Fabian already felt like he'd been fighting his whole life. If you showed him a bed, he'd fall asleep for a year. Frankly, a bed wasn't even needed. He almost fell asleep on the floor just then, with Endless Blackness raging by his ear.
+"Can't we switch projects?" asked Ancib, hopeful. He was a Circle bear in the final year of the Academy.
 
-Commander Leyla came through with the order: "Attention! Next attack! Everyone shoot _green_!"
+"Not allowed," said Lunib. He _used to be_ a Circle bear. But after a building accident last year, where he dropped a large heavy stone on his body, he was now shaped like a Crescent instead. Also known as a Moon, or Half Circle. It must have hurt a lot, but Lunib didn't complain. He never did. "But I can help!"
 
-His left and right neighbor closed their eyes. Should he be doing the same? No, probably a bad idea. He would just fall asleep.
+"Oh. Yes. That would be really nice," said Ancib. 
 
-Two seconds later green paint shot from their hands. It hit the Endless Blackness with the force of a volcano. It left small green gaps, but not for long. As if the Endless Blackness could heal itself. Their colorful beams were just a minor annoyance. A small bruise.
+He showed Lunib the blueprint. It was a drawing, with a blue background, of the statue he was supposed to make. King Triangle had left notes here and there about what he wanted. _Make my crown extra big!_ he wrote. And: _Don't use ANYTHING that's not a Triangle! Or you'll meet the dungeons!_
 
-"Fabian! What are you doing? We need all the power we can get!" yelled the soldier to his left.
+The drawing itself, of course, had been done by someone else. The King didn't know how buildings worked, or how to calculate if the walls could hold the roof of the house, or any of the things that a Bearchitect can do.
 
-"Aye, aye, I'm trying!" yelled Fabian back. His feelings painted the entire area around him brown.
+When Ancib saw who had drawn the blueprint, he dropped it in surprise.
 
-He closed his eyes too. Peace. Feel at peace. One with nature. Content. I am at rest, I am fine, I ... am ... sleepy ...
+The Headmaster of the Academy walked past. They helped wherever needed and gave out the projects. His gray eyebrows and gray beard revealed that he'd been head of the Academy for a while.
 
-The soldiers around him shot their next green arrows. The noise woke him up. 
+"Yes, it's true," said the huge Square bear. "I drew that statue for him."
 
-He was out of breath, and he hadn't created more than a few droplets of green. How did they do it? How could they control their emotions so well? Leyla said "green", and they'd feel the right thing to shoot green. Leyla would say "red", and suddenly all Rainbow Soldiers could pretend they were angry and fire red paint.
+"Why? You _hate_ him!"
 
-The line of Rainbow Soldiers shot green one last time. The Endless Blackness was hurt, but certainly not defeated.
+"Ssst! Not so loud!" said the Headmaster. "I drew it long ago, when we were still ... friends. Before he went insane. He was a pretty normal boy once, you must know."
 
-And so Leyla took the next step. The plan was _always_ the same. Weaken it with color first; then try to shoot big objects into it. Leyla had people throw large rocks into the Endless Blackness, entire trees, and even someone's house.
+"Why did you give it to me?" asked Ancib. He had looked over the blueprint four times now, but it was _impossible_ to make from Triangles and nothing else. 
 
-The plan had never worked so far.
+He was going to fail. He was going to be kicked out of the Academy! The worst Bearchitect there ever was. Oh Shapelord---
 
-"Watch out!" screamed someone on his left.
+The Headmaster smiled. "No reason. I hand them out at random. Just make the statue as he wants, and get King Triangle off my back. He may _never_ find the Academy! Or he'll surely destroy it."
 
-Fabian turned around. A large rock was _spat out_ by the Endless Blackness again. It used to be gray; now it was black. And it came straight for Fabian's head.
+Ancib looked around. All his classmates had already started their projects. They walked to the Stone Storages and grabbed the exact bricks they needed. They were allowed to use _whatever_, which made it much easier! They grabbed Pentagons, Hexagons, Circles, anything they needed.
 
-He couldn't react in time. His limbs felt slow. It took him too long to crouch. The rock hit---
+Ancib was jealous.
 
-The person who saved him.
+"Come come! Time is running out," said the Headmaster. Then he left.
 
-Commander Leyla had barreled into Fabian, forcing him to the ground. The rock grazed the top of her head, cutting some of her hair.
+Lunib took Ancib's hand. "We'll find a way."
 
-"You fool! Next time, I'm letting the rock hit you."
+"How?"
 
-Leyla walked away. The Endless Blackness moved forwards again. The row of Rainbow Soldiers had to fall back to the next city. 
+Lunib took him outside. Evening fell. The stars came out to play, joined by, of course, a bright moon.
 
-This one was lost.
+"I always look at the mean, and it gives me answers."
 
-When Leyla was far away, the soldiers to his left and right helped him up.
+Ancib almost laughed. The moon didn't talk! How could the moon show you answers?
 
-"Why didn't you react? Why didn't you do _anything_?"
+Then he looked at Lunib, at his Crescent-shaped body because of the accident, and decided not to make a joke about it.
 
-"I did! I was. I would've saved myself, I was just, you know, distracted. Wrong place, wrong time, aye?"
-
-They frowned. No response. It took two soldiers to lift his heavy body off the floor. 
-
-Fabian felt sick. He felt like a lump of meat, a bag of coal, that others had to carry around. His legs shook and he painted a blue trail. Must be the fear. But he also left a dark brown trail---what did that mean?
-
-"We're too slow! We can't carry you all the way," said the other soldiers.
-
-"Good," said Commander Leyla, as she pushed Fabian away. "He should walk himself. If I see _any of you_ helping him again, you'll be thrown into the Endless Blackness next!"
-
-The dirt around Fabian's feet colored red. He clenched his teeth, until he couldn't contain his own anger anymore.
-
-"What did I do to you!?" he yelled. "Why do you hate me so?"
-
-Leyla looked him up and down. "This ... this is not what a true soldier looks like. And we need _true soldiers_ if we don't want the world to end!"
-
-"We're fighting for you! I'm working as hard as I can!"
-
-"From what I can see, you're not working at all," said Leyla, leaving him in the dust.
-
-The other soldiers let him go. They ran on without him.
-
-He tried to keep up, but something was wrong with him. He must've been getting sick. Or maybe some magical curse. He was out of breath. It seemed he needed ten steps, when everyone else needed only one. And now he was stuck in the city gate, because he didn't fit through it.
-
-The Endless Blackness was catching up. It ran _faster_ than Fabian.
-
-So this was it, then? This was how his life ended? Bad luck, sick at the wrong time, and an evil commander? 
-
-He had worked _so hard_. He was learning how to control his feelings. To shoot colors and work together with the other soldiers. He had never run as much in his life as he had last week. And now the Blackness nipped at his feet.
-
-There! A carriage! He stumbled and crawled until he reached it.
-
-No, wait, it wasn't really a carriage. More of a ... woodcart. And many people already sat inside. Why wasn't it moving? Why were the lights out?
-
-He slammed on the door until it opened. He tried to climb inside, but was too heavy. His heart was in his throat. In the end, he rolled inside. 
-
-He interrupted a conversation. Many whispered voices, coming from all directions, immediately fell silent.
-
-"I'm a Rainbow Soldier," Fabian said, with as much confidence as he could. He was mostly copying Commander Leyla's behavior. "And I _demand_ you bring me back to the others!"
-
-"Sure kiddo. You surely look like a strong soldier. And we're Frankenstein and the Loch Ness Monster, happy to help," said a voice in the darkness. But their tone was flat---they didn't actually mean it.
-
-Fabian couldn't see their face. So he closed his eyes and tried to feel _happy_. Joyful. Energetic. As if he could dance, and sing, and---suddenly, streaks of bright yellow painted the woodcart. By its light, he could see a face.
-
-Aye, that was a mistake. He had seen the posters. He had heard Commander Leyla curse the name.
-
-He was sharing a woodcart with none other than The Piqarine Painter.
+Together they stared at the moon. They "read" the moon, like a story. Until the moon suddenly disappeared.
 
 ___
 
-Fabian wolfed down all their food. That is, he ate everything they had, down to the last crumb. Then he looked up at Piqafox.
+Tessella was on a mission. She had found the Rebelshapes, and told them she wanted to join. When they learned she could shapeshift, they were very happy. When they learned she also had a magical Toolbox, they basically agreed she was a superhero.
 
-"Maybe ... maybe you could _not_ eat all our food," she said.
+They immediately send her on a mission. If anyone could find Bearchitect Academy, it would be her. They wanted the bears on their side. If they were going to defeat King Triangle, they needed them to build a weapon of some sort.
 
-"Oh. I am sorry," said Fabian. "Didn't know the others needed, erm, to---"
+Unfortunately, Prince Circlesnake was always nearby. Whatever she did, he always found her trail again. No matter how often she won, he kept following. How could animals still believe he was _not_ a spy!?
 
-"No? Never crossed your mind?" said Piqafox. Her eyes flashed a color Fabian had _never_ seen before, and he rolled back in fear. "That others also need to eat and want a place to sit?"
+Tessella was about to give up on her mission. She couldn't find _any_ sign of an Academy! No buildings, no road signs, no bears suspiciously walking somewhere. She would have never found the place ... if the moon hadn't given it away.
 
-Fabian looked around. The woodcart was awfully small. His body was pressed against two other animals and two other humans. He felt as if he didn't even have enough space to breathe. Could they really not have built a bigger woodcart?
+The moon was especially bright tonight. Its white light reflected off the Academy roof, which made it look like a shining Star had come down. Tessella followed the light, until---
 
-"Well, _I_ just fought for you," said Fabian. "So I think _I_ deserve to eat and stay strong the most."
+"Hey! You're standing in our moonlight!" said a bear behind her.
 
-"Just kick him out," yelled their driver. They climbed on the unicorn at the front. Suddenly, the woodcart was moving away from Endless Blackness at incredible speed. "He's not a soldier. Look at him! Just look at the fat---"
+"Ugh! Now I have to read the moon all over again!" said a bear in a different shape.
 
-"_I am!_" shrieked Fabian. He fumbled around his uniform, opening five wrong pockets, uncovering bread crumbs everywhere, until he found his _badge_. A piece of wood with the Rainbow logo, proving he was a soldier of Leyla's squad.
+"Sorry!" Tessella smiled. She had found bears, at least. "I am looking for Bearchitect Academy. Can you show me the way?"
 
-Piqafox studied it, then said: "We can't bring you back to Leyla."
+The bears looked at each other. They both held one half of a blueprint, showing a statue of King Triangle. They were stacking rocks and twigs, in an effort to build a small version of the statue. But everything they built had fallen apart _or_ looked completely different.
 
-"Why not? I _demand_---"
+"You don't look like a bear," said one.
 
-"Yes, yes, you're very demanding. Leyla and us ... are not the best of friends."
+"We can't tell you where the Academy is," said the other.
 
-"Us? Who is us?"
+Tessella shapeshifted into a Crescent shape herself. Animals always liked her more when she looked like them.
 
-A light went on. Not a torch, not a color, but an actual _light_. As if someone had captured the sun in a tiny space. Fabian had never seen such a wonderful thing before.
+She hesitated. A statue of King Triangle? It seemed like the bears were working together with the King ...
 
-The lightbulb was held by a boy with purple stripes on his face. "My name is Tomsy. And I am trying really hard to invent something. You know, to prevent all of Leyla's soldiers being swallowed by Blackness."
+But she had to try.
 
-"We are fine on our own, thank you. No help needed."
+"I'm with the Rebels," she whispered. "I've come to ask the Bearchitects to join us."
 
-"You are?" said Piqafox. "How many times have you tried the same thing now? Blast colors, throw objects, scream at it? A hundred times? A thousand times? And you have not even _hurt_ the monster."
+The bears crossed their arms. They quickly rolled up the blueprint. 
 
-Fabian fell silent. He was still shaking from fear and exhaustion. He was still hungry, and itchy to get out of this tiny woodcart. And he was right. Running was bad for you. It made your legs all wobbly. That's why he never ran before this week, and as soon as the Rainbow War was over, he'd like to stop running for the rest of his life.
+But as you know, dear reader, Tessella had an eye for shapes and sizes. She had already perfectly memorized what it looked like.
 
-"You all lack imagination," said Piqafox. "We're going to kick you out at the next city gate. Don't tell Leyla we are here."
+"Why should we trust you?" said one of the bears. He stood up and pointed over her shoulder. "When you're with _the Prince_!?"
 
-"You are ... spies? Why all the secrets? What are you going to do?"
+"The Prince!?" Tessella squeaked and jumped from her place. As if she were a mouse, and the Prince a cat chasing her.
 
-"None of your business."
+It was true. Prince Circlesnake had rolled all the way up the hill. Now _he_ was blocking the moonlight. 
 
-"Hmph. I might _make_ it my business," said Fabian. "Unless you give me more food. I'll need it for the next fight."
+He was out of breath. In the darkness, they could only see his yellow, glowing snake eyes.
 
-"Oh please," said Piqafox, rolling her eyes.
+"At last!" he said, still fighting for breath.
 
-Fabian didn't like how they looked at him. How they talked to him. They didn't believe he would tell Leyla? They didn't believe he was a real soldier, who could fight? He just had an unlucky day. He had eaten too little, and slept too little, and _that's_ what had made him slow. Must be it.
+Oh no. What had she done? Now the bears would never tell her. And Tessella had no way to escape. She closed her eyes, preparing to be arrested or attacked.
 
-"Fine. I'm telling Leyla," said Fabian. He tried to leave the woodcart immediately, but he just couldn't turn around. His arms were too weak to open the door again. Ugh. This really ruined his threat.
+But the attack never came.
 
-"We saw what happened," said a girl with bright red hair. As she spoke, red bubbles filled the air. She popped them before they could grow larger. "You hate Leyla. They hate you. Why are you on her side?"
+"I can finally explain myself!" said the Prince.
 
-Fabian knew the answer to that. He'd heard it at least five times, during his training week. "The Endless Blackness is the biggest danger we've ever seen. We must all fight for the same side. If we all fight each other, and have fights, and do our own thing, then ... then we stand no chance."
+"Explain ... what?"
 
-"Have you ever been to Sunstripe?" said another voice. Fabian hadn't even noticed him. He had sat perfectly still behind Fabian's back all this time. "Have you seen the Dreamforest in all its beauty? Have you watched the sun set on the Kingdom of Ember Apples? Have you seen the wonderful snowfall on Snowstripe?"
+"You kept running away. Very tiring," he said. "I finally got rid of my Triangle guards. Nobody to hear what we're saying."
 
-"No ..." said Fabian. A turquoise river of uncertainty started from his feet.
+"What ... what are you talking about?"
 
-"The world is full of different colors. And this has never been a problem! For thousands of years, everyone had _different_ feelings, and Endless Blackness didn't exist." The boy came into the light. He looked like a prince, and his hands were playing with some golden coins. "What does that mean, Fabian?"
+The Prince rolled out of the light.
 
-"That I am hungry and I'm not talking until you give me---"
+"I'm not a spy," he said. He let out a long breath, as if happy to finally say the words.
 
-Tomsy dimmed the lightbulb. Rainbow Soldiers passed by the woodcart. "I've read all the history books. In every kingdom, the Blackness appeared because _everyone felt the same_. Because everyone was angry, and nobody stepped up to feel something else. Because everyone was afraid of Commander Leyla. Because everyone was hungry."
+"But ..."
 
-The girl with red hair shuffled forward too. "Because the Rainbow Soldiers _forbade_ every other emotion, making it a crime to feel something. And all that was left, was for everyone to be exactly the same. And when all colors are gone ..."
+"I'm not working for my father. He _is_ insane. He locked me in the dungeons!"
 
-"... Endless Blackness appears," concluded Piqafox.
+"You tried to capture me! Like, fifteen times! And you almost captured the Piqarine Painter! And---"
 
-The girl shuffled forward and took his hand. Immediately, his entire arm was painted red.
+Prince Circlesnake smiled. "I _almost_ captured many animals, yes. Many times. _Almost_."
 
-"My name is Ruby."
+"You mean ..."
 
-"What ... what are you doing to me? Let me go!"
+"I delayed. I hired the dumbest guards. I gave my father the wrong information. I pretended to be _very_ clumsy, and dumb, and slow." The Prince lowered his eyes. His long tongue dragged over the floor. "Please, please, you have to believe me. I didn't actually put _anyone_ in the dungeons! I was always on your side."
 
-"And I am ... very angry. But not with you, Fabian. You don't need to fear us like you fear Leyla. I just want to help you become a more healthy---"
+Tessella stood frozen, like a statue. The bears joined her in the same pose.
 
-"You're just mean," spit Fabian back. "I am healthy. I'm stronger than you! That's why I need food---for my muscles, aye! I'm just a little bit sick at the moment."
+She had _never_ expected this. Was this another lie? Was the Prince an amazing spy? Or was this the truth?
 
-"Because you're not healthy."
+"Please, I need to join the Rebelshapes. I need somewhere safe to hide from my father."
 
-"Because everyone gets sick. It's unlucky."
+Tessella wanted to send him away. She had lived in fear for _months_ because of him. She hated his face, and he had been mean to her. She had nightmares about snakes chasing her, biting her butt.
 
-They were wrong. Plain wrong. Besides, he had _tried_ eating less and exercising more. Once. Two years ago. And the next day, he looked just the same, so it didn't work for him. 
+"Go away, Prince," she said. "Find Piqafox and Penny, the Rebel leaders. Tell them the same story. They will decide what to do with you."
 
-Ruby let go. He looked at his arms again. They were painted brown, like his entire uniform, and even his seat.
+The Prince looked defeated. If he was out of breath before, now he was out of _energy_ entirely. Like freefalling, he let himself roll down the hill.
 
-The woodcart stopped. The door opened. 
+When he was out of sight, Tessella turned back to the bears.
 
-"It's my choice!" said Fabian. "I eat what I want! My body just wasn't made for running!".
+"I can help you," she said. "I know how you can build your statue."
 
-The secret group of spies kicked him out. He fell in the dirt, unable to get himself back to his feet. Aye, just his luck again. Sticky dirt, nobody gets out of that.
+"You do?"
 
-"Yes, it's your choice," said Ruby calmly. "But why are you so angry that someone tries to help you make a _better_ choice?"
+"I figured it out some time ago, when I helped some rebel treasure hunters. You can make almost _any_ shape ... by combining smaller basic shapes. A Rectangle is just two Triangles. A Star can be made from a Pentagon and five Triangles."
+
+The bears forgot to blink. One of them stared _past_ her, straight at the moon.
+
+"Yes, the moon agrees with her," said Lunib. "Told you I could read the moon! Told you!"
+
+Ancib took out the blueprint. He realized she was right. They could make a mouth out of many small triangles. With enough triangles, and careful placement, you could even create a Crescent shape. If you didn't look too closely, it would _look_ round.
+
+He wasn't going to fail. He was going to build the prettiest statue ever. With enough tiny Triangles, he realized now, you could build _any other shape_ you could dream of.
+
+And he was going to show Tessella where the Academy was.
 
 ___
 
-Fabian woke up in the middle of the night. Tomorrow they were going to fight the Blackness again. Try to save this city, and probably fail. He had nightmares about it. He had nightmares about the spies he'd met. He called them spies, but he really didn't know. They seemed to be on the same side? Just doing things differently? Leyla had hung posters of The Piqarine Painter all over Rainbow School. The posters claimed she was a wild fox, completely insane, would kill you on sight. But she was just ... a pretty smart fox that talked to him.
+They told the Headmaster everything. He stroked his gray beard and took off his glasses.
 
-Should he give them away? Or should he join their side? No, they didn't want him. They saw someone with a slightly different body shape, and oh no, he must be unhealthy and dumb!
+"Bearchitect Academy does not have many rules," said the Headmaster. "But one of them is that we _do not_ build weapons. End of story. Leave the premises."
 
-Most of all, he had nightmares about Leyla.
+"Oh come on. You're going to let King Triangle just walk over---"
 
-He screamed when he realized Leyla was actually standing next to his bed.
+"There are _other ways_ to protect a place ..." said the Headmaster, grinning. "I believe your Rebel hideout, Ballhouse Beaucoup, has shown this to you already."
 
-"Oh calm down," she said. "I'm actually impressed. You walked all the way here. You're stronger than you look."
+Tessella frowned. "How do you know that!? That place is our biggest secret! Are _you_ a spy?"
 
-"Aye. Walked all the way. Through rain, and wind, and---"
+"No, you fools. My grandparents built that house."
 
-"No need to boast," said Leyla. She looked him up and down again. Her eyes lingered around his belly of considerable size. "Also no need to _lie_."
+"What else did you build?"
 
-"Erm. What?" Fabian's heart immediately shot into his throat. He forgot to breath, to blink, to speak.
+The Headmaster grinned again. His smile was even bigger than before. "I designed King Triangle's old castle. Why do you think it was built on a Shaeprint? The one that made it explode?"
 
-"Soldiers saw you kicked out of a carriage-thingy," said Leyla.
+Now everyone was confused. "I thought you said you _didn't_ build weapons?"
 
-Then he had no choice. 
+"Oh no, I didn't _make_ the Shaeprint. I'm not a magician! I just build the castle _on top of one_."
 
-"But I was doing a mission! A special task for you!" said Fabian.
+"What ... what are you saying?" asked Tessella, confused.
 
-Leyla cocked an eyebrow. "Lies. Always lies. You lie to us. You lie to yourself."
+"They have rebuilt the castle in the same place. That means it's still sitting on top of a lot of Shaeprints. If we can activate the right one ..."
 
-"No, it's true! That carriage contained all your enemies! The Piqarine Painter, I met her, and---"
+"... with King Triangle still inside ..."
 
-"Now that is desperate," said Leyla. "Unbelievable."
+No more needed to be said. They had to get close to the castle, send a team of brave shapes. If they could find a Shaeprint and use it, maybe the magic would make the King vanish. Or shoot the whole castle into the sky, like that mushroom. Or do _something_ to end his tyranny.
 
-She pointed at the food leftovers around Fabian's bed. He had been eating all night, sitting in bed, while the others discussed the battle plan for tomorrow. But he had no choice. He was hungry, so he ate. What's so hard about that? The others are just lucky that they're not always hungry.
-
-"Do you have a better lie?"
-
-"But it's true! And ... and ... that prince was there. And the inventor detective person. And---"
-
-"It's settled then. We're throwing you into the Endless Blackness tomorrow."
-
-"NO!" screamed Fabian. 
-
-The other soldiers slept in bunk beds around him. Now they all woke up.
-
-Blue and brown paint dripped from his bed. Which is not surprising, when you're told tomorrow will be a terrible day for you.
-
-What surprised Fabian was his second reaction. He immediately turned around and grabbed the bag of candy on his nightstand. He already had it in one hand, his other grabbing a handful of sugary sweets.
-
-The room was silent. All eyes were on him.
-
-His stomach growled. His breath caught. And it felt as if the Blackness had already swallowed him. As if he would never be the same color as he was before. As if he could look at himself through Leyla's eyes. As if he finally felt the weight of his body, the sluggishness, the bad habits.
-
-When his body said "blue", he grabbed the nearest food. When his body said "red", he grabbed the nearest food.
-
-He dropped the candy bag. He winced, seeing all that candy go to waste. There was some good chocolate in there. And his favorite gummy bears. 
-
-He gathered his strength. He climbed out of bed, straightened his uniform. He cleaned the nightstand from food leftovers. He stood taller and held a hand to his head---a gesture of respect for his commander.
-
-"Soldier Fabian ready for duty," he said. "Please ... please give me a second chance."
-
-Leyla gave him a smile. Barely anybody ever saw that. It was easy to forget that she was just a young girl. Everyone wondered how she even became commander.
-
-"The Endless Blackness don't give us a second chance," said Leyla. "Go home. Get healthy."
-
-"B-But ... but ..."
-
-"It takes months to get healthier. You're too late. Go home and do what you can there." Leyla smiled again, just a little bit. "And I hope to see you again later, Fabian. When you're strong enough to dodge rocks yourself, and run when I tell you to run."
-
-She turned to the others. "Everyone else: _get ready to fight_! Today, we're trying _purple_!"
-
-Fabian stood still as a statue, while everyone else left. Streaks of purple were growing over his bunk bed like vines. The final realization hit him.
-
-The spies were right. Leyla was trying the same thing every day, again and again, and somehow hoping it would work one day. She wanted everyone the same color.
-
-Fabian was simply a bit brown. He could polish it from a poop brown to a chocolate brown, aye. But as Leyla said, it takes years of good habits to become very healthy. Eating well. Exercising. Getting fresh air. His body just wasn't great at doing those things, so he might never lose the brown completely.
-
-That didn't make him useless.
-
-Fabian gathered his things, left the tent, then went the other way. He had a feeling where he'd find that woodcart.
-
-When Leyla said "green", all the soldiers would shoot green. When Leyla said "pink", all the soldiers would shoot pink.
-
-A bad habit. A lie to themselves. Grabbing the candy bag instead of feeling an emotion. Staying in bed all day instead of actually doing something about it.
-
-The Piqarine Painter was going to break the habit. They were going to do something to Leyla.
+Some days later, messenger Beau arrived back at their headquarters---Beaucoup---to give the good news. The Bearchitect Academy was on their side. And two brave Bearchitects, who had _just_ graduated the Academy with perfect grades, one who was a Circle and one who was a Crescent shape, had joined the Rebels.

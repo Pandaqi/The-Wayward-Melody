@@ -5,7 +5,7 @@ id: "quiz-of-sims-pro"
 date: 2025-03-01
 price: 9.95
 image: ["quiz-of-sims-pro-header.webp", "quiz-of-sims-pro-1.webp", "quiz-of-sims-pro-2.webp", "quiz-of-sims-pro-3.webp", "quiz-of-sims-pro-4.webp", "quiz-of-sims-pro-5.webp", "quiz-of-sims-pro-6.webp"]
-file: "@TODO"
+file: "34b84721-09e9-41d2-b128-06c1ab1c3ee3"
 spell: ["video-games-batch-1"]
 description: | 
   Are you a die-hard Sims gamer?

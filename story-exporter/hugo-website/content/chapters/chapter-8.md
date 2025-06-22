@@ -1,285 +1,283 @@
 ---
-title: "Woodcart Racing Championship"
+title: "Game of Symirror"
 weight: 80
+shape: Cross
 ---
 
-<!---
+# Game of Symirror
 
-### ORANGE
+Tessella was alone again. After helping the treasure hunters she traveled further into Shapesong. Looking for a new home. Looking for a new place to start a workshop and start repairing again.
 
-BLIND to **danger**. (How dangerous, uncertain, precarious some situation is.)
+But wherever she went, King Triangle was already on her heels. He really wanted _everything_ and _everyone_ to be a Triangle. The past few days, she had stayed in Ovaltown. A simple city where all the buildings were ovals, and the animals looked like many different shapes.
 
---->
+But this morning she woke up to the same thing as always. Everyone running around in a panic, trying to make Ovaltown a Triangle Town instead. The beautiful domes on the buildings were made pointy. A cute Square bunny now tried to wear a wig that made it look Triangle. Their brothers, who were Square bunnies too, thought a nearby Shaeprint might help them lose a corner.
 
-# Woodcart Racing Championship
+She sighed and left again. She collected all her things in her Toolbox. And she walked away.
 
-Ten teams lined up at the top of the hill. Ten woodcarts were ready to race.
+She didn't feel like a Star most of the time. She felt alone. Tired. Some days, she wanted to go back to the Rebels. Make friends, do things together. And some days she hated the world, and King Triangle, and everyone, and so she ran away alone.
 
-There were no real rules about what a woodcart should look like. It needed to be made mostly of wood, of course. And it needed to have _some way_ of moving down the hill. Half the carts had wheels, half of them looked more like a sleigh. _All_ of them were built by the kids themselves.
+Today was one of those days when she wanted to have a friend. And so she accidentally shapeshifted into a Cross.
 
-They did this every week. The entire city would come out to watch the race. Everyone had their own team name, their own fans, even their own chants and logo.
+She left Ovaltown and came upon the L-shaped Lakes. This was a large area in Shapesong that had water everywhere. Rivers crisscrossing. Gigantic lakes and tiny puddles. Waterfalls to your left and right, and even frozen icebergs drifting in them.
 
-"Clear the hill! The race is about to start!" yelled the presenter. His voice was magically amplified by a witch in purple robes. She had fled the Coven long ago because, in her own words, "they were idiots".
+Many times she thought she had found a friend---but it was just her own reflection in the water.
 
-"And on my left," continued the presenter, "Team FasterThanYou!"
+Many times she thought Prince Circlesnake was following her---but it was just his reflection in an iceberg far away.
 
-Two cocky girls stood on top of their woodcart. They waved at their fans, smiled, and repeated they were _faster than you_. They deserved the arrogance, though. They had won almost all the races so far.
+This meant Prince Circlesnake was _somewhere in the area_. But because everything around her was a mirror, she couldn't trust anything. The Prince was probably miles away. But his shape was reflected by water, reflected again, then reflected again, until she saw his vague reflection all the way over here.
 
-The presenter continued introducing teams. Each of them tried to look just as confident as the FasterThanYou girls.
+This also meant that his reflection was distorted. Water isn't perfectly smooth, like a real mirror. It flows. Its waves are at an angle. And so she hadn't recognized the Prince's reflection at first, because it looked so different. His Circle shape was all stretched and twisted.
 
-Until he arrived at the final team. "And now, all the way on the right, a _new team_. Yes, yes, some new daredevils with an ... interesting woodcart design."
+Whenever Tessella stopped to study herself, the same thing happened to her Cross. She barely recognized herself in the reflection. Was this really who she was?
 
-Justan didn't step out of the cart. He didn't stand on top, didn't smile, didn't wave. His nervousness painted the wheels of his cart a mixture of red and blue. Red for the excitement. The joy he'd feel if he _won_ this thing. Blue for the fear. Of making a mistake, of losing, of getting injured.
+Then she heard footsteps behind her. She turned around, but only saw her own reflection.
 
-"Well, Justan certainly _is_ focused, ladies and gentlemen," continued the presenter. "We didn't receive a team name from him. So let's call him Team Justan."
+Twigs were broken. Leaves crunched. Splashing erupted from water nearby.
 
-A light rain started. Justan was prepared: he had built his own windshield wipers. Unfortunately, he didn't have the money for a machine, so he had to wave the wipers _himself_. It was still better than all the other woodcarts---they had no protection against weather at all.
+Tessella twisted on the spot, looking all around her, until she saw Prince Circlesnake's reflection in a waterfall.
 
-Justan leaned over the dashboard. He shouldn't have.
-
-The height made him dizzy. It was a long drop. The finish was just a tiny dot in the distance, at ground level. One mistake ... steering the wrong way ... and he'd be falling for a while.
-
-The witch casted a fireworks spell.
-
-The race had started.
-
-Team FasterThanYou immediately passed Justan by. Everyone else soon followed. Their woodcarts were small, their wheels made of whatever made them _faster_. Justan was the only one wearing three layers of clothes, to protect him if he fell. Those clothes were now soaking wet, as the rain came down with more force.
-
-"Team Justan? HA!" yelled one of the girls as they overtook him. "Team SLOW is what you mean!"
-
-The name caught on. Before long, all bystanders were yelling TEAM SLOW and TEAM SNAIL as Justan passed.
-
-The first part of the hill was a gentle slope. Slowly, over the course of a minute or so, everyone went from a standstill to a nice speed. You didn't have to do anything either: gravity pulled you down and made you go faster.
-
-Then the _real_ hill started.
-
-In front of him, Team FasterThanYou suddenly _swerved_. They narrowly avoided a rock sticking out. The team behind them was too late to respond, and so their woodcart crashed into the stone. They lost their front wheel, but kept going anyway. 
-
-You couldn't stop, even if you tried. Gravity pulled you down and your cart would just roll faster and faster.
-
-Justan gripped his steering wheel tight. He carefully avoided the section of rocks. He steered away from the shrubs, to prevent getting his wheel caught in them.
-
-He could see everyone else in front of him. He was in last place. What was he doing wrong?
-
-Two woodcarts bumped into each other. Their vehicles were destroyed immediately, which left the teams sitting in the grass, in the rain.
-
-"Are you okay?" yelled Justan as he passed them by.
-
-They just looked back in disappointment.
-
-Several deer were taking a stroll on the hill too. Team FasterThanYou saw them just in time, swerved around, and in doing so _pushed_ another team off the hill. They screamed as their woodcart started to fall---but a large tree caught them. 
-
-They were safe, Justan told himself. They'd climb down safely.
-
-And he was nearing first place now.
-
-Team FasterThanYou bumped into a molehill, which launched them into the air for a few seconds. The angry mole hopped into Justan's woodcart two seconds later and called for revenge.
-
-During the launch, one of the girls had fallen out of the cart. She had immediately jumped on the back of one of the door, and now tried to convince it to bring her to the finish.
-
-Justan looked around. He was in second place. He was the only one left with a woodcart that was _not_ broken.
-
-He was tempted to do _anything_ to go faster. Like bumping into Team FasterThanYou. Push them off the hill as well---but that was _incredibly_ dangerous! 
-
-The hill was slippery. Justan could barely control his woodcart anymore. He might be able to use the rain to his advantage and take a quick drift turn to the---no, that was _incredibly_ dangerous!
-
-So he kept driving carefully, as the finish appeared on the horizon.
-
-Team FasterThanYou finished first. Even the girl riding on deerback was faster.
-
-He came second.
-
-The audience cheered, and clapped, and brought them their award. They received 100 points in the overall standings, while Justan received 50. Their fans started singing their song, three times in a row, until Justan was sick of it. 
-
-His father carried his woodcart, still completely intact, and his mother gave him a hug. "You did great, dear. Team FasterThanYou was just a little better. Those girls _really_ know how to race, huh? _What a race!_ You were just unlucky."
-
-"Unlucky?" Justan looked back. Half the children had bruises and cuts on their face. Most of the woodcarts were broken beyond repair. "I think all of us were _very_ lucky!"
-
-"What do you mean?"
-
-"Nobody died!"
-
-His parents frowned. "Nobody has ever died, or been seriously injured during the races. What are you talking about?"
-
-"Now that I've done a race ... I can't believe how dangerous they are!" Justan pointed at all the evidence. "We should stop doing this. Before anyone ..."
-
-His father ruffled his hair. "It's okay, Justan. You can admit it. You're just afraid of heights. Easily scared. We'll find another hobby for you."
-
-"Everyone should be afraid of heights," mumbled Justan.
-
-The whole city walked home together. One large crowd, celebrating and chatting about the race, already planning the one for next week.
-
-And they all stopped at once.
-
-On the edge of the kingdom, the Endless Blackness had appeared. It was so close that nobody could ignore it. So close that it cast a shadow over the whole city.
-
-Ignore it, they did anyway.
+She ran for her life---but to where?
 
 ___
 
-Justan couldn't sleep anymore. Every day he saw the Endless Blackness nearing. Like a monster creeping closer each day, until you turn around one day and they suddenly _eat_ you! 
+After some running, she arrived at a road sign. A _cross_ was placed on top of a wooden pole.
 
-Nobody else seemed to have the same issue. When he walked past the FasterThanYou garage, they hummed and built their next woodcart. 
+Was this even real? Or a reflection as well?
 
-The team that had landed in the tree? They were good friends of his, and, fortunately, they were completely okay. 
+She tried to touch the Cross with her fingers---
 
-Unfortunately, when Justan stepped into their garden, he saw the same thing. They were building their next woodcart. It was bigger and faster than the previous one. It wasn't any _safer_.
+"Hey! What are you doing!?" yelled the Cross. He was an actual shape animal who was asleep before. "Don't touch the road signs!"
 
-And it surely wasn't going to defeat the Endless Blackness.
+"I'm sorry. My eyes are so confused with all these mirrors."
 
-"You won't be so lucky next time," said Justan.
+"Hmpf. Well, you saw the sign. Go away. This road is forbidden."
 
-"Lucky? The rain made us slip off the hill. And if we hadn't gotten stuck in the tree, we would have continued the race from a good position!"
+Tessella frowned. She pointed at her own body.
 
-"And what if there hadn't been a tree?"
+"The sign is a Cross. I'm a Cross. So why can't I enter?"
 
-They shrugged. "There was."
+"That's not what it means," said the shape. "I---oh, my apologies, looks like I was wrong."
 
-"It's not safe!"
+The animal balanced on the wooden pole. And then it _rotated_ itself by a bit. 
 
-His best friend's mother came into the garden too, bringing tools. "Oh Justan, are you still talking about that? The woodcart race _is_ safe. Not a single major accident since we started fifty years ago. It's more dangerous to fall off the stairs than to join the race! Statistics prove it!"
+The Cross didn't look so friendly anymore. It didn't look like Tessella did, a "+" symbol with arms opened wide. Instead, it became an "X", a Cross lying on its side.
 
-That was true. Well, he didn't know about those _statistics_. It sounded like a made-up word invented by someone to practice articulation. But he couldn't remember a single kid even ending up in hospital. And if all the adults thought it was okay, then why was he so worried? If the other kids weren't afraid, should he also not be afraid?
+Now _that_ was a sign Tessella recognized. The sign that meant you were not allowed to do something. The symbol for _bad_, and _be careful_, and _go away_.
 
-"And the Endless Blackness?"
+Tessella studied the waterfall on her right. Prince Circlesnake's reflection came into view again. His shape was so distorted that it almost looked like a Squaresnake.
 
-"It hasn't reached us yet."
+She ignored the sign and ran deeper into the area.
 
-"So you're just hoping it never will?"
+"Hey! Stop!" yelled the Cross behind her. "You don't know what you're doing! It's dangerous there!"
 
-"Could be."
+She quickly ran into more signs. Almost all of them were asleep and had rotated to a plus. As she ran past, Tessella _rotated_ all these crosses to be an X. 
 
-His friend grinned and handed Justan a hammer. "We'll probably get lucky and a tree stands in the way."
+Maybe, just maybe, Prince Circlesnake would follow the signs. He'd see them and turn back.
 
-"One day our luck will run out," said Justan.
+What was so dangerous here? Why were there hundreds of signs? It was just more lakes, and more rivers, like the rest of---
 
-"Everything you say sounds like a threat," said his friend. "Like you don't _want_ us to be happy, and feel safe, and enjoy the woodcart races. Is that it?"
+"Aaaaah!" yelled Tessella as she bumped into something heavy.
 
-"No! No. I want you to be happy. I like the races too! It's just ..."
+"YOU CHALLENGED THE MAGICIAN!?" said a deep, growly voice that sounded like twenty voices at once.
 
-"Look," said his mother. She gave Justan a sweet icy drink, probably to shut his mouth. "Things usually work out in the end. Don't worry about tomorrow---just think about today. And today the Endless Blackness hasn't harmed a single hair on my face! So why worry about it?"
+Tessella rubbed the bruise on her shape. She looked confused. "What if I did not?"
 
-Justan fell silent, enjoying his drink. No, he couldn't _really_ enjoy it. The shadow of Endless Blackness hung over them at all times now. It was so close he thought he could smell it, hear it whisper his name. It _felt_ wrong. All the other kingdoms said it was terrible, and then said nothing anymore. 
+"TOO BAD. YOU'RE TRAPPED."
 
-But if nobody else was worried ...
+"Fine, I'll challenge you."
 
-"Just, please, add some more protection," said Justan to his friends.
+"THE MAGICIAN ACCEPTS. YOUR END IS NEAR."
 
-"Like what? Those ugly clothes you wore?"
+"My what?"
 
-"Use thicker wood. Put some blankets to the sides, like a shield. Wear a helmet."
+Before her stood a huge stone playing board. Like a Chess board, but much larger. Some squares had beautiful symbols carved into them, such as waves and ships.
 
-"Ugh! That would slow us down, make it harder to steer."
+"PICK YOUR COLOR," said the imposing magical voice, which shook her to her core.
 
-"Yeah," said his other friend. "I could barely see anything in that rain last week. Imagine if I wore a helmet too!"
+"Purple? I always liked purple."
 
-"JUST DO IT!" yelled Justan. His outburst painted the entire woodcart _red_.
+"NO." The voice sighed. "WE ONLY HAVE BLACK AND WHITE PIECES."
 
-His friends went white as a sheet. They looked at their mother for support.
+Tessella chose white. The pieces magically appeared on the board. Each piece was a large Cross, placed like the "+". The magician's pieces were on the other side, while Tessella's pieces were all on her side.
 
-"Well, erm, we'll do it," she said. "Just this once, to ease your mind."
+"THE RULES ARE SIMPLE. UGH THIS IS HURTING MY THROAT." 
 
-Justan hugged his friends goodbye. He had more people to warn. Though he didn't know anymore if he should. What if _he_ was crazy? What if he was blind and silly, and everyone was right? Nothing had gone wrong before with the races, so why bother?
+The voice coughed loudly. Then it continued in a normal voice.
 
-"You're not joining the next race then, I guess?" 
+"Your goal is to reach my side of the board, with as many pieces as you can," the magician said. Tessella still couldn't _see_ him. It was just a voice coming from the trees right now.
 
-"No," said Justan. He smiled and tapped the woodcart. His fingers left blobs of _orange_ on it. The vehicle felt solid enough. "But I'll be watching and making sure you win!"
+"On your turn, move one of your pieces. You can move it as far as you want, in any direction your Cross is pointing."
+
+Tessella stepped closer to the board. So, every piece could move up, down, left, and right. As many spaces as it wanted.
+
+"But you can't share a space with another piece. Nor can you jump _over_ another piece in the "x" formation. After moving, you're allowed to _rotate_ the piece."
+
+Aha! Tessella thought she had figured it out. If you rotated a "+", it became an "x". And then it could move in four new directions, diagonally.
+
+Every piece on the board that looked like an "x"---like the forbidden road sign---was like a wall. Or a big lake. Something that blocked you from moving over it. She would have to use that in a smart way to stop his pieces from reaching the other side.
+
+"Understand?" said the magician. 
+
+"I guess. What happens if I lose?"
+
+"_When_ you lose, you will become a Shaeprint."
+
+Tessella had wanted a friend, sure. But this was _not_ the kind of friend she wanted.
+
+"THEN LET THE GAMES OF SYMIRROR BEGIN!"
+
+____
+
+Tessella had been wrong about Prince Circlesnake. He wasn't chasing her, and he was never close to catching her. At least, not then.
+
+He had seen her reflections from far away. He had seen how she met the magician and started that game. But the Prince himself was smart enough to stay safe, at the edge of the L-Shaped Lakes.
+
+"She'll be busy with that game for a while," said the Prince with a grin. "This is our chance!"
+
+"Then let's grab that non-Triangle!" said his guards, eager for a fight.
+
+"No let's not!"
+
+"What?"
+
+"My father would want to catch her himself," said the Prince. "So let's travel back to the castle! Besides, all these mirrors are making my eyes hurt."
+
+"Ugh. Booooring." The Triangle guards put away their weapons again. They un-sharpened their pointy edges. And they ran out of the area.
+
+They didn't get very far, though. They bumped into something that _raced_ through the lakes area.
+
+A Circle peacock. Who rolled with such speed that the Prince was bumped into a tree.
+
+"You attacked the prince!" said the guards. "And you're not a Triangle! Grab him!"
+
+But the Circle peacock could roll five times as quickly. 
+
+The Prince rolled back down the tree. But instead of attacking the peacock, he turned to the guards and said: "Who are you? I've never seen you before in my life! Go away!"
+
+Then he leaned closer and whispered: "You ask the King to come here. Let me ... handle this."
+
+The guards understood immediately. They played their part. "Our apologies! So sorry! We have _never_ seen each other before in our life! And if we had, then we would arrest you! Ha ha, because the Prince is _not_ a spy for the king!"
+
+When they were finally gone, the peacock came to a stop. Out of nowhere, ten other shapes appeared. Some flew out of the water. Some fell from the trees. A Circle mole popped out of the ground.
+
+"Which of you is the messenger?" asked the mole. "Sorry, my eyesight isn't what it used to be."
+
+"The peacock, duh," said a Square bunny. "The other one is the Prince!"
+
+"The Prince! Oh no! Scatter!"
+
+"Wait a minute," said the peacock. "I'm Beau, your messenger. The Prince protected me. His father hates him, he told me so himself. I think we can trust him."
+
+"Fine. But if he rats us out ..." said a Hexagon rat.
+
+"We don't need to worry anymore," said Beau with a smile. 
+
+He handed a piece of paper to the other Rebels. The message he was sent to deliver. Now that they had someone who could roll across Shapesong at lightning speed, all the Rebels suddenly wanted to talk to each other. The paper contained lots of basic shapes. But they were combined into bigger _letters_, because that's how language works.
+
+The Square bunny read the message. "Oh! The rebels have found a better place to hide. They say they've _found a better castle of our own_."
+
+"Interesting, interesting," said the Prince. "I know you don't trust me. But your messenger is right. I'm on your side. My father even locked me up! Maybe ... I could _join_ the Rebels? I would like to _visit_ this new castle of yours!"
+
+They stared at him. They gave very strong arguments like "but he's a Circle, so he _can't_ work together with King Triangle", and "I believe him".
+
+"Very well," said the Square bunny. "Follow us. We have a way through the L-Shaped Lakes where you _don't_ get stuck chasing your own reflection."
+
+"Or playing that silly game with the wannabe magician," added the Hexagon rat.
+
+The Prince could barely contain his laughter. "Game? Sounds fun. Can we visit that place too? We might ... meet someone important."
+
+They shrugged. "If you want."
 
 ___
 
+Tessella was starting to sweat. The Game of Symirror was _hard_. The magician had obviously been playing for centuries. Any time she had a smart plan, he'd do the perfect move to block her.
 
-The weather was terrible. With Endless Blackness this close, sunlight wasn't allowed anymore, and white clouds were dark gray. Endless Thunder would probably arrive soon, too.
+He had already brought four pieces to her side. She had barely had a piece jump over the river in the middle of the board.
 
-Still they had decided to hold the next race on an even _higher_ hill. The presenter was cheerful as ever when he said: "Everyone ready! START!"
+All her life, she'd felt the smartest in the room. She could repair anything. With her Toolbox, she could solve _any_ problem. But not this one.
 
-The witch created some more fireworks. She was getting better at it every time.
+She did _not_ want to end up a Shaeprint. A shape pressed into some stone somewhere. Only to do some silly magic if someone filled the hole a century later.
 
-Team FasterThanYou immediately took the lead. Their new woodcart was the same as the old one, but they had added a block of wood at the front. A "molehill shield", they called it. They learned from their mistakes and didn't want to _almost_ lose again.
+Was that ... was that what happened to her parents? She shook her head. No use thinking about it now.
 
-His friends, Team EvenFasterThanThey, were in second place. They had turned their red cart into a _dragon_ spitting fire, which looked awesome as it zipped past. The crowd gave them the nickname Team Dragon. They might have even had more fans than the girls.
+She needed to be _smarter_. More creative. Stop thinking like the shape she is, and start thinking in other shapes. Stop thinking straight; start thinking in curves and---
 
-The gentle hill was over now. The _real_ hill started. Justan had to run downhill to keep his friends in view.
+Rotation.
 
-The first two carts crashed into each other. Fortunately, they were in last place, so nobody else was hit. The children climbed out of their piles of wood looking confused, but fine. Justan breathed a sigh of relief.
+She had almost forgotten she could do it. All her pieces still looked like a "+", and moved only in straight lines. 
 
-FasterThanYou's new invention was put to the test. They approached a large molehill and---it didn't bother them. Their invention cut the hill down and they happily kept rolling.
+Perhaps the magician didn't expect it anymore? 
 
-Team Dragon used this to its advantage. FasterThanYou cleared all the obstacles and took away the wind! So they stayed glued to their woodcart's back bumper. FasterThanYou steered right---they did the same. They steered left---Team Dragon did the same.
+She looked at the board. Yes, there was an opening. If she moved that piece, then _rotated_ it at the end ... yes! Its next turn, it would be able to move _diagonally_. Cutting through his defenses like a knife through butter---if butter had been invented in Shapesong. Within two turns, she'd get two pieces on that side.
 
-Slowly but surely, Team Dragon gained more speed. 
+She smiled.
 
-Until they decided to overtake the girls. Justan knew when they had made the decision, because the grass around them suddenly turned _orange_. The color of danger. The color of something terrible and violent that _might_ happen soon, or it might not.
+"OH? A SMILE?" The magician still hadn't shown itself.
 
-The hill curved here. You had to take a corner, roll down a very steep part, and then you'd reach the finish.
+She made the move.
 
-Team Dragon went on the _inside_. This meant they had the inside bend, which is faster than the outside, because it's _shorter_.
+The magician fell silent for a while.
 
-"Hey!" screamed the girls. "No fair!"
+"WELL PLAYED. BUT HAVE YOU CONSIDERED _THIS_?"
 
-"We're just ... _faster than you_!" yelled his friends together. They had practiced this.
+He rotated one of his own pieces at the back. The piece he hadn't moved yet all game.
 
-The girls screamed one word to each other. Then they suddenly flipped the steering wheel as far as it went. Their woodcart turned to the left so quickly that two wheels flew off the ground. Hanging onto the steering wheel, the girls shifted their weight to the other side. Their cart fell down again and _rammed_ Team Dragon in the side.
+And it ruined all Tessella's plans once more. 
 
-"No fair!" yelled his friends. 
+Then she heard a whisper in her _left_ ear. It came so sudden that she yelped and almost hit the other shape in the face.
 
-Justan stood frozen.
+"Plant that piece right on the river, then rotate it to an "x"-shape," whispered Prince Circlesnake in her ear.
 
-He watched Team Dragon's cart spin out of control. One wheel broke off. Then another. Until it had become a sleigh destined to hit a fence.
+It was ... it was a good move.
 
-The fence exploded in a hundred wooden pieces. Clouds of dust mingled with the rain. Parts of their cart flew so far away that they entered Endless Blackness, which spit them back out as something else. Justan was too far away to see _what_ it was.
+Someone whispered in her _right_ ear.
 
-But when the dust cleared, his friends were laughing and waving.
+"Then, put your hands in the air, and prepare yourself for the dungeons," said King Triangle in her other ear.
 
-Pieces of wood stuck out of their helmets. The extra pillows and blankets had given them a soft crash. 
+Tessella's heart sunk. She'd been stupid. She'd been playing this game for hours, forgetting her environment. She was surrounded.
 
-They were fine. Justan breathed a sigh of---
+"Oh no!" said the Prince. "King Triangle! How did _you_ suddenly get here!?"
 
-Where was Team FasterThanYou?
+The rebels didn't believe him anymore. But it was too late.
 
-Around him, the crowd started to scream. Justan looked just in time to see FasterThanYou's problem.
+"NOBODY CAN LEAVE UNTIL THE GAME IS DONE," said the magician. "DOES NOBODY READ THE WARNING SIGNS I PLACED EVERYWHERE!?"
 
-Team Dragon's explosion had lodged sharp wood into their cart, like the quills of a hedgehog. In their confidence, they took another turn that was too sharp. Their right wheels lifted off the ground---and they never came back down. The rain took away whatever power the other wheels had left. They were heading straight for the Endless Blackness, which was only a few miles away now.
+"I am your _King_ and you shall---"
 
-Everyone saw a heavily damaged woodcart disappear over the wrong side of the hill. 
+"Father," said the Prince, blushing. "I ... I want to see if she can win the game. It's a really good game."
 
-It was the last time they ever saw the girls.
+"Fine!" yelled King Triangle. "She'll lose in a few moves anyway."
 
-___
+Maybe she would have. But the game continued. 
 
-The crowd had searched for hours. They had found fragments of the cart, but nothing more. The fall was too long, the distance too far, and the Endless Blackness too close.
+The magician made a few strange moves. He let her slip through his defenses. He forgot to rotate a few pieces, allowing Tessella to bring four pieces to the other side too.
 
-Justan ran ahead. He remembered the Blackness spitting _out_ part of Team Dragon's cart. But as what? It had changed it somehow.
+Night fell. And Tessella knew what he was doing.
 
-The closer they got, the more everything looked the same. Justan remembered there being trees here, a small river, and some old buildings where nobody lived anymore.
+He wasn't going to let her win, no. But he was going to let the game never end. He made a useless move, she made a useless move, and so it continued.
 
-Now ... the area was flat. Nothing to see. Nothing to recognize. Everything was _black_, or dark gray, or maybe a dark blue if you looked closely.
+Until Prince Circlesnake fell asleep. 
 
-Justan stubbed his toe on something. He crouched to pick it up and see what it was.
+King Triangle fought sleep too. He stood up, shaking his head. He went to look at the game again, like a teacher watching his students play.
 
-The object burned in his hands. Wherever he touched it, his hands would lose color too. But he was sure that looked like ...
+He looked at the river that run through the board. And he saw his reflection in the moonlight.
 
-Yes. In his hands he held part of Team Dragon's woodcart. Because their logo, a small dragon, was half visible on one side. Everything else? Without colors besides black, it simply looked like nothing. Like you were holding _nothing_ in your hands. If he hadn't seen their logo, he would have never thought this used to be a wooden plank. Because wood is supposed to be brown. With little dots and lines of different shades of brown. And where the wood ended, the color changed to what was behind it. That's ... well, that's just how you recognize _anything_.
+He gasped. He touched his face, his arms, his mouth. 
 
-For a brief moment, the plank in his hands turned purple.
+"I'm not---I'm not a Triangle anymore! What happened? What happened!?"
 
-He realized that the Endless Blackness was even worse than he thought. It didn't just eat you, or destroy things. It took something and made it _nothing_. Once it was done raging over their city, he imagined, the city would still be there. It would just be an invisible statue. A place where nothing ever happened anymore, no emotions, no colors.
+The reflection was so _distorted_, that King Triangle looked like a Star instead. He ran to the nearest waterfall, but it just made him look like a Pentagon. He ran to the nearest lake, but it just made him look like
 
-Hands fell on his shoulders.
+Until King Triangle ran away, crying and yelling "where is my Triangle shaaaaaaape!?"
 
-"We owe you an apology," said his friends. "Our mother told us to say it like that. Sounded better or something."
+Tessella lost the game in the next move. Her heart raced, worried about what happened to her now.
 
-Justan looked up with tears in his eyes. The girls ... they had probably fallen into the Blackness. They might still be alive, but nobody would _recognize_ them anymore. Their colors would have all changed.
+The magician revealed himself: a Flower-shaped Sheep. He had been there all along, but used mirrors to hide himself. By reflecting everything _but_ him, he'd made everyone believe nothing was there.
 
-"You saved our lives," said one friend.
+"GO, CHILD. GO, REBELS. THIS WAS THE BEST GAME I EVER PLAYED. YOU ARE SMART, LIKE YOUR PARENTS."
 
-"Turns out our luck _did_ run out," said the other, who didn't dare look in Justan's eyes.
+He didn't need to repeat himself. Tessella and the rebels escaped, leaving the sleeping Prince Circlesnake behind.
 
-Their mother came to get them. And Justan. And everyone else still searching.
+When he woke up, what was the first thing he heard?
 
-Because the Endless Blackness had arrived. And for the first time, everyone stopped being blind and was convinced of the danger. 
-
-All the woodcarts that survived were immediately reused as actual carriages. Valuable things, food, people, they had no choice but to send them down a different hill. Hoping to escape in time, and warn the next cities too.
-
-When Justan left the city behind, the entire thing had painted itself orange. A beacon of danger for everyone else. And then the Endless Blackness swallowed it whole.
-
-Justan told himself he would return one day. He would find the girls, alive, and bring them home.
+"CHALLENGE ACCEPTED. LET THE GAME OF SYMIRROR BEGIN!"

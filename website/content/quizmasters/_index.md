@@ -30,7 +30,7 @@ I guess the biggest difference can be seen when compared with a "tv show quiz". 
 
 It's **simple**. We provide the questions and answers---you can simply enjoy it. No rules or prior skills required.
 
-A trivia experience supports **any group size**. They are supposed to be social experience with loved ones. Something we'll always recommend! 
+A trivia experience supports **any group size**. They are supposed to be a social experience with loved ones. Something we'll always recommend! 
 
 They can test your knowledge and be educational, or just be really funny as you try to figure out the right answer.
 
@@ -63,6 +63,18 @@ The **digital** version can be customized by writing your own questions in text 
 The **physical** version can be customized in any PDF editing software. Additionally, you're obviously free to simply "get inspired" by the quiz and use it to create your own variant on it, skipping or modifying questions for your own work.
 
 In a way, when you buy such an experience, you mostly pay for a _question pack_ (and its _assets_; images, video, audio, and so forth). We're not evil villains who force you to _use_ our quiz exactly how we intended.
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Oh no! Something broke!" %}}
+
+Technology keeps advancing, and everyone has different devices, so it could happen that the _digital_ version of a quiz you bought doesn't work (as intended).
+
+The best thing to do, is to download the latest `pq-trivia.min.js` file from the freely available [trivia system repository](https://github.com/Pandaqi/pq-trivia). Replace your version with the latest version, and it usually does the job.
+
+Another mistake (however rare) is that a media file has a slight typo in its name. Thus your computer can't find the image to display (for example). You can usually go into the `media` folder and rename that file to what it obviously should be.
+
+If that doesn't work, contact us! Try to give screenshots/description of the problem, and we'll usually know immediately what's going on. That's the advantage of using a system you built for the full 100%.
 
 {{% /section-foldable %}}
 

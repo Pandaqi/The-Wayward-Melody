@@ -213,6 +213,40 @@ In general, though, we encourage people to _learn how to customize themselves_! 
 
 {{% /section-foldable %}}
 
+{{% section-foldable header="What is your stance on AI?" %}}
+
+This is a much deeper question than can be answered in this small box. But we'll try to give a summary.
+
+**The core of creation** is to, well, _create_. Musicians make music because they want to _make music themselves_. Writers write stories because _that's the thing that gives them satisfaction_. Not holding some finished book that an AI wrote for you. _Writing the book._ 
+
+Through that lens, using AI at any point in the creative process is silly and pointless. You'd give away the thing that actually makes the creative process worthwhile.
+
+As such, our default approach is always to **fully create all our products ourselves**.
+
+In theory, AI is a great **tool**. It can do things more quickly than you. It can do things you can't do it all (because of constraints on time, energy, money, skill, whatever). It can automate the things you dislike, it can catch errors in the things you did, etcetera. That's why we're not _against_ AI entirely. That's why some of our products, especially the earliest ones, can have small parts created by AI.
+
+In practice, however, **companies need to make a profit to survive and there are many things AI _can't_ do.**
+
+We could spend two days drawing a background image, or we can ask AI to give us the specific image we want in a minute. It's the decision between creating 5 educational games a month, or _maybe_ creating 1. 
+
+As a _tool_, when given specific instructions on what you want for a specific part of a project, it's unmatched. We are on a mission to create lots of cool stuff for you, and to revolutionize learning. Classrooms would rather have that educational game _now_, when students have to learn that topic, than care whether it's 100% human-created. AI is sometimes needed to allow us to do so sustainably. Because we don't earn enough income from unfinished projects or only releasing one thing a month.
+
+For very simple and streamlined projects, AI can work great. Most of our projects, however, **reach across many disciplines and do things that are completely unique.** 
+
+A **quiz**, for example, needs questions that humans find challenging but not too hard. Try asking an AI to generate quiz right now. Half its questions will be far too easy ("Who is the main character in Harry Potter?"), half its questions will just be _wrong_ if you research them. AI can't judge difficulty of its information. It surely won't create/provide all the media (exactly the right image/audio clip/video clip) we attach to the questions.
+
+An **escape room**, for example, needs text + images + maybe even more. No AI can do that sort of thing (as of yet). It needs puzzles tightly tailored to a topic in classrooms. It, again, needs puzzles that humans find challenging but not too hard. Which is something an AI can't judge. 
+
+A **board game**, for example, needs even more. Rules that are succinct, streamlined, 100% internally consistent, and matching the game material. And the game material itself, of course, which has to match those rules! And playing following the rules has to lead to _fun_ in humans, which is something an AI can't judge. (Try asking an AI to invent game rules right now. Be surprised as it gives you a twisted version of Monopoly that contradicts itself and never actually states your objective.)
+
+**In short,** for 99% of the projects we do, AI is useless anyway. Whenever it's a great _tool_ to save time and get better results, we will probably use it. We've used it most in our earliest projects. Once the store launched and earned income, and we realized we sometimes lost that joy of _creation_, we scaled that back even further.
+
+Does that answer your question?
+
+<!--- @TODO: Maybe expand this into a full ARTICLE instead? --->
+
+{{% /section-foldable %}}
+
 ## The Essential Questions
 
 {{% section-foldable header="Pizza or Pancake?" %}}
