@@ -59,18 +59,22 @@ guardian-required: true
 
 The English language has 44 different phonemes, though some are definitely more common than others. Many of them are represented by a single letter, but equally many have two or three letters.
 
-For example, the word "CHIMP" has 5 letters, but only 4 phonemes: CH I M P.
+For example, the word "CHIMP" has 5 letters, but only 4 phonemes: CH I M P. 
+
+{{% remark %}}
+Or, in phonetic writing, `/ch/ /ĭ/ /m/ /p/`. Which indicates it's the short version of the vowel.
+{{% /remark %}}
 
 That means this resource is the final step before we have broken down language into individual letters. (At which point an Apprentice is ready to learn about the letters of the alphabet!)
 
 As such, this resource can be used with Apprentices who have no clue about writing or recognizing letters yet. It's all based on sound and feeling when you change the shape of your mouth to start a new phoneme.
-
-{{% remark %}}
-Of course, it's not bad to already start playing with letter shapes. And it certainly helps if someone can already recognize some of them, because you can expand the exercises to include actual reading/writing of the phonemes.
-{{% /remark %}}
 
 There is another resource after this one about phonemes, but it "only" includes many exercises to play around with them and see them in a different way. Similar to how our "Rhyming" resource provides lots of fun ways to build intuition for the Word + Syllable Awareness that came before.
 
 This resource, on its own, explains and tests phonemes in its entirety already.
 
 As usual, we recommend using the stories (which introduce language learning in a broader, more diverse context) and the digital quizzes (which can play sounds) to complement the teaching resource.
+
+{{% remark %}}
+Of course, it's not "bad" to already start playing with alphabet / letter shapes. And it certainly helps if someone can already recognize some of them, because you can expand the exercises to include actual reading/writing of the phonemes.
+{{% /remark %}}
