@@ -1,12 +1,12 @@
 ---
 type: "product"
-title: "Rhyming & Alliteration"
-id: "rhyming-and-alliteration"
-price: 5.95
+title: "Rhyme & Alliteration"
+id: "rhyme-and-alliteration"
+price: 9.95
 date: 2025-04-12
-image: ""
+image: ["rhyme-and-alliteration-header.webp", "rhyme-and-alliteration-1.webp", "rhyme-and-alliteration-2.webp", "rhyme-and-alliteration-3.webp", "rhyme-and-alliteration-4.webp"]
 file: "@TODO"
-spell: ["rhyming-and-alliteration"]
+spell: ["rhyme-and-alliteration"]
 advances: ["syllable-awareness"]
 description: | 
   A fun, practical step when learning language
@@ -15,19 +15,26 @@ description: |
   Until anyone understands word manipulation just fine
 
 contents:
-- "Explainer Simple: Rhyming means the end of a word is the same, but the start is different."
-- "Explainer Advanced: Longer words, Onset and Rime. (Building intution for vowels and consonants, generalizing the idea to longer words.)"
-- Do These Words Rhyme?
-- Pick The Rhyme
-- Rhyming (Memory) Game
-- "Explainer: Alliteration means two words start with the exact same sound"
-- Is This An Alliteration?
-- Pick The Alliteration
+- Explainer Alliteration (two words start with same sound, examples, why learn it)
+- "Exercise: Do They Alliterate?"
+- "Exercise: Invent An Alliteration"
+- "Exercise: Group Alliterating Words"
+- "Exercise: Alliteration Tarsia"
+- Explainer Rhyme (two words end with the same sound, examples, why learn it, more detailed explanation if desired)
+- "Exercise: Do They Rhyme?"
+- "Exercise: Which One Rhymes?"
+- "Exercise: Invent An Alliteration"
+- "Exercise: Group Alliterating Words"
+- "Exercise: Alliteration Tarsia"
+- "Activity/Game: Grime Cleanup"
+- "Activity/Game: Forbidden Rhyme"
+- "Activity/Game: Did Someone Order A Rhyme?"
+- "Activity/Game: Rhyme Architect"
 
 level: 1
 language: "EN"
 subject: "Language"
-categories: ["phonetic-awareness", "rhyming", "alliteration", "tropes"]
+categories: ["rhyme", "alliteration", "tropes"]
 player-count: 1-100
 age: 3
 # requirements: ""

@@ -4,10 +4,10 @@ title: "Phantasy Phonics"
 id: "phantasy-phonics"
 date: 2025-05-26
 price: 9.95
-image: ""
-file: "@TODO"
+image: ["phantasy-phonics-header.webp", "phantasy-phonics-1.webp", "phantasy-phonics-2.webp", "phantasy-phonics-3.webp", "phantasy-phonics-4.webp"]
+file: "bf320428-63f9-4225-881e-3eb5d9cb9687"
 spell: ["phantasy-phonics"]
-advances: ["rhyming-and-alliteration"]
+advances: ["rhyme-and-alliteration"]
 description: | 
   The final step to phonetic awareness
   Is to learn the phonemes that make up all syllables
@@ -16,20 +16,16 @@ description: |
 
 contents:
 - "Explainer: Words are made out of small sound units called phonemes."
-- Identify First/Last/Middle Sounds
-- Do all of these have the same First/Last/Middle Sound?
-- Sort by same First/Last/Middle Sound
-- Encircle all with same First/Last/Middle Sound
-- What phoneme do all these words share?
-- Count number of phonemes (Continue Elkonin Box Use)
-- Which word has more phonemes?
-- "Activity: Phoneme Stepping"
-- "Activity: Fill In Phoneme Blank"
+- Elkonin Box explainer and cut-out
+- "15 Phoneme Posters (n, r, t, ĭ, ī, s, d, l, ē, ĕ, k, m, p, ă, ā)"
+- "Each poster has a mix of 4 possible exercises (count phonemes, does it have it, is it at the start/middle/end, what phoneme do all these words share)"
+- "Explainer: SCHWA, the most common sound"
+- "A special SCHWA poster"
 
 level: 1
 language: "EN"
 subject: "Language"
-categories: ["phonemes", "phonetic-awareness"]
+categories: ["phonemes"]
 player-count: 1-100
 age: 3
 # requirements: ""
@@ -37,10 +33,10 @@ age: 3
 # duration: 60
 # difficulty: 1
 # setup: 1
-prior-wisdom: true
+# prior-wisdom: false
 # color: false
 # mature: false
-# textless: false
+textless: true
 parallel-play: true
 # double-sided-required: false
 guardian-required: true
@@ -57,24 +53,28 @@ guardian-required: true
 
 ---
 
-The English language has 44 different phonemes, though some are definitely more common than others. Many of them are represented by a single letter, but equally many have two or three letters.
+The English language has 44 different phonemes, though some are definitely more common than others. Many of them are represented by a single letter, but equally many are created by combining two or three letters.
 
-For example, the word "CHIMP" has 5 letters, but only 4 phonemes: CH I M P. 
+{{% example %}}
+The word "EYE" has 3 letters, but only 1 phoneme: I. In phonetic writing: `/ī/`.
+{{% /example %}}
+
+{{% example %}}
+The word "CHIMP" has 5 letters, but only 4 phonemes: CH I M P. In phonetic writing: `/ch/ /ĭ/ /m/ /p/`.
+{{% /example %}}
+
+That means this resource is the final step before we have broken down language into individual letters. Once done with this resource, an Apprentice is ready to learn about the letters of the alphabet!
+
+It contains 15 **"posters"**. Each poster introduces a new phoneme and shows images of simple/common things that start/contain/end with this phoneme. At the bottom, it also contains simple exercises to test if you really understood this new phoneme. We think these are _great_ for hanging around the classroom, or the house, and for focusing on a single phoneme at a time.
+
+As such, this resource is definitively **pre-reader**. It can be used with Apprentices who have no clue about writing or recognizing letters yet. It's all based on sound and feeling when you change the shape of your mouth to start a new phoneme. Of course, it's not "bad" to already start playing with alphabet / letter shapes. And it certainly helps if someone can already recognize some of them, because you can expand the exercises to include actual reading/writing of the phonemes.
+
+This resource covers about **half the phonemes** (the most common and useful ones). It has a follow-up resource called [Phonemic Phun](/teachers/level-1/language/phonemic-phun) that covers **the other half** (in less detail as they're rare). The other resource then also includes advanced phoneme manipulation as a final test/reminder of all phonemes you've learned.
 
 {{% remark %}}
-Or, in phonetic writing, `/ch/ /ĭ/ /m/ /p/`. Which indicates it's the short version of the vowel.
+Similar to how our [Rhyme](/teachers/level-1/language/rhyme-and-alliteration/) resource provides lots of fun ways to build intuition for the Word + Syllable Awareness that came before it.
 {{% /remark %}}
-
-That means this resource is the final step before we have broken down language into individual letters. (At which point an Apprentice is ready to learn about the letters of the alphabet!)
-
-As such, this resource can be used with Apprentices who have no clue about writing or recognizing letters yet. It's all based on sound and feeling when you change the shape of your mouth to start a new phoneme.
-
-There is another resource after this one about phonemes, but it "only" includes many exercises to play around with them and see them in a different way. Similar to how our "Rhyming" resource provides lots of fun ways to build intuition for the Word + Syllable Awareness that came before.
-
-This resource, on its own, explains and tests phonemes in its entirety already.
 
 As usual, we recommend using the stories (which introduce language learning in a broader, more diverse context) and the digital quizzes (which can play sounds) to complement the teaching resource.
 
-{{% remark %}}
-Of course, it's not "bad" to already start playing with alphabet / letter shapes. And it certainly helps if someone can already recognize some of them, because you can expand the exercises to include actual reading/writing of the phonemes.
-{{% /remark %}}
+Also, yes, we know it's spelled FANTASY not PHANTASY. This is just a fun joke to recognize our phoneme resources by title. It also illustrates different letter combinations can lead to the same phoneme.

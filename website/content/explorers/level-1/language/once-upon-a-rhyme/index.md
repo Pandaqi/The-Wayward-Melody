@@ -6,7 +6,7 @@ date: 2025-04-26
 price: 9.95
 image: "once-upon-a-rhyme-header.webp"
 file: "@TODO"
-spell: "rhyming-and-alliteration"
+spell: "rhyme-and-alliteration"
 description: | 
   @TODO
 

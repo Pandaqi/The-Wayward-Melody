@@ -6,7 +6,7 @@ date: 2025-06-26
 price: 9.95
 image: ["quiz-of-rhyme-header.webp", "quiz-of-rhyme-1.webp", "quiz-of-rhyme-2.webp", "quiz-of-rhyme-3.webp", "quiz-of-rhyme-4.webp", "quiz-of-rhyme-5.webp"]
 file: "94cf3688-22c8-4f6c-a7b9-a5610b9e6053"
-spell: ["rhyming-and-alliteration"]
+spell: ["rhyme-and-alliteration"]
 description: | 
   A fun, practical step when learning language
   Is to learn some word-play and rhyme
@@ -25,7 +25,7 @@ contents:
 level: 1
 language: "EN"
 subject: "Language"
-categories: ["rhyming-and-alliteration"]
+categories: ["rhyme-and-alliteration"]
 player-count: 1-100
 age: 4
 # requirements: ""
