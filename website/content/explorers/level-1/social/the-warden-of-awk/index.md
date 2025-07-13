@@ -1,37 +1,35 @@
 ---
 type: "product"
-title: "The Sort Stork"
-id: "the-sort-stork"
+title: "The Warden of Awk"
+id: "the-warden-of-awk"
 date: 2025-04-26
 price: 9.95
-image: ["the-sort-stork-header.webp", "the-sort-stork-1.webp", "the-sort-stork-2.webp", "the-sort-stork-3.webp"]
+image: ["the-warden-of-awk-header.webp", "the-warden-of-awk-1.webp", "the-warden-of-awk-2.webp", "the-warden-of-awk-3.webp"]
 file: "@TODO"
-spell: "my-first-grouping"
+spell: "social-situations"
 description: | 
-  High up in the cloud palace
-  The Sort Stork makes sure your letter arrives
-  Where it should arrive---but the Chaos Cat menace
-  Makes their work near impossible with their nine lives!
+  Awk has an important task
+  He has to guard the Friendliness Stations
+  But he's unlucky, because he always finds himself
+  In the most awkward of social situations
 
 contents:
-- @TODO:XX short stories about ways you can group and sort things (to reach common goals)
+- 10 short stories about common social situations (for young kids) and how to (not) navigate them
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 - Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
 
 level: 1
 language: "EN"
-subject: "Mathematics"
-categories: ["sorting", "grouping"]
+subject: "Social"
+categories: ["social-situations"]
 
 ---
 
-The Sort Stork has an important job. They live in the cloud palace and have to sort all the letters and packages coming in. Important letters for kings, of course. Even more important love letters. And once in a while, an urgent package that contains a baby to be delivered.
+This is a **bundle of 10 short stories** (or "chapters"). Each story is short and can be read standalone, but when you read them all (in order) you get a bigger connected story.
 
-But the villainous Chaos Cat works against them, because they don't want a specific letter to be delivered. Follow the Sort Stork as they sort and group letters in all sorts of ways, trying to do their work despite the chaos!
+The stories explore **social etiquette**, combined with feelings of shame, or uncertainty, or awkwardness. Very young kids are not magically protected from entering social situations that are weird or new, and they don't know the right thing to do. These stories are a fun way to show some of them and the "worst thing that could happen", which is usually just some small thing that won't kill you ;)
 
-This story is split into **@TODO:XX chapters**. Each chapter is written to be as standalone as possible, so you can read _one short chapter_ to your Apprentice(s) at a time. See it as many short stories combined into one bundle.
+We follow Awk. He looks awkward, he walks awkwardly, he is always uncertain and doesn't want to bother anyone else. Unfortunately, because of an awkard incident, he has been given the most important job in the entire land: guard the Friendliness Stations. He has to decide if people are friendly and social enough to let through or not. But what _is_ friendliness? How should he know what to say in certain situations? Why do things always go wrong with him?
 
-It explores the idea of logically grouping items, which---combined with the previous resources on _comparing_---allows sorting as well. This isn't just a nice skill to have for games or jobs, but an essential logical skill to finetune. All day, every day, we're constantly making good decisions and logical snap judgements because we were able to see patterns ("group alike things") and set priorities ("this task is more important than that task"). 
-
-That's why we wanted to devote a unique fairy tale to this concept, practicing the skill and showing ways to apply it in practice.
+And what must he do when it turns out he accidentally let someone in who turns out to be _not friendly at all_?

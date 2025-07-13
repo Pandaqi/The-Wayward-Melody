@@ -1,37 +1,39 @@
 ---
 type: "product"
-title: "The Sort Stork"
-id: "the-sort-stork"
+title: "The Tumbletail Games"
+id: "the-tumbletail-games"
 date: 2025-04-26
 price: 9.95
-image: ["the-sort-stork-header.webp", "the-sort-stork-1.webp", "the-sort-stork-2.webp", "the-sort-stork-3.webp"]
+image: ["the-tumbletail-games-header.webp", "the-tumbletail-games-1.webp", "the-tumbletail-games-2.webp", "the-tumbletail-games-3.webp"]
 file: "@TODO"
-spell: "my-first-grouping"
+spell: "sports-and-physical-games"
 description: | 
-  High up in the cloud palace
-  The Sort Stork makes sure your letter arrives
-  Where it should arrive---but the Chaos Cat menace
-  Makes their work near impossible with their nine lives!
+  The Tumbletail Games is a legendary sporting event
+  Attracting elephants, tigers, lions, and more
+  To compete in magical awesome sports---but then
+  They suddenly all start losing to the mighty dinosaur!
 
 contents:
-- @TODO:XX short stories about ways you can group and sort things (to reach common goals)
+- 10 short stories about the magical sports being played in the legendary Tumbletail Games
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 - Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
 
 level: 1
 language: "EN"
-subject: "Mathematics"
-categories: ["sorting", "grouping"]
+subject: "Physical"
+categories: ["sports", "gross-motor-skills"]
 
 ---
 
-The Sort Stork has an important job. They live in the cloud palace and have to sort all the letters and packages coming in. Important letters for kings, of course. Even more important love letters. And once in a while, an urgent package that contains a baby to be delivered.
+_The Tumbletail Games_ are a legendary event. It attracts creatures large and small, slow and fast, from all over the world. They compete in a wide array of imaginative sports that no human has ever heard of, but which are certainly exciting. 
 
-But the villainous Chaos Cat works against them, because they don't want a specific letter to be delivered. Follow the Sort Stork as they sort and group letters in all sorts of ways, trying to do their work despite the chaos!
+@TODO: Give some examples of _specific_ sports and their names? ("How about the one where elephants use their trunks to throw heavy balls into nets so high you wouldn't be able to reach them?") => @TODO: Also update DESCRIPTION then, probably
 
-This story is split into **@TODO:XX chapters**. Each chapter is written to be as standalone as possible, so you can read _one short chapter_ to your Apprentice(s) at a time. See it as many short stories combined into one bundle.
+This **bundle of 10 short stories** follows the most famous and tense instance of _The Tumbletail Games_ there ever was! 
 
-It explores the idea of logically grouping items, which---combined with the previous resources on _comparing_---allows sorting as well. This isn't just a nice skill to have for games or jobs, but an essential logical skill to finetune. All day, every day, we're constantly making good decisions and logical snap judgements because we were able to see patterns ("group alike things") and set priorities ("this task is more important than that task"). 
+If you read them all, in order, you get the bigger story and experience the games from start to finish. But each story is short and standalone (more like a "chapter"), allowing you to read a quick one before bedtime or at the end of class.
 
-That's why we wanted to devote a unique fairy tale to this concept, practicing the skill and showing ways to apply it in practice.
+Most importantly, **the book includes physical games!** We invented many magical and fantastical sports for these animals to play in the story. Of course, in real life you don't have the magic, nor are Apprentices tigers and lions and bears. But we designed the sports so that we could easily "adapt" it into an actual physical game that kids can play. These games are explained within the book itself, with simple drawings and diagrams, when they first appear.
+
+In short, The Tumbletail Games is a bundle of fairy tales for (young) kids about a magical version of the Olympic Games. And once they're excited by the story, the book explains how to play the same game in your own backyard.

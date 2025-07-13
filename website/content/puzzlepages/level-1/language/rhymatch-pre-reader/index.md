@@ -8,7 +8,10 @@ image: ["rhymatch-pre-reader-header.webp", "rhymatch-pre-reader-1.webp", "rhymat
 file: "1f09dd1e-b0fe-4e4f-9f03-b859f4686e8d"
 spell: ["rhyme-and-alliteration"]
 description: | 
-  @TODO
+  For pre-readers, a puzzle unseen
+  To test word knowledge and rhyme
+  Two pictures are shown of things that rhyme
+  Your task is to figure out what they mean
 
 contents:
 - "35 Rhymatch Puzzles (including solutions)"

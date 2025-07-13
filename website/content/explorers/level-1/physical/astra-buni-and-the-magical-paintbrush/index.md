@@ -1,37 +1,35 @@
 ---
 type: "product"
-title: "The Sort Stork"
-id: "the-sort-stork"
+title: "Astra Buni & The Magical Paintbrush"
+id: "astra-buni-and-the-magical-paintbrush"
 date: 2025-04-26
 price: 9.95
-image: ["the-sort-stork-header.webp", "the-sort-stork-1.webp", "the-sort-stork-2.webp", "the-sort-stork-3.webp"]
+image: ["astra-buni-and-the-magical-paintbrush-header.webp", "astra-buni-and-the-magical-paintbrush-1.webp", "astra-buni-and-the-magical-paintbrush-2.webp", "astra-buni-and-the-magical-paintbrush-3.webp"]
 file: "@TODO"
-spell: "my-first-grouping"
+spell: "pencil-control"
 description: | 
-  High up in the cloud palace
-  The Sort Stork makes sure your letter arrives
-  Where it should arrive---but the Chaos Cat menace
-  Makes their work near impossible with their nine lives!
+  Astra Buni received a magical paintbrush
+  But how does it work? What does it do?
+  Follow her on a journey from lines to magic
+  As every time she discovers drawing spells old and new
 
 contents:
-- @TODO:XX short stories about ways you can group and sort things (to reach common goals)
+- 10 short stories about Astra Buni and a paintbrush that performs magic if she draws the right things
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 - Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
 
 level: 1
 language: "EN"
-subject: "Mathematics"
-categories: ["sorting", "grouping"]
+subject: "Physical"
+categories: ["pencil-control", "fine-motor-skills"]
 
 ---
 
-The Sort Stork has an important job. They live in the cloud palace and have to sort all the letters and packages coming in. Important letters for kings, of course. Even more important love letters. And once in a while, an urgent package that contains a baby to be delivered.
+_Astra Buni_ is a recurring character in our story universe and our magical interpretation of the Easter bunny. This book is basically her "origin story", as it finally completely focuses on her and how she ended up with her magical powers.
 
-But the villainous Chaos Cat works against them, because they don't want a specific letter to be delivered. Follow the Sort Stork as they sort and group letters in all sorts of ways, trying to do their work despite the chaos!
+What are her powers? Well, you'll need to read the story for details. But suffice it to say that she has a magical paintbrush that casts spells if she manages to draw the right things. As the story continues, she tries different lines, different shapes, more complicated drawings, as she slowly discovers how to cast the spell she wants. Instead of accidentally making everything float again.
 
-This story is split into **@TODO:XX chapters**. Each chapter is written to be as standalone as possible, so you can read _one short chapter_ to your Apprentice(s) at a time. See it as many short stories combined into one bundle.
+This is a **bundle of 10 short stories** (or "chapters"). If you read them all, in order, you get a bigger story. But each individual story is standalone and short, which allows reading just one of them before bedtime, for example. Most chapters have Astra try something new, or tackle a new problem, and discover a new fact about her magic.
 
-It explores the idea of logically grouping items, which---combined with the previous resources on _comparing_---allows sorting as well. This isn't just a nice skill to have for games or jobs, but an essential logical skill to finetune. All day, every day, we're constantly making good decisions and logical snap judgements because we were able to see patterns ("group alike things") and set priorities ("this task is more important than that task"). 
-
-That's why we wanted to devote a unique fairy tale to this concept, practicing the skill and showing ways to apply it in practice.
+As expected, the stories teach about **pencil control**. They encourage Apprentices to start creating their own drawings, copy what Astra is doing, maybe invent their own written "spells". All of this is great practice for fine motor skills and great preparation for handwriting later.

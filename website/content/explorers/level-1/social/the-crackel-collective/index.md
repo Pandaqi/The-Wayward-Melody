@@ -1,37 +1,41 @@
 ---
 type: "product"
-title: "The Sort Stork"
-id: "the-sort-stork"
+title: "The Crackel Collective"
+id: "the-crackel-collective"
 date: 2025-04-26
 price: 9.95
-image: ["the-sort-stork-header.webp", "the-sort-stork-1.webp", "the-sort-stork-2.webp", "the-sort-stork-3.webp"]
+image: ["the-crackel-collective-header.webp", "the-crackel-collective-1.webp", "the-crackel-collective-2.webp", "the-crackel-collective-3.webp"]
 file: "@TODO"
-spell: "my-first-grouping"
+spell: "collaboration"
 description: | 
-  High up in the cloud palace
-  The Sort Stork makes sure your letter arrives
-  Where it should arrive---but the Chaos Cat menace
-  Makes their work near impossible with their nine lives!
+  A world where teamwork is required
+  A world where teamwork is forbidden
+  Only the Crackel Collective knows trouble's afoot
+  And must break those laws to defeat evil for good
 
 contents:
-- @TODO:XX short stories about ways you can group and sort things (to reach common goals)
+- 10 short stories about a secret organization that collaborates to save the world without anyone knowing
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 - Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
 
 level: 1
 language: "EN"
-subject: "Mathematics"
-categories: ["sorting", "grouping"]
+subject: "Social"
+categories: ["cooperation"]
 
 ---
 
-The Sort Stork has an important job. They live in the cloud palace and have to sort all the letters and packages coming in. Important letters for kings, of course. Even more important love letters. And once in a while, an urgent package that contains a baby to be delivered.
+This is a **bundle of 10 short stories** (or "chapters"). Each story is short and can be read standalone, but when you read them all (in order) you get a bigger connected story.
 
-But the villainous Chaos Cat works against them, because they don't want a specific letter to be delivered. Follow the Sort Stork as they sort and group letters in all sorts of ways, trying to do their work despite the chaos!
+The story talks about two worlds---neighbors. One of them has a very strange law that _requires_ you to work together on everything. Tying your shoelaces? Someone else needs to provide the second hand. Cycling to school? They only build bicycles for at least two people in this world.
 
-This story is split into **@TODO:XX chapters**. Each chapter is written to be as standalone as possible, so you can read _one short chapter_ to your Apprentice(s) at a time. See it as many short stories combined into one bundle.
+Perhaps in response, the other world has the opposite law. Working together is _forbidden_. You can only trust yourself, and everyone else just gets in the way, right?
 
-It explores the idea of logically grouping items, which---combined with the previous resources on _comparing_---allows sorting as well. This isn't just a nice skill to have for games or jobs, but an essential logical skill to finetune. All day, every day, we're constantly making good decisions and logical snap judgements because we were able to see patterns ("group alike things") and set priorities ("this task is more important than that task"). 
+We follow a bunch of unexpected heroes scattered across both lands: _The Crackel Collective_. They must stay in the shadows, stay a secret, because they're breaking those laws. But they know something dangerous is coming and need to work together to stop it.
 
-That's why we wanted to devote a unique fairy tale to this concept, practicing the skill and showing ways to apply it in practice.
+These stories explore the power of cooperation and teamwork, when to try something on your own and when to ask for help, and more. Have fun!
+
+{{% remark %}}
+As the cover already illustrates, there's a theme of cookies and other doughy snacks running through this story. The word "crackel" is based on the Dutch word for a "small, sweet pretzel", which is "krakeling". It just sounded too nice, even alliterating with _collective_, not to use it!
+{{% /remark %}}
