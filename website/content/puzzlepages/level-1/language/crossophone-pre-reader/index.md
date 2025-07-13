@@ -58,6 +58,6 @@ As expected, this is for _pre-readers_. All clues are given using clear, simple 
 
 {{% example %}}
 Most kids, for example, passively know a word like "wagon". But it will take a drawing, and some hints as to what phonemes to use, to "remember" it. Nevertheless, some guidance from a Guardian as they puzzle is certainly recommended.
-{{/ example %}}
+{{% /example %}}
 
 We are very proud of this unique puzzle we invented. It's definitely a _puzzle_ that challenges you and makes you grow. But it's also definitely doable for young kids learning about phonemes for the first time, because the grids are small, the images simple, and the fact their words cross over gives many (many) _hints_ as you try to solve it.
