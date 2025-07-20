@@ -5,17 +5,6 @@
 # Specific Fixes
 
 
-# ON TABLET
-
-* Extra metadata icons (frames 30-33)
-  * [customizable] desc = "Whether the experience is MEANT to be customized. (All our products CAN be customized.)"
-  * [interactive-media] desc = "Whether the experience plays interactive media (audio/video) or has an interactive program (file) to open."
-  * [multiplayer-mode] desc = "Whether the experience is competitive (against each other), cooperative (working together), or something else entirely."
-  * [activity-structure] desc = "The overall structure of actions/turns in this activity. (Turn-based, simultaneous, real-time, ...)"
-  * MAYBE need to change the changed metadata (paper-fixed, guardian-cant-play, single-use, ...)
-* FIX: Alfables Part IV => Image still says "Part III", fix that
-* FIX: Jigsaw Puzzlepack has wrong empty page order (after circle there are 2, which means there is NONE after pentagon/hexagon)
-* FUTURE: Make thumbnail images LARGER+HIGHER QUALITY
 
 
 ## Systems To Build
@@ -38,6 +27,7 @@
 
 # Niceties/Future To-Do
 
+* WEBSHOP JS FIX: If no buy button, the image carousel also doesn't show---only first header image. Is this bad?
 * LIBRARY
   * Add table-of-contents / breadcrumbs / links-to-other-articles to the individual articles
   * Make the overview page (`/info/library/`) look a bit more detailed and usable.

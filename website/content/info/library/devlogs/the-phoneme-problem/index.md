@@ -1,4 +1,6 @@
-# The Phoneme Problem
+---
+title: "The Phoneme Problem"
+---
 
 When I was setting up this online store, I basically moved in cycles of "big breakthroughs" followed by "oh no another problem". Once in a while, I'd work on some new topic, and then I'd realize that there was a much _better_ way to do it. I would have gained so much experience creating resources for this topic, that I suddenly saw the light and realized a much more clever and effective way to do something.
 
@@ -11,6 +13,8 @@ As the title of this article suggests, this happened again when I worked on my r
 The science is clear: starting with phonics is by far the most effective way to learn language. Most educational programs agree on this too, and they have a pretty solid order in which to explain the different parts of (the English) language. As such, I knew I needed a good resource on phonemes. In Level 1, at least, I wanted to start with those first one or two steps on this ladder. Just the simplest and most common sounds and that's it.
 
 But when it came time to make this, I suddenly realized I'd overlooked something massive.
+
+## Phonemes for Pre-Reader vs Reader
 
 Almost all existing resources on phonemes are meant for _readers_. They were meant for children who had just learned the letters of the alphabet, and now had to learn what _sound_ specific letters and letter combinations made. (Example: "The CH together makes the TSJJ sound, as in CHAIR.") I could barely find anything about phonemes for _pre-readers_. Which was, you know, the part where I actually intended to put the resource and think it is most valuable.
 
@@ -31,6 +35,8 @@ I was overwhelmed by this for a few hours, until I started making some sense of 
 Why not do the same for phonemes?
 
 If I dedicate one full page to each phoneme, I can do ~15 of the most common ones in one resource. Without bloating the page count or creating a massive amount of work for me. The remaining phonemes can then be done, in the same way, in a second resource in this category.
+
+## Creating Phoneme Posters
 
 Now, of course, people have done this before. Once I knew what to search for, I could find images like that. But they made small posters for _readers_, as I said, instead of _pre-readers_. Posters that showed "look, these letters combined usually make this sound". 
 
@@ -59,6 +65,8 @@ After some trial and error, I decided to do what most board games do: explain th
 I also decided to include Elkonin Boxes, which simply means you place disks in boxes for every syllable/phoneme you hear. These are explained at the start of the resource too (before you get to the posters), because it's a _tool_ you can use whenever wanted. It helps kids count who can't count yet. It's popular in schools, so I wanted to at least mention and support it.
 {{% /remark %}}
 
+## Keep It Simple and Split Projects
+
 What about the other things to explain? I decided that this resource was now full enough and could only handle _one_ extra thing. So I decided to end with an "explainer" on stressed/unstressed and then explain the "Schwa". It's by far the most common sound, because almost all unstressed vowels are pronounced like that. It's too important to leave out here.
 
 But everything else was moved to the _second_ resource on phonemes. Which would include some ~15 more posters too. I purposely moved any voiced/unvoiced sounds to that one, so it didn't need to be explained in the first one.
@@ -69,18 +77,31 @@ But it still left me with one final issue.
 
 I planned this as one small resource worth maybe 5 euros. Now I had two resources that were full of incredibly valuable work and a staggering number of posters/images/helpful tools. Do I raise the price? Should I split it into even more separate resources? Am I trying to do _too much_ for pre-readers now?
 
-I'm very good at asking myself all those kinds of questions, and doubting what I'm doing. After all those years, I _think_ I've found a nice balance between self-reflection and just being confident and making the thing. I _think_ I have the experience teaching and creating to create something that truly takes education a step further.
+I'm very good at asking myself all those kinds of questions and doubting what I'm doing. After all those years, I _think_ I've found a nice balance between self-reflection and just being confident and making the thing. I _think_ I have the experience teaching and creating to create something that truly takes education a step further.
 
 This Phonics topic, though, was surely one of the thoughest challenges in a while. I think I have exactly the right level, right amount of challenge, and right amount of usefulness to pre-readers now. I think my work here is unique and valuable enough to warrant its existence and price tag.
 
 But I might be wrong---users of my work are always free to let me know their feedback.
 
+Well, as I just explained, the new plan was to make two resources: 15 posters in the first one, 15 posters in the last one. A bunch of extra exercises and activities would be added to the second resource. Because, well, you can't really test if you know all the phonemes if you haven't actually seen all the phonemes yet!
+
+_However_ ... my computer is old and bad and slow. It was lagging so much, it crashed a few times, and I knew it just wasn't possible to add the exercises to that file anymore. I decided to split them off, and a funny thing happens as soon as you reprogram your mind to say "this will be a new document/separate project". That fresh new document suddenly yields more ideas and makes you feel like you have to do _more_. Because it feels silly to add an extra PDF to that resource with just ... 4 pages.
+
+And so I spent far more time and effort on the exercises and activities about phonemes. It became a 12-page PDF---and the editing document also started lagging by the end ;) This was more than enough to publish it as a _separate_ product, which is how the _phoneme awareness_ topic ended up having 3 resources anyway. But that third resource teaches nothing---it's really just _testing_. Exercises and activities/games. As such, I kept the old messaging that the phonemes were split into _two_, because this third product was completely optional and just a sort of "final test if you want it". (Which is also why I called it _Phoneme Phinals_, instead of the original name _Phoneme Pheast_.) 
+
+All in all, this meant my planning was delayed even further as way more time was put into this topic. But it was simply the right thing to do. The resources I ended up with are very strong, pretty, and complete. Much better than my original plan for phoneme awareness, much more effective and useful. It also taught me many lessons to take with me once I start creating the _alphabet_ resources, because those will be roughly the same thing: split into multiple parts so I don't have to teach 26 letters at once, which is always a bad idea. Thanks to the explosion of phoneme work, I at least know what to expect (in terms of time/resources/effort needed) going into Level 2 Language.
+
+## Conclusion
+
 Finally, putting in so much work always has an extra side-effect: I end up with _more ideas_ for the other factions. I initially only planned a single puzzle and a single Explorers story (at most a few pages long) about phonemes in general. By the time the Teachers were done, this was suddenly a large list of puzzles, games, and stories ;)
 
 If there's one thing I learned (again), it's that I should not expect my vague initial ideas to stay the same. Or make any sense in terms of planning. Every time I dove into some topic, I always found _more_ to explore, to teach, to take into account. I found _more_ ways to teach the topic in ways that are hopefully clever, creative, and fun, and not being done by anyone else. Phonemes are just the latest example of that.
 
-I hope this explains why I have _two_ Phonemes resources in Level 1, for Pre-Readers. And then more Phonemes(-related) resources again in Level 2. They are different in a crucial way: the Level 1 gives you awareness of sounds, how to make them, how to manipulate them into words you know. Level 2 then _attaches_ those sounds you're already familiar with to letters of the alphabet (which you're learning at the same time).
+I hope this explains why I have _three_ Phonemes resources in Level 1, for Pre-Readers. And then more Phonemes(-related) resources again in Level 2. They are different in a crucial way: the Level 1 gives you awareness of sounds, how to make them, how to manipulate them into words you know. Level 2 then _attaches_ those sounds you're already familiar with to letters of the alphabet (which you're learning at the same time).
 
-Or, in other words: double the resources, more work for me ;)
+Or, in other words: triple the resources, more work for me ;)
 
 I hope this was interesting to read. I'll be creating the _My First Stories_ resources now, which should finish _all_ of Language Level 1!
+
+
+

@@ -14,6 +14,20 @@ All product descriptions **rhyme**. (They are short, personal, distinct and writ
 
 Of course, don't forget LAWS 0, 1, 2 and 3 described on the about page.
 
+
+
+ABOUT FIGURING OUT TRAJECTORY OF WEBSHOP BUSINESS:
+* What do customers hate about this industry/experience?
+* What are your competitors unwilling to do?
+* What is a problem that breaks your heart?
+* What assumptions are you taking as given?
+* What do you believe to be true that others don't see?
+=> "What would I do if I knew I wouldn't/couldn't fail?"
+=> You have more chance of achieving an aspirational goal than a moderate/modest/half-in-half-out goal. ("It's not a winnable game, if you're not Excited to Win the Game")
+=> Most rules aren't rules, scale your bright spots, work with people you admire.
+=> "A winnable game is a game that you can win, you want to win, and that you're excited to play..." => Winnable games aren't found, they're designed.
+
+
 ## Design
 
 @TODO: Write a bit more specific specs about this

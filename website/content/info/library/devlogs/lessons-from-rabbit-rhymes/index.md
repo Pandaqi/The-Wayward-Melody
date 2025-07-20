@@ -1,6 +1,8 @@
-# Lessons from Rabbit Rhymes
+---
+title: "Lessons from Rabbit Rhymes"
+---
 
-My game [Rabbit Rhymes](@TODO: Link) started its life as a simple, tiny idea. The final product I wanted to make for my Level 1 (pre-reader) topic about "rhyming". I had already drawn all those images, even created a bundle of "rhyme pair cards", and I thought: I can simply use that for a small game.
+My game [Rabbit Rhymes](/gamiverses/level-1/language/rabbit-rhymes/) started its life as a simple, tiny idea. The final product I wanted to make for my Level 1 (pre-reader) topic about "rhyming". I had already drawn all those images, even created a bundle of "rhyme pair cards", and I thought: I can simply use that for a small game.
 
 The original idea I wrote down was just a few short lines: "On your turn, start a new pair or finish one. If you finished a pair and RHYME, your bunny moves in ONE WAY. If you don't, your bunny moves in SOME OTHER WAY."
 

@@ -72,7 +72,7 @@ Remember why we do this: to help children learn new skills and grow. The questio
 
 Recognize and discriminate sounds, Listen to and repeat stories, First Vocabulary, First Syllables, First Alphabet, Challenges like rhyming or naming first/last word in a short sentence.
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-1/my-first-sounds/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/my-first-sounds/).
 
 {{% /section-foldable %}}
 
@@ -80,7 +80,7 @@ Recognize and discriminate sounds, Listen to and repeat stories, First Vocabular
 
 Recognition & Discrimination, Comparison (more/less, smaller/larger) which leads to Sorting/Contrast/Grouping (without counting), First Shapes, First Colors, Count to 10, Recognize and name numbers 1--5, First introduction to numerical patterns in life (such as seasons)
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-1/recognition-and-discrimination/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/recognition-and-discrimination/).
 
 {{% /section-foldable %}}
 
@@ -88,7 +88,7 @@ Recognition & Discrimination, Comparison (more/less, smaller/larger) which leads
 
 Habits and routine (such as "you have to go to school (except weekends)"), Taking turns, Trying something new
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-1/habits-and-routine/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/habits-and-routine/).
 
 {{% /section-foldable %}}
 
@@ -98,7 +98,7 @@ Anything that challenges gross and fine motor skills. Common activities are: cut
 
 The need to be physically active is true for everyone, though, for their entire life. So it won't be mentioned again.
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-1/my-first-motor-skills/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/my-first-motor-skills/).
 
 {{% /section-foldable %}}
 
@@ -146,7 +146,7 @@ This also combats the issue of "rote memorization". The real world throws endles
 * Recognize letters and sounds, Write/read own name, Listen and speak for longer periods, Combine words into larger whole, More Vocabulary
 * Read short texts, Write lowercase, Write really simple texts, Conversation/Opinions, Spelling pure sounds ( = words that sound exactly like you write them), More Vocabulary
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-2/my-first-letters/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/my-first-letters/).
 
 {{% /section-foldable %}}
 
@@ -155,7 +155,7 @@ This also combats the issue of "rote memorization". The real world throws endles
 * Count, recognize and name to 20, Compare and sort quantities up to 12, Simple add/remove/split elements up to 12, Complex Shapes/Colors, Telling Time, Units (e.g. length, weight)
 * Count to 100, actual addition/subtraction up to 20, Doubling and Halving, Measuring, Money, Automation ( = repeating math tasks until they are second nature)
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-2/my-first-addition/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/my-first-addition/).
 
 {{% /section-foldable %}}
 
@@ -164,7 +164,7 @@ This also combats the issue of "rote memorization". The real world throws endles
 * Prolonged focus or work (includes working through challenges), Playing/working together, Emotions, Do tasks independently
 * More working together and taking others into account, first consciousness about self and self image (still hard to empathize with others)
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-2/world-of-who-am-i/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/world-of-who-am-i/).
 
 {{% /section-foldable %}}
 
@@ -173,7 +173,7 @@ This also combats the issue of "rote memorization". The real world throws endles
 * X
 * Traffic rules, Religion (mostly events and names), Nature (mammals/birds/fish; food chain; seasons; body; magnetism; moon/sun; health; climate), Geography (maps, your own home, weather, towns vs cities), History (work and leisure, now and then; jobs; hierarchy; knights and castles; middle ages; first vehicles; world wars; moon landing; role of modern media; multicultural)
 
-![Explore the first Teaching Resource in this topic!](/teachers/level-2/??/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/??/).
 
 {{% /section-foldable %}}
 

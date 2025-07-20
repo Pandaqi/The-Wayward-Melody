@@ -6,7 +6,7 @@ price: 9.95
 date: 2025-02-18
 image: ["the-noisy-games-header.webp", "the-noisy-games-screenshot-1.webp", "the-noisy-games-screenshot-2.webp"]
 file: "@TODO"
-spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phantasy-phonics", "my-first-letters"]
+spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phoneme-awareness", "my-first-letters"]
 description: | 
   How do you play a language game
   With people who don't know the alphabet yet?

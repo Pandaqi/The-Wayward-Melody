@@ -241,9 +241,7 @@ A **board game**, for example, needs even more. Rules that are succinct, streaml
 
 **In short,** for 99% of the projects we do, AI is useless anyway. Whenever it's a great _tool_ to save time and get better results, we will probably use it. We've used it most in our earliest projects. Once the store launched and earned income, and we realized we sometimes lost that joy of _creation_, we scaled that back even further.
 
-Does that answer your question?
-
-<!--- @TODO: Maybe expand this into a full ARTICLE instead? --->
+Does that answer your question? (You can read about AI in more detail, and more context, in our article about [our creative process](/info/library/wisdom/our-creative-process/).)
 
 {{% /section-foldable %}}
 

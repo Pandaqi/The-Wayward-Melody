@@ -6,7 +6,7 @@ date: 2025-04-26
 price: 9.95
 image: ["the-triksy-translator-header.webp", "the-triksy-translator-1.webp", "the-triksy-translator-2.webp", "the-triksy-translator-3.webp"]
 file: "@TODO"
-spell: ["phantasy-phonics", "phonemic-fun"]
+spell: ["phoneme-awareness"]
 description: | 
   Alien creatures landed on our lands
   They spoke weird words, and waved three hands

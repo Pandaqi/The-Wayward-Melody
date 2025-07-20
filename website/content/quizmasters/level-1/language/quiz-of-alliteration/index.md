@@ -3,6 +3,7 @@ type: "product"
 title: "Quiz of (Amazing) Alliteration"
 id: "quiz-of-alliteration"
 date: 2025-06-26
+free: true
 price: 0.00
 image: ["quiz-of-alliteration-header.webp", "quiz-of-alliteration-1.webp", "quiz-of-alliteration-2.webp", "quiz-of-alliteration-3.webp", "quiz-of-alliteration-4.webp"]
 file: "b18408e1-caee-470b-91d7-909b7d1bdcc9"
