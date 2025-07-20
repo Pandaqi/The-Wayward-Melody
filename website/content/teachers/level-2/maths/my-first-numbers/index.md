@@ -30,7 +30,7 @@ contents:
 - Domino (Number) Matching Game
 - Time Patterns (express known events like seasons and day/night with numbers)
 
-level: 1
+level: 2
 language: "EN"
 subject: "Maths"
 categories: ["numbers", "counting"]

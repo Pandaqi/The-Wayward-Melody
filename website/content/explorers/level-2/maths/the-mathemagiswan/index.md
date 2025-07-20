@@ -6,7 +6,7 @@ date: 2025-04-26
 price: 9.95
 image: ["the-mathemagiswan-header.webp", "the-mathemagiswan-1.webp", "the-mathemagiswan-2.webp", "the-mathemagiswan-3.webp"]
 file: "@TODO"
-spell: ["my-first-numbers", "numbers-up-to-10"]
+spell: ["my-first-numbers"]
 description: | 
   The Mathemagiswan has some special tricks
   Every number has a special power to it
@@ -19,7 +19,7 @@ contents:
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 - Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
 
-level: 1
+level: 2
 language: "EN"
 subject: "Mathematics"
 categories: ["numbers"]

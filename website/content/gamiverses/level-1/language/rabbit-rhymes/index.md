@@ -8,10 +8,10 @@ image: ["rabbit-rhymes-header.webp", "rabbit-rhymes-1.webp", "rabbit-rhymes-2.we
 file: "446ef455-fe24-43d5-9d26-27d698e990a3"
 spell: ["rhyme-and-alliteration"]
 description: | 
-  How do you play a language game
-  With people who don't know the alphabet yet?
-  The Noisy Games give the answer
-  Is it simple, educational, and fun? You bet!
+  A physical game
+  That has kids hopping like bunnies
+  As they rhyme with locations
+  And take shortcuts jumping over fences
 
 contents:
 - Rulebook for the game (1 page base game, 2 page expansions)

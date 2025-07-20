@@ -9,7 +9,7 @@ file: "@TODO"
 spell: ["my-first-letters"]
 description: | 
   How do you play a language game
-  With people who don't can barely read yet?
+  With people who can barely read yet?
   Shufflespeak gives the answer
   Is it simple, educational, and fun? You bet!
 
