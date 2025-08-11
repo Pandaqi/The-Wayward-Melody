@@ -1,245 +1,92 @@
 ---
-title: "The Weasels Who Weaved"
+title: "Out Of Words"
 weight: 30
-shape: Rectangle | Trapezium | Parallellogram
 ---
 
-# The Weasels Who Weaved
+# Out Of Words
 
-King Triangle had a problem. The animals of Shapesong didn't like his new rule. He had hoped that everyone would just, you know, become a Triangle for him. That they would love Triangles as much as he did.
+The wolves formed a pack, which was large and scary to bunnies like Liza. But as they approached the aliens, they didn't look so scary anymore. There were far more aliens than wolves. And they had their machines, which they were working on. 
 
-They did not.
+Still, the wolves bared their teeth and said: "Stop attacking us, or we will attack you!"
 
-And so he needed to impress the animals. He was hosting a parade. A word which here means slowly walking through the city, while everyone claps their hands, and says things like "Long live the king!" 
+The creatures just stared. They couldn't understand anything of that. They kept walking around the clearing as if this was their new home now, although they wisely kept their distance from the wolves.
 
-For that, he needed new clothes. His old jacket had too many pockets that looked suspiciously Square! And a flag that looked like a Rectangle! That wouldn't do. He couldn't sleep until _everything_ about him was a Triangle.
+Vluuk ran into the clearing too. "You silly wolves! They don't understand you. That's why you need _me_! I will translate."
 
-And so he sent a message into the world. The finest clothesmakers had to come to him.
+"Will you?" asked Liza. "Or are you just---"
 
-That same night, only hours after sending the message, three weasels knocked on the wall. They would've liked to knock on a door, but they couldn't. Most of the castle was still broken after the explosion. They had only rebuilt the Throne Room so far. And it had been quite difficult to build it only from Triangles.
+"Do you want me to go away?" said Vluuk. "I can go home right now. And you will _never_ be able to understand those aliens! Think about that!"
 
-"Well, that was quick," said King Triangle. "_Very_ quick."
+The animals thought about that. And they didn't like it. It was hard to communicate with someone who didn't speak your language. And if you couldn't talk, the world was very boring, and, if you were unlucky, lots and lots of problems would never be solved.
 
-"We ... happened to be nearby," said the first weasel, who was shaped like a Rectangle.
+"Thank you," said Vluuk. "I will tell them to leave now."
 
-"We're the best weavers you can find," said the second weasel, who was shaped like a Trapezium.
+He turned to the aliens and spoke loudly.
 
-"Some have called our clothes ... magical," said the third weasel, who was shaped like a Parallellogram.
+"BOOV NOOW! BOOV NOOW!"
 
-King Triangle narrowed his eyes. "Wait a minute. You're not Triangles! How _dare_ you come here! Throw them in the dung---"
+Something didn't sound right about that, Liza thought. It sounded too ... similar. All his translations were very much the same. As if he'd swallowed a cow and it tried to get out.
 
-"But sire," said the first weasel calmly. "Don't you know?"
+He stepped closer and whispered the rest of his translation. When he was done, the aliens waved to the wolves.
 
-"Know what?"
+"Are they leaving? Did they understand?" asked one wolf, hopeful.
 
-"A rectangle is just _two_ Triangles. Combined! So I am not just a Triangle, I'm a _double_ Triangle!"
+"I'm afraid not," said Vluuk.
 
-"So is a Parallellogram," said the third weasel. "Just two different Triangles combined."
+The aliens left the clearing, but not because they were leaving the planet. They gathered all their food, money, and even one spaceship ... and they gave it to Vluuk.
 
-"Hmm. And the Trapezium?"
+"Oh! Well. What an honor," said Vluuk, accepting all these gifts. "They like me _so much_. They want me to be their king."
 
-"Even better, sire!" said the second weasel. He had a bright smile and a cheerful voice. "I am _three_ Triangles combined!"
+The aliens bowed for him. They broke off a piece of a spaceship and molded it into a crown, which Vluuk hastily put on his head.
 
-King Triangle studied them for a while. The guards stood ready to haul them to the dungeons.
+"Animals of the forest, would you like me to be your king too?"
 
-"Very well then," said King Triangle. "Show me how good you are. Show me the prettiest clothes you ever made."
+The animals were stunned. They didn't know if it was a joke ... or if they had to crown Vluuk king right now. He was the _only_ translator they had. He was the _only one_ who could make the aliens calm down.
 
-"We already did," said the first weasel.
+They weren't leaving. But, well, with Vluuk as king, they seemed much friendlier. Sure, they stole their food and their home, but they _gave_ them to Vluuk.
 
-"Excuse me?"
+"As long as you tell those aliens to behave," said a wolf with a growl. The other animals accepted this too.
 
-All the weasels frowned. "Can't you see?"
+"No!" yelled Liza. She hopped over everyone's head to land right next to Vluuk. "Don't you see? He's not a _real_ translator! He's tricking you!"
 
-"See ... what?" King Triangle shifted on his throne. Uncertain. Narrowing his eyes until he might as well just shut them completely.
+"My my! How dare you!" said Vluuk, playing with his new crown. "Do you have any ... proof? Go on. Talk to those aliens right now, show us that you can translate too."
 
-"We're wearing our clothes right now!" said the first weasel.
+Liza bit her lip. Which bunnies did very often, of course, but this time was much worse. She knew a few words, thanks to the one alien who was friendly to her. But actually talk to them? No, it was too soon. She didn't understand the language.
 
-"But they're magical, remember?" said the third weasel. "Only very smart animals can see them."
+She only knew what Vluuk was doing. The trick he was using.
 
-"Ah. Ah yes. Sure." 
+"Remember his last translation?" asked Liza. "_BOOV NOOW_?"
 
-King Triangle left his throne and circled the weasels. They weren't afraid of him. They stood tall and proud, showing their shapes with four corners. They couldn't be lying to him, he thought. Nobody would dare.
+The animals nodded.
 
-But that meant ...
+"What did you ask him to translate again?"
 
-"Now that you mention it," said the King. "Yes, yes, I see it now! Such pretty clothes. You are truly great weavers."
+"I asked him to tell the aliens to leave now," said a wolf.
 
-"Thank you sire," said the second weasel. "That means a lot to us humble weasels."
+"_Leave Now_, yes," said Liza. "Sounds a lot like BOOV NOOW, doesn't it?"
 
-King Triangle thought about it. He didn't care if dumb animals didn't see it. He cared about the smart animals! They had to like him, and agree with him. The smart animals could then convince the dumber animals to become a Triangle too. Yes, that was a smart plan. Very smart.
+"Our languages are similar," said Vluuk. He waved his arm, making his brown clothes flap in the wind, as if to throw away Liza's story. 
 
-The fact that _he_ didn't see the clothes ... well, that was probably just an accident. He'd try again tomorrow, when his eyes weren't so sleepy. You're always smarter after a good night's sleep.
+"And what about yesterday?" asked Liza. "When you asked Vluuk about how to _earn their trust_. What was the translation?"
 
-The King took several large bags of gold from behind the throne. He gave each weasel one bag. "You have the job. Make me the prettiest clothes, fit for the best king ever!"
+Several animals realized now. Their expression went dark, as if they suddenly remembered something terrible that was done to them.
 
-"Our pleasure," said the weasels together. They bowed as if they were one long animal.
+"_BOORN TROOST_," said Liza. "Vluuk isn't translating! He's just replacing some sounds with _'OO'_, and sticking a _'B'_ at the front!"
 
-___
+The animals realized she was right. Every translation Vluuk had done, had started with that 'B'. And they all sounded like cows because of the 'OO' sound replacing all the vowels.
 
-The weasels were hard at work inside the castle. Their work was so important that they had an entire room to themselves.
+"Nonsense!" yelled Vluuk. "I just kept the translations ... simple. For you. Ask me to translate something else. I will show you!"
 
-They had also received one spinning wheel each. It was a simple machine that allowed them to combine single threads into larger cloth. It was a necessary tool in any weaver's toolbox.
+"Okay," said Liza. She needed to make Vluuk do something impossible! Something the aliens would never understand! "Tell the aliens to hop like a rabbit."
 
-Or, well, any _normal_ weaver would use it.
+Vluuk's eyes went wide and he plucked at his clothing. He made some gestures towards the aliens, then seemed to calm down.
 
-The three weasels just pretended to use it. They'd turn the wheel round and round---but never attached any cloth.
+"Fine. Listen."
 
-At the end of each day, the King wanted to see the progress. 
+He turned to the aliens and said: "HOL PAIK T YTBIA!"
 
-"Ah. Yes. Very good. You're making good progress, I see," said the King.
+The aliens ... started hopping around like bunnies. They were quite good at it, too. Maybe bunnies and aliens came from the same grand-grand-grandparents.
 
-"Indeed," said the Rectangle weasel. "Our magical method is very good."
+This convinced all the forest animals. They walked away from Liza and went home. They returned to give all their food to Vluuk, and bow before their new king.
 
-"We could even make multiple clothes, if you want," said the Trapezium weasel.
-
-"That sounds like a good idea," said King Triangle. "But first ..."
-
-He turned around and yelled into the hallway. Soon enough, a servant entered the room.
-
-"Dear servant, can you see the clothes on this table?" asked the King.
-
-The servant, a Triangle penguin, frowned. He blushed.
-
-"It's alright," said the King with a smile. "Only smart animals can see it."
-
-"Oh. Oh, no, I was just ..." The servant walked to the table and pretended to touch the clothes. "I fell silent because I was _so_ impressed by the beauty of these clothes! They will look fabulous on you, sire."
-
-King Triangle grunted. "Yes. Thank you. You may go."
-
-"You have very smart servants," said the Parallellogram weasel. He could barely hide his grin.
-
-"Hmpf." King Triangle yelled into the hallway again. A little later, Prince Circlesnake entered the room.
-
-"Can you tell me what's on these spinning wheels?" asked the King.
-
-Prince Circlesnake was in the Throne Room a few days ago. He was the one who let the weasels inside the castle! And so he'd heard about the clothes, and knew just how to respond. "They hold the most beautiful, magical clothes you could ever dream of! Whatever you paid, father, it was worth it!"
-
-"Hmpf. Yes. Thank you. You may go."
-
-The King looked at empty spinning wheels, and a very empty table. He touched the table. He pretended to pick up his clothes and try them on.
-
-He felt silly. Was he _really_ dumb? What was going on? Maybe he would see the clothes when they were _finished_.
-
-"If you want us to make more, sire," said the Rectangle weasel, "we'll need more silk and money."
-
-"Yes, yes, you'll get it. Just make sure I look like the best Triangle ever during the parade."
-
-Not long after, the servant threw more bags their way. The weasels pretended not to notice. Just like they pretended to use the spinning wheels, and gave each other instructions like "you have to hold the flubbinator more tightly!" and "don't upset the clubbelubber or you'll break it!" It sounded like gibberish to the servant---because it was.
-
-He lingered just long enough to ask: "Is it okay if I _can't_ see the clothes?"
-
-The weasels smiled. "Yes, don't you worry. You're smart enough. Our clothes are only visible to the absolute smartest of the smartest."
-
-The servant left, satisfied with the answer. What he didn't see, however, was Prince Circlesnake hiding in the hallway.
-
-The weasels continued for a few more hours. They counted the money in the bags. They loudly said things like "don't overlork the spinning wheel!" and "that color needs more tibbletabble!"
-
-Then they went home.
-
-And Prince Circlesnake followed.
-
-He chased them through the winding streets of Shapesong. Into dark alleys. Past moon-lit parks. All the way to the edge of the city.
-
-There, the weasels stopped before a tree. It had Shaeprints of a Rectangle, Trapezium and Parallellogram.
-
-With their teeth, they quickly cut a few coins into the right shapes. They filled the holes of the Shaeprints. 
-
-The tree _fell down_ and revealed a hole.
-
-The weasels jumped into their secret hideout. Prince Circlesnake rolled as fast as he could, and barely got in too.
-
-Laughing. Loud, unhinged _laughing_. The weasels were not alone. It sounded like at least ten voices, all laughing.
-
-"The King is _so_ stupid!" yelled the Rectangle weasel. "Our plan worked ten times better than expected."
-
-"Don't celebrate too soon," said a voice from the dark. "We still need to survive the parade."
-
-"Oh, it'll be fine. Look at this! Have you ever seen this much gold?"
-
-"And this much expensive cloth?"
-
-"We'll give most of it to the Piqarine Painter," said the voice. He thought he recognized it, but didn't know from what. "We'll keep the rest ourselves."
-
-Prince Circlesnake had seen enough. These were _criminals_! They were _so_ busted! Their clothes weren't magical at all, as he suspected. He would have arrested them all right now if he could. But he was only one spy, against ten strong animals.
-
-He silently crawled out of the hole.
-
-As he rolled back to the castle, he knew one thing. King Triangle would never listen to him. If he told him now, he'd say the Prince was _dumb_ and just couldn't see the clothes.
-
-No, he had a better plan to reveal the truth.
-
-___
-
-The parade had started. It was a sunny day, and everyone was on the streets. Well, everyone who was a Triangle, of course. They cheered for King Triangle, applauding him, asking for a handshake or a signature. All the other shapes stayed away; they hated King Triangle.
-
-Inside the castle, the weasels presented their clothes.
-
-"For you, sire. They are the prettiest clothes we ever made," said the Rectangle weasel.
-
-"See those patterns? It's a new invention by us!" said the Trapezium weasel. "There must be a thousand Triangles on your clothes. They combine into Rectangles, and Trapeziums, and Parallellograms. Like a song!"
-
-"We're sure nobody ... has ever seen something like this," said the Parallellogram weasel.
-
-The King accepted empty air. He took off his own clothes, then pretended to put on the magical clothes. Was he doing it right? If he couldn't see it, how did he know he hadn't put it on inside out? Put the left sock on the right foot?
-
-He had to trust the weasels. They gave instructions, like "no the zibbledip goes on your back!" and "put your left arm through the red sleavypeevy!" Until the smiled, nodded, and told him he was ready.
-
-"You weavers have made me proud," said King Triangle. "I used to know a Rectangle like you, once. A good friend of mine. Or that's what I thought---he turned out to be a mean guy. I put him in the dungeons."
-
-"How so?" asked the first weasel.
-
-"I was only a wee little Triangle then," he said. The King looked at himself in the mirror one final time. And he saw a naked King about to walk outside. "And I was playing sports with my best friends. But whatever I did, I couldn't get the ball into the goal! Because my Rectangle friend was larger than the goal. He blocked everything! I could never score!"
-
-"Ah yes. That is ... certainly bad enough to put him in the dungeons," said the second weasel.
-
-"That's what I said! Anyway, let's go. The crowd is waiting!"
-
-The guards stepped aside. The road lay ahead of them, with Triangle animals on either side cheering him on.
-
-As soon as the King stepped outside, the cheering died. A naked King Triangle paraded through the streets. And the whole city was there to watch. In terrified silence.
-
-"Is this how you greet a king? Who wears such fine clothes?" said King Triangle indignantly. A word which here means that he believed he _should_ receive cheers and applause, or you would go to the dungeons.
-
-They started clapping again. They complimented his clothes. _Such beautiful colors. Is that magical silk? Wow, that must have cost a fortune._
-
-King Triangle smiled. He loved the love. He adored the adoration. Surely, everyone would agree with him now? They saw how _great_ Triangles were, and---
-
-Prince Circlesnake appeared. He had fought his way through the crowd, and could almost touch his father.
-
-"Are you all _blind_!?" he yelled. "The King is naked! _Naked!_ We can all see it!"
-
-"Son!" roared the king. "Be silent _right now_ or I'll---"
-
-"We can all see it," agreed those around him.
-
-"The King is naaaaaked," a few children started singing. "The King is naaaaaked."
-
-"It's not your fault, father," said the Prince, taking his hand. "Those _weasels_ are criminals! They tricked you!"
-
-He bared his poisonous fangs. He unrolled his snake body and pointed, with his tail, at the weasels standing near the castle.
-
-"Arrest them! Now!"
-
-Triangle guards did their attack move: pointy end forward, charging at the weasels. They were surrounded. With scared eyes, they surrendered, and the Prince had stopped any rebellion before it---
-
-"No! Leave them alone!" said King Triangle. "My son is lying. _He_ is the blind one. I am wearing beautiful clothes, and if you can't see them, you are just too _dumb_."
-
-Everyone froze. The guards kicked some stones instead to unleash their anger, then stepped away from the weasels.
-
-"Now let's continue the parade. Cheers! Applause!"
-
-Prince Circlesnake was pushed away by the crowd. Defeated. He rolled himself into an even tighter ball than usual. His father had _chosen_ to lie about the clothes. And everyone was going along.
-
-On his way to the castle, he bumped into the weasels. They were quickly stuffing more gold into bags, then ran away.
-
-"I will get you! One day!" yelled the Prince after them.
-
-The rest of the day, a naked King Triangle paraded through the streets. And everyone loved him. Everyone complimented his amazing clothes. And when he got home, he had never felt more kingly.
-
-He only whispered one thing to his son: "I know you're not blind son. But we're never going to admit that to anyone, are we? _Are we?_ And from now on, Rectangles, Trapeziums and Parallellograms are _not_ made of Triangles. Arrest them too!"
-
-The Prince gulped. He nodded quickly and rolled to his bedroom.
-
-As for the weasels, they lived happily ever after. They ran quite a profitable business selling invisible vases and non-existing drawings.
-
-But the Prince knew what he'd seen. There was a secret rebellion fighting against his father. Trying to make him look bad, and steal his gold. He had to find it.
+Liza hopped away in anger. She was certain it was just another trick, and she would prove it.

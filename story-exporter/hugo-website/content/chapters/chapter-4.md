@@ -1,241 +1,130 @@
 ---
-title: "The Treasure of Squaro"
+title: "Translator Troubles"
 weight: 40
-shape: Diamond | Kite
 ---
 
-# The Treasure of Squaro
+# Translator Troubles
 
-They had done it! After years of searching, they had found the Treasure of Squaro! A large wooden chest stood in the middle of the cave. It glimmered in the darkness. Legends said it contained a thousand gold coins. Blue and red diamonds worth a thousand gold coins each. It was enough money to pay for whatever the Rebelshapes needed. Or, at least, it should be.
+Liza hopped around the forest until evening fell again. Beneath the moonlight, she finally found her alien buddy. It was working on its spaceship, replacing a few glass windows with wooden ones. It seemed the aliens had landed here accidentally, after something went wrong with their machines. They were hard at work fixing it, but it took too long.
 
-For when they opened the treasure---nothing was inside.
+Because, well, Vluuk was now king, and the forest had never been less peaceful and safe.
 
-"Nothing!?" yelled a crab with a Diamond-shaped body. His body was a flat Diamond, and his many pincers were sharp Diamonds too.
+She had been thinking about the alien's language for a while now. She was close to figuring it out. She must have pointed at a hundred different things and learned the alien's word for it.
 
-"Ugh! Someone else must have gotten it before us," said a bird with a Diamond-shaped body. Her wings were Diamonds too, as was her beak.
+As she hopped on top of the spaceship, a gray circle shaped like a plate or frisbee, she realized she never asked the name for that thing.
 
-"What are we going to do now?"
+So Liza pointed at their machines. And she said, slowly: "U ... F ... O!"
 
-Further down the cave, stones clattered. All the treasure hunters stared at the entrance.
+Her green buddy pointed too and said: "O ... V ... E!"
 
-A shadow appeared. Then a silhouette. Until a Star-shaped animal crawled inside.
+Wait. Hold on. 
 
-When she saw the treasure, she immediately shapeshifted into a Diamond herself.
+They had the same number of _sounds_. Every translation had the same number of sounds. 
 
-"You! You must have stolen the treasure!" yelled the crab.
+The word TREE has three sounds: T, R and EE. 
 
-"I didn't! I entered after you!" replied the intruder. She dropped a Toolbox next to her, and looked for something inside.
+What was the alien translation again? Oh, yes, it was ALIE. Three sounds: A, L and IE.
 
-"She even carries another treasure!" said the bird. "Attack her!"
+And STONE has four sounds: S, T, O and N. The alien translation had four sounds too: Z, A, E and D.
 
-"You don't want to do that," said Tessella, as she took out a large shield.
+No matter what Liza tried, the translation _always_ had the same number of sounds.
 
-The crab snapped his pincers at her. He tried to grab the shield, but it was too strong. 
+She tried something new. She pointed at a dog and said: "DOG!"
 
-The bird tried to fly over the shield, but it was just too high. She kept hitting the ceiling with her head. Which is how Tessella noticed there were _many_ Shaeprints on the ceiling of this cave. What would they do? Nobody had ever figured it out. Nobody could "read" the Shaeprints and see what magic they held. That's why you had accidents like King Triangle's castle exploding.
+The alien pointed too and said: "KEG!"
 
-"I'm on your side!" said Tessella. "I think."
+Three sounds again. Great. But also ... one of the sounds was the same! That 'G' at the end. 
 
-"Prove it!" said the crab. "Or I'll fight you---"
+Maybe ...
 
-"Oh stop it," said the bird. "The treasure is empty. We have nothing to protect."
+Maybe that sound never changed?
 
-"It's not empty," said Tessella.
+She pointed at a log, one that Vluuk tripped over yesterday. She said: "LOG!"
 
-"Are you blind?" asked the crab.
+The alien pointed too and said: "REG!"
 
-"That's the Treasure of Squaro, isn't it?" asked Tessella. She put her shield back in her Toolbox and walked towards the treasure hunters. There were eight of them. But most hadn't tried to fight her, because they were either not very strong---like a Diamond sponge---or trying to find the lost treasure.
+Woah. Wait. Hold on.
 
-"We think so, yes."
+Not only did some sounds stay the same. Other sounds were _changed_ in the same way! The "O" sound always became an "E" for the aliens!
 
-"The Diamonds inside are _huge_. You can't get them out the usual way."
+She just needed one final test to be sure. To see if the "L" also always became an "R".
 
-"What do you mean?" asked the crab.
+And so she pointed to a sheep's fur and said: "WOOL!"
 
-Tessella took another object out of her Toolbox. It was a small seesaw. She placed one end underneath the treasure, then _jumped_ on the other end.
+The alien touched the wool, hugging it for its warmth, and then said: "WAIR!"
 
-This flipped one side of the treasure into the air. It rotated, and rotated, until the Square treasure ... looked like a Diamond.
+Yes! Yes, she was right!
 
-Diamonds poured it. Golden coins rained down on the floor, finally free. Now that the treasure stood in the right shape, all its contents poured out.
+Vluuk was right about one thing too: the alien language was very similar to theirs. They just _replaced some sounds with others_. An 'L' became an 'R'. An 'O' became an 'E'. And some sounds even stayed the same, like the 'W' and the 'G'.
 
-"Bless you! Bless you, stranger!" yelled the crab as his pincers grabbed ten golden coins at once.
+It took a lot of effort to "translate". But she wanted to, and she did, and she eventually asked: "WA UL BAI HIL?"
 
-The treasure hunters produced bags out of nowhere. They filled them all, and still there was more treasure left. They pretended this was their plan all along and gave the rest to Tessella, who threw it into her Toolbox. Her never-ending Toolbox, much bigger inside than outside. It would find a place for all those coins.
+The alien jumped with joy upon hearing Liza speak its language. He giggled, and laughed, and hugged her, until he left streaks of green all over her fur.
 
-"Who _are_ you?" asked the bird. "How did you know?"
+He gave a lengthy response. It was, of course, far too much for Liza to hear or understand. But she understood _enough_.
 
-Tessella shrugged. "I've been working with shapes for a while. Repairing stuff. Plugging holes. I've had three clients before with treasure chests they thought were empty."
+_Why are you here?_ she'd asked. Well, because someone on this planet sent out a signal. A signal like singing a melody, or shining a light, such that someone else far away can still hear or see it. 
 
-The treasure hunters looked at one another. "Please, good girl, allow us a moment."
+Most of all, a signal that confused their spaceships and made them crash, which is why they were angry.
 
-All of them walked into the other corner of the cave. They huddled together, whispering. What were they doing? Making a secret plan? Why couldn't she hear it?
-
-Once in a while, someone pointed at her, and then someone else would loudly say something like "we can't risk it!" or "looks like a spy to me!"
-
-Eventually, they held a _vote_. The crab counted down. Not like humans would, dear reader, but using the Crustacean numeric system. Which only had the numbers 6, 8, and 10, as that was how many legs crab-like animals could have.
-
-Anyway, on 6, the majority of the treasure hunters raised their hand. Or tail, or wing, whatever worked.
-
-"Then it is decided!" said the crab.
-
-He turned around and approached Tessella with a smile.
-
-"We have noticed," he said, "that you are not a Triangle."
-
-"Not my favorite shape, no."
-
-"We ... are part of a ... secret organization. It has only just started, ever since King Triangle went mad. We invite you to _join_!"
-
-Tessella froze. She didn't really do, you know, secret organizations. Working together with others. She had always been alone, working alone.
-
-"No thank you," said Tessella. "I just want to set up a new workshop somewhere else and go back to repairing. Don't worry, though, your secret is safe with me."
-
-The crab frowned with his weirdly Diamond-shaped eyebrows. "You don't hate King Triangle?"
-
-"I'm not good at hating. It's why I can't stay a Triangle for long." Tessella shrugged. She picked up her Toolbox and turned around. "Sure he's a bad King. And his Prince as well. But why force him to change, when I can simply change myself?"
-
-As Tessella walked away, however, she realized a problem.
-
-The entrance had closed. And there were no Shaeprints on _this_ side to open it again.
-
-They were all stuck here.
+But who sent that signal?
 
 ___
 
-The crab sat down on a rock, grumpy as gold.
+Vluuk sat on a throne. The animals had built it for him yesterday, out of wood and leftover spaceship parts.
 
-"Finally we _find_ a treasure---and then we can't get it out of the cave! Just our luck!"
+"Ah! My dear forest friends, I bring a new command!" said Vluuk. "The green aliens have asked for help with repairing their spaceshipd. Everyone is hereby _forced_ to work on their spaceships from morning to evening!"
 
-Tessella remembered the ceiling. She pointed at the Shaeprints up there. "Why don't we try that?"
+"I need time to brood!" yelled a bird.
 
-"Do you know what it does then?" asked the bird.
+"Wolves must hunt!" said a wolf.
 
-"No."
+"Bunnies need time to become more bunnies!" said Liza's mother.
 
-"It might crumble the ceiling," said the crab. "Destroying the cave and killing us all! We're _doomed_!"
+"I am your king and only translator," said Vluuk calmly. "You shall listen. Don't talk back to me."
 
-"Or not," said Tessella. "Wait. How did _you_ get in the cave?"
+And so, within only a few days, the forest had changed completely. The animals didn't live in freedom anymore; they had to do as king Vluuk said. They had to help aliens all day, cutting down their own trees if needed. It wasn't peaceful anymore. It wasn't the beautiful place Liza loved so much.
 
-"We came from the other side," said the crab.
+All because of one tricksy translator. One who _pretended_ to know their language and abused that power.
 
-"So there's a---"
+With anger in her paws and whiskers, she jumped on top of Vluuk's throne.
 
-"No," said the sponge treasure hunter. "That door also closed itself."
+"How _dare_ you---"
 
-Tessella felt confident now. "All the Shaeprints in the cave have just _opened doors_. I believe those on the ceiling will just _open the ceiling_."
+"Oh Vluuk, great king, I want to learn from you," she said in her sweetest voice.
 
-"And then what? I can't fly!" yelled the crab. "I'm _doomed_!"
+"Ah, finally someone who appreciates how smart I am."
 
-"Let my Toolbox handle that," said Tessella with a smile. 
+"Oh, yes, so smart. Can you translate a few things for me?"
 
-She took out a hammer, some nails, and lots of wooden blocks. Everyone watched as she started building something. Soon it became clear she was building a _staircase_.
+"Sure, fine," said Vluuk. "If you promise not to challenge me again. I don't like my servants accusing me of being a trickster!"
 
-A Diamond-shaped pig rolled his eyes. "That's going to take _days_ to finish."
+Liza bit her tongue. There were many other things she wanted to say, but she only said: "Of course, my king."
 
-Suddenly, the bird grabbed Tessella by the neck. She flew towards the ceiling, carrying Tessella with her.
+Vluuk sat up more straight and waited for Liza to speak.
 
-"Why all the nonsense with the stairs?" said the bird. "You could've just asked me to fly you up here."
+"How would you translate ... PAW?"
 
-"Well ... erm ... didn't want to bother you."
+"LOW," said Vluuk. "Easy one."
 
-"We surely don't have anything better to do."
+Okay, thought Liza. So the 'P' became the 'L'. It seemed his new trick was to just turn every vowel into 'O'. But she wasn't sure, so she wanted to test that next.
 
-Tessella looked at the Shaeprints. She had shapeshifted into a Teardrop shape. This usually happened when she was curious, as it made her the most flexible. She could easily wiggle around the ceiling and trace all the Shaeprints.
+"And how, king Vluuk, would you translate ... A TRICK?"
 
-She didn't like what she saw. 
+"T AYOK"
 
-"I've never seen these shapes before," she whispered. "They're not basic shapes. Not simple Squares, and Circles, and perfect Triangles. But they're ... weird."
+A yes. The 'T' became an 'A', and also the other way around. Most other sounds stayed the same. Because, well, Vluuk was just making this up and not actually doing anything.
 
-"Weird? Weird doesn't sound good."
+Liza had heard enough. "I want to speak to the aliens. Tell them I want to ... apologize for my behavior. And I'll even bring them a gift."
 
-The bird brought her back to the ground. Tessella found some paper and pencils in her Toolbox, and made a _perfect_ sketch of what she'd seen.
+"Pff. You translated two words and think you're ready?"
 
-"Well, if our secret organization is not for you," said the crab. "You can always get a job in drawing treasure maps."
+"Oh, no, I'm not ready. Would you please translate for me this time?"
 
-"It's impossible," said the pig. "We don't have _anything_ shaped like that."
+"That's right," said Vluuk. "I'm the _only_ translator! I will do it, but only if you pay me well."
 
-Tessella rummaged through her Toolbox. It had _all_ the shapes, she believed. She had always been able to find whatever she needed! One time, a client had asked for a heptagon, and she didn't even know what it was yet, but she _still_ found one in her Toolbox!
+Liza nodded. Though she had no money left; money wasn't common in the forest in any case. 
 
-But she searched for an hour, sweating and growing frustrated, and found _nothing_.
+If all went according to her plan ... she wouldn't need to pay him anyway.
 
-These Shaeprints were all wobbly. They had complicated curves, and lines, and their corners were all over the place.
-
-Slowly, panic set in. The crab scuttled in circles. He threw up his pincers and yelled: "We're never getting out of this cave! We're doomed! _Doomed!_"
-
-The pig oinked as if he thought the noise would break the walls. The bird flew up to the ceiling, and back again, but the Shaeprints hadn't changed.
-
-Some started playing games with the Diamonds to pass the time. Some tried to _eat_ the golden coins, but quickly learned it didn't taste well.
-
-Tessella stood still in the middle of the cave. She saw the mess around her. Treasure hunters running into each other, holding hands, and---
-
-Wait a minute.
-
-Two Diamonds together created a rotated rectangle again. Three or four Diamonds together could be an even longer rectangle, or an L-shape: a shape that looks like a corner in the road.
-
-She looked at her sketch again. There it was! One of the Shaeprints was L-shaped! 
-
-She slapped her forehead. They'd all been a bit dumb. They _could_ create these shapes ... by combining multiple basic shapes.
-
-She searched her Toolbox again. A Rectangle here, a Diamond there, a Trapezium as well, and when she _combined_ them, she could create the shapes needed. 
-
-It was very slow. She was getting dizzy from looking at so many shapes, and there were a few Shaeprints she couldn't figure out. She just didn't see what basic shapes would make it.
-
-Then she remembered the bird. She wanted to build a staircase alone, while there was a bird standing next to her that could simply fly her to the ceiling.
-
-Maybe she _was_ making things harder for herself. Maybe she didn't need to do this alone.
-
-"Crabbie!" she yelled. "Can you find me a coin that looks like this and this?"
-
-"My name is Crustaceus Crabbus the Third," said the crab grumpily, "but alright. I have one coin that looks like that, I believe."
-
-"Piggie!" she said. "I think we should combine three shapes to get this Shaeprint. Can you see which ones?"
-
-"Hmm," said the pig, oinking in thought. "Think we need two Triangles and a Diamond."
-
-Yes, thought Tessella. Yes, that might work.
-
-The treasure hunters worked together very well. They combined simple shapes to get the larger, more complicated shapes. Until they had perfectly matched the Shaeprints, or so they believed.
-
-The bird took the shapes to the ceiling, one by one.
-
-The first one filled the hole, and stayed there.
-
-The second one filled the hole perfectly as well.
-
-This continued and continued, until they had filled all Shaeprints.
-
-Something clicked. The cave rumbled. The Shaeprints glowed purple, red, and green. A roar echoed through the cave.
-
-All the treasure hunters held onto their bags. As if they were shields that would save them.
-
-The glow faded. And then, like opening a window, the top of the cave folded upwards.
-
-Eight treasure hunters gazed at the blue sky above.
-
-Tessella did not. Somehow, she had known the ceiling would open up. It was like she could _read_ what magic Shaeprints had, but only by accident. Only if she didn't think about it too much.
-
-She was already turning her Toolbox upside-down, and this time she found what she needed all along.
-
-A bunch of _kites_. Diamonds, but with a longer bottom. And a long rope attached to them. 
-
-As soon as they were released, the kites already floated upward.
-
-"Quick! Grab a rope!" she yelled.
-
-The treasure hunters picked their favorite kite, then let themselves fly through the hole. Before long, all eleven of them were out of the cave. And between the clouds.
-
-"How ... how do we get down again?" asked the crab.
-
-"Not sure," said Tessella. The world below her grew smaller and smaller. Animals, trees, homes, they all became black dots from this distance. She turned into a spiky Triangle out of fear. She couldn't reach into her Toolbox, with one hand on her kite and the other holding the Toolbox. 
-
-But she wasn't alone. 
-
-"Maybe if we all hang from the _same_ kite," she said. "We're heavy enough to fall down!"
-
-The treasure hunters swung from the ropes, as if they were vines in a jungle. They fearlessly jumped towards Tessella's kite.
-
-The weight dragged it down. They were falling again, but at a gentle pace. They landed without issue, although they didn't know where.
-
-"We thank you," said the crab. "And if you ever change your mind about our secret organization ..."
-
-"Maybe," whispered Tessella. "I just might."
+Together they approached the largest alien spaceship, where most of them were making repairs.

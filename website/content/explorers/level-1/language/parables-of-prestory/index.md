@@ -4,7 +4,7 @@ title: "Parables of Prestory"
 id: "parables-of-prestory"
 date: 2025-04-26
 price: 9.95
-image: "parables-of-prestory-header.webp"
+image: ["parables-of-prestory-header.webp", "parables-of-prestory-1.webp", "parables-of-prestory-2.webp", "parables-of-prestory-3.webp", "parables-of-prestory-4.webp", "parables-of-prestory-5.webp", "parables-of-prestory-6.webp", "parables-of-prestory-7.webp", "parables-of-prestory-8.webp"]
 file: "@TODO"
 spell: "my-first-stories"
 description: | 
@@ -34,4 +34,4 @@ These stories stand on their own and can be read to/by very young Apprentices wi
 
 It's a great setup for kids to start writing their own stories or read longer/more complicated books later.
 
-**This bundle was inspired by the Tales of 1001 Nights.** Many stories are simplified, kid-friendly, more magical versions of its best tales. The Book Worm who narrates it all is basically the same "framing device" as used in that classic masterpiece. We took the fun ideas of flying carpets and mischievous genies and basically asked ourselves: "what if this was just a regular part of how your world worked?" If any of these stories resonated with you, you might try reading the vast library of tales in the original.
+**This bundle was inspired by the Tales of 1001 Nights.** Many stories are simplified, kid-friendly, more magical versions of its best tales. The Book Worm who narrates it all is basically the same "framing device" as used in that classic masterpiece. We took the fun ideas of flying carpets and mischievous genies and basically asked ourselves: "what if this was just a regular part of how your world worked?" If any of these stories resonated with you, you might try reading the vast library of tales in the original. But be warned: the original _1001 Nights_ stories are considerably more gruesome and ... adult-ish.

@@ -1,8 +1,8 @@
 ---
 title:
 - type: main
-  text: The Shapesquare Stories
-description: "The evil King Triangle only wants Triangles to live in his kingdom. All the other shapes try to find a way to survive, or use a special shape magic to defeat him."
+  text: The Triksy Translator
+description: "Aliens land in the animal forest and speak a different language. One person appears who claims he can translate for them, but after every translation the aliens seem to like him more and more, and everyone else less and less ..."
 cover-image: "./epub/cover.png"
 css: "./epub/ebook_style.css"
 lang: en-EN

@@ -1,190 +1,119 @@
 ---
-title: "Be There Or Be"
+title: "They Don't Listen"
 weight: 20
-shape: Square
 ---
 
-# Be There Or Be
+# They Don't Listen
 
-Tessella was repairing someone's bicycle. It was a dangerous job. She often used tools that clearly said they should only be used by adults, and many a bike had already fallen over and almost flattened her. 
+As the animals ran away from the angry aliens, a single bunny stood her ground. Liza raised her ears, spread her arms for a hug---but if the aliens kept running they would squash her like a bug!
 
-But the real danger was because of King Triangle. Most bikes, as you might know, are _not_ a Triangle. Their wheels are a Circle. The steering bar is one or more Rectangles. If he caught Tessella repairing these bikes ... she would be in the dungeons soon.
+What could she say to them? What would make them stop? How did you learn a language for when the aliens come?
 
-That's why she kept some special tools in her Toolbox. Just in case. 
+She was scared, yes, and her whiskers stood upright. But she knew she had to _talk_ to them, instead of accepting a fight.
 
-She hoped she never had to use them, because she had a special magic herself too.
+A red-faced alien was about to run into her, when she realised she knew _one_ word. One word that the aliens used, and she hoped it meant something good.
 
-She heard footsteps outside. One look through the window made her panic. That was the sign of King Triangle! She clearly recognized it on a flag! Frankly, the king's logo was hard _not_ to recognize. It was just a Triangle wearing a crown made of three Triangles.
+"VLOOMKZ!" she yelled. "VLOOMKZ!"
 
-The footsteps grew louder. They were coming for her workshop, for sure.
+The alien stopped.
 
-Tessella jumped on the bike she was repairing, and quickly cycled to her kitchen. There, she hid it in a Triangle closet. One that she built the day after King Triangle became King. The day after he said all shapes that were _not_ a Triangle were bad.
+Its face turned blue, then purple, then green again like the rest of its skin.
 
-When she came back to the workshop, they were already banging on her door.
+It was a small creature, probably a kid like Liza. Its voice was soft and confused as it replied: "... VLOOMKZ?"
 
-Quick! Change shape! She thought to herself. But it wasn't that easy.
+Then it said some more words, but Liza didn't understand. At least, she hoped, this one wouldn't mind being her friend.
 
-At the moment, she was Star-shaped. Repairing objects made her _feel_ like a Star. And rightly so, because Tessella and her Toolbox were the best handywomen you would find.
+She pointed at a tree and said "TREE!"
 
-How did she become a Triangle again? Oh. Oh no. She kept forgetting.
+The alien laughed and pointed at the tree too. But it said: "ALIE!"
 
-"Open up! Or we will blast your door!"
+"A lie?" said Liza, feeling ashamed. "No! No, it's not a lie. We really call them trees. Why would I lie about that---"
 
-Wait. That wasn't King Triangle. Wasn't that his son? Prince Circlesnake?
+"ALIE! ALIE! ALIE!"
 
-Tessella hesitated. He wasn't a Triangle. Maybe he was different? Maybe he could be trusted?
+The creature wasn't looking at her anymore, just pointing at the tree and saying that same word.
 
-No. She couldn't risk it.
+Which made Liza think ... it was simply _their_ word for a tree.
 
-"Coming!" said Tessella.
+She laughed and started pointing at other things. A stone was a "ZA-EM". A bunny was a "YOMMB".
 
-She remembered how to become a Triangle. She had to think _sharp_ thoughts. Pointy thoughts. Things that made her a bit angry, like stubbing her toe, or someone else eating the last cookie.
-
-As she opened the door, her shape changed to a Triangle mouse.
-
-"Thank you," said the Prince. 
-
-He walked into her workshop like he lived there. He touched all her things and looked around for any forbidden shapes.
-
-"I've never seen you before," he said. "And I thought I knew everyone who lived around the castle! Before, you know, the castle exploded."
-
-"Oh. Oh, I just don't go outside much. Working hard, you see?" Tessella showed her hands full of stains and oil smears.
-
-Then she realized. She'd forgotten to change the shape of her Toolbox! It was still a Box, a Rectangle!
-
-She quickly jumped around to stand in front of her Toolbox. Her Triangle mouse shape hid it.
-
-"Please, take a look around. I have nothing to hide. Why don't you look in the next room? Right now?"
-
-The Prince wasn't alone. He had two Triangle guards with him. They looked strong. Shape animals didn't show muscles, of course, as that would ruin their shape. Instead, strong shapes simply didn't bend and twist as much. They didn't flubber and flap like they were made of pudding or lemonade. Their shape was always the same, as if frozen.
-
-Well, looking at the two guards made Tessella freeze in fear too. Any second now, they might notice the Toolbox. Her life would be over.
-
-Fortunately, the Prince nodded. They went into the other room first. Tessella could touch her Toolbox and, with effort, make it look like a Triangle.
-
-She was just about done when they returned.
-
-"What kind of work do you do?" asked the Prince in a friendly tone. He rolled back into her workshop and came to a stop against the Toolbox.
-
-"Oh, just, you know, repairing things for clients," said Tessella. "Client" is a word that means someone that pays you to do work for them. Like coming to Tessella's shop and paying her to repair their bicycles. "People bring me things that are _not_ a Triangle, and I whip them into Triangle shape! Ha!"
-
-"Wow. My father would like you a lot."
-
-"I'd love to meet him one day," lied Tessella. "Any more questions? I'd like to get back to work."
-
-"Not so fast," said the Prince.
-
-Tessella was getting restless. It was really hard to keep thinking sharp thoughts. She might loose her Triangle shape at any moment.
-
-She was always busy. Always repairing. Always making new tools. It was very rare for her to just stand around, wait, and talk with a Prince. Her fingers itched. Her feet wanted to move.
-
-She was getting _bored_.
-
-You can probably guess what shape she became then. The most boring shape of all.
-
-"Let me remind you," said the Prince. "If you see anyone who isn't a Triangle, you have to tell the King. If you don't do that, you're just as bad. So let me ask you once: _were any of your clients the wrong shape?_"
-
-What? He wanted her to be a telltale? She could. She knew at least twenty shapes that were hiding from the King. But she wouldn't tell him _anything_.
-
-Silence fell. The Prince waited for an answer. The guards entered her kitchen, opening drawers and cupboards.
-
-She felt her shape changing. She couldn't hold onto this Triangle much longer.
-
-The guards returned. They shook their head. 
-
-Tessella breathed a sigh of relief. They hadn't found the hidden bicycle.
-
-"Well then," said the Prince. "Good job, Tessella. I might send the King to your workshop. You could help him repair the castle."
-
-"Oh, no, I am not, erm, worthy."
-
-"Sure you are! Good day to you!"
-
-They opened the door and walked away. But Tessella couldn't hold it any longer.
-
-With a _pop_ and a _plop_, her Triangle turned into her Star-shaped form again. 
-
-She went to shut the door.
-
-But she was too late. The Prince had heard and turned around. They were coming for her now.
+It was hard to remember all their words. She saw no logic behind them, no pattern or rules. But if she worked hard, she was sure she could figure out how their language worked.
 
 ___
 
 
-Tessella had shut the door. But it was useless. One heartbeat later, one of the guards _stormed_ through the door as if it wasn't there.
+Meanwhile, not far away, all the animals were hiding behind some shrubs. The aliens were eating their food, the aliens were sitting in their homes. The aliens destroyed the trees, the aliens even attacked the bees.
 
-The Prince rolled towards her, screaming: "Liar! You lied to us!"
+"Why are they doing this?" asked the wolf. "Did you translate it wrong?"
 
-But he misjudged his roll and hit the guard instead. They tumbled over the floor together. Triangles don't roll very well, so they came to an awkward stop against a table.
+"No, no, absolutely not," said Vluuk. "They just don't ... trust you. Yes, these aliens have a special power. A sixth sense, like seeing or hearing. They can _feel_ if you can be trusted or not. And, clearly, they don't trust all of you."
 
-The other guard frowned, then attacked. How does a Triangle attack, you ask? Well, by leaning forwards, so their pointy sharp top was aimed at you. And then running as fast as they could. Like a bull charging.
+The animals were squished together, cheek to cheek, snout to snout. One could barely open their mouth to speak, or turn their head to see if the aliens were coming around.
 
-Tessella jumped on her Toolbox to avoid the first charge. The guard turned around for a second go.
+"But we _can_ be trusted!" said a squirrel.
 
-She reached in her Toolbox for her Hexagon shield. But because she'd made the Toolbox a Triangle, all the tools were in the wrong place! They were all mixed together, and she couldn't find it.
+Vluuk waggled a finger. "No, no, their sense never lies. But ... I guess ... I can try to convince them."
 
-The guard was about to hit her---then suddenly stepped aside.
+"Yes! Yes. Thank you, Vluuk. You're so brave."
 
-"She is mine! I'll catch her!" said the Prince. 
+"What do you want me to say?" he asked.
 
-He unrolled himself and revealed his snake teeth. He bit at any of the guards that dared come near.
+"Ask them what we need to do," said a wolf. "What we need to do to earn their _trust_!"
 
-"Why do you hate the other shapes so much?" yelled Tessella. "We did nothing wrong!"
+Vluuk stood up and left the shrubbery hideout. Immediately, the aliens jumped towards him.
 
-"Father doesn't like the look of you," said the Prince.
+"ZA-ED!" they yelled.
 
-"Is that it? You want to catch me to impress father?"
+Vluuk nodded and stopped. The aliens circled him on all sides.
 
-"No. I want to catch you because you're a filthy _Square_!"
+"BOORN TROOST. BOOW?" asked Vluuk.
 
-"You know I'm not. You saw I was half-Triangle!"
+The creatures stepped closer, not responding.
 
-The Prince had no answer to that. The guards stood in the corner, unsure what to do.
+Vluuk became nervous. He started whispering, quickly. The other animals couldn't hear what he said anymore.
 
-The Circlesnake chased her through the workshop. But she knew the room better than he did. Whenever he got close, she'd kick a table, or grab a chair, or throw a hammer at him. 
+But when he was done, the aliens giggled and turned away. They said some more things, then left him alone.
 
-They were going in Circles. It made Tessella change shape again, from a Square into a Circle. Changing shape---or "shapeshifting"---was very hard. It always took a lot of energy, and Tessella was dizzy after it happened.
+Night fell. Animals crawled back to their homes to sleep, only to find ten green creatures already living in their home. Squirrels wanted to climb trees, only to find most of them destroyed. The aliens were taking over the entire forest ...
 
-And so the Prince closed in. He could have bitten her. He could have won, maybe. But how could he arrest someone who was a Circle ... just like him?
+... except one place.
 
-"You're ... you're a _magician_!" said the Prince.
+They left Vluuk's house alone. They attacked everyone _except_ him. When morning came, nobody had slept---but Vluuk had slept just fine. The aliens waved at him, then stole some things to repair their spaceship.
 
-"No. I don't think so. I don't know."
+Liza found it a little ... suspicious.
 
-They finished their fifth Circle through the workshop. With a _pop_ and a _plop_, Tessella's Toolbox had gone back to being a box again. She reached in and took out the tool she wanted.
+Everyone else just wanted to know how he did it.
 
-To most, it would look like a simple hammer. A Rectangle handle with a Rectangle part at the top.
+"It seems they like me," said Vluuk. "I do all the right things. I can be trusted! If you want to be safe, they have to like you too."
 
-But it was no simple hammer. It was one of Tessella's special tools that she made long ago. 
+"How?"
 
-When the Prince got close, she swung it and hit his tail.
+"Do whatever I say and do."
 
-The Prince flew out of her workshop. He was launched, like from a catapult, with such speed that he landed in a different city.
+Immediately, the wolves tried to walk on two legs---and failed. The squirrels found sticks and placed them on their head, pretending they had antennae. The bunnies---Liza's family---covered themselves in leaves to look green.
 
-The guards weren't as dumb as the Prince. They stayed away from the hammer and didn't attack. They ran outside, probably to go rescue their Prince out of a tree somewhere.
+Whenever Vluuk made a funny face, all the animals did the same. Whatever Vluuk said, everyone would say the same. And when Vluuk tripped over a log and fell, all the animals immediately did the same thing, until they were all face down in the dirt.
 
-Tessella sighed. She was tired. Her shape started to flap and flibble, as if she was a Star made of melting chocolate.
+The next day, Vluuk went even further. 
 
-She wasn't safe here anymore. King Triangle would come back to get her soon.
+"A good start," said Vluuk again. "But not enough. You also have to sing a song each morning called _Vluuk Is The Best_."
 
-She packed her Toolbox. It was much bigger on the inside than the outside, but she still couldn't take as many things as she wanted. She had to leave behind the bicycle she was repairing. She had to leave behind photographs and letters from her parents, who disappeared long ago and left her this Toolbox. She had to leave behind her beautiful workshop.
+"What?"
 
-And, most importantly, she had to warn everyone else that the Prince wasn't "one of them". He worked for King Triangle still. She had trusted her gut, as she always did, and saved her life today.
+"That's what I do!"
 
-She trusted her gut now and left before nightfall. And it was a good thing she did. 
+And all the animals listened. Because they were afraid of the aliens and wanted to feel safe again. And Vluuk was the only one the aliens seemed to like.
 
-The next morning, she saw fire and smoke in the distance. She didn't know for sure, but she _felt_ that her workshop had been burned to the ground.
+The next day, Vluuk went even further.
 
-Where to go now?
+"A good start," said Vluuk. "But not enough. You also have to give me all your food and your money."
 
-She found a small mountain with Shaeprints. A mix of Triangles, Squares and Circles cut out of the stone. She rummaged through her Toolbox until she found exactly those shapes. Some days, she believed that box contained _every_ possible shape in the universe.
+"Huh?"
 
-She placed the shapes into the Shaeprints. She copied the way she'd seen her parents do it in the photographs. And she hoped it didn't cause an explosion like with King Triangle.
+"I'm your only translator. Don't you think I should be paid?"
 
-The shapes fit. The holes were filled. Tessella stepped back.
+Some animals mumbled that they agreed. They already went home to grab their food.
 
-The ground shook. A rumble filled her ears.
+But the wolves did not.
 
-A hidden cave wall opened. Rocks turned aside, rolled away, or sunk into the ground. Until there was an opening in the mountain that even an elephant could pass through. 
-
-She stepped inside, glad to have a new home. Until she saw someone already lived inside.
+"We've had enough!" they yelled. "We're going to tell the aliens that we are NOT friends, and that they should GO AWAY!"
