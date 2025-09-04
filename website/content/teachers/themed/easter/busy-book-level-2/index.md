@@ -62,17 +62,11 @@ parallel-play: true
 
 ---
 
-This is the quintessential book of activities for **young children** (Level 1; ages 4~6) during Easter! 
+This is the quintessential **book of activities** for children (Level 2; ages 5~7) during **Easter**! 
 
 We put every kind of activity, challenge or fun experience into one cohesive "Busy Book". It allows children to explore the Easter holiday, while giving them something to do during the days _and_ challenging core skills such as counting or word recognition.
 
-One kind of activity has been left out, though. The one we actually like the most, which is something closer to _(board) games_ to play _together_ during Easter. That's why we put those into a separate invention we call a [Boardgame Book](/teachers/themed/easter/boardgame-book/)! 
-
-{{% remark %}}
-It's a mixture between a busy book and board games, which means way fewer rules to learn or material to set up, educational value, and multiple "games" inside the same PDF.
-{{% /remark %}}
-
-Also please note that, for actual _puzzles_, check out the Easter materials in the Puzzlepages faction. A Busy Book like this contains activities, exercises and challenges---but not puzzles like an "Eggudoku" (Sudoku with Eggs) or Easter Crosswords.
+Please note that, for actual _puzzles_, check out the Easter materials in the Puzzlepages faction. A Busy Book like this contains activities, exercises, questions and challenges---but not puzzles like an "Eggudoku" (Sudoku with Eggs) or Easter Crosswords.
 
 {{% remark %}}
 **Can't** be printed double-sided, due to some things to cut out. This was one of the very first products we made and we hadn't established our principle of making _everything_ able to be printed double-sided by default (with some rather simple tricks in hindsight). Sorry!

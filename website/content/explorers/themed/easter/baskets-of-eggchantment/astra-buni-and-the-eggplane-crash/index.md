@@ -23,4 +23,4 @@ categories: ["holiday", "Easter"]
 
 ---
 
-@TODO: Ugh, how to categorize? Shouldn't this just be on TiamoPastoor.com and sold the usual way? What's the benefit of keeping it on the online store only?
+@TODO: Ugh, how to categorize? Shouldn't this just be on TiamoPastoor.com and sold the usual way? What's the benefit of keeping it on the online store only? => LATER TIAMO REALIZATION: There's no benefit to exclusivity, indeed, but there's a huge benefit to having everything on the online store (for independence and full autonomy in case Amazon gets even worse)
