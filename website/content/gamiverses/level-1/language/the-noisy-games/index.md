@@ -2,10 +2,10 @@
 type: "product"
 title: "The Noisy Games"
 id: "the-noisy-games"
-price: 9.95
+price: 11.95
 date: 2025-02-18
-image: ["the-noisy-games-header.webp", "the-noisy-games-screenshot-1.webp", "the-noisy-games-screenshot-2.webp"]
-file: "@TODO"
+image: ["the-noisy-games-header.webp", "the-noisy-games-1.webp", "the-noisy-games-2.webp", "the-noisy-games-3.webp", "the-noisy-games-4.webp", "the-noisy-games-5.webp", "the-noisy-games-6.webp"]
+file: "e6c8652f-b50f-4e85-aa60-2ccab3de8a20"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phoneme-awareness", "my-first-letters"]
 description: | 
   How do you play a language game
@@ -14,9 +14,9 @@ description: |
   Is it simple, educational, and fun? You bet!
 
 contents:
-- Rulebook for the game (1 page base game, 1 page expansions, 1 page explaining how to modify the game to suit different needs)
-- 4 pages with "Noisy Tongues" to cut out
-- 5 pages with "Code Cards" (helpful guides on what you have to communicate)
+- Rulebook for the game (1 page base game, 1 page expansions, 1 page explaining how to modify the game to suit different needs, 2 pages phoneme cheat sheet)
+- Material PDF (code cards + noisy tongue characters to cut out; 1 pdf in color, 1 pdf ink friendly)
+- The Material Generator (open in any browser) to generate your own PDFs with your preferred settings!
 
 level: 1
 language: "EN"
@@ -61,6 +61,14 @@ This extra step of creating a "code" (through cute recognizable monsters) makes 
 * If everyone merely understands phonics ("sounds in a word"), you can make every Noisy Tongue represent a phonic.
 * If everyone merely understands syllables, the Noisy Tongues can represent syllables.
 
-Once everyone is familiar enough with the game, you can even ditch the Code Cards entirely and let everyone make up their own codes!
+Once everyone is familiar enough with the game, you can ditch the _Code Cards_ entirely and let everyone make up their own codes!
 
 Fun Fact: The Noisy Tongues are fun creatures (with prominent tongues ...) known from our early-language story [The Noisy Tongues](/explorers/level-1/language/the-noisy-tongues/).
+
+{{% remark %}}
+The rulebook contains a clear overview of **how to pronounce each phoneme!** You can keep this cheat sheet at hand while playing that variant of the game.
+{[% /remark %]}
+
+{{% remark %}}
+This game includes a **material generator**! This is just a file you can open in any browser. It allows you to completely customize the material and generate a new PDF. For example: pick a bigger size or disallow difficult cards. Our Material Generator system is a custom tool that we've developed over 5 years of making games (at Pandaqi), which means it's powerful and we use it ourselves. We hope you find it useful too!
+{{% /remark %}}

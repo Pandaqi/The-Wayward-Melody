@@ -2,10 +2,10 @@
 type: "product"
 title: "Shufflespeak: Letters"
 id: "shufflespeak-letters"
-price: 9.95
+price: 14.95
 date: 2025-07-18
-image: ["shufflespeak-letters-header.webp", "shufflespeak-letters-1.webp", "shufflespeak-letters-2.webp"]
-file: "@TODO"
+image: ["shufflespeak-letters-header.webp", "shufflespeak-letters-1.webp", "shufflespeak-letters-2.webp", "shufflespeak-letters-3.webp", "shufflespeak-letters-4.webp"]
+file: "ca309a1d-2dfb-4b27-b217-e790866b3866"
 spell: ["my-first-letters"]
 description: | 
   How do you play a language game
@@ -17,6 +17,7 @@ contents:
 - Rulebook for the game (Intro/Overview page, 1 page rules base game, 1 page upgrades, 1 page expansions, 1 page mega-expansion to play forever)
 - Base Game Material PDF (one in color, one in grayscale)
 - Expansion Material PDF (one in color, one in grayscale)
+- The Material Generator (open in any browser) to generate your own PDFs with your preferred settings and new cards
 
 level: 2
 language: "EN"
@@ -66,3 +67,7 @@ Once you've played this a few times, you'll have grown in language skill and fin
 We are very proud of these games and hope they provide an example of how to make absolutely every part of learning an effective game!
 
 The other versions in the series are about shuffled _Words/Sentences_, _Syllables_ and _Phonics_.
+
+{{% remark %}}
+This game includes a **material generator**! This is just a file you can open in any browser. It allows you to completely customize the material and generate a new PDF. For example: pick a bigger size, make it grayscale and exclude compound words. Our Material Generator system is a custom tool that we've developed over 5 years of making games (at Pandaqi), which means it's powerful and we use it ourselves. We hope you find it useful too!
+{{% /remark %}}

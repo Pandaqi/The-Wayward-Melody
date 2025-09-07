@@ -64,3 +64,7 @@ This is something we call an **escape calendar**. Escape rooms that are also adv
 Every puzzle gives you a new location on the map, which is a new small puzzle to solve. You could play 1 puzzle a day, perhaps every summer evening or before going to bed. You could play multiple puzzles whenever you have to travel during the summer. You could also play it as a regular escape room, though you might want to clear out your entire day if you want to finish it in one sitting ...
 
 As usual, the puzzles are mostly textless and minimalist. No wasted paper or ink, no distractions, just fun and creative puzzles for all ages. Only a few puzzles require being able to read or count quite well, and the difficulty is pretty average overall.
+
+{{% remark %}}
+We purposely did **not** include puzzles that require cutting, or any other requirements (such as household items or lots of space). This makes it easy to take the calendar with you and stash/play it anywhere, without having to carry around all these extra loose bits or worry you're not able to do the next puzzle right now. You only need to cut out the individual puzzles during setup, before you start, which takes only a few minutes.
+{{% /remark %}}
