@@ -24,7 +24,6 @@ contents:
 - Shape Sorting (cut out shapes, sort by properties such as size or number of edges)
 - Wizard Sorting (cut out funny beings, sort by properties such as length, width or number of eyes)
 - Animal Sorting (cut out animals, sort based on weight as illustrated by given examples)
-- Fantasy Forest Paths x7 (Feasting Fox, Lazy Lion, Eww-Height Elephant, Bluesight Bull, Mathy Mouse, Scared Spider, Circle Cat)
 
 level: 1
 language: "EN"
@@ -61,15 +60,7 @@ Once someone can differentiate between objects, the next logical step is to diff
 
 This is such a core skill, connected to and needed for almost everything, that we decided to pack a lot into this one resource. It approaches the skill from many different angles. It starts off very easy but moves to more and more advanced applications with every exercise/puzzle/game. 
 
-We especially like the unique "Fantasy Forest Paths" exercises we developed. They take this skill as close to an engaging puzzle game as it can go, while still firmly in the realm of a traditional teaching resource.
-
-In those exercises,
-
-* You play as an animal character with a simple and unique "quirk". For example, "The Hungry Fox" will always choose the path with MORE food.
-* Starting from your current location, move from crossroads to crossroads. Draw a path that makes these right comparisons/choices at each one.
-* If you did it right, the path ends at the (secret) home of the animal!
-
-It tests the skill numerous times, while allowing fun stories and characters, while allowing diverse rules each time, while automatically checking if you did it right. (In many cases, you can even do the same path multiple times, switching to a _different_ animal.)
+As usual, after trying this product we recommend moving to puzzles that test and explore the skill in a much better way. For example, our unique [Fantasy Forest Paths](/puzzlepages/level-1/maths/fantasy-forest-paths/).
 
 {{% update %}}
 This part of the curriculum used to be a single resource called **Comparing & Grouping**. These two are highly connected, which is why we put them in a single product at first.

@@ -3,7 +3,7 @@ type: "product"
 title: "De kat van Sinterklaas"
 id: "kat-van-sint-sneakpeek"
 date: 2018-10-14
-price: 1.95
+price: 8.95
 image: [kat_van_sint_0.webp, kat_van_sint_1.webp, kat_van_sint_2.webp, kat_van_sint_3.webp, kat_van_sint_4.webp]
 file: "c2a32379-95c1-46d2-9503-ef26799b7e82"
 description: "Alle losse tekeningen achter het prentenboek."

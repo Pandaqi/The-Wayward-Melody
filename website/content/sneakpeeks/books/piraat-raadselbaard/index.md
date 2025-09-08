@@ -3,7 +3,7 @@ type: "product"
 title: "Piraat Raadselbaard"
 id: "piraat-raadselbaard-sneakpeek"
 date: 2023-05-12
-price: 6.95
+price: 9.95
 image: [piraat_raadselbaard_1.webp, piraat_raadselbaard_2.webp, piraat_raadselbaard_3.webp, piraat_raadselbaard_4.webp]
 file: "4941da06-92f0-48b1-bba2-4e2d7c39513e"
 description: "Alle originele teksten, notities en tekeningen achter het boek."

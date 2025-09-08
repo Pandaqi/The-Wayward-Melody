@@ -3,7 +3,7 @@ type: "product"
 title: "Als dit huis straks overstroomt"
 id: "als-dit-huis-sneakpeek"
 date: 2022-07-20
-price: 3.95
+price: 8.95
 image: [als_dit_huis_1.webp, als_dit_huis_2.webp, als_dit_huis_3.webp]
 file: "d37287cf-a149-436c-b7e9-bc5a9f711c2b"
 description: "Alle originele teksten, notities en tekeningen achter het boek."

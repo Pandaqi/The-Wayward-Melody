@@ -21,7 +21,7 @@ contents:
 level: 1
 language: "EN"
 subject: "Language"
-categories: ["words", "syllable-awareness", "phonics", "alphabet"]
+categories: ["words", "syllable-awareness", "phoneme-awareness", "alphabet"]
 player-count: 2-8
 age: 4
 # requirements: ""
@@ -49,9 +49,9 @@ guardian-required: true
 
 ---
 
-**The Noisy Games** is our crowning achievement for _Language_ in _Level 1_! It's a very simple game that people of all ages can play and enjoy, which can practice language on several different levels.
+**The Noisy Games** is a game that touches all other topics and skills learned _Language Level 1_ (and even a bit of _Level 2_)! It's a very simple game that people of all ages can play and enjoy, which can practice language on several different levels.
 
-The Code Cards display an illustration as well as how to break that word into syllables/phonics/letters. The card basically says "this creature means A, that creature means D, and so forth". The player whose turn it is now has to create a _new_ word with that code. They arrange the monsters to display it and give a hint.
+The Code Cards display an illustration, as well as how to break that word into syllables/phonics/letters. The card basically says "this creature means A, that creature means D, and so forth". The player whose turn it is now has to create a _new_ word with that code. They arrange the monsters to display it and give a hint.
 
 Everyone else must guess what the hint means and what word you wrote. In so doing, they try to "crack the code", and guess what each creature represents. The more people guess right, the more points you score. But if you made it _too easy_, and everyone got it right, then you get nothing!
 

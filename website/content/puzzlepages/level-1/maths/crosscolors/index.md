@@ -4,7 +4,7 @@ title: "Crosscolors"
 id: "crosscolors"
 date: 2025-04-26
 price: 7.95
-image: ["crosscolors-header.webp", "crosscolors-screenshot-1.webp", "crosscolors-screenshot-2.webp"]
+image: ["crosscolors-header.webp", "crosscolors-1.webp", "crosscolors-2.webp"]
 file: "8f663206-ee72-4e60-b0a3-73b4c805c7b0"
 spell: ["my-first-colors"]
 description: | 

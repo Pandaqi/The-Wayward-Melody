@@ -3,7 +3,7 @@ type: "product"
 title: "Het boek tegen school"
 id: "boek-tegen-school-sneakpeek"
 date: 2021-07-02
-price: 6.95
+price: 9.95
 image: [boek_tegen_school_1.webp, boek_tegen_school_2.webp, boek_tegen_school_3.webp]
 file: "ee996de9-ad85-4e5d-bf52-6f72e6961158"
 description: "Alle originele teksten, notities en tekeningen/cartoons achter het boek."

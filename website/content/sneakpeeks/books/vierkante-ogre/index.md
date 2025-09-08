@@ -3,7 +3,7 @@ type: "product"
 title: "Vierkante Ogre"
 id: "vierkante-ogre-sneakpeek"
 date: 2023-05-12
-price: 6.95
+price: 9.95
 image: [vierkante_ogre_1.webp, vierkante_ogre_2.webp, vierkante_ogre_3.webp, vierkante_ogre_4.webp, vierkante_ogre_5.webp]
 file: "dda572dd-cda8-4f00-9cd9-1ff8c035fb9b"
 description: "Alle originele teksten, illustraties en andere bestanden achter het prentenboek."

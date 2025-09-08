@@ -6,8 +6,8 @@ date: 2025-05-26
 price: 5.95
 image: ""
 file: "@TODO"
-spell: ["my-first-stories"]
-advances: ["phonemic-phun"]
+spell: "my-first-stories"
+advances: "phonemic-phun"
 description: | 
   With a few words and letters under your belt
   An apprentice can quickly start to appreciate a tale
@@ -15,7 +15,7 @@ description: |
   Until even the youngest learners can tell a story heartfelt
 
 contents:
-- Reconstruct Events (Listening Comprehension)
+- Timeline Task / Reconstruct Events (Listening Comprehension)
 - Repeat Back (Listening Comprehension)
 - Fill In The Blanks (Easy; Children can say anything to continue the story)
 - Fill In The Blanks (Medium; Children must pick from visual options one that makes sense)
@@ -26,7 +26,7 @@ contents:
 level: 1
 language: "EN"
 subject: "Language"
-categories: ["phonemes", "phonetic-awareness"]
+categories: ["phoneme-awareness", "alphabet", "syllable-awareness"]
 player-count: 1-100
 age: 3
 # requirements: ""

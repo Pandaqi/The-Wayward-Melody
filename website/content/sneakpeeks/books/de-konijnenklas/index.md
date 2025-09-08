@@ -3,7 +3,7 @@ type: "product"
 title: "De konijnenklas"
 id: "konijnenklas-sneakpeek"
 date: 2021-01-10
-price: 5.95
+price: 9.95
 image: [konijnenklas_0.webp, konijnenklas_1.webp, konijnenklas_2.webp, konijnenklas_3.webp, konijnenklas_4.webp]
 file: "06cc1732-8a6b-4621-aae8-cd6a4da01449"
 description: "Alle losse tekeningen achter het prentenboek."

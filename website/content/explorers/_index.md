@@ -20,11 +20,15 @@ This includes projects in all possible creative categories, from stories, to mus
 
 {{% section-foldable header="What can I find here?" %}}
 
-Most of this category contains **stories**. Educational fairy tales or children's stories, or the "Type B" stories for _Saga of Life_. It also contains anything that wouldn't fit the traditional sales channel for that creation, or raw, prototype, or simply as of yet unreleased art. 
+Most of this category contains **stories**. Educational fairy tales or children's stories, or the "Type B" stories for _Saga of Life_. It also contains a lot of **music** and some **paid (video) games**. 
+
+Unless we've signed an exclusive deal, any art that is also available on other channels (say, an album on Spotify) can be purchased here too. Sometimes we also give you the original source assets and older versions, which often means we place the product in the [Sneakpeeks](/sneakpeeks/) category instead.
+
+Why? Well, firstly, offering something through as many channels as possible is good for marketing and reach. Most importantly, however, we don't want to depend on some big monopolistic platform (Amazon, Spotify, Audible) that might change their terms or remove our work altogether in the future. Because, as history shows, such hostile events are basically a guarantee with any large platform. Control things yourself and shitty companies can't control you.
 
 Besides that, this category contains "extensions" of my usual work. Perhaps I wrote a few tiny stories for _Wildebyte Arcades_ that I thought were good, but are practically impossible to sell on Amazon (which is by far the largest book seller).
 
-Perhaps I have some unreleased demo songs that can't be published on a streaming service, but which I still want to share. Or perhaps I made something that simply has no other clear "sales channel". All of those things are collected and sold in this category. You can view these as **"unreleased gems"**, often attached to some existing work of mine.
+Perhaps I have some unreleased demo songs that can't be published on a streaming service, but which I still want to share. Or perhaps I made something that simply has no other clear "sales channel". Perhaps I have some raw, prototype, or simply as of yet unreleased art. All of those things are collected and sold in this category. You can view these as **"unreleased gems"**, often attached to some existing work of mine.
 
 {{% /section-foldable %}}
 
@@ -44,16 +48,12 @@ This highly depends on what you buy! In general, though, these are _Digital Good
 
 If you buy a book, you get it both as an **ebook** and a **printable PDF**. We're also experimenting with interactive books, such as adding Bingo cards that kids can use to check if they understood what happened. This can't be done every time, however, and will be separate files inside the ZIP file if present.
 
-Some of these products are _Physical Goods_, such as paintings showcasing my art. In this case, your order is automatically submitted to a merchandise provider who will ship the requested product right to your doorstep.
+If you buy an **album**, it usually includes the highest-quality original files for the tracks, as well as any demos, cover illustration work, and other notes from behind the scenes.
+
+Some of these products are _Physical Goods_, such as paintings showcasing my art. In this case, your order is automatically submitted to an external merchandise provider who will ship the requested product right to your doorstep.
 
 {{% /section-foldable %}}
 
 {{% /double-view-item %}}
 
 {{% /double-view %}}
-
-<!--- OLD TEXT FOR ACTIVITIES
-Check out our **activities**! Yes, almost everything in this webshop is an "activity" or "experience". This category, therefore, mostly contains the things that just didn't really fit anywhere else. For example, a workbook for a unique birthday party, or a game that is _not_ "educational" or an "escape room". 
-
-(@TODO: This category might disappear in the future.)
---->
