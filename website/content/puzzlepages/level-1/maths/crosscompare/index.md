@@ -8,7 +8,10 @@ image: ["crosscompare-header.webp", "crosscompare-1.webp", "crosscompare-2.webp"
 file: "ada34d73-8bce-40d4-9dff-3bfb0d75d73f"
 spell: "my-first-comparisons"
 description: | 
-  @TODO
+  Compare row and column
+  And make sure the rabbit has plants to eat
+  An introductory puzzle about comparing
+  But solving it is still no simple feat!
 
 contents:
 - Front Page explaining the puzzle (text + images + example)
@@ -46,4 +49,12 @@ textless: true
 
 ---
 
-@TODO
+**Crosscompare** is probably the simplest and purest puzzle in our _My First Comparisons_ topic. If your Apprentice is not used to puzzles, it's probably best to start here. (This is true for _most_ of our Crosswords-inspired puzzles, which are present in almost all topics.)
+
+Every puzzle shows you a very small grid, like a tiny Crosswords. One or two rows crossing with one or two columns. Some parts may already be filled in.
+
+Every row/column is a "meadow". Your job is to make sure every meadow has at least a rabbit and a plant. It's as simple as that, but you'll realize you need to be smart about where you draw each to make sure it works out with how rows/columns cross over.
+
+Pretty soon, of course, you will move to higher difficulties that add things like the _tiger_. They need to be in the same meadow as a _bunny_, otherwise they go hungry. Before you know it, you're at the last puzzle and have learned many useful ways to compare and solve problems!
+
+The puzzles are large and don't require very specific drawings. You can use _anything_ you want to represent "plant", "planteater" and "meateater". This allows young kids to play using rudimentary drawings.

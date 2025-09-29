@@ -8,7 +8,10 @@ image: ["shapefruit-header.webp", "shapefruit-1.webp", "shapefruit-2.webp", "sha
 file: "b7c09a9b-fe92-4d02-ace8-53c31bffd023"
 spell: "my-first-groups"
 description: | 
-  @TODO
+  A basket of friendly fruit
+  They want a shape around them ASAP
+  Can you find the one solution
+  That fills the basket without overlap?
 
 contents:
 - Front Page explaining the puzzle (text + images + example)
@@ -47,4 +50,12 @@ textless: true
 
 ---
 
-@TODO
+**Shapefruit** is a spatial grouping and (area) division puzzle. It can be played **physically**, by cutting out all the shapes and placing them on the puzzle. It can also be played by simply **drawing** the shapes around the fruit.
+
+Each puzzle shows some fruit and the shape that they want around them. The shapes used are small and simple, such as "2 squares in a row" or a "corner". You must place that shape such that it contains the fruit somewhere ... but also such that no shapes overlap and the whole puzzle ends up covered.
+
+Those simple rules already create a plethora of nice and colorful puzzles. Later difficulties, though, add more nice twists, such as hiding the shape that each fruit wants (_you must figure out the only shape that works!_).
+
+{{% remark %}}
+These puzzles were so potent that we intend to bring them back in Level 2, but with harder shapes and special powers for the fruits!
+{{% /remark %}}

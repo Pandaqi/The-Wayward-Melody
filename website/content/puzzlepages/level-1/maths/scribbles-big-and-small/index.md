@@ -8,7 +8,10 @@ image: ["scribbles-big-and-small-header.webp", "scribbles-big-and-small-1.webp",
 file: "3c285060-91af-46df-a323-38dc176f247e"
 spell: "my-first-comparisons"
 description: | 
-  @TODO
+  All you need to do for this puzzle
+  Is draw something either BIG or SMALL
+  Compare neighbor squares to know which one to do
+  Only one solution fits them all
 
 contents:
 - Front Page explaining the puzzle (text + images + example)
@@ -46,4 +49,12 @@ textless: true
 
 ---
 
-@TODO
+This is the very first **Scribbles** puzzle. All you need to be able to do ... is draw _something_, anything, at either a SMALL or a LARGE size into the squares. We chose circles for the examples and answers, but anything goes.
+
+Each puzzle gives a grid of squares, and some of them contain a hint or "clue" between them. The clue is either "these squares are the same" or "these squares are different". That's all. It teaches the symbols and concepts for comparisons (_equal, greater than, smaller than_), while allowing you to practice pencil control and fill the puzzle in a satisfying way.
+
+As always, early puzzles are very simple and teach the idea. Higher difficulty levels will add wrinkles to the rules that explore more things related to comparing and keep things interesting.
+
+{{% remark %}}
+If your Apprentice wants a more immediate reward for doing the puzzle, or wants a more physical activity, consider the [Scribbles: Pictures](/puzzlepages/level-1/maths/scribbles-pictures/) puzzle instead.
+{{% /remark %}}

@@ -62,13 +62,18 @@
     </div>
 
     <!--- Show the CONNECTIONS to other products --->
-    {{ $my_spell := .Params.spell }}
-    {{ if $my_spell }}
-        {{ if not (reflect.IsSlice $my_spell) }}{{ $my_spell = slice $my_spell }}{{ end }}
-        {{ $relevant_connections := where .Site.RegularPages ".Params.spell" "intersect" $my_spell }}
+    {{ $my_spells := or .Params.spell slice }}
+    {{ if not (reflect.IsSlice $my_spells) }}{{ $my_spells = slice $my_spells }}{{ end }}
+    {{ $regular_pages := .Site.RegularPages }}
+    {{ $relevant_connections := slice }}
+    {{ range $spell := $my_spells }}
+        {{ $new_connections := union (where $regular_pages ".Params.spell" "intersect" (slice $spell)) (where $regular_pages ".Params.spell" "eq" $spell) }}
+        {{ $relevant_connections = $relevant_connections | append $new_connections }}
+    {{ end }}
+
+    {{ $has_connections := gt (len $relevant_connections) 0 }}
+    {{ if $has_connections }}
         {{ $relevant_connections = sort $relevant_connections ".Section" "asc" }}
-        {{ $has_connections := gt (len $relevant_connections) 0 }}
-        {{ if $has_connections }}
         <div data-pagefind-weight="1">
             <h2>Continue Exploring</h2>
             <p>Exhausted this resource? Below is a list of all resources (in this and other factions) around this same topic.</p>
@@ -78,7 +83,6 @@
                 {{ end }}
             </ul>
         </div>
-        {{ end }}
     {{ end }}
 
     <!--- Show a LIST of contents --->
