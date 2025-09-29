@@ -1,5 +1,10 @@
 <span>
+    {{ $num := len . }}
+    {{ $counter := 0 }}
     {{ range . }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ $counter = add $counter 1 }}
+        {{ $is_last := ge $counter $num }}
+        <a class="hover_italic" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ if not $is_last }} &middot; {{ end }}
     {{ end }}
 </span>

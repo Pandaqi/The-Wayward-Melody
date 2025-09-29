@@ -3,7 +3,7 @@ type: "product"
 title: "Summer Busy Book"
 id: "summer-busy-book-level-1"
 price: 12.95
-date: 2026-05-05
+date: 2025-05-05
 image: ["summer-busy-book-lv1-header.webp", "summer-busy-book-lv1-1.webp", "summer-busy-book-lv1-2.webp", "summer-busy-book-lv1-3.webp", "summer-busy-book-lv1-4.webp", "summer-busy-book-lv1-5.webp"]
 file: "0b2c412a-1167-4508-b009-9fcb5bf3d62b"
 spell: ["summer-batch-1"]

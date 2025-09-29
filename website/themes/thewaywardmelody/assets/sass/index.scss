@@ -654,6 +654,10 @@ $viewport-xl: 1280px;
         color: var(--color-mid);
     }
 
+    .text-color-accent-contrast {
+        color: var(--color-accent-contrast);
+    }
+
     // Corners
     .rounded-xs {
         border-radius: $size-xs;
@@ -968,6 +972,13 @@ $viewport-xl: 1280px;
     // Animations & Transitions
     .transition-m {
         @include transition-m;
+    }
+
+    .hover_italic:hover
+    {
+        @include transition-m;
+        color: var(--color-accent);
+        font-style: italic;
     }
 
     .hover_popup:hover {

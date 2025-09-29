@@ -2,7 +2,7 @@
 type: "product"
 title: "The Quiz of Easter Eggspert"
 id: "the-quiz-of-easter-eggspert"
-date: 2026-03-01
+date: 2025-03-01
 price: 9.95
 image: ["quiz-of-easter-pro-header.webp", "quiz-of-easter-pro-sc1.webp", "quiz-of-easter-pro-sc2.webp", "quiz-of-easter-pro-sc3.webp"]
 file: "e71631d4-2c65-4717-856f-7bcc9c2cb9dc"

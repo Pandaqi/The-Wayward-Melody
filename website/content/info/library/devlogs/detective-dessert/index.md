@@ -1,5 +1,5 @@
 ---
-title: "Devlog Detective Dessert"
+title: "Detective Dessert (Devlog)"
 ---
 
 Welcome to this short devlog for my game ["Detective Dessert"](/gamiverses/themed/summer/detective-dessert/). It started out as a small, fun addition to my list of small, fun "summer games".

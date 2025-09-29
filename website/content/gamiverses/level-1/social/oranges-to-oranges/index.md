@@ -14,7 +14,7 @@ description: |
   So you score all the points and leave nothing for the rest!
 
 contents:
-- @TODO
+- "@TODO"
 
 external:
   - name: "Apples to Apples"

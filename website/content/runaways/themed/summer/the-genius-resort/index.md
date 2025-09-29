@@ -2,7 +2,7 @@
 type: "product"
 title: "The Genius Resort"
 id: "the-genius-resort"
-date: 2026-05-05
+date: 2025-05-05
 price: 18.95
 image: ["the-genius-resort-header.webp", "the-genius-resort-1.webp", "the-genius-resort-2.webp", "the-genius-resort-3.webp", "the-genius-resort-4.webp", "the-genius-resort-5.webp", "the-genius-resort-6.webp"]
 file: "82fb66df-1b6c-4f00-960b-e6d5ee3cb4d0"

@@ -3,7 +3,7 @@ type: "product"
 title: "Easter Busy Book"
 id: "easter-busy-book-level-2"
 price: 9.95
-date: 2026-02-18
+date: 2025-02-18
 image: ["busy-book-level2-header.webp", "busy-book-level2-1.webp", "busy-book-level2-2.webp", "busy-book-level2-3.webp", "busy-book-level2-4.webp", "busy-book-level2-5.webp"]
 file: "f6c5c595-f92e-4a90-956b-463def302d01"
 spell: ["easter-batch-1"]

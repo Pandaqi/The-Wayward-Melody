@@ -9,7 +9,7 @@ file: "086a86dd-29db-4038-b471-b61287d04535"
 spell: ["syllable-awareness"]
 description: | 
   How do you play a language game
-  With people who don't can't read yet?
+  With people who can't read yet?
   Shufflespeak gives the answer
   Is it simple, educational, and fun? You bet!
 

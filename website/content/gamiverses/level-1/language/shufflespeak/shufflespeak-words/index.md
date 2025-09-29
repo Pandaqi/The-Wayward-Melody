@@ -9,7 +9,7 @@ file: "8af78714-7dea-43b1-a1ff-9d999ce21840"
 spell: ["word-awareness"]
 description: | 
   How do you play a language game
-  With people who don't can't read yet?
+  With people who can't read yet?
   Shufflespeak gives the answer
   Is it simple, educational, and fun? You bet!
 

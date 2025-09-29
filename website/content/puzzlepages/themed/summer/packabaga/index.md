@@ -2,7 +2,7 @@
 type: "product"
 title: "Packabaga!"
 id: "packabaga"
-date: 2026-05-05
+date: 2025-05-05
 price: 9.95
 image: ["packabaga-header.webp", "packabaga-1.webp", "packabaga-2.webp", "packabaga-3.webp", "packabaga-4.webp", "packabaga-5.webp"]
 file: "791afa5e-e2a6-48bd-8736-c33b8b51e358"

@@ -3,7 +3,7 @@ type: "product"
 title: "Enjoy Your Stay!"
 id: "enjoy-your-stay"
 price: 13.95
-date: 2026-05-05
+date: 2025-05-05
 image: ["enjoy-your-stay-header.webp", "enjoy-your-stay-1.webp", "enjoy-your-stay-2.webp", "enjoy-your-stay-3.webp"]
 file: "dc988aea-40ac-4f46-a2d4-7035c8a7e526"
 spell: ["summer-batch-1"]

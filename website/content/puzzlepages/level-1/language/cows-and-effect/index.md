@@ -14,7 +14,7 @@ description: |
   Put on your story brain, puzzling has begun!
 
 contents:
-- @TODO
+- "@TODO"
 
 level: 1
 language: "EN"

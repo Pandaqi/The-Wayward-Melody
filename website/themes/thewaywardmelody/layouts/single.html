@@ -38,10 +38,10 @@
             &middot; <span>Price: {{ $data.price }}</span>
             {{ if $data.physical }} &middot; <span>Ships to: {{ delimit $data.zones ", " }}</span>{{ end }}
             {{ if gt (len $data.advances) 0 }}
-                &middot; <span><span>Comes After: </span>{{ partial "views/link-list" $data.advances }}</span>
+                &middot; <span><span>Comes After: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data.advances }}</span></span>
             {{ end }}
             {{ if gt (len $data.precedes) 0 }}
-                &middot; <span><span>Comes Before: </span>{{ partial "views/link-list" $data.precedes }}</span>
+                &middot; <span><span>Comes Before: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data.precedes }}</span></span>
             {{ end }}
         </div>
         <h1 class="font-size-xl align-left margin-none" data-pagefind-meta="title">{{ .Title }}</h1>

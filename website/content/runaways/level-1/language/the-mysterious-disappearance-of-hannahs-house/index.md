@@ -14,7 +14,7 @@ description: |
   Once a single location remains, you know Hannah lives there!
 
 contents:
-- @TODO
+- "@TODO"
 
 level: 1
 language: "EN"

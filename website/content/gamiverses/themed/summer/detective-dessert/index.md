@@ -3,7 +3,7 @@ type: "product"
 title: "Detective Dessert"
 id: "detective-dessert"
 price: 9.95
-date: 2026-05-05
+date: 2025-05-05
 image: ["detective-dessert-header.webp", "detective-dessert-1.webp", "detective-dessert-2.webp", "detective-dessert-3.webp"]
 file: "a2c99c6b-957e-45b6-a126-73bbbe5174ed"
 spell: ["summer-batch-1"]

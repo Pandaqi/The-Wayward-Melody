@@ -2,7 +2,7 @@
 type: "product"
 title: "Eggpainters"
 id: "eggpainters"
-date: 2026-03-01
+date: 2025-03-01
 price: 9.95
 image: ""
 file: "@TODO"

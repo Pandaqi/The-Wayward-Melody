@@ -2,7 +2,7 @@
 type: "product"
 title: "Easter Puzzle Pack"
 id: "easter-puzzle-pack"
-date: 2026-03-01
+date: 2025-03-01
 price: 9.95
 image: "puzzle-pack-header.webp"
 file: "2fe72572-77b3-452d-a8d2-981b5dc4c43b"

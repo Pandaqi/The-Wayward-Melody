@@ -116,7 +116,7 @@ Similarly, I played a lot of board games (such as Scrabble) as a kid. I read all
 
 When I was done with high school, I was forced to study (applied) mathematics. Because my parents, like most parents unfortunately, were absolutely certain that everyone _had_ to go to university and you _had_ to study something that was really tough and meaningful. I actually finished that degree with more than reasonable grades, while all my study books were left somewhere ... in a dusty box ... still inside their plastic wrapper. _University did not teach me anything. I learned advanced mathematics from programming and designing video games._
 
-I read books before I was supposed to be able to read, and now I'm a prolific writer in multiple languages. I taught myself how to code by simply _trying_ it, failing, failing again, and that's the fastest way to learn. I've never been specifically taught about things like (managing) finances or planning (ahead), but never struggled with it (despite being severely hyperactive), because those are all skills you hone by playing board games. 
+I read books before I was supposed to be able to read, and now I'm a prolific writer in multiple languages. I taught myself how to code by simply _trying_ it, failing, failing again, and that's the fastest way to learn. I've never been specifically taught things like (managing) finances or planning (ahead), but never struggled with it (despite being severely hyperactive), because those are all skills you hone by playing board games. 
 
 Seriously. Monopoly is a terrible game, yes, but play it a few times with your kids, and they suddenly understand bargaining, monetary value, risk, and debt _very very well_ ;)
 

@@ -3,8 +3,9 @@ type: "product"
 title: "De vintage verhalenbundel"
 id: "vintage-verhalenbundel-sneakpeek"
 date: 2017-04-04
-price: 2.95
-image: [de_vintage_verhalenbundel.webp]
+price: 0.00
+free: true
+image: [de-vintage-verhalenbundel.webp]
 file: "0d0dbe1d-9bf7-4e48-a9fb-a1aa12e19367"
 description: "Een collectie van de alleroudste schrijfwerken van een zeer jonge Tiamo pastoor."
 
@@ -20,12 +21,18 @@ level: 3
 
 ---
 
-Deze bundel is vooral bedoeld om te laten zien waar elke kunstenaar begint. Het bevat in totaal een stuk of 15 pogingen tot verhalen schrijven, waarbij sommige afkwamen en veelbelovend waren, en andere niet verder kwamen dan een paar hoofdstukken. 
+Deze bundel is vooral bedoeld om te laten zien waar elke kunstenaar begint. Het bevat in totaal een stuk of 15 pogingen tot verhalen schrijven, waarbij sommige werden afgeschreven en veelbelovend waren, en andere niet verder kwamen dan een paar hoofdstukken. 
 
-De _allereerste_ pogingen tot boeken waren natuurlijk handgeschreven, ergens in een schoolschriftje, toen Tiamo nauwelijks kon lezen en schrijven. Die zijn verloren aan de tand des tijds---en waren, gezien zijn handschrift, waarschijnlijk toch niet te ontcijferen. Maar deze bundel bevat vrijwel alles van daarna, tot het moment dat Tiamo volwassen werd en schrijver serieuzer werd genomen. (Het meeste werk vanaf dat moment is natuurlijk afgekomen en professioneel gepubliceerd.)
-
-Raak geïnspireerd door de ideeën. Zie hoe een schrijver langzaam beter wordt en realiseert dat bepaalde dingen wel of niet werken. Of duik simpelweg in een geschreven historie van een kind dat probeert naast schooltijd (en duizend andere interesses) wat verbeelding op papier te krijgen.
+De _allereerste_ pogingen tot boeken waren natuurlijk handgeschreven, ergens in een schoolschriftje, toen Tiamo nauwelijks kon lezen en schrijven. Die zijn verloren aan de tand des tijds---en waren, gezien zijn handschrift, waarschijnlijk toch niet te ontcijferen. Deze bundel bevat vrijwel alles van daarna, tot het moment dat Tiamo volwassen werd en schrijver serieuzer werd genomen. 
 
 {{% remark %}}
-Al die jaren werkte Tiamo in het programma **Scrivener**. Deze verhalen zijn een directe kopie (en conversie tot Markdown) vanuit die eeuwenoude projectfolder. Tiamo vond dat programma toentertijd erg fijn, maar heeft het nu al lang en breed achter zich gelaten.
+Het meeste werk vanaf dat moment is natuurlijk afgekomen en professioneel gepubliceerd. Zie de _Explorers_ categorie, of [Tiamo's auteurswebsite](https://tiamopastoor.com).
+{{% /remark %}}
+
+Raak geïnspireerd door de ideeën. Zie hoe een schrijver langzaam beter wordt (of niet) en realiseert dat bepaalde dingen wel of niet werken. Of duik simpelweg in een geschreven historie van een kind dat probeert naast schooltijd (en duizend andere interesses) wat verbeelding op papier te krijgen.
+
+Al die jaren werkte Tiamo in het programma **Scrivener**. Deze verhalen zijn een directe kopie (en conversie tot _Markdown_) vanuit die eeuwenoude projectfolder. Tiamo vond dat programma toentertijd erg fijn, maar heeft het nu al lang en breed achter zich gelaten.
+
+{{% remark %}}
+Het bevat geen sprookjes. Het plaatje bij dit product was het eerste dat AI mij gaf toen ik "De vintage verhalenbundel" intypte, en ik vond het wel een leuke sfeer hebben. Leuker dan een screenshot van een stuk tekst, dat zeker.
 {{% /remark %}}

@@ -3,7 +3,7 @@ draft: true
 type: "product"
 title: "Saving Sergeant Sandcastle"
 id: "saving-sergeant-sandcastle"
-date: 2026-05-05
+date: 2025-05-05
 price: 9.95
 image: ["saving-sergeant-sandcastle-header.webp", "saving-sergeant-sandcastle-1.webp", "saving-sergeant-sandcastle-2.webp", "saving-sergeant-sandcastle-3.webp"]
 file: "@TODO"

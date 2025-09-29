@@ -67,7 +67,7 @@ Fun Fact: The Noisy Tongues are fun creatures (with prominent tongues ...) known
 
 {{% remark %}}
 The rulebook contains a clear overview of **how to pronounce each phoneme!** You can keep this cheat sheet at hand while playing that variant of the game.
-{[% /remark %]}
+{{% /remark %}}
 
 {{% remark %}}
 This game includes a **material generator**! This is just a file you can open in any browser. It allows you to completely customize the material and generate a new PDF. For example: pick a bigger size or disallow difficult cards. Our Material Generator system is a custom tool that we've developed over 5 years of making games (at Pandaqi), which means it's powerful and we use it ourselves. We hope you find it useful too!

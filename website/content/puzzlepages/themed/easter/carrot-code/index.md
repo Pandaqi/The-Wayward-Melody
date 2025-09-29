@@ -2,7 +2,7 @@
 type: "product"
 title: "Bunnyhop Brigade"
 id: "bunnyhop-brigade"
-date: 2026-03-01
+date: 2025-03-01
 price: 6.95
 image: ""
 file: "@TODO"

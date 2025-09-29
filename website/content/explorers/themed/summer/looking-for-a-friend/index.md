@@ -2,7 +2,7 @@
 type: "product"
 title: "Looking For A Friend"
 id: "looking-for-a-friend"
-date: 2026-05-05
+date: 2025-05-05
 price: 9.95
 image: ["looking-for-a-friend-header.webp", "looking-for-a-friend-1.webp", "looking-for-a-friend-2.webp", "looking-for-a-friend-3.webp"]
 file: "@TODO"

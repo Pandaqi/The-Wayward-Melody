@@ -17,12 +17,12 @@ contents:
 - 12 Challenges to count how often a shape appears in a (simple) image
 - Each challenge tests a new basic shape and provides an illustrated answer at the bottom.
 
-level: 1
+level: 2
 language: "EN"
 subject: "Logic"
 categories: ["shapes", "geometry"]
 player-count: 1
-age: 3
+age: 5
 # requirements: ""
 # single-use: false
 # duration: 60

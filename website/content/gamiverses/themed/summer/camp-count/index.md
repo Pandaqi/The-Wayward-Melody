@@ -3,7 +3,7 @@ type: "product"
 title: "Camp Count"
 id: "camp-count"
 price: 9.95
-date: 2026-05-05
+date: 2025-05-05
 image: ["camp-count-header.webp", "camp-count-1.webp", "camp-count-2.webp", "camp-count-3.webp"]
 file: "d1ec11bc-3918-4397-84ed-761f7c635ce2"
 spell: ["summer-batch-1"]

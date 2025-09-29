@@ -9,7 +9,7 @@ file: "05ab02f1-e131-45e6-9602-660dfd1816b4"
 spell: ["phoneme-awareness"]
 description: | 
   How do you play a language game
-  With people who don't can't read yet?
+  With people who can't read yet?
   Shufflespeak gives the answer
   Is it simple, educational, and fun? You bet!
 

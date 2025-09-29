@@ -2,7 +2,7 @@
 type: "product"
 title: "Crossyllabi Reader"
 id: "crossyllabi-reader"
-date: 2026-04-26
+date: 2025-04-26
 price: 7.95
 image: ["crossyllabi-reader.header.webp", "crossyllabi-reader-screenshot-0.webp", "crossyllabi-reader-screenshot-1.webp", "crossyllabi-reader-screenshot-2.webp"]
 file: "@TODO"

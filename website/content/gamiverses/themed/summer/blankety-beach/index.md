@@ -3,7 +3,7 @@ type: "product"
 title: "Blankety Beach"
 id: "blankety-beach"
 price: 9.95
-date: 2026-05-05
+date: 2025-05-05
 image: ["blankety-beach-header.webp", "blankety-beach-1.webp", "blankety-beach-2.webp", "blankety-beach-3.webp", "blankety-beach-4.webp"]
 file: "f27e66e1-1562-41f5-9e54-694799feacd4"
 spell: ["summer-batch-1"]

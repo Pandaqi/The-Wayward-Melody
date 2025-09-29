@@ -7,7 +7,7 @@ price: 9.95
 image: ""
 file: "@TODO"
 spell: "my-first-numbers"
-advances: "my-first-grouping"
+advances: "my-first-groups"
 description: | 
   Once your apprentice has mastered comparing, sorting and more
   It might be time for the real deal, so find the witches
@@ -32,7 +32,7 @@ contents:
 
 level: 2
 language: "EN"
-subject: "Maths"
+subject: "Mathematics"
 categories: ["numbers", "counting"]
 player-count: 1-100
 age: 3
@@ -61,7 +61,13 @@ guardian-required: true
 
 ---
 
-This resource is intended to be the final topic in the maths/logic department in level 1. Once people can compare and group "things", they are ready to start assigning numbers to them. To not only say "group A is larger than B", but "group A has 5 items and group B has only 3". In a way, thus far, your apprentice has already been counting, but they just haven't "formalized" it yet (by learning the words and further meaning).
+This resource is intended to be the very first one for the topic of Mathematics (and Logic) in level 2. Because it finally teaches _numbers_ and _counting_!
+
+Level 1 ended with "Comparing" and "Grouping". Once people can compare and group "things", they are ready to start assigning numbers to them. To not only say "group A is larger than B", but "group A has 5 items and group B has only 3". In a way, thus far, your apprentice has already been counting, but they just haven't "formalized" it yet (by learning the words and further meaning).
+
+{{% remark %}}
+Interestingly, this is the point where human skill diverges from the skill of monkeys. Monkeys, like most animals, can easily compare if one pile of food is bigger than the other pile. But research shows this process breaks down once the piles get too large---say 30 bananas vs 27 bananas---because it seems impossible for animals to actually _count_ the piles. 
+{{% /remark %}}
 
 This leap in skill _combines_ the three basic skills of math, language and understanding the world around you. This makes it very natural to some (as the skills help each other grow), but extra challenging for others (as they're overwhelmed by how much to learn). We've tried to provide a wide variety of ways to approach the topic and explore it until things click.
 
