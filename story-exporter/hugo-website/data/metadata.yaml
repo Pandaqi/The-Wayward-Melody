@@ -1,12 +1,8 @@
 ---
-title:
-- type: main
-  text: The Triksy Translator
-description: "Aliens land in the animal forest and speak a different language. One person appears who claims he can translate for them, but after every translation the aliens seem to like him more and more, and everyone else less and less ..."
+title: "The Cradle of Comm Pear"
+description: "A story about a father pear comparing homes to find the best one for his daughter."
 cover-image: "./epub/cover.png"
 css: "./epub/ebook_style.css"
 lang: en-EN
-creator:
-- role: author
-  text: Tiamo Pastoor
+creator: Tiamo Pastoor
 ---

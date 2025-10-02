@@ -1,6 +1,6 @@
 ---
 type: "product"
-title: "Easter Busy Book"
+title: "Easter Busy Book (Level 2)"
 id: "easter-busy-book-level-2"
 price: 9.95
 date: 2025-02-18

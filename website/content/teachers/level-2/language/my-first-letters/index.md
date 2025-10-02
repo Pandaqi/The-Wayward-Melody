@@ -6,7 +6,8 @@ date: 2025-08-26
 price: 4.95
 image: ""
 file: "@TODO"
-spell: ["my-first-letters"]
+spell: "my-first-letters"
+advances: "phoneme-awareness"
 description: | 
   The first step to understanding a word
   Is to recognize letter shape and sound

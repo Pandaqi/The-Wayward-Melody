@@ -1,10 +1,10 @@
 ---
 type: "product"
 title: "Quiz of Color"
-id: "quiz-of-Color"
+id: "quiz-of-color"
 date: 2025-04-26
 price: 9.95
-image: ["quiz-of-color-header.webp", "quiz-of-color-screenshot-1.webp", "quiz-of-color-screenshot-2.webp"]
+image: ["quiz-of-color-header.webp", "quiz-of-color-1.webp", "quiz-of-color-2.webp"]
 file: "a261b814-413f-4cbb-a040-2ead6782502e"
 spell: ["my-first-colors"]
 description: | 

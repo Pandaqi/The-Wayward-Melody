@@ -1,120 +1,44 @@
 ---
-title: "When Aliens Arrived"
+title: "The Yard of Evergreener"
 weight: 10
 ---
 
-# When Aliens Arrived
+# The Yard of Evergreener
 
-It was a peaceful day in the forest until it wasn't. Bunnies played in the shade of a tree, until the tree was suddenly gone. Squirrels ran around a rock, until suddenly a large machine sat on top.
+Comm the Pear looked everywhere. He had eyes, arms, and legs, which was a little strange, maybe. But most strange of all, he was about to have a baby!
 
-A machine shaped like a plate. But it had no food on top, no, but a glass window instead. And behind the glass they saw a green creature they had never seen before.
+He'd always wanted a child. He loved his daughter already, before she was born. She deserved the best home, the softest bed, and beautiful clothes that loved to be worn.
 
-The animals gathered around. They touched the thing, they sniffed the thing, they looked the creature in the eye. Until a second machine landed nearby.
+But when Comm looked around, he didn't see any of that. He had always lived in a tiny cottage, broken and bad. Some nights he couldn't sleep because of mosquitoes and noise. And when he wanted to walk through his garden, he realized he did not have one of those!
 
-Before the day was over, the forest was covered in those spinning plates. With a puff and a thump, they stopped rotating. And then, the glass window opened and the green creatures jumped out.
+Surely his daughter deserved something better. And so Comm the pear looked everywhere.
 
-The bunnies retreated, thinking they were being attacked.
+He looked beneath stones and he looked behind trees. He asked an apple for advice; he even asked some bees.
 
-The squirrels climbed the trees, trying to get higher than them.
+"Well, what are you looking for?" they asked him at last.
 
-The wolves jumped in front of everyone else, showing how strong they were, and how tall.
+Comm thought for a while, then said: "My daughter wants a garden---the best!"
 
-"Who are you?" demanded the largest wolf. "And how dare you make our trees fall!"
+"A garden? With flowers? Sure, we know them all." And so the bees led him to a patch of green, with grass as tall as a wall.
 
-The creatures didn't respond. They looked at him with glassy eyes, which never needed to blink. They waved their three arms---_three arms!?_
+Comm smiled and was overjoyed, thinking his daughter would love to live here. But then he made a mistake: he looked away from here.
 
-"Answer me!" said the wolf. "Or we will attack!"
+In the distance he saw a field that was even _more green_. The bees tried to stop him, but Comm knew what he'd seen.
 
-The creatures still didn't do much. They looked at each other. They pointed at their machines, as if that explained anything.
+Everyone knows, dear listener, that green plants are the best. The greener the plant, the healthier, and it also just looks nicer like that.
 
-Then they finally made a sound: _VLOOMKZ!_
+Comm smiled even more, touching the greener grass. He found a great garden, no, he found the best!
 
-VLOOMKZ? Did they hear that right?
+Until he made a mistake: he looked into the distance again. Past the bridge, across the river, he saw another grassy plain.
 
-"What ... what does that _mean_?" asked the wolf, turning around.
+It was even _greener_. It made his current yard look dull and gray. He ran to over there and thought: "In this garden my daughter would love to play!"
 
-The bunnies shrugged. The squirrels tried to get into one of the machines, which accidentally turned it on again. The wolves were pretty sure that was _not_ an existing word.
+The bees had seen this before. They buzzed and buzzed to warn him, but Comm paid it no mind. He ran in circles, all day long, because the grass always looked greener on the other side.
 
-"Can you say that again?" they asked.
+The sun went down. The bees went to bed. And still Comm was running, finding the best yard to be had.
 
-The creatures said it again. Four more times, in fact. But it still sounded like VLOOMKZ, and they might as well have been speaking a different---
+He had searched through the entire forest, front and back. Now it was impossible in the dark, when everything around him looked black. 
 
-"Ahem," said a voice in the back. Someone raised their hand. That was already strange, for most animals in the forest didn't have _hands_. They coughed loudly to get everyone's attention, then walked up to the green creatures. On two legs. Very weird. 
+Finally he thought: maybe a garden isn't so important. My daughter probably wants _water_ more, to swim and wash her peary face.
 
-In fact, this boy looked a bit like the creatures too. His skin was greenish and he had two antannae on his forehead. "I am VLUUK. You're doing it all wrong. Allow me?"
-
-The animals couldn't remember seeing this person before. But then again, the forest was big and, clearly, strange things happened here.
-
-Vluuk waved at the creatures. They waved back. Did he know them? Were they family?
-
-"Step back everyone," said Vluuk, waving his arms. "These are dangerous ... _aliens_."
-
-"_Aliens!?_"
-
-The animals gasped. Even the wolves stepped back, leaving Vluuk alone with the creatures.
-
-"Yes, yes," said Vluuk. "They come from a different _planet_."
-
-"You mean ... like ... they come from somewhere else in the sky?" asked a bunny.
-
-Surprisingly, most animals in this forest knew what a planet was. They would have even had working spaceships if it hadn't been for the accident with the wooden rocket. Then again, these were talking animals in a magical forest.
-
-"Indeed," answered Vluuk. "They come from the planet called BLOOP."
-
-"How ... how do you know?"
-
-"Oh, I read books. You know. I get around. I'm _smart_."
-
-Vluuk grinned and waved again at the green creatures. They started speaking, very quickly, and everyone else was too far away to hear it.
-
-"What are they saying?" yelled a wolf from a safe distance.
-
-"Oh, they are very happy to meet you!" said Vluuk. "This is Tom. That one is Jerry. They crashed in the forest with their UFO."
-
-"What's a UFO?"
-
-"An _Unexplained Foresty Object_, duh," said Vluuk quickly. "Now, do you have anything I should tell _them_?"
-
-The animals thought about this. They gathered in a circle.
-
-"What should we say?" asked a bunny.
-
-"We should ask if we can borrow one of their ... UFOs," said a squirrel.
-
-"We are _not_ stealing their machine," said a wolf. He gazed at the creatures, who were all shaking Vluuk's hand now. Which always took a while if you had three or more hands. "I remember seeing a movie about this once on the tree-a-vision. Aren't you supposed to show them that you're friendly, or something?"
-
-"Yes! Yes, that's it," said the bunny. "We need to tell them they are safe. We will help them, if they help us. We are _friends_!"
-
-"A good idea!"
-
-The circle split apart. 
-
-The wolf trotted to Vluuk. "Tell them they are safe here."
-
-Vluuk nodded and said: "BOO SOOF!"
-
-The creatures fell silent. Vluuk said it again, and the creatures started talking to each other.
-
-"Okay," said the wolf, "now tell them we want to help them! Repair their ship!"
-
-Vluuk got their attention again and said: "BOOPOOR SHOOP!"
-
-The wolf thought their language sounded an awful lot like cows. Not much variation in the sounds. But he was glad Vluuk could translate, because he could have never figured it out himself!
-
-"Now tell them---"
-
-The aliens suddenly growled. Their faces went red, and some jumped back into their machines.
-
-Vluuk raised one arm. He used the other to push the wolf back to safety.
-
-"Oh no! You made them angry!"
-
-"What? By offering help?"
-
-"Run!"
-
-Run they did. Because, let me tell you, when hundreds of angry little green aliens are out to destroy your forest ... you better find a place to hide.
-
-Or, so thought a brave bunny, you had to try and learn their language too.
-
-As everyone else ran away---and squirrels climbed the trees again---a single bunny stayed around and walked _towards_ the aliens.
+The next day Comm woke up and searched for a wetter place ...

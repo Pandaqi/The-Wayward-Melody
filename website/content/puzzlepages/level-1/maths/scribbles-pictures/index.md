@@ -58,5 +58,5 @@ Because, when you're done, and you did it right ... a recognizable image appears
 As always, early puzzles are very simple and teach the idea. The images that come out are, as expected, not too dazzling. Higher difficulty levels scale up the grids and add rules twists that explore more skills and lead to nicer pictures.
 
 {{% remark %}}
-If your Apprentice likes this, or maybe wants something even simpler, consider the very first [Scribbles: Big & Small](/puzzlepages/level-1/maths/scribbles-pictures/) puzzle we made too.
+If your Apprentice likes this, or maybe wants something even simpler, consider the very first [Scribbles: Big & Small](/puzzlepages/level-1/maths/scribbles-big-and-small/) puzzle we made too.
 {{% /remark %}}

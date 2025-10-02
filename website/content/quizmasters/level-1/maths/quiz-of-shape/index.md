@@ -1,10 +1,10 @@
 ---
 type: "product"
 title: "Quiz of Shape"
-id: "quiz-of-Shape"
+id: "quiz-of-shape"
 date: 2025-04-26
 price: 9.95
-image: ["quiz-of-shape-header.webp", "quiz-of-shape-screenshot-1.webp", "quiz-of-shape-screenshot-2.webp"]
+image: ["quiz-of-shape-header.webp", "quiz-of-shape-1.webp", "quiz-of-shape-2.webp"]
 file: "b06d120d-8c8b-4c83-8bfd-65c9f2473dd3"
 spell: ["my-first-shapes"]
 description: | 

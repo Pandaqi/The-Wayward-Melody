@@ -63,8 +63,8 @@
 
         <!-- Front Page -->
         {{ $custom_data := index .Site.Data "metadata" }}
-        {{ $title := index (index (index $custom_data "title") 0) "text" }}
-        {{ $author := index (index (index $custom_data "creator") 0) "text" }}
+        {{ $title := index $custom_data "title" }}
+        {{ $author := index $custom_data "creator" }}
         <div class="cover-text">
             <h2 class="cover-title">{{ $title }}</h2>
             <p class="cover-author">{{ $author }}</p>
