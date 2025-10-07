@@ -5,7 +5,7 @@ id: "quiz-of-autumn"
 date: 2025-09-26
 price: 9.95
 image: ["quiz-of-autumn-header.webp", "quiz-of-autumn-1.webp", "quiz-of-autumn-2.webp", "quiz-of-autumn-3.webp", "quiz-of-autumn-4.webp", "quiz-of-autumn-5.webp"]
-file: "@TODO"
+file: "05a0195f-0e57-4680-a3b8-f95c6bc0ef26"
 spell: "seasons"
 description: | 
   Ah, the season of autumn arrived
@@ -15,18 +15,18 @@ description: |
 
 contents:
 - Instructions PDF
-- Digital Quiz (open in any browser); 62 questions
+- Digital Quiz (open in any browser); 35 questions
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
 
-level: 2
+level: 1
 language: "EN"
 categories: ["seasons", "autumn"]
 player-count: 1-100
-age: 5
+age: 4
 # requirements: ""
 # single-use: false
-duration: 60
+duration: 45
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -51,10 +51,15 @@ interactive-media: true
 
 This is a quiz about **Autumn / Fall** (the season). It contains questions about what typically happens in this season and interesting properties about it.
 
-It's a perfect activity to play during the fall, especially with young kids or in the classroom!
+It's a perfect activity to play during the fall, especially with young kids or in the classroom! For a much more challenging quiz suitable for families/adults, check out the [Quiz of Autumn Pro](/quizmasters/themed/seasons/quiz-of-autumn-pro/) instead.
 
 It uses our custom quizzing system, which allows it to be highly interactive and to be played both digitally and physically. The questions are short, simple, and varied. Almost all of them include an image, audio, or video.
 
-It's divided into 8 rounds, 62 questions total.
+It's divided into 6 rounds, 35 questions total.
 
-* @TODO
+* General Knowledge
+* Autumn Sounds
+* The Season's Changing
+* Autumn Sights
+* Harvest Holiday
+* Autumn Around The World.

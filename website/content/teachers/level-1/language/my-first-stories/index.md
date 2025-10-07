@@ -7,7 +7,7 @@ price: 5.95
 image: ""
 file: "@TODO"
 spell: "my-first-stories"
-advances: "phonemic-phun"
+advances: "phoneme-awareness"
 description: | 
   With a few words and letters under your belt
   An apprentice can quickly start to appreciate a tale

@@ -6,7 +6,7 @@ date: 2025-10-04
 price: 5.95
 image: ["quiz-of-world-animal-day-header.webp", "quiz-of-world-animal-day-1.webp", "quiz-of-world-animal-day-2.webp", "quiz-of-world-animal-day-3.webp", "quiz-of-world-animal-day-4.webp", "quiz-of-world-animal-day-5.webp", "quiz-of-world-animal-day-6.webp"]
 file: "bcf0219e-458a-4f64-9d83-774b18985626"
-spell: "holidays-misc"
+spell: "holidays-batch-1"
 description: | 
   To raise awareness of animals all around
   Their welfare and their sway

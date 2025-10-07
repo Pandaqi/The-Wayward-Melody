@@ -6,7 +6,7 @@ date: 2025-03-01
 price: 8.95
 image: ["quiz-of-fathersday-header.webp", "quiz-of-fathersday-1.webp", "quiz-of-fathersday-2.webp", "quiz-of-fathersday-3.webp", "quiz-of-fathersday-4.webp", "quiz-of-fathersday-5.webp", "quiz-of-fathersday-6.webp"]
 file: "cfe7970b-3b35-4fc4-be64-171e73f00ffd"
-spell: ["holidays-misc"]
+spell: "holidays-batch-1"
 description: | 
   To celebrate fathers
   And the safety they bring

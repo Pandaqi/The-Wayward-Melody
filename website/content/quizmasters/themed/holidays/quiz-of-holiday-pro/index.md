@@ -6,7 +6,7 @@ date: 2025-03-01
 price: 9.95
 image: ["quiz-of-holiday-pro-header.webp", "quiz-of-holiday-pro-1.webp", "quiz-of-holiday-pro-2.webp", "quiz-of-holiday-pro-3.webp", "quiz-of-holiday-pro-4.webp", "quiz-of-holiday-pro-5.webp", "quiz-of-holiday-pro-6.webp", "quiz-of-holiday-pro-7.webp", "quiz-of-holiday-pro-8.webp"]
 file: "a003f0ab-58c8-4970-8605-a8827d7878f9"
-spell: ["holidays-misc"]
+spell: "holidays-batch-1"
 description: | 
   A quiz for a summer night
   On holiday, below sunlight

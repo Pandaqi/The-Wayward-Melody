@@ -6,8 +6,8 @@ date: 2025-05-26
 price: 9.95
 image: ["phoneme-phinals-header.webp", "phoneme-phinals-1.webp", "phoneme-phinals-2.webp", "phonemic-phun-3.webp", "phonemic-phun-4.webp"]
 file: "@TODO"
-spell: ["phoneme-awareness"]
-advances: ["phonemic-phun"]
+spell: "phoneme-awareness"
+advances: "rhyme-and-alliteration"
 description: | 
   Once you've learned what phonemes are
   And how they build every word you know
