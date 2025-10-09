@@ -7,6 +7,7 @@ price: 9.95
 image: ["chronicles-of-the-colorblind-header.webp", "chronicles-of-the-colorblind-1.webp", "chronicles-of-the-colorblind-2.webp", "chronicles-of-the-colorblind-3.webp", "chronicles-of-the-colorblind-4.webp", "chronicles-of-the-colorblind-5.webp"]
 file: "96c05080-6482-49e1-adc1-328419f921fa"
 spell: ["my-first-colors", "my-first-emotions"]
+advances: "my-first-shapes"
 description: | 
   A strange magic runs the Rainbow World
   As emotions paint the land certain colors and tints

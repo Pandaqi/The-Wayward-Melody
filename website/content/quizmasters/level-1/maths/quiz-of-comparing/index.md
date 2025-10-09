@@ -4,8 +4,8 @@ title: "Quiz of Comparing"
 id: "quiz-of-comparing"
 date: 2025-09-26
 price: 9.95
-image: ["quiz-of-comparing-header.webp", "quiz-of-comparing-1.webp", "quiz-of-comparing-2.webp"]
-file: "@TODO"
+image: ["quiz-of-comparing-header.webp", "quiz-of-comparing-1.webp", "quiz-of-comparing-2.webp", "quiz-of-comparing-3.webp", "quiz-of-comparing-4.webp", "quiz-of-comparing-5.webp", "quiz-of-comparing-6.webp", "quiz-of-comparing-7.webp"]
+file: "f0f8bc6f-59d1-41e9-b26f-77075b9e071a"
 spell: "my-first-comparisons"
 description: | 
   A quiz to test your understanding

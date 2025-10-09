@@ -7,6 +7,7 @@ price: 9.95
 image: ["parables-of-prestory-header.webp", "parables-of-prestory-1.webp", "parables-of-prestory-2.webp", "parables-of-prestory-3.webp", "parables-of-prestory-4.webp", "parables-of-prestory-5.webp", "parables-of-prestory-6.webp", "parables-of-prestory-7.webp", "parables-of-prestory-8.webp"]
 file: "21a4dd4a-8c84-41f4-bb39-5304622c4dae"
 spell: "my-first-stories"
+advances: "phoneme-awareness"
 description: | 
   A set of magical stories
   Explaining how stories work at all

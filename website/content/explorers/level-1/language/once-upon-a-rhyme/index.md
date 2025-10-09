@@ -7,6 +7,7 @@ price: 9.95
 image: ["once-upon-a-rhyme-header.webp", "once-upon-a-rhyme-1.webp", "once-upon-a-rhyme-2.webp", "once-upon-a-rhyme-3.webp", "once-upon-a-rhyme-4.webp"]
 file: "22013a07-a9e4-4813-ab84-b6008d93e99a"
 spell: "rhyme-and-alliteration"
+advances: "syllable-awareness"
 description: | 
   Two neighbor kingdoms, a Prince and Princess
   But one always copies what the other one has!

@@ -1,7 +1,7 @@
 ---
 type: "product"
-title: "Quiz of Grouping"
-id: "quiz-of-grouping"
+title: "Quiz of Cooperation"
+id: "quiz-of-cooperation"
 date: 2025-09-26
 price: 9.95
 image: ["quiz-of-grouping-header.webp", "quiz-of-grouping-1.webp", "quiz-of-grouping-2.webp"]

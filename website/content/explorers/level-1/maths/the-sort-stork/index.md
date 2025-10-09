@@ -4,9 +4,10 @@ title: "The Sort Stork"
 id: "the-sort-stork"
 date: 2025-04-26
 price: 9.95
-image: ["the-sort-stork-header.webp", "the-sort-stork-1.webp", "the-sort-stork-2.webp", "the-sort-stork-3.webp"]
+image: ["the-sort-stork-header.webp", "the-sort-stork-1.webp", "the-sort-stork-2.webp", "the-sort-stork-3.webp", "the-sort-stork-4.webp", "the-sort-stork-5.webp"]
 file: "@TODO"
 spell: "my-first-groups"
+advances: "my-first-comparisons"
 description: | 
   High up in the cloud palace
   The Sort Stork makes sure your letter arrives
@@ -30,7 +31,7 @@ The Sort Stork has an important job. They live in the cloud palace and have to s
 
 But the villainous Chaos Cat works against them, because they don't want a specific letter to be delivered. Follow the Sort Stork as they sort and group letters in all sorts of ways, trying to do their work despite the chaos!
 
-This story is split into **10 chapters**. Each chapter is written to be as standalone as possible, so you can read _one short chapter_ to your Apprentice(s) at a time. See it as many short stories combined into one bundle because there's a subtle overarching thread.
+This story is split into **10 chapters**. Each chapter is written to be as standalone as possible, so you can read _one short chapter_ to your Apprentice(s) at a time. See it as many short stories combined into one bundle, with an overarching thread that connects them.
 
 It explores the idea of logically grouping items, which---combined with the previous resources on _comparing_---allows sorting as well. This isn't just a nice skill to have for games or jobs, but an essential logical skill to finetune. All day, every day, we're constantly making good decisions and logical snap judgements because we were able to see patterns ("group alike things") and set priorities ("this task is more important than that task"). 
 

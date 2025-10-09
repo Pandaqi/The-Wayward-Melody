@@ -4,8 +4,8 @@ title: "My First Stories"
 id: "my-first-stories"
 date: 2025-05-26
 price: 5.95
-image: ""
-file: "@TODO"
+image: ["my-first-stories-header.webp", "my-first-stories-1.webp", "my-first-stories-2.webp", "my-first-stories-3.webp"]
+file: "79141b13-d111-4f88-b7b7-9e8166a9817e"
 spell: "my-first-stories"
 advances: "phoneme-awareness"
 description: | 
@@ -26,7 +26,7 @@ contents:
 level: 1
 language: "EN"
 subject: "Language"
-categories: ["phoneme-awareness", "alphabet", "syllable-awareness"]
+categories: ["stories", "cause-and-effect"]
 player-count: 1-100
 age: 3
 # requirements: ""
@@ -60,6 +60,6 @@ Of course, with only a seed of language comprehension present in kids at this ag
 
 As the saying goes: "Parents just need to read, read, read until their little ones are ready to read, read, read"
 
-Our curriculum, of course, already involves stories every single step of the way. Almost every resource, about any topic, has a bundle of stories in the _Explorers_ faction. In fact, those were usually the very first products to be made! It all starts there.
+Our curriculum, of course, already involves stories every single step of the way. Almost every resource, about any topic, has a bundle of stories in the [Explorers](/explorers/) faction. In fact, those were usually the very first products to be made! It all starts there.
 
 Still, we wanted to add a standalone "teaching resource" about stories here that mostly explores _story structure_ and _comprehension_. Enjoying a good story and actually 100% understanding what happened are _different things_. This resource is about the second part; try any of our fairy tales for the first part.
