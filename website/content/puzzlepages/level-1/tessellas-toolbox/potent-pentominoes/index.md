@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["shapes", "tessellas-toolbox"]
 player-count: 1
 age: 4

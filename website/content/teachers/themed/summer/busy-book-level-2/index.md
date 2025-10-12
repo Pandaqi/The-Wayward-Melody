@@ -38,7 +38,7 @@ contents:
 
 level: 2
 language: "EN"
-subject: ["Logic", "Mathematics", "Language"]
+subject: ["Mathematics", "Language"]
 categories: ["holiday", "summer"]
 player-count: 1
 age: 5

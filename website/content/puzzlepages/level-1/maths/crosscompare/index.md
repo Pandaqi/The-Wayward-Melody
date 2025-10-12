@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: ["Logic", "Mathematics"]
+subject: "Mathematics"
 categories: ["comparing"]
 player-count: 1
 age: 3

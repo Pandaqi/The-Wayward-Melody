@@ -6,8 +6,8 @@ date: 2025-04-12
 price: 6.95
 image: ["word-awareness-header.webp", "word-awareness-1.webp", "word-awareness-2.webp", "word-awareness-3.webp"]
 file: "26856110-0d6d-4f98-aae3-d480681f30e1"
-spell: ["word-awareness"]
-advances: ["my-first-sounds"]
+spell: "word-awareness"
+advances: "my-first-sounds"
 description: | 
   The next step to learning language
   Is to break it down into individual parts

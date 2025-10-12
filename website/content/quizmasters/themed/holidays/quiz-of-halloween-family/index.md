@@ -54,7 +54,7 @@ This is a **family quiz** about **Halloween**! It contains a wide variety of que
 Don't worry, the quiz itself is _not_ scary or gory. It's aimed at casual families and kids, with a mix of easy and challenging questions.
 
 {{% remark %}}
-For a much harder, scarier or "grown-up" quiz about Halloween, check out [Quiz of Halloween: Pro](/quizmasters/themed/quiz-of-halloween-pro/) instead!
+For a much harder, scarier or "grown-up" quiz about Halloween, check out [Quiz of Halloween: Pro](/quizmasters/themed/holidays/quiz-of-halloween-pro/) instead!
 {{% /remark %}}
 
 It uses our custom quizzing system, which allows it to be highly interactive and to be played both digitally and physically. The questions are short, simple, and varied. Almost all of them include an image, audio, or video.

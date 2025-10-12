@@ -26,7 +26,7 @@ contents:
 
 level: 2
 language: "EN"
-subject: ["Logic", "Mathematics", "Language"]
+subject: ["Mathematics", "Language"]
 categories: ["holiday", "Easter"]
 player-count: 2-6
 age: 4

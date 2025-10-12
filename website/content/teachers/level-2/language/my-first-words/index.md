@@ -6,8 +6,8 @@ date: 2025-09-26
 price: 4.95
 image: ""
 file: "@TODO"
-spell: ["my-first-words"]
-advances: ["my-first-letters"]
+spell: "my-first-words"
+advances: "my-first-letters"
 description: | 
   Once you know a few symbols of the alphabet
   How they sound and perhaps also how they connect

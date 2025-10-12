@@ -19,7 +19,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["colors"]
 player-count: 1
 age: 3

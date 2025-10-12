@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: ["Logic", "Mathematics"]
+subject: "Mathematics"
 categories: ["colors"]
 # player-count: 1-100
 age: 4

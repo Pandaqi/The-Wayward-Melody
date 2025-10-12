@@ -25,7 +25,7 @@ external:
 
 level: 1
 language: "EN"
-subject: ["Logic", "Mathematics"]
+subject: "Mathematics"
 categories: ["comparing", "grouping", "spatial-awareness", "discrimination"]
 player-count: 2-8
 age: 4

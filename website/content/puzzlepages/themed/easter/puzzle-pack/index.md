@@ -30,7 +30,7 @@ contents:
 
 level: 2
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["holiday", "Easter"]
 player-count: 1
 age: 5

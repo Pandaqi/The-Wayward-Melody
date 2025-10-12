@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
 # player-count: 1-100
 age: 3

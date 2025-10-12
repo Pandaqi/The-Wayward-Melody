@@ -27,7 +27,7 @@ external:
 
 level: 2
 language: "EN"
-subject: ["Logic", "Mathematics"]
+subject: "Mathematics"
 categories: ["holiday", "summer", "deduction", "counting"]
 player-count: 2-5
 age: 5

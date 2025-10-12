@@ -6,7 +6,7 @@ date: 2025-04-26
 price: 5.95
 image: ""
 file: "@TODO"
-spell: ["recognition-and-discrimination"]
+spell: "recognition-and-discrimination"
 description: | 
   The first step to any path of learning and growth
   Is the ability to say things are the same (or not)
@@ -24,7 +24,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
 player-count: 1-100
 age: 3

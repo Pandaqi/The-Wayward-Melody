@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: ["Logic", "Mathematics"]
+subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-4
 age: 4

@@ -6,7 +6,7 @@ date: 2025-04-26
 price: 9.95
 image: ["the-tumbletail-games-header.webp", "the-tumbletail-games-1.webp", "the-tumbletail-games-2.webp", "the-tumbletail-games-3.webp"]
 file: "@TODO"
-spell: "sports-and-physical-games"
+spell: "my-first-gross-motor-skills"
 description: | 
   The Tumbletail Games is a legendary sporting event
   Attracting elephants, tigers, lions, and more
@@ -22,11 +22,11 @@ contents:
 level: 1
 language: "EN"
 subject: "Physical"
-categories: ["sports", "gross-motor-skills"]
+categories: ["sports", "physical-games"]
 
 ---
 
-_The Tumbletail Games_ are a legendary event. It attracts creatures large and small, slow and fast, from all over the world. They compete in a wide array of imaginative sports that no human has ever heard of, but which are certainly exciting. 
+_The Tumbletail Games_ is a legendary event. It attracts creatures large and small, slow and fast, from all over the world. They compete in a wide array of imaginative sports that no human has ever heard of, but which are certainly exciting. 
 
 @TODO: Give some examples of _specific_ sports and their names? ("How about the one where elephants use their trunks to throw heavy balls into nets so high you wouldn't be able to reach them?") => @TODO: Also update DESCRIPTION then, probably
 

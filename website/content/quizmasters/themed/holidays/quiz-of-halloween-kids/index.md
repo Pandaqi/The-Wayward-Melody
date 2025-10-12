@@ -54,7 +54,7 @@ This is a **kids quiz** about **Halloween**! It contains a wide variety of quest
 Don't worry, the quiz itself is _not_ scary or gory. It contains many image, audio and video clip questions to keep even the youngest players interested. It also contains a special round with shuffled letters at the end, which can of course be skipped if your players don't know the alphabet yet.
 
 {{% remark %}}
-For more challenging and less educational questions, which will also interest older kids and adults, check out the [Quiz of Halloween: Family](/quizmasters/themed/quiz-of-halloween-family/) instead!
+For more challenging and less educational questions, which will also interest older kids and adults, check out the [Quiz of Halloween: Family](/quizmasters/themed/holidays/quiz-of-halloween-family/) instead!
 {{% /remark %}}
 
 It uses our custom quizzing system, which allows it to be highly interactive and to be played both digitally and physically. The questions are short, simple, and varied. Almost all of them include an image, audio, or video.

@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: ["Logic"]
+subject: "Mathematics"
 categories: ["grouping", "association", "creativity"]
 player-count: 1-100
 age: 4

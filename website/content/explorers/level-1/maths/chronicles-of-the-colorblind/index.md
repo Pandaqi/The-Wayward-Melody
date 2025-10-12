@@ -23,7 +23,7 @@ contents:
 level: 1
 age: 5
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["colors", "emotions"]
 
 ---

@@ -6,7 +6,7 @@ date: 2025-04-26
 price: 4.95
 image: ["shapeseeing-header.webp", "shapeseeing-1.webp", "shapeseeing-2.webp"]
 file: "65ff815d-edf3-481f-95c9-91d7ca7ca72a"
-spell: ["my-first-shapes"]
+spell: "my-first-shapes"
 description: | 
   How many triangles do you see?
   How many circles?
@@ -19,7 +19,7 @@ contents:
 
 level: 2
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["shapes", "geometry"]
 player-count: 1
 age: 5

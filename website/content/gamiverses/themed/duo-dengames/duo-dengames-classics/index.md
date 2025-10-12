@@ -36,7 +36,7 @@ external:
 
 level: 1
 language: "EN"
-subject: ["Logic", "Mathematics"]
+subject: "Mathematics"
 categories: ["abstract-games", "duo-dengames"]
 player-count: 2
 age: 4

@@ -18,7 +18,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["holiday", "Easter"]
 
 ---

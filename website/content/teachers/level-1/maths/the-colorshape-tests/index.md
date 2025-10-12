@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["colors", "sorting"]
 player-count: 1-100
 age: 3

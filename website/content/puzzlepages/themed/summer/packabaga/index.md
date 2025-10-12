@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["holiday", "summer", "spatial-reasoning", "shapes"]
 player-count: 1
 age: 3

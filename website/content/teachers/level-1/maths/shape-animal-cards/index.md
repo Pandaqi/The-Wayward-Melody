@@ -7,7 +7,7 @@ price: 0.00
 free: true
 image: ["shape-animal-cards-header.webp", "shape-animal-cards-1.webp", "shape-animal-cards-2.webp"]
 file: "03179766-b4be-4ec7-b9f6-87f0971e1ea3"
-spell: ["my-first-shapes"]
+spell: "my-first-shapes"
 description: | 
   A collection of cute animals
   Drawn to look like a basic shape
@@ -19,7 +19,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["shapes", "geometry"]
 player-count: 1-100
 age: 3

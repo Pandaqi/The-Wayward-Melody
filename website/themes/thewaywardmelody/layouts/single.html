@@ -5,6 +5,7 @@
 <!--- Products show an image left, description + tags right --->
 {{ if $is_product }}
 {{ $data := partial "func/get-product-data" . }}
+{{ $data_curriculum := partial "func/get-curriculum-data" . }}
 {{ $good_type_string := cond $data.physical "Physical" "Digital" }}
 {{ $root_section := .FirstSection }}
 {{ $sub_section := .CurrentSection }}
@@ -37,11 +38,14 @@
             &middot; <span>Type: <span data-pagefind-filter="type" data-pagefind-meta="type">{{ $good_type_string }}</span></span>
             &middot; <span>Price: {{ $data.price }}</span>
             {{ if $data.physical }} &middot; <span>Ships to: {{ delimit $data.zones ", " }}</span>{{ end }}
-            {{ if gt (len $data.advances) 0 }}
-                &middot; <span><span>Comes After: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data.advances }}</span></span>
+            {{ if gt (len $data_curriculum.advances) 0 }}
+                &middot; <span><span>Comes After: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.advances }}</span></span>
             {{ end }}
-            {{ if gt (len $data.precedes) 0 }}
-                &middot; <span><span>Comes Before: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data.precedes }}</span></span>
+            {{ if gt (len $data_curriculum.shares) 0 }}
+                &middot; <span><span>Same Spell As: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.shares }}</span></span>
+            {{ end }}
+            {{ if gt (len $data_curriculum.precedes) 0 }}
+                &middot; <span><span>Comes Before: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.precedes }}</span></span>
             {{ end }}
         </div>
         <h1 class="font-size-xl align-left margin-none" data-pagefind-meta="title">{{ .Title }}</h1>

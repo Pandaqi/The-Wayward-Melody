@@ -7,7 +7,6 @@ price: 9.95
 image: ["astra-buni-and-the-magical-paintbrush-header.webp", "astra-buni-and-the-magical-paintbrush-1.webp", "astra-buni-and-the-magical-paintbrush-2.webp", "astra-buni-and-the-magical-paintbrush-3.webp"]
 file: "@TODO"
 spell: "pencil-control"
-advances: "sports-and-physical-games"
 description: | 
   Astra Buni received a magical paintbrush
   But how does it work? What does it do?

@@ -34,7 +34,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["shapes", "geometry"]
 player-count: 1-100
 age: 3

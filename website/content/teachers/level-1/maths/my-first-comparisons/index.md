@@ -35,7 +35,7 @@ contents:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: ["comparing", "sequencing", "sorting"]
 player-count: 1-100
 age: 3

@@ -6,8 +6,8 @@ price: 9.95
 date: 2025-04-12
 image: ["rhyme-and-alliteration-header.webp", "rhyme-and-alliteration-1.webp", "rhyme-and-alliteration-2.webp", "rhyme-and-alliteration-3.webp", "rhyme-and-alliteration-4.webp"]
 file: "@TODO"
-spell: ["rhyme-and-alliteration"]
-advances: ["syllable-awareness"]
+spell: "rhyme-and-alliteration"
+advances: "syllable-awareness"
 description: | 
   A fun, practical step when learning language
   Is to learn some word-play and rhyme

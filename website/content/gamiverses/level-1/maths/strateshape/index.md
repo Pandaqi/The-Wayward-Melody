@@ -24,7 +24,7 @@ external:
 
 level: 1
 language: "EN"
-subject: ["Logic", "Mathematics"]
+subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-6
 age: 5

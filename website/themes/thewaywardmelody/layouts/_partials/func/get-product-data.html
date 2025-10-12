@@ -51,66 +51,6 @@
 {{ $image_default := $images_default }}
 {{ if reflect.IsSlice $image_default }}{{ $image_default = index $images_default 0 }}{{ end }}
 
-<!--- Figure out how products connect (advance/precede) --->
-<!--- We save SPELLs of what we advance, so for every SPELL ID just find the relevant pages --->
-{{ $my_spells := or .Params.spell slice }}
-{{ if not (reflect.IsSlice $my_spells) }}{{ $my_spells = slice $my_spells }}{{ end }}
-
-{{ $regular_pages := .Site.RegularPages }}
-{{ $my_section := .Section }}
-{{ $advances_raw := or .Params.advances slice }}
-{{ if not (reflect.IsSlice $advances_raw) }}{{ $advances_raw = slice $advances_raw }}{{ end }}
-
-<!--- If no advances set, we assume we advance the same stuff as the teacher in the same spell as ours --->
-<!--- @TODO: Can we do this for the other side (COMES BEFORE) too? Or is that really really too expensive? --->
-<!--- @TODO: BUG: REMOVE DUPLICATES/DON'T ADD DUPLICATE!! --->
-{{ if eq (len $advances_raw) 0 }}
-    {{ $advances_in_same_spell := slice }}
-    {{ range $spell := $my_spells }}
-        {{ $teacher_pages := where $regular_pages ".Params.spell" "eq" $spell }}
-        {{ range $page := $teacher_pages }}
-            {{ if not $page.Params.advances }}{{ continue }}{{ end }}
-            {{ $advances_in_same_spell = $advances_in_same_spell | append $page.Params.advances }}
-        {{ end }}
-    {{ end }}
-    {{ $advances_raw = $advances_in_same_spell }}
-{{ end }}
-
-{{ $advances := slice }}
-{{ $advances_same_faction := slice }}
-{{ range $spell := $advances_raw }}
-    <!--- We need a UNION here because intersect only works on SLICES, but we often set Params.spell to just a SINGLE THING (not an array) --->
-    {{ $relevant_pages := union (where $regular_pages ".Params.spell" "intersect" (slice $spell)) (where $regular_pages ".Params.spell" "eq" $spell) }}
-    {{ $advances = $advances | append $relevant_pages }}
-    {{ range $page := $relevant_pages }}
-        {{ if eq $page.Section $my_section }}
-            {{ $advances_same_faction = $advances_same_faction | append $page }}
-        {{ end }}
-    {{ end }}
-{{ end }}
-
-<!--- Because we might have a LOT of different variations/factions of the same spell, we prefer picking only the same faction to list, if possible --->
-{{ if gt (len $advances_same_faction) 0 }}
-    {{ $advances = $advances_same_faction }}
-{{ end }}
-
-<!--- To know what we precede, we must find all pages that say they advance US (so lookup other way around) --->
-{{ $precedes := slice }}
-{{ $precedes_same_faction := slice }}
-{{ range $spell := $my_spells }}
-    {{ $relevant_pages := union (where $regular_pages ".Params.advances" "intersect" (slice $spell)) (where $regular_pages ".Params.advances" "eq" $spell) }}
-    {{ range $page := $relevant_pages }}
-        {{ $precedes = $precedes | append $page }}
-        {{ if eq $page.Section $my_section }}
-            {{ $precedes_same_faction = $precedes_same_faction | append $page }}
-        {{ end }}
-    {{ end }}
-{{ end }}
-
-{{ if gt (len $precedes_same_faction) 0 }}
-    {{ $precedes = $precedes_same_faction }}
-{{ end }}
-
 <!--- Gather defaults for all values --->
 <!--- (Basically, I want to allow setting things directly in Params for when a product has just 1 variant, or a value is the same for all variants, which is MOST CASES) --->
 {{ $sku_default := or .Params.productsSku .Params.id }}
@@ -147,4 +87,4 @@
     {{ $zones = $zones | append (index $new_product "shipping") }}
 {{ end }}
 {{ $zones = $zones | uniq }}
-{{ return dict "level" $level "price" $price "platform" $platform "image" $image_default "products" $products_full "zones" $zones "physical" $is_physical "single_button" $single_button "advances" ($advances | first 8) "precedes" ($precedes | first 8) }}
+{{ return dict "level" $level "price" $price "platform" $platform "image" $image_default "products" $products_full "zones" $zones "physical" $is_physical "single_button" $single_button }}

@@ -14,6 +14,21 @@ All product descriptions **rhyme**. (They are short, personal, distinct and writ
 
 Of course, don't forget LAWS 0, 1, 2 and 3 described on the about page.
 
+## Curriculum
+
+The **Teachers** faction is the "core" of the educational/curriculum system.
+
+Every Teachers resource ...
+
+* Belongs to a single `spell` (which is also the name that any related resources use)
+* And has a single `advances` value (the spell that comes before us)
+
+Other resources can belong to many spells or advance their own custom things. Teachers always go in a straight line, one after another, with a fixed order. 
+
+This setup allows me to _ignore_ the `advances` properties on all other products, and the system will still figure out their place in the curriculum. It shows what "Comes Before", "Same Topic", and "Comes After" at the top of each product page. (It randomly picks the first 4. If any exist within the _same Faction_, it exclusively shows those. That's what you want 99% of the time.)
+
+
+
 
 
 ABOUT FIGURING OUT TRAJECTORY OF WEBSHOP BUSINESS:

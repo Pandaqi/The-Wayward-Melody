@@ -28,7 +28,7 @@ details:
 
 level: 1
 language: "EN"
-subject: "Logic"
+subject: "Mathematics"
 categories: []
 
 # player-count: 1-100
