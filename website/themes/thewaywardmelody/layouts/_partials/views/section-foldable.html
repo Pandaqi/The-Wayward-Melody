@@ -1,0 +1,10 @@
+{{ $header := or .header "Error: no header" }}
+{{ $content := or .inner "Error: no content" }}
+<div class="section-foldable margin-vertical-s background-image" data-folded="false">
+<div class="section-foldable-header bg-color-dark-x padding-s rounded-s hover_brighten hover_pointer">
+<h3 class="margin-none font-accent text-shadow-dark">{{- $header -}}</h3>
+</div>
+<div class="section-foldable-content style-markdown-links-inverted bg-color-light-xx padding-s rounded-xs margin-s text-color-dark-xx color-links-inverted collapse-paragraph-margin">
+{{- $content | markdownify -}}
+</div>
+</div>

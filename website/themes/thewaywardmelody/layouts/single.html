@@ -61,6 +61,12 @@
 {{ end }}
 </header>
 <main class="text-reader margin-m limit-width-m block-align-center" data-pagefind-body>
+
+    {{ if not $is_product }}
+        {{ partial "navigation/navigation-article" . }}
+        {{ partial "views/section-foldable" (dict "header" "Table of Contents" "inner" .TableOfContents) }}
+    {{ end }}
+
     <div data-pagefind-weight="3">
     {{ .Content }}
     </div>
@@ -75,6 +81,7 @@
         {{ $relevant_connections = $relevant_connections | append $new_connections }}
     {{ end }}
 
+    {{ $relevant_connections = $relevant_connections | uniq }}
     {{ $has_connections := gt (len $relevant_connections) 0 }}
     {{ if $has_connections }}
         {{ $relevant_connections = sort $relevant_connections ".Section" "asc" }}

@@ -1,8 +1,8 @@
+{{ $backup_section := .context.Site.GetPage "/info" }}
 {{ $is_section := .context.IsSection }}
 {{ $section_page := .context.FirstSection }}
-{{ if or (not $section_page.Params.banners) (not $section_page.Title) }}
-    {{ $backup_section_page_path := or .path "/info/about/" }}
-    {{ $section_page = (.context.GetPage $backup_section_page_path).FirstSection }}
+{{ if or (not $section_page) (not $section_page.Params.banners) }}
+    {{ $section_page = $backup_section }}
 {{ end }}
 {{ $section_name := $section_page.Title | lower }}
 {{ $title := or .title .context.Title }}
@@ -15,7 +15,7 @@
 {{ $random_banner_image := "" }}
 {{ with $section_page.Params.banners }}
     {{ range . }}
-        {{ $image_url := printf "/media/banners/%s/%s.webp" $section_name . }}
+        {{ $image_url := printf "/%s/assets/%s.webp" $section_name . }}
         {{ $images = $images | append $image_url }}
     {{ end }}
 {{ end }}
@@ -33,7 +33,7 @@
     <h1 class="font-size-xxl margin-none text-shadow drop-shadow-s">
         <div class="flex flex-center gap-s">
             {{ if $display_image }}
-                <img src="/media/factions/faction_{{ $section_page.Title | lower }}.webp" class="glow" style="width: 1em; height: 1em;" />
+                <img src="/media/factions/faction_{{ $section_name }}.webp" class="glow" style="width: 1em; height: 1em;" />
             {{ end }}
             <span>{{ $title }}</span>
         </div>

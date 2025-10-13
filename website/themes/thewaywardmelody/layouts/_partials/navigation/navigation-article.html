@@ -1,0 +1,20 @@
+{{ $pages := .Parent.RegularPagesRecursive.ByWeight }}
+{{ $prev := $pages.Prev . }}
+{{ $next := $pages.Next . }}
+<ul class="flex flex-center flex-wrap remove-list-styling font-heading gap-s margin-s">
+{{ if $prev }}
+    <li><a class="pagination-item-prev navigation-link" href="{{ $prev.RelPermalink }}"><span>{{ $prev.Title }}</span></a></li>
+{{ else }}
+    <li><span class="margin-s">No previous article :(</span></li>
+{{ end }}
+
+<li>&larr;</li>
+<li><a class="navigation-link" href="/info/library/">Back to the Library</a></li>
+<li>&rarr;</li>
+
+{{ if $next }}
+    <li><a class="pagination-item-last navigation-link" href="{{ $next.RelPermalink }}"><span>{{ $next.Title }}</span></a></li>
+{{ else }}
+    <li><span class="margin-s">No next article :(</span></li>
+{{ end }}
+</ul>

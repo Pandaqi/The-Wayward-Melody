@@ -33,6 +33,15 @@ That said, the curriculum below is a compilation of world-wide curriculae and la
 
 Use it as a guide when you're not sure what to focus on or whether to try a new topic. Use it as your waypoint from which you explore the resources on this website.
 
+{{% section-foldable header="Table of Contents" %}}
+* [Level 1 (0--4)](#level-1-overview)
+* [Level 2 (4--6)](#level-2-overview)
+* [Level 3 (6--8)](#level-3-overview)
+* [Level 4 (8--10)](#level-4-overview)
+* [Level 5 (10--12)](#level-5-overview)
+* [Level 6 (13+)](#level-6-overview)
+{{% /section-foldable %}}
+
 {{% /section-centered %}}
 
 <!--- LEVEL 1 --->
@@ -42,9 +51,9 @@ Use it as a guide when you're not sure what to focus on or whether to try a new 
 
 {{% double-view-item %}}
 
-<h2 class="heading-decorations">Overview</h2>
+<h2 class="heading-decorations" id="level-1-overview">Overview</h2>
 
-* **Age Range**: 0--3
+* **Age Range**: 0--4
 * **UK**: Nursery / EYFS
 * **USA**: Preschool
 * **AU**: Kindergarten / Preschool / Foundation
@@ -70,35 +79,35 @@ Remember why we do this: to help children learn new skills and grow. The questio
 
 {{% section-foldable header="Language" %}}
 
-Recognize and discriminate sounds, Listen to and repeat stories, First Vocabulary, First Syllables, First Alphabet, Challenges like rhyming or naming first/last word in a short sentence.
+Recognize and discriminate sounds, First Vocabulary, Challenges like rhyming or naming first/last word in a short sentence, Word Awareness -> Syllable Awareness -> Phonics, Listen to and repeat stories
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-1/language/my-first-sounds/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/language/my-first-sounds/)
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
-Recognition & Discrimination, Comparison (more/less, smaller/larger) which leads to Sorting/Contrast/Grouping (without counting), First Shapes, First Colors, Count to 10, Recognize and name numbers 1--5, First introduction to numerical patterns in life (such as seasons)
+Recognition & Discrimination -> Comparison (smaller/larger, brighter/darker, etc) -> Sorting/Contrast/Grouping (without counting), First Shapes, First Colors, First introduction to patterns and "logic" in life (such as seasons)
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-1/maths/recognition-and-discrimination/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/maths/recognition-and-discrimination/)
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Social" %}}
 
-Habits and routine (such as "you have to go to school (except weekends)"), Taking turns, Trying something new
+Learning "how to learn" and what school is, Teamwork & Collaboration (Taking Turns), Habits and routine (such as "brush your teeth every day"), Dealing with common social situations, Creativity & Association (Trying something new)
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-1/social/habits-and-routine/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/social/school-and-learning/).
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Physical" %}}
 
-Anything that challenges gross and fine motor skills. Common activities are: cutting, folding, throwing, crumpling paper, roughly copying/drawing lines, or just activities where you give answers by _moving around_ instead of writing or saying them.
+Gross Motor Skills (any sport/exercise/physical game) -> Fine Motor Skills (cutting, folding, throwing, crumpling paper) -> Pencil Control, My First Directions (words and concepts for indicating movement and direction in a physical world).
 
-The need to be physically active is true for everyone, though, for their entire life. So it won't be mentioned again.
+Anything that challenges gross and fine motor skills. Activities where you give answers by _moving around_, games where it's all about physically doing stuff, are included too. The need to be physically active is true for everyone, though, for their entire life. So it won't be mentioned again.
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-1/physical/my-first-motor-skills/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-1/physical/my-first-gross-motor-skills/)
 
 {{% /section-foldable %}}
 
@@ -113,9 +122,9 @@ The need to be physically active is true for everyone, though, for their entire 
 
 {{% double-view-item %}}
 
-<h2 class="heading-decorations">Overview</h2>
+<h2 class="heading-decorations"  id="level-2-overview">Overview</h2>
 
-* **Age Range**: 4--5
+* **Age Range**: 4--6
 * **UK**: Lower Key Stage 1 (Reception, Year 1)
 * **USA**: Preschool, Kindergarten
 * **AU**: Stage 1
@@ -143,19 +152,19 @@ This also combats the issue of "rote memorization". The real world throws endles
 
 {{% section-foldable header="Language" %}}
 
-* Recognize letters and sounds, Write/read own name, Listen and speak for longer periods, Combine words into larger whole, More Vocabulary
+* Alphabet & Alphabet Order -> Write/read own name, Listen and speak for longer periods, Combine words into larger whole, More Vocabulary
 * Read short texts, Write lowercase, Write really simple texts, Conversation/Opinions, Spelling pure sounds ( = words that sound exactly like you write them), More Vocabulary
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-2/language/my-first-letters/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/language/my-first-letters/)
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="Math" %}}
 
-* Count, recognize and name to 20, Compare and sort quantities up to 12, Simple add/remove/split elements up to 12, Complex Shapes/Colors, Telling Time, Units (e.g. length, weight)
+* Numbers (0--9) & Counting -> Count and name up to 20, Compare and sort quantities up to 12, Simple add/remove/split elements up to 12, Complex Shapes/Colors, Telling Time, Units (e.g. length, weight)
 * Count to 100, actual addition/subtraction up to 20, Doubling and Halving, Measuring, Money, Automation ( = repeating math tasks until they are second nature)
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-2/maths/my-first-addition/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/maths/my-first-numbers/)
 
 {{% /section-foldable %}}
 
@@ -164,16 +173,16 @@ This also combats the issue of "rote memorization". The real world throws endles
 * Prolonged focus or work (includes working through challenges), Playing/working together, Emotions, Do tasks independently
 * More working together and taking others into account, first consciousness about self and self image (still hard to empathize with others)
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-2/social/world-of-who-am-i/).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/social/world-of-who-am-i/)
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="World" %}}
 
-* X
-* Traffic rules, Religion (mostly events and names), Nature (mammals/birds/fish; food chain; seasons; body; magnetism; moon/sun; health; climate), Geography (maps, your own home, weather, towns vs cities), History (work and leisure, now and then; jobs; hierarchy; knights and castles; middle ages; first vehicles; world wars; moon landing; role of modern media; multicultural)
+* Nature (mammals/birds/fish; food chain; seasons; body; magnetism; moon/sun; health; climate), Geography (maps, your own home, weather, towns vs cities), Traffic rules
+* Religion (mostly events and names), History (work and leisure, now and then; jobs; hierarchy; knights and castles; middle ages; first vehicles; world wars; moon landing; role of modern media; multicultural)
 
-[Explore the first Teaching Resource in this topic!](/teachers/level-2/world/??).
+[Explore the first Teaching Resource in this topic!](/teachers/level-2/world/??)
 
 {{% /section-foldable %}}
 
@@ -188,9 +197,9 @@ This also combats the issue of "rote memorization". The real world throws endles
 
 {{% double-view-item %}}
 
-<h2 class="heading-decorations">Overview</h2>
+<h2 class="heading-decorations" id="level-3-overview">Overview</h2>
 
-* **Age Range**: 6--7 
+* **Age Range**: 6--8
 * **UK**: Upper Key Stage 1
 * **USA**: Grade 1--2 (Elementary School -> Intermediate School)
 * **AU**: Stage 2 
@@ -259,9 +268,9 @@ Just as this level solidifies the language basics, it does the same for a maths 
 
 {{% double-view-item %}}
 
-<h2 class="heading-decorations">Overview</h2>
+<h2 class="heading-decorations" id="level-4-overview">Overview</h2>
 
-* **Age Range**: 8--9
+* **Age Range**: 8--10
 * **UK**: Lower Key Stage 2 (Year 3--4) (Elementary School -> Middle School)
 * **USA**: Grade 3--4 (Intermediate School -> Middle School)
 * **AU**: Stage 3 (Primary -> Secondary)
@@ -328,9 +337,9 @@ Age 7 or 8 often displays the first signs of your child really not liking school
 
 {{% double-view-item %}}
 
-<h2 class="heading-decorations">Overview</h2>
+<h2 class="heading-decorations" id="level-5-overview">Overview</h2>
 
-* **Age Range**: 10--11
+* **Age Range**: 10--12
 * **UK**: Upper Key Stage 2 (Year 5--6) (Middle School -> High School)
 * **USA**: Grade 5--6 (Middle School -> High school)
 * **AU**: Stage 4
@@ -391,9 +400,9 @@ Age 9+ often displays first signs of a child taking an interest in things outsid
 
 {{% double-view-item %}}
 
-<h2 class="heading-decorations">Overview</h2>
+<h2 class="heading-decorations" id="level-6-overview">Overview</h2>
 
-* **Age Range**: 12--16+
+* **Age Range**: 13+
 * **UK**: Key Stage 3 (Year 7--9), Key Stage 4 (Year 10--11)
 * **USA**: Grade 7--12
 * **AU**: Stage 5(+) (Secondary -> Senior)

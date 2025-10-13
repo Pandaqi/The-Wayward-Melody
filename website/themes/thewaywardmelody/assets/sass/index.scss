@@ -155,6 +155,14 @@ $viewport-xl: 1280px;
     }
 }
 
+@mixin heading-decorations-light
+{
+    &::before, &::after
+    {
+        filter: none;
+    }
+}
+
 @mixin transition-m 
 {
     transition: color $dur-m, background-color $dur-m, filter $dur-m, transform $dur-m;
@@ -303,104 +311,267 @@ $viewport-xl: 1280px;
         }
     }
 
+    .light-mode .text-reader 
+    {
+        h1,h2,h3,h4,h5,h6 {
+            @include heading-decorations-light;            
+        }
+    }
+
+    .style-markdown-links, .style-markdown-links-inverted
+    {
+        a 
+        {
+            font-family: $font-family-accent;
+            font-weight: bold;
+            text-decoration: underline;
+            color: var(--color-accent);
+            @include transition-m;
+
+            &:hover {
+                color: var(--color-accent-contrast);
+                font-style: italic;
+            }
+        }
+    }
+
+    .style-markdown-links-inverted
+    {
+        a {
+            color: var(--color-mid);
+            &:hover {
+                color: var(--color-dark-xx);
+            }
+        }
+    }
+
     // Color Schemes
     .theme-runaways
     {
-        --color-light-xx: oklch(90% 0.02 0);
-        --color-light-x: oklch(75% 0.05 0);
-        --color-accent: oklch(90% 0.175 0);
-        --color-accent-contrast: oklch(90% 0.175 60);
-        --color-mid: oklch(60% 0.075 0);
-        --color-dark-x: oklch(35% 0.05 0);
-        --color-dark-xx: oklch(15% 0.02 0);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 0);
+            --color-light-x: oklch(75% 0.05 0);
+            --color-accent: oklch(90% 0.175 0);
+            --color-accent-contrast: oklch(90% 0.175 60);
+            --color-mid: oklch(60% 0.075 0);
+            --color-dark-x: oklch(35% 0.05 0);
+            --color-dark-xx: oklch(15% 0.02 0);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 0);
+            --color-dark-x: oklch(75% 0.05 0);
+            --color-accent: oklch(50% 0.175 0);
+            --color-accent-contrast: oklch(50% 0.175 60);
+            --color-mid: oklch(80% 0.075 0);
+            --color-light-x: oklch(35% 0.05 0);
+            --color-light-xx: oklch(15% 0.02 0);
+        }
     }
 
     .theme-quizmasters
     {
-        --color-light-xx: oklch(90% 0.02 40);
-        --color-light-x: oklch(75% 0.05 40);
-        --color-accent: oklch(90% 0.175 40);
-        --color-accent-contrast: oklch(90% 0.175 100);
-        --color-mid: oklch(60% 0.075 40);
-        --color-dark-x: oklch(35% 0.05 40);
-        --color-dark-xx: oklch(15% 0.02 40);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 40);
+            --color-light-x: oklch(75% 0.05 40);
+            --color-accent: oklch(90% 0.175 40);
+            --color-accent-contrast: oklch(90% 0.175 100);
+            --color-mid: oklch(60% 0.075 40);
+            --color-dark-x: oklch(35% 0.05 40);
+            --color-dark-xx: oklch(15% 0.02 40);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 40);
+            --color-dark-x: oklch(75% 0.05 40);
+            --color-accent: oklch(50% 0.175 40);
+            --color-accent-contrast: oklch(50% 0.175 100);
+            --color-mid: oklch(80% 0.075 40);
+            --color-light-x: oklch(35% 0.05 40);
+            --color-light-xx: oklch(15% 0.02 40);
+        }
     }
 
     .theme-teachers
     {
-        --color-light-xx: oklch(90% 0.02 80);
-        --color-light-x: oklch(75% 0.05 80);
-        --color-accent: oklch(90% 0.175 80);
-        --color-accent-contrast: oklch(90% 0.175 140);
-        --color-mid: oklch(60% 0.075 80);
-        --color-dark-x: oklch(35% 0.05 80);
-        --color-dark-xx: oklch(15% 0.02 80);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 80);
+            --color-light-x: oklch(75% 0.05 80);
+            --color-accent: oklch(90% 0.175 80);
+            --color-accent-contrast: oklch(90% 0.175 140);
+            --color-mid: oklch(60% 0.075 80);
+            --color-dark-x: oklch(35% 0.05 80);
+            --color-dark-xx: oklch(15% 0.02 80);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 80);
+            --color-dark-x: oklch(75% 0.05 80);
+            --color-accent: oklch(50% 0.175 80);
+            --color-accent-contrast: oklch(50% 0.175 140);
+            --color-mid: oklch(80% 0.075 80);
+            --color-light-x: oklch(35% 0.05 80);
+            --color-light-xx: oklch(15% 0.02 80);
+        }
     }
 
     .theme-magimerchants
     {
-        --color-light-xx: oklch(90% 0.02 120);
-        --color-light-x: oklch(75% 0.05 120);
-        --color-accent: oklch(90% 0.175 120);
-        --color-accent-contrast: oklch(90% 0.175 180);
-        --color-mid: oklch(60% 0.075 120);
-        --color-dark-x: oklch(35% 0.05 120);
-        --color-dark-xx: oklch(15% 0.02 120);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 120);
+            --color-light-x: oklch(75% 0.05 120);
+            --color-accent: oklch(90% 0.175 120);
+            --color-accent-contrast: oklch(90% 0.175 180);
+            --color-mid: oklch(60% 0.075 120);
+            --color-dark-x: oklch(35% 0.05 120);
+            --color-dark-xx: oklch(15% 0.02 120);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 120);
+            --color-dark-x: oklch(75% 0.05 120);
+            --color-accent: oklch(50% 0.175 120);
+            --color-accent-contrast: oklch(50% 0.175 180);
+            --color-mid: oklch(80% 0.075 120);
+            --color-light-x: oklch(35% 0.05 120);
+            --color-light-xx: oklch(15% 0.02 120);
+        }
+
     }
 
     .theme-sneakpeeks
     {
-        --color-light-xx: oklch(90% 0.02 160);
-        --color-light-x: oklch(75% 0.05 160);
-        --color-accent: oklch(90% 0.175 160);
-        --color-accent-contrast: oklch(90% 0.175 220);
-        --color-mid: oklch(60% 0.075 160);
-        --color-dark-x: oklch(35% 0.05 160);
-        --color-dark-xx: oklch(15% 0.02 160);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 160);
+            --color-light-x: oklch(75% 0.05 160);
+            --color-accent: oklch(90% 0.175 160);
+            --color-accent-contrast: oklch(90% 0.175 220);
+            --color-mid: oklch(60% 0.075 160);
+            --color-dark-x: oklch(35% 0.05 160);
+            --color-dark-xx: oklch(15% 0.02 160);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 160);
+            --color-dark-x: oklch(75% 0.05 160);
+            --color-accent: oklch(50% 0.175 160);
+            --color-accent-contrast: oklch(50% 0.175 220);
+            --color-mid: oklch(80% 0.075 160);
+            --color-light-x: oklch(35% 0.05 160);
+            --color-light-xx: oklch(15% 0.02 160);
+        }
     }
 
     .theme-gamiverses
     {
-        --color-light-xx: oklch(90% 0.02 200);
-        --color-light-x: oklch(75% 0.05 200);
-        --color-accent: oklch(90% 0.175 200);
-        --color-accent-contrast: oklch(90% 0.175 140);
-        --color-mid: oklch(60% 0.075 200);
-        --color-dark-x: oklch(35% 0.05 200);
-        --color-dark-xx: oklch(15% 0.02 200);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 200);
+            --color-light-x: oklch(75% 0.05 200);
+            --color-accent: oklch(90% 0.175 200);
+            --color-accent-contrast: oklch(90% 0.175 140);
+            --color-mid: oklch(60% 0.075 200);
+            --color-dark-x: oklch(35% 0.05 200);
+            --color-dark-xx: oklch(15% 0.02 200);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 200);
+            --color-dark-x: oklch(75% 0.05 200);
+            --color-accent: oklch(50% 0.175 200);
+            --color-accent-contrast: oklch(50% 0.175 140);
+            --color-mid: oklch(80% 0.075 200);
+            --color-light-x: oklch(35% 0.05 200);
+            --color-light-xx: oklch(15% 0.02 200);
+        }
+
     }
 
     .theme-explorers
     {
-        --color-light-xx: oklch(90% 0.02 240);
-        --color-light-x: oklch(75% 0.05 240);
-        --color-accent: oklch(90% 0.175 240);
-        --color-accent-contrast: oklch(90% 0.175 180);
-        --color-mid: oklch(60% 0.075 240);
-        --color-dark-x: oklch(35% 0.05 240);
-        --color-dark-xx: oklch(15% 0.02 240);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 240);
+            --color-light-x: oklch(75% 0.05 240);
+            --color-accent: oklch(90% 0.175 240);
+            --color-accent-contrast: oklch(90% 0.175 180);
+            --color-mid: oklch(60% 0.075 240);
+            --color-dark-x: oklch(35% 0.05 240);
+            --color-dark-xx: oklch(15% 0.02 240);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 240);
+            --color-dark-x: oklch(75% 0.05 240);
+            --color-accent: oklch(50% 0.175 240);
+            --color-accent-contrast: oklch(50% 0.175 180);
+            --color-mid: oklch(80% 0.075 240);
+            --color-light-x: oklch(35% 0.05 240);
+            --color-light-xx: oklch(15% 0.02 240);
+        }
     }
 
     .theme-general, .theme-info
     {
-        --color-light-xx: oklch(90% 0.02 280);
-        --color-light-x: oklch(75% 0.05 280);
-        --color-accent: oklch(90% 0.175 280);
-        --color-accent-contrast: oklch(90% 0.175 220);
-        --color-mid: oklch(60% 0.075 280);
-        --color-dark-x: oklch(35% 0.05 280);
-        --color-dark-xx: oklch(15% 0.02 280);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 280);
+            --color-light-x: oklch(75% 0.05 280);
+            --color-accent: oklch(90% 0.175 280);
+            --color-accent-contrast: oklch(90% 0.175 220);
+            --color-mid: oklch(60% 0.075 280);
+            --color-dark-x: oklch(35% 0.05 280);
+            --color-dark-xx: oklch(15% 0.02 280);            
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 280);
+            --color-dark-x: oklch(75% 0.05 280);
+            --color-accent: oklch(50% 0.175 280);
+            --color-accent-contrast: oklch(50% 0.175 220);
+            --color-mid: oklch(80% 0.075 280);
+            --color-light-x: oklch(35% 0.05 280);
+            --color-light-xx: oklch(15% 0.02 280); 
+        }
     }
     
     .theme-puzzlepages
     {
-        --color-light-xx: oklch(90% 0.02 320);
-        --color-light-x: oklch(75% 0.05 320);
-        --color-accent: oklch(90% 0.175 320);
-        --color-accent-contrast: oklch(90% 0.175 260);
-        --color-mid: oklch(60% 0.075 320);
-        --color-dark-x: oklch(35% 0.05 320);
-        --color-dark-xx: oklch(15% 0.02 320);
+        &.dark-mode
+        {
+            --color-light-xx: oklch(90% 0.02 320);
+            --color-light-x: oklch(75% 0.05 320);
+            --color-accent: oklch(90% 0.175 320);
+            --color-accent-contrast: oklch(90% 0.175 260);
+            --color-mid: oklch(60% 0.075 320);
+            --color-dark-x: oklch(35% 0.05 320);
+            --color-dark-xx: oklch(15% 0.02 320);
+        }
+
+        &.light-mode
+        {
+            --color-dark-xx: oklch(90% 0.02 320);
+            --color-dark-x: oklch(75% 0.05 320);
+            --color-accent: oklch(50% 0.175 320);
+            --color-accent-contrast: oklch(50% 0.175 260);
+            --color-mid: oklch(80% 0.075 320);
+            --color-light-x: oklch(35% 0.05 320);
+            --color-light-xx: oklch(15% 0.02 320);
+        }
+
     }
 
     // LEVELS
@@ -535,11 +706,11 @@ $viewport-xl: 1280px;
     #search-results-container
     {
         //--pagefind-ui-scale: 0.8;
-        --pagefind-ui-primary: #736475;
-        --pagefind-ui-text: #f9f0fa;
-        --pagefind-ui-background: #217076; // this is only the search bar + checkboxes; all results are actually transparent
-        --pagefind-ui-border: #e9d4ef;
-        --pagefind-ui-tag: #6a4e7c;
+        --pagefind-ui-primary: var(--color-accent);
+        --pagefind-ui-text: var(--color-light-xx);
+        --pagefind-ui-background: var(--color-dark-x); // this is only the search bar + checkboxes; all results are actually transparent
+        --pagefind-ui-border: var(--color-light-x);
+        --pagefind-ui-tag: var(--color-mid);
         --pagefind-ui-border-width: 0.1em;
         --pagefind-ui-border-radius: 0.35em;
         --pagefind-ui-image-border-radius: 0.28rem;
@@ -612,6 +783,20 @@ $viewport-xl: 1280px;
         text-shadow: -$size-xxxs $size-xxxs var(--color-dark-xx);
     }
 
+    .light-mode 
+    {
+        .text-shadow
+        {
+            color: white;
+            text-shadow: -$size-xxxs $size-xxxs var(--color-light-x);
+        }
+
+        .text-shadow-dark
+        {
+            text-shadow: -$size-xxxs $size-xxxs var(--color-mid);
+        }
+    }
+
     .line-height-s
     {
         line-height: 1em;
@@ -619,6 +804,10 @@ $viewport-xl: 1280px;
 
     .heading-decorations {
         @include heading-decorations;
+    }
+
+    .light-mode .heading-decorations {
+        @include heading-decorations-light;
     }
 
     // Colors
@@ -652,6 +841,10 @@ $viewport-xl: 1280px;
 
     .text-color-mid {
         color: var(--color-mid);
+    }
+
+    .text-color-accent {
+        color: var(--color-accent);
     }
 
     .text-color-accent-contrast {
@@ -1115,6 +1308,14 @@ $viewport-xl: 1280px;
         display: inline-block;
         background-size: 800%;
         filter: #{"invert()"};
+    }
+
+    .light-mode 
+    {
+        .metadata-icon, .faction-icon, .store-icon
+        {
+            filter: none;
+        }
     }
 
     .metadata-icon-black, .faction-icon-black, .store-icon-block
