@@ -1,7 +1,7 @@
 {{ $pages := .Parent.RegularPagesRecursive.ByWeight }}
 {{ $prev := $pages.Prev . }}
 {{ $next := $pages.Next . }}
-<ul class="flex flex-center flex-wrap remove-list-styling font-heading gap-s margin-s">
+<ul class="flex flex-center flex-wrap remove-list-styling font-heading gap-s margin-s font-size-s">
 {{ if $prev }}
     <li><a class="pagination-item-prev navigation-link" href="{{ $prev.RelPermalink }}"><span>{{ $prev.Title }}</span></a></li>
 {{ else }}

@@ -26,9 +26,9 @@ categories: []
 
 ---
 
-The **Dexterity Diaries** is a bundle of related short stories about **fine motor skills**. These are activities like cutting, folding, placing beads on a string, picking up small or flimsy objects, etcetera. Children need to train these a lot to get good at them. Additionally, those skills are often required for playing board games or escape rooms, which are a very common product at our educational store.
+The **Dexterity Diaries** is a bundle of related short stories about **fine motor skills**. These are activities like cutting, folding, placing beads on a string, picking up small or flimsy objects, etcetera. Children need to train these a lot to get good at them. Additionally, those skills are often required for playing board games, puzzles, or escape rooms, all of which are very common products at our educational store.
 
-These stories help showcase these skills and get kids excited to practice them. Every chapter focuses on a new "superhero" whose powers is related to a skill. For example, someone who can fold anything ... and if they do it right, the thing they created becomes _real_. Another fun character can cut through anything, and if their cuts were precise enough, what they cut out becomes real too. 
+These stories help showcase these skills and get kids excited to practice them. Every chapter focuses on a new "superhero" whose powers are related to a skill. For example, someone who can fold anything ... and if they do it right, the thing they created becomes _real_. Another fun character can cut through anything, and if their cuts were precise enough, what they cut out becomes real too. 
 
 As a villain threatens this extraordinary world, the heroes must work together and combine their skills to defeat them!
 

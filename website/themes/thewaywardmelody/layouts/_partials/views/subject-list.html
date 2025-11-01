@@ -1,5 +1,5 @@
 {{ $all_subjects := .Site.Taxonomies.subject }}
-<ul class="remove-list-styling flex flex-center gap-m">
+<ul class="remove-list-styling flex flex-center flex-wrap gap-m">
     {{ range $k, $v := $all_subjects }}
         {{ $url := printf "/subject/%s/" $k }}
         <li class="bg-color-dark-x rounded-s limit-width-s hover_popup hover_glow"><a class="display-block padding-m maximize-width maximize-height" href="{{ $url }}">{{ $k | humanize }}</a></li>
