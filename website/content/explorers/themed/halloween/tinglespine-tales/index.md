@@ -4,8 +4,8 @@ title: "Tinglespine Tales"
 id: "tinglespine-tales"
 date: 2025-10-26
 price: 9.95
-image: ["tinglespine-tales-header.webp", "tinglespine-tales-1.webp", "tinglespine-tales-2.webp", "tinglespine-tales-3.webp"]
-file: "@TODO"
+image: ["tinglespine-tales-header.webp", "tinglespine-tales-1.webp", "tinglespine-tales-2.webp", "tinglespine-tales-3.webp", "tinglespine-tales-4.webp", "tinglespine-tales-5.webp", "tinglespine-tales-6.webp", "tinglespine-tales-7.webp"]
+file: "3282404a-31da-487e-8e6c-a6ec3eec513f"
 spell: "halloween"
 description: | 
   Come listen to the Tinglespine Tales 
@@ -14,10 +14,11 @@ description: |
   By spiders fearing themselves and monstrous weresnails
 
 contents:
-- 10 spooky mysterious short stories where nothing is as it seems ...
+- 13 spooky mysterious short stories where nothing is as it seems ...
+- And a bonus 14th story if you dare ...
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
-- Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
+- A recording of a spooky theme song composed for this project!
 
 level: 2
 language: "EN"
@@ -41,4 +42,8 @@ We hope you enjoy these silly spooky stories as much as we enjoyed writing them.
 
 {{% remark %}}
 We believe there are not enough "horror/thriller stories for children". This bundle tries to change that! We don't normally write such stories, though. So if your kid enjoyed these and wants more, do not assume that all the other children's books on here are in the same genre. They will, generally, have the same kind of writing style and approach to storytelling.
+{{% /remark %}}
+
+{{% remark %}}
+The product also includes a nice "spooky melody" I came up with while writing this book. It's a simple piano recording, but it was so nice and atmospheric that I wanted to share it!
 {{% /remark %}}

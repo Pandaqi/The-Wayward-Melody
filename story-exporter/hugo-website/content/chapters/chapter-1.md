@@ -1,86 +1,98 @@
 ---
-title: "The Luminescent Letter"
+title: "Drawn To Danger"
 weight: 10
 ---
 
-# The Luminescent Letter
+# Drawn To Danger
 
-The Sort Stork had seen many letters and packages. From kind letters to angry letters. From birthday cakes the size of mountains to birthday cards the size of toenails. From wiggling puppies in cardboard boxes to an entire orchestra wrapped in plastic---carried by twenty storks. In fact, he'd seen all of these on a single day, delivering these packages to the birthday party of some spoiled kid called Irina.
+![Random scribble](images/chapter-1.png) \
 
-Now he saw something he had _never_ seen before.
+A few days ago, Astra Buni had launched herself on a mushroom. The young rabbit had left a planet called Shapesong. There, shapes created magic. And, apparently, one such magic was turning mushrooms into rockets at precisely the wrong time.
 
-The sorting machine faltered. It puffed smoke and rattled, struggling to let something through. Finally, like a sick dinosaur, it spit out the package with enough speed to win a race.
+Astra had not left alone. A Bearchitect---that's a bear who's good at building things---was with her.
 
-This wasn't anything new. Their badly designed sorting machines were the whole reason they hired the Sort Storks in the first place. They'd called a repairman to come fix them years ago, but he got lost in the mail.
+But now she woke up surrounded by rubble and burned mushroom bits. _Alone._ 
 
-The spit-out package, however, landed on a conveyor belt and _glowed_. It shone like a sun. No, ten suns. Big ones, too. And not just yellow, but all the colors of the rainbow. 
+"Lunib?" she called. She only heard a _loud_ scratching sound. She hoped this new planet didn't have huge spiders everywhere.
 
-The Sort Stork had to shield his eyes. Fortunately, he knew the Cloudmail Castle like the back of his wing. Blinded, he jumped on a conveyor belt, switched to another one at exactly the right time, and swung from a metal pipe to land right on top of the glowing package. 
+What was it Lunib said again? He said that she would land safe on another planet called Somnia. He had seen it "in the moonlight". He was a Moonreader, you see. Could see your future, on a clear night, with no pesky werewolves distracting him.
 
-He would have flown instead---he was a bird after all---if only that weren't so dangerous. Packages were heavy and liked to stay on the conveyor belts. But letters flew through the massive room as if they were birds themselves. Small letters, with sharp edges or thick envelopes, careened from wall to wall as if they were racing. 
+And he was the only friend she had left. The only thing she had left, except ...
 
-Well, the Sort Stork did _not_ like getting a hundred paper cuts an hour. While inside, he flew as little as possible. Which is why he loved getting the chance to go outside again and deliver something.
+She finally opened her eyes. She blinked away the tears and wiped dust from her fur. Then she realized. Clutched to her chest was a huge paintbrush. Even you, dear reader, would be scared about how big it was. Now imagine how a small bunny felt.
 
-"Let's see where you're supposed go," he mumbled to himself. He tried to open one eye, but the package still glowed too much. It was impossible. 
+It was heavy. Whenever she stood up, it threatened to topple her over. It was as if she had grown a third arm, and it refused to listen to what she wanted.
 
-Eventually, he had to go through the "Lost & Still Lost" items to grab sunglasses. Now he could look at the package and---oh, he wanted to look inside. All the storks did. Of course you wanted to know what was _inside_! It was hard to resist! You wanted to read the sweet love letters, or, in this case, you wanted to know _why_ this thing glowed.
+It was also a _magical_ brush. Given to her by the legendary Tessella. She knew she could fire spells by painting specific things. She had done it once, by accident, with her eyes closed. If only she had opened her eyes.
 
-But it was against the rules. And the Sort Stork had to give the right example, because he was the boss of the storks. The Superstork, if you want.
+Finally, she let the brush fall down. She stood on her hind legs and tried to look as far as possible. And what she saw made her think she was still dreaming.
 
-So he did not look inside, no. He looked at the writing _on_ the package. The address where it had to be delivered.
+She had a headache, and her butt hurt from the crash, but she immediately forgot about that. Next to her was a _purple tree_. Even better, the tree was shaped like a large lollipop. The next tree was _blue_ and seemed to grow bunny ears.
 
-"Huh, look at that," he mumbled. "The king's palace."
+The grass around her was painted all the colors of the rainbow. Some of it had learned how to be proper grass and chosen to be thin stalks. But other blades of grass ... well, they had their own ideas. Some were changing shape all the time. Some really wanted to be _bees_ instead. Others looked like an actual _blade_---a sharp sword---so Astra avoided touching those. Some parts of the grass even stepped aside for her when she hopped closer.
 
-Immediately, he grabbed the package and stuffed it into his own bag. This was _his_ to deliver. A chance to meet the king! And maybe get a reward!
+And then she hadn't even talked about the stones! Stone was always a gray or brown _blob_. No, even worse, on Shapesong stones were always some perfect gray rectangle, because everything was a basic shape. But here? Here, stone could be anything. Some were statues, depicting mighty dragons, or tiny mice wearing a cape. Some danced in the air, as if they had secretly wanted to be birds. Not one of them had the same shape as another.
 
-"Important package!" He yelled as he pushed storks---and some rogue flying envelopes---aside. "Coming through! Urgent package! The very importantst you've ever seen, yes, yes!"
+Astra twirled and twirled, looking all around. And she saw that _nothing_ had the same shape. Every tree, every stone, every cloud ... it looked slightly different. Even when two trees _really_ tried to be the same---perhaps they were twins---they'd end up slightly different. One bent a bit to the left, the other a bit to the right. One had branches slightly higher than the other.
 
-A giraffe blocked his path. 
+And then she noticed something else. _Everything_ had a black line around it. Like an invitation for someone with really big scissors to come and cut them out. Almost as if she walked inside someone else's painting.
 
-"Where you going?" she asked. Or something like that. It was hard to hear when her head was always in the clouds. 
+So, Astra and Lunib had crashed here. Somnia, he said. This must be the planet Somnia. And so far, she was _loving_ the place.
 
-Some time ago, they allowed other animals to join the Cloudmail Castle too. The Sort Stork still believed that was a mistake. Sure, the giraffe could reach many high places. But so could storks! They could _fly_! And now they had to raise the ceiling of the sorting room just to fit a giraffe inside!
+"Lunib? Luuuuniiib?"
 
-"I'm going to the king's palace," said the Sort Stork, smiling. "So don't delay me! Important business!"
+She hopped around, almost forgetting her brush. If only she knew how to draw the spells. She would use a "find my friend"-spell. She would use a "move me to where my friend is"-spell.
 
-"Oh! What a coincidence," said the giraffe. "I thought I saw another package that had to be delivered near the palace---"
+Where to even start?
 
-"Not today, Group Giraffe."
+She held the brush between her front paws. She had to squeeze them together, so tight it almost hurt, to keep it from falling.
 
-She craned her neck, which was long enough to span the entire room. She picked up a package on the other side, and then another one, and dropped them all at the Sort Stork's feet. Or, well, his bird feet.
+And she tried drawing something in the floor. She grunted with effort. She dug her heels in the sand to stay upright. But she painted a line, slithering and dancing through the dirt.
 
-He quickly read their addresses---and had to admit the giraffe _was_ good at her job. 
+And, well, that's really all there was to say about it. It was definitely a ... line. It moved this way and that. It started somewhere and ended somewhere else.
 
-The king's palace was located on Mount Monarch, everyone knew that. It's in the name. Many animals lived on that hill too. All these packages were meant for homes only a short distance away from the palace. 
+A squiggle, let's call it. A scribble. A wigglywiggle. A crisscrossy. A zoomzoom with a brush.
 
-The Group Giraffe looked proud of herself. "It's much faster if you take them all and deliver them at the same time."
+Let's just say that, if this were a road on a map, everyone would always get lost. Or you would have to install many, many traffic lights to sort it all out.
 
-"No, no, none of that complicated business. One stork, one letter. Simple, right? Simple is good. Simple is nice."
+As expected, this did nothing. Sure, there were some sparks here and there. A purple snowflake here, a pink shimmering there. But no magic happened. She looked around and was still alone.
 
-"Simple is slow! At least take these two packages, they must be delivered next door to the palace."
+And night was fast approaching. Long shadows started at trees and ended on her. She couldn't see far anymore. Every noise around her sounded like an animal who had just woken up.
 
-Ugh. Things were so much better in the old days. One stork, one letter, what could go wrong? Nothing. Nothing could go wrong. You can't lose the package without knowing it, because it's the only thing your claws are holding.
+And the scratching sounds had never stopped. They only seemed to get louder. She thought they sounded a lot like her own scratching, with her own paintbrush.
 
-"No," said the Sort Stork. "I can't be slowed down by other packages. This one _glows_! Don't you see it?"
+Astra was loving the place less and less. She needed a home, and she needed her bear friend back.
 
-"Oh, I see it." The Group Giraffe turned her face away. "There's no way _not_ to see it! I'm going blind right now!"
+Then she saw it. A light in the distance. Of course! Lunib was a Bearchitect. He had probably already built a home, and made a campfire, and made friends with fireflies and what not. He probably knew all the best stones to use when making a fire. Very useful skills, that. Much more useful than a paintbrush you don't understand.
 
-"Then you understand I need to deliver this package. Now. Alone."
+She smiled and hopped towards the light. As she did, the scratching sounds _moved_ around her. They came into her left ear before, but now they came into her right ear.
 
-"And who will deliver the other packages?"
+And when she arrived at the fire ... there was nobody there.
 
-"Someone else. Sort it out!"
+The fire, like everything else, had a line around it. A red outline, instead of black. Maybe because it was hot. Or dangerous. It seemed painted, colored in by a child, instead of a real fire.
 
-"No, that's _literally_ your job. We're out of storks in any case."
+She felt a very real heat, though. A log had just started burning. Somebody had been here not so long ago.
 
-"What?"
+Hey, what was that?
 
-"All of them are already on their way. Somewhere. Holding _one_ teeny-tiny envelope."
+A book on the ground.
 
-The Sort Stork looked around. Now, the Sorting Room was always filled with steam, potentially deadly packages, and sometimes a thunderstorm that forgot it had to go on the outside. You could not see far in this room, whatever the time of day. But even the Sort Stork knew that the room was empty and the silence was suspicious.
+It was opened somewhere near the middle. Its cover was glowing; a purple spark here, a pink flickering there. And on the pages were _drawings_. Clear drawings, step-by-step. First you draw this thing. Then you add the next line. And then, at the end, you get---
 
-"I'm sure they'll be back soon." The Sort Stork took the glowing package. He stepped outside and aimed for Mount Monarch. "Bye bye, to the sky!"
+"Magic!" yelled Astra. "A spell book for my magical paintbrush!"
 
-The moment his wings felt fresh air, however, something tackled him out of the sky.
+An echo of her own voice returned. _Echo_ is a word which here means a softer version of a sound, heard a little later.
 
-When he came to his senses, he lay in the sorting room ... and the glowing package was gone.
+Her ears twitched, surprised to hear herself.
+
+This made her realize something else too. It was completely silent. 
+
+The scratching sounds had _stopped_. For the first time.
+
+Oh. Oh no. This book belonged to someone else. And they had heard her now.
+
+But---the spells! She could finally learn the spells!
+
+Footsteps sounded in the dark. She picked up the book, tripping, then almost dropping her brush.
+
+Astra ran away from the fire.

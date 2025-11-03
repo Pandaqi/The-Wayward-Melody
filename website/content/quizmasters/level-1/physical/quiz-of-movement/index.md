@@ -20,14 +20,14 @@ contents:
 - The raw files (media + questions) to modify/reuse the quiz yourself
 
 level: 1
-language: "EN"
+language: ["EN", "NL"]
 subject: "Physical"
 categories: ["gross-motor-skills"]
 player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false
-duration: 30
+duration: 45
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -69,3 +69,7 @@ Below are the different rounds included. As always, you can easily skip rounds o
 Some rounds require a tiny bit of setup. This can be done verbally ("that corner of the room means answer X"), or by actually placing some paper/objects there to remind players.
 
 This makes it an ideal quiz to play with (very) young kids. They can get familiar with the idea of quizzes, while being able to move around with their restless bodies. They will learn a thing or two about exercise or why it's important, while actually _getting_ that exercise.
+
+{{% remark %}}
+Deze quiz is ook beschikbaar in het Nederlands! Zodra je de vragen hebt geladen kan je een taal kiezen. Zodoende kan je zowel de inhoud als de interface naar Nederlands zetten.
+{{% /remark %}}

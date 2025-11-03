@@ -1,126 +1,134 @@
 ---
-title: "The Caring Capybara"
+title: "Hook, Line, and Sinker"
 weight: 60
 ---
 
-# The Caring Capybara
+# Hook, Line, and Sinker
 
-An alarm went off. The Baby Alarm. Now, most people know that babies are delivered by storks. Through a complicated process that I will not explain here, two parents get a baby, it pops out of a machine in the Sorting Room, and a stork will bring it to the parents.
+![Random closed shape; "blob"](images/chapter-6.png) \
 
-At least, that's how it _used_ to work. Babies _used_ to be delivered like that. For some reason, people stopped doing this a while ago. The Sort Stork had no idea what they were doing now. Maybe they just bought babies in the supermarket or something.
+Astra and Bruzo ran away from the campfire. Astra kept asking _what_ they were running away from. Bruzo kept shushing her and then increasing his pace.
 
-Anyway, it was such an important event for a stork, that they installed a Baby Alarm. And it was an important event for the baby, of course. They had to be delivered even _faster_, and with even _more care_, than animals. If you took too long, the baby would start calling _you_ daddy, instead of their actual daddy.
+"At least give me my brush, so I can help---"
 
-The Sort Stork looked at the neat piles in front of him. All sorted out. A perfect planning for the day. No chaos, only structure.
+"No!" 
 
-And it was ruined by a single crying baby on a conveyor belt.
+"Then give me the book so I can teach myself---"
 
-"Okay. New group!" he yelled. "Babies! And this one is even _more_ important than all the others!"
+"No! And run faster!"
 
-"Another group?" said the Complaining Capybara. "This is getting harder and harder. I don't like it."
+They arrived at a different part of the planet. It was ... not beautiful. Or, well, Astra always tried to see the good in everything. 
 
-"What are you going to do? Tell a baby they can't see their parents until next month? Feed them envelopes?"
+It was _different_. Yes, let's call it that. It was a rocky, black landscape, where trees had no leaves. And, honestly, barely looked like trees at all. They were just some squiggly lines. Grass couldn't grow. Even the volcano refused to be a proper volcano. It looked more like someone had accidentally dropped their fragile mountain and broken it into five smaller mountains.
 
-"No! Of course not!" The capybara showed her teeth, offended that the stork thought she would treat babies that badly. "I'm not _evil_! Give the baby to me, then. I'll deliver them faster than anyone."
+Everything still looked as if she had stepped inside someone's drawing. Only this drawing was made by someone with paws that were just as unsteady as Astra's paws.
 
-Now, dear listener, you might be wondering what a capybara is. It's a kind of cross between a rabbit and a beaver. They're the largest rodent, and the one with the most square snout. Depending on their mood, they might look like an angry rabbit who has been eating too much, or like the cutest pet you've ever seen.
+And there were _lines_ in the floor. The same thick, deep lines that scared Bruzo before. She knew what to look for now. She saw those mysterious lines appear everywhere, but also disappear. Without anyone that actually seemed to _draw_ them.
 
-As soon as the capybara saw the baby, she turned into the second thing. All smiles, and cuddles, and soft paws squishing the baby's cheeks.
+Bruzo finally stopped. Astra caught her breath.
 
-The human baby stopped crying. Probably out of sheer confusion. 
+She wanted to ask for her paintbrush again. Her mind invented ways to steal it back. But she knew it was no use.
 
-Of course, dear listener, babies don't appear in cardboard boxes. Nor inside envelopes. Some thousand years ago, a woman put a baby in a basket and placed him in a river. She did so to escape the punishment of the current king, who had ordered the death of all babies. Not sure if anything every came of that boy ... but anyway, ever since that day, putting babies in wicker baskets has been the standard.
+She had to _convince_ Bruzo to give the brush back. Get him to teach her. To train her. But how?
 
-The capybara took the whicker basket between her long front teeth. Then the Sort Stork had to pick up _the capybara_ and fly her through the clouds.
+Finally, she asked him: "What _are_ those lines?"
 
-This was standard too. Once on the ground, she could run and be fast. She just needed someone to quickly bring her down there. Sometimes they wondered why the king had ordered the Cloudmail Castle to be built, well, in the clouds. Instead of on the ground. Just as they wondered how the castle floated in the air, never falling down. It was probably magic too, the Sort Stork thought.
+Bruzo drew something in the stone. With some effort, he could press his brush into the stone and cut right through it. When done, a new campfire started. Astra was jealous; she wanted to learn that too.
 
-Together they brought the baby in the basket home. Through the clouds, past the treetops, across the river, into a cozy little village. The capybara sang lullabies until the baby fell asleep. 
+"Have you ever wondered who created this world?" asked Bruzo. "Where all the planets came from?"
 
-Once on the floor, she ran faster than ever. She shot through the long grass without waking the baby. She didn't even complain about all the bugs jumping onto her fur. 
+"Can't say I have. It's always been there, right?"
 
-The Sort Stork followed---until he noticed paw prints.
+Bruzo shook his head. "There must be a god or something. A big artist. A designer. They say that he drew this planet. A very complicated and big drawing. And my parents would say ... he's drawing on it still."
 
-As a delivery stork, you learn to read very well. People's handwriting can be very messy, and you still need to figure out the right address for the package. Animals can send mail too, of course, and they often write using paw prints and precise paper licks.
+He pointed at the volcano. "That volcano over there? Wasn't here when I was born. And that river? It was on the _other_ side of the planet before."
 
-The Sort Stork had a great eye for paw prints. And these ones he recognized. Typical prints left by ... a cat.
+Astra grabbed a twig and started practicing again. Lines, lines, and more lines. Looking at her drawings in the dirt, she asked: "So what?"
 
-He lowered himself into the tall grass, until he was invisible. Once in a while, his beak stuck out at the top when he looked up, but that was it. He snuck through the grass, following the paw prints.
+"We're god's experiment, that's what I believe. His testing ground. His sketch. He's experimenting on us. Tomorrow he might draw a dragon right next to us. Or the river may suddenly be full of piranhas. It's _dangerous_ here! I told you! Why are you not looking for a way to _leave_!?"
 
-He lost sense of where he was. He kept sneaking, and sneaking, and he felt he was _so close_. Sometimes he heard shuffling and scratching, as if the cat scrambled to get away in time. Sometimes he thought he saw something shiny in the grass, but it turned out to be the lights of a human home. In fact, they were the lights of the home where the capybara delivered the baby now.
+Bruzo towered over her. His shadow made her entire world cold. 
 
-This was taking too long, he thought.
+Still, Astra smiled and hopped with joy. "But that's _amazing_! Tomorrow your 'god' might draw a unicorn to be my friend. Or the river might suddenly be made of gold. Or he might fill the sky with rainbows, and the floor with tasty carrots. Anything is possible! You can draw _anything_!"
 
-Suddenly, he froze completely. He wings pressed his beak shut, refusing to make a single breathing noise.
+The tiger frowned. "You're one silly bunny. Now, if you see any strange marks on the ground, let me know immediately." 
 
-And in that sudden silence, he noticed grass swaying nearby. And a clear and panicked MEOW!
+They had been running all day. Bruzo was so tired that he fell asleep immediately.
 
-"Got you!" he yelled, diving in that direction. 
+Astra was tired too, make no mistake. But she was eager to get her paws under control and learn to draw the right lines.
 
-The Chaos Cat twisted out of his grasp and ran deeper into the grass. He followed, smashing stalks of grass aside, until he felt wood below his feet. He chased the cat up a set of _stairs_, then through a doorway, until suddenly---
+She tried curve after curve. First with a tiny twig. Then with a bigger one. Until, finally, she thought she created a _perfect_ curve. She wondered: if she had used her paintbrush, what spell would have happened? She didn't know.
 
-He bumped into a sofa, then a table, and still he couldn't catch her. The Chaos Cat jumped on top of a scratching pole, and used it to reach a little nest near the ceiling.
+Bruzo had magically created a rope to chain the book to himself. Astra couldn't steal it, unless she could magically draw scissors. But she could _open_ it. 
 
-"Oh my lord!" yelled a woman. Not just any woman: the mother of the baby. "Who are you? Leave our cat alone!"
+She tiptoed towards him. It made more noise than she liked, but Bruzo did not seem to hear. Her face was right next to his, when he suddenly raised his paw ... and rolled over to his other side.
 
-"_Your_ cat?" asked the stork.
+Astra held her breath. She nudged the book open with her nose, then browsed until she found the right page.
 
-The capybara pushed him out of the room. She whispered: "Stop yelling. You're scaring the baby!"
+There it was. _Curves create wind._ A small curve would just blow some hair out of your face. A big curve would be a tornado, a whirlwind, flinging you to the top of a mountain. Maybe ... with enough wind ... she could help Bruzo _leave_ this planet?
 
-The stork tried to clean himself. He picked grass, mud and twigs out of his wings. Then he looked the mother in the eye. "I am the most important Sort Stork of Cloudmail Castle, ma'am. And your ... pet cat has _stolen_ one of our packages."
+She flipped to the next page.
 
-"Ugh. So annoying," whispered the capybara. "He's been complaining about that cat for a week now."
+Bruzo's breathing stopped. Wait---did he open an eye? Astra could barely see it in the dark.
 
-"Cute little _Witcheye_ over here?" said the mother. "No, I don't believe it. She wouldn't hurt a fly. If the fly was big enough and she wasn't hungry at the time."
+Then Bruzo let out a deep breath, and rolled back to his other side.
 
-"Yet it is true." He moved slowly, tiptoeing around the room to not wake the baby. "Ask her to give back the shiny package she stole."
+Astra sighed and studied the next page. The next step in her training. And it showed something new: a line that returns to where it started. A loop. _A shape_.
 
-"That doesn't make sense," she said. "You just delivered a baby to us. We're one of the few parents who still ask a stork to bring our baby. You want to know why?"
+Oh. Oh no. This was going to be hard.
 
-The mother stepped between the Sort Stork and Chaos Cat. "Because _she_ told us to. That's right. Little Witcheye convinced us to trust you."
+She grabbed her favorite twig and tried. Oh, dear reader, she tried very hard. But all her lines refused to come back where they started. It was just too hard. Her paws were too weak. She didn't have the _coordination_. That is a word which here means that what her brain _wanted_ to do, and what her arms _actually did_, were not the same. They were not talking to each other. Or if they were, they spoke a different language and didn't understand.
 
-"Of course!" he said. "A distraction! She wants us wasting time on babies instead---"
+Some lines went so far right that she couldn't come back to the start. Some lines crossed themselves, like the squiggly from the first chapter. In that case, she didn't even know what the start or the end was anymore.
 
-"_Wasting time_ on babies!?"
+In the end, it took her all night. But when the sun rose, she finally drew her first _shape_. Her first closed line that looped back to where she started.
 
-"That ... that came out wrong."
+It was an ugly one, to be honest. The magic would _not_ have accepted this, even if she had used the magical paintbrush. It would have laughed at her even harder and suggested a good pair of glasses.
 
-"No wonder. You want to know why you're not bringing more babies? Because you're _terrible_! You deliver everything too late, or in the wrong place, or broken. Our neighbors' baby was delivered to the wrong address. Some goats on a faraway mountain had to send the basket back down the river. Are all your employees _blind_?"
+But it was a shape nonetheless. And Astra was proud of herself.
 
-"Well, funny you mention it, we have a Big Bat---"
+When Bruzo woke up, she quickly kicked the dirt to hide her drawings. And she asked what had been worrying her all night.
 
-"Unbelievable. Thanks for bringing our baby. Now leave us and our cat alone."
+"Bruzo, you told me again and again how _dangerous_ this planet is. How I should _leave_. But ... you are still here. Why are _you_ not leaving?"
 
-The Caring Capybara played peekaboo with the baby. She also left a few toys in her basket. Then she turned into Complaining Capybara again. She stood next to him and whispered in his ear. "Maybe ... it's time for us to go."
+Bruzo sighed. "Can't even let me wake up a little, can you?"
 
-He let the capybara drag him from the house. He spent the entire flight back to Cloudmail Castle complaining. 
+"Sorry."
 
-"It's not fair! Everyone makes mistakes. It's not my fault. Things were going just fine when it was ONE STORK, ONE LETTER."
+"Well, the simple fact is ... that I could never leave this planet. Not until you came along."
 
-"Oh will you stop saying that."
+"Why?"
 
-"Not ONE STORK ONE MAYBE A BABY. Certainly not ONE ANIMAL ONE PACKAGE."
+"You need two brushes for that. And Tessella was always a finer painter than me. Tessella didn't just leave, no, she _tricked_ me into helping her leave!"
 
-"Are we home yet?"
+Astra looked past him, and smiled. The two magical paintbrushes were stood upright, chained to some stone. Yes, two of them. The two brushes were together once more.
 
-"That cat is _evil_, I'm telling you. She convinced her owners that ... that ..."
+She saw a way to convince him. A way he couldn't refuse. She had him now!
 
-"She's not evil."
+"I can help you leave this planet," said Astra. "Teach me the pencil magic. And together we can _both_ get away."
 
-"Well, she surely isn't _good_."
+Bruzo fell silent. He petted the brushes as if they were his, well, pets. Without even looking at the floor, he used one of the brushes to draw food. It became real a second later: carrots for Astra, meat for himself. 
 
-"I guess."
+It took a while for Bruzo to speak. "What about your friend? The bear?"
 
-"And there's nothing else you can be. You're either _good_, or you're _evil_."
+Astra tried to hide her smile. It was almost too big for her face, and it showed a two very long teeth. Yes, he had fallen for it. Hook, line, and sinker.
 
-"Look at you," said the Capybara. "You're learning how to put things into groups, at last."
+"The book has a spell to find him. I was hoping ... you could help with that?"
 
-"I ..." Was that a compliment? It did not sound like she meant it as a nice thing.
+Bruzo nodded. He removed the rope and set the book free. He was about to give it to Astra---
 
-They arrived at Cloudmail Castle. Someone had figured out how to turn the Baby Alarm off again. The Panda was painting packages. The Giraffe was grouping them by size, weight, animal, or color. Storks were flying in and out, picking the perfect pile. The one they could carry and that would not give any trouble along the way.
+But then his paw froze. His entire body froze. He suddenly seemed a statue, his eyes uncertain.
 
-Maybe they were all right. Maybe Cloudmail Castle had been a joke all those years, failing to deliver anything on time. Maybe they were learning to do things in a better way now.
+In a voice low and dangerous, he asked: "Are you hearing that?"
 
-He had a hard time with it, though. The Sorting Room was a mess. Things felt out of control. Like, at any moment, the room could explode. The system would fall apart. One visit from the Chaos Cat, and they would have to sort for _hours_ again, before they could deliver the first package. He liked order. And structure. Simple was good. Predictable was good.
+"No. I am---" She _was_ hearing that.
 
-And---wait, what was that _smell_?
+Out of nowhere, a thick line was drawn between them. A deep line that created cliffs and ravines where it touched. One that split the campfire into two fires---and one that broke Astra and Bruzo apart.
+
+Astra didn't believe him at first. But this ... this seemed to be a very _angry_ 'god', painting something on the whole planet.
+
+With a loud CRACK and BOOM, the ground split open. 
+
+With all her power, Astra leapt _over_ the crack to try and stay with Bruzo.
+
+It was too far away---she did not make it.

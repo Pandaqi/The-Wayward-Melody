@@ -1,128 +1,112 @@
 ---
-title: "The Zookeeping Zebra"
+title: "Drawn-Out"
 weight: 40
 ---
 
-# The Zookeeping Zebra
+# Drawn-Out
 
-The Sort Stork took to the skies. Succesful, this time. Nobody tackled him and his package was not too heavy. His package, however, _did_ have the odd property that it liked to _move_.
+![Straight line (horizontal)](images/chapter-4.png) \
 
-"Ssht. Go to sleep. You'll be at your new home soon," whispered the Sort Stork.
+When Astra woke up, she was alone again. She remembered drawing a big zigzag line through the whole forest. Things exploded, a wind started blowing, and now her and Bruzo were on other sides of the planet. At least, that's what she hoped. For all she knew, the angry tiger was nearby and ready to steal back his book.
 
-The puppy, held by his feet, squirmed and wagged their tail. It almost escaped his grasp. It would mean a long fall down, through clouds and trees, and he was quite sure that puppies didn't survive that.
+She _wanted_ to give back the book. She didn't want to be an annoying bunny that stole from other people. 
 
-The Sort Stork strengthened his grip. "Now, if you don't stop moving, I'll have to---"
+And so she decided to learn even faster. To _not_ listen her rumbling belly, or her butt that ached from crashing _again_.
 
-"WOOF!"
+Instead, she flipped the book to the next page. It showed a perfectly _straight_ line. Yes, dear reader, you learned about that in the previous story. A zigzag line is just many small, somewhat straight lines after another. It's easier that way. But one, long straight line? Without accidentally lifting the brush? That was much harder.
 
-"I don't speak Doggish!"
+A "straight line" means that the line doesn't change direction. It doesn't take a turn. It doesn't create hills and valleys, or mountains and squigglies. 
 
-He doubled his speed. The faster he could deliver this bouncing puppy, the better.
+A straight line is like moving. Astra was standing in a clearing now, but she saw homes in the distance. There were no obstacles in the way, like fences or trees. Let's say she wanted to visit a home. How would she do it? What was the fastest way? To move in a _straight line_ from here to there. 
 
-Animals were urgent anyway. Everyone knew that. You had to deliver them before they went hungry, or had to go to the toilet. You could _not_ delay an animal delivery. Unlike a box or paper, you couldn't let a puppy gather dust in some dark corner of the Sorting Room.
+Now, if there _were_ a tree in the way, she would have to go around it. It would take longer---and the path she walked would _not_ be a straight line anymore.
 
-Fortunately, people rarely sent animals through the mail. It was considered unhealthy and dangerous. What if the receiver didn't _want_ this animal? What if it took too long? What if---and I know this might surprise some---an animal doesn't want to be locked in a box?
+Astra told herself all of this. To remember exactly what she had to do, and make the magic happy. The book said that straight lines were a _movement_ spell. Astra imagined it would allow her to fly anywhere and find her friend, the Bearchitect!
 
-And, so, animals had never been a problem for Cloudmail Castle. They delivered maybe one puppy a year, or one kitten. There was always some stork available to _immediately_ bring it home.
+Then she tried to draw a straight line. 
 
-The Sort Stork landed on a patch of grass. He checked the address written on the dog's collar. Yes, this was it. _Catterlane 17_.
+And she failed.
 
-As soon as he let the dog go, it shot across the grass. Rolling, licking, digging. He had to capture it again, then keep it tucked beneath his wings as he rang the doorbell.
+Her line kept wobbling. She kept going the wrong way and having to change direction to get back. Her paws weren't strong enough for this!
 
-A light went on inside. A friendly face appeared behind the glass. This always made the Sort Stork feel better: the dog would probably get good owners.
+It seemed she actually needed _two_ things. She needed to know _what_ to draw, which the book told her. But she also needed to be strong enough to _actually draw that_. Which was an issue at the moment.
 
-As the door opened, however, he saw something out of the corner of his eye.
+She tried again. This time, the line started out straight enough. But soon her paws slipped again and the line became a wiggly squiggly again.
 
-Something shiny. A big package that was very familiar to him now. And a cat pushing it up a hill.
+Another failure. But she didn't give up. She remembered drawing that zigzag line yesterday. It was much easier to move her whole body than just her paws. If drawing a straight line was like _moving_ from one place to another ... maybe she could just draw while hopping!
 
-"Hey! Wait!"
+She decided to actually go and visit those homes in the distance.
 
-He chased the cat through the air. 
+She hopped forward, and forward again, and forward again. And all this time, she simply pressed the tip of the brush against the floor. Her body moved, not her paws. And she was drawing a straight line! A very long and large straight line.
 
-The Chaos Cat ran faster and faster. Kicking, pushing, and dragging the package with her. What was she doing? Why go up a hill, which is so much harder---
+And by now, dear reader, you know how drawing magic works. The bigger the drawing, the bigger the spell ...
 
-Oh. He saw it now.
+Astra hopped forward again, and again, and again.
 
-She was almost at the top of the hill. And the other side? It was a cliff. A long drop straight onto tough stone.
+She was right: they were _homes_. Other animals lived here. Or maybe Lunib, her bear friend, had built these? They looked beautiful too. With windows in all shapes and sizes. Flowers growing along the walls and covering the roof.
 
-"What are you doing!? Stop!"
+Astra hopped forward one final time and stopped before a wooden door.
 
-The Sort Stork reached for her, but cats are masters at twisting and dodging. 
+"Lunib? Is that you?" she yelled at the door. "Did you build this? I'm here! Astra!"
 
-"Have---to---destroy---it!" screeched the cat.
+The straight line was finished. She let go of her paintbrush, to place her paw on the door knob.
 
-"Why!? You ... you know what's inside?"
+The magic accepted this line. And what did straight lines do? They made things _move_. But not in the way Astra thought.
 
-She reached the top of the hill. The shiny package teetered, deciding whether it wanted to stay on the hill or fall down the cliff.
+The homes got up and walked away.
 
-Unfortunately, the package was in a bad mood and decided to take the fall.
+"Hey! Come back!" 
 
-The Sort Stork watched his career flash before his eyes. To break and lose a royal package ... well, the king wouldn't be happy about _that_.
+They did not listen to Astra's screams. They ran away from here, following the straight line she'd drawn. As if it weren't a line, but a road. A path they had to follow. They ran much faster than Astra could hop.
 
-But he never heard a CRACK, or a SPLAT, or a THUMP. 
+Soon they ran past the end of the straight line. The homes plopped back down, into the dirt. And the line disappeared.
 
-He looked around. The Chaos Cat had, of course, vanished.
+Then she heard a small voice. As if it was far away---or very sick and tired.
 
-He looked down. And he saw the best thing his eyes had ever seen: one of his employees had caught the package. The Zookeeping Zebra ran on the narrow stones below, barely keeping her balance. The package had landed on her back.
+"Astra! It's me, Lunib!" said the voice. It felt like a whisper that could be lost in the winds at any moment.
 
-"Great job, Zebra!" yelled the stork. "As a reward I'll, erm, make you employee of the month and bake you a cake!"
+Astra's long ears twitched and turned. She immediately knew where the sound was coming from: the homes. 
 
-The zebra didn't care about cakes. Not right now. As she ran past, she grabbed his wings and yelled: "You need to come back to Cloudmail Castle, sir. _Now!_"
+Oh. Oh no. She was doing it all wrong again. Her magic had almost sent her friend to the other side of the planet!
 
-___
+She ran to the sound. Without hesitation, almost blind.
 
-Back in Cloudmail Castle, the Sort Stork was about to go mad.
+"I'm coming, Lunib! I'm coming! Don't go anywhere!"
 
-"Ah. That time of year," he mumbled, trying to stay calm. "World Animal Day."
+Well, dear reader, she _should_ have hesitated and opened her eyes.
 
-The puppy wasn't the only animal package to arrive. No, soon after he left, they said another animal arrived. And another.
+Out of nowhere, a fence appeared. A huge wooden fence. It looked as if it would fall over any moment, and all the wooden planks were different sizes. It looked ... hastily _drawn_ by someone.
 
-Three. Four. Ten. Before long, the Sorting Room felt like a zoo. They had to poop somewhere, of course, which wasn't great. They had, somehow, never got around to building a toilet machine. But they also had to be fed. And some of the animals wanted to feed on _each other_.
+Astra bumped into it, hitting her head. As she fell back down, the face of a tiger appeared above her. She realized her mistake now.
 
-The tigers were about to attack the bunnies. The dogs had claimed half the conveyor belts as "their territory", while the cats lazily swiped their paws, pushing all the boxes off of the belts in the first place. The rats were, for some reason, planning to start a restaurant in Paris. And if that didn't work, they'd just eat everything in this room instead.
+"Oh, it's so easy to trick you," said Bruzo. "Now, tell me, who is Lunib? Another thief like you?"
 
-The Group Giraffe entered the room holding a piece of red paper. "Erm, stork, I just received a letter for _us_. That never happens."
+"Let me go!" said Astra. "Or ... or ... I'll make the homes move again!"
 
-"What does it say?" 
+"That was an accident. You didn't want to do that. Nobody lives there anyway."
 
-"Some old guy with really specific wishes. A single reindeer with a glowing red nose. Not to be made fun of. Bells to jingle are a plus. Like, who orders _that_?"
+"What?"
 
-"Oh, that guy. He _can_ wait a few months."
+Bruzo's eyes flashed red. His claws pinned her into the dirt. "Don't you see? Pencil magic is _dangerous_. The bigger the drawing, the bigger the spell. You could have blown up the planet!"
 
-And while the zoo went wild, dear listener, the other mail didn't stop. People kept sending more letters, which might have been important too. But not more important than their animal problem.
+"But ... but ..." Astra reached for her paintbrush. 
 
-The Sort Stork, fortunately, had _learned_.
+Bruzo kicked it away. "You drew a straight line the size of a thousand footsteps. _Of course_ it was going to move the houses. If you wanted to move _yourself_, you should have drawn a straight line as small as _you_."
 
-"Okay. Let's create groups. Let's put all the animals on _that_ side of the room. Let's put everything else on the _other_ side."
+The tiger shook his head. He mumbled something about saying too much. That he should just destroy her paintbrush and be done with it.
 
-"A fine idea," said the Zookeeping Zebra. "But what then?"
+_Destroy_ her brush? No, no, she couldn't lose it!
 
-"Then we deliver the animals first. The other packages are not _alive_---they can wait."
+"Your sister would not like it if you destroyed her brush."
 
-"And how are we going to do that?"
+Bruzo jumped on top of her again. His sharp teeth almost touched her. "You think I care about my sister? would _love_ to destroy her brush!"
 
-There were more animals than storks to deliver them. Some were quite ... aggressive. Like the bouncing puppy, but worst. They refused to be caught and scratched anyone who tried to hold them. 
+Huh? Tessella was, like, the nicest person she'd ever met. Astra started to believe Bruzo was a bit insane. He had anger issues, at least.
 
-No, he realized, animals are _not_ the same as cardboard boxes. They are a different group. So, maybe, we should try to deliver them in a different way too?
+Bruzo took away her paintbrush and his book. Then he walked away, not caring what happened to Astra.
 
-The Sort Stork felt inspired. What a coincidence that they had exactly two of every animal. "Get me a really, really big boat."
+It would have been so easy to just lay there, in the dirt, and give up. To sleep, find food, and forget about the drawing magic. 
 
-Now, dear listener, running all the mail in the world has some advantages. You knew where everyone lived. You knew the lumberjack near the king's palace, and the kid who received a toy boat for his birthday. And if you ever had a message, you could make sure it was delivered _fast_. 
+But that wasn't who Astra Buni was. So she made the decision to get up and follow Bruzo.
 
-Within a day, a really big boat was waiting for them.
-
-They separated the packages into _animal_ and _not animal_. All the animals were loaded onto the boat, which sailed a route past all the addresses. All the other packages were delivered the usual way.
-
-As night fell, the Sort Stork fell into his nest. Exhausted. Overwhelmed. Everything was a chaos, and he did _not_ like chaos.
-
-But it seemed to work. All the packages were delivered. Cloudmail Castle lived to see another day.
-
-He was drifting off to sleep ... dreaming of sorting packages ... when something bright flashed by.
-
-They'd forgotten all about the shiny package. And now it was moving on its own. Walking around the halls, studying the paintings, taking a stroll.
-
-No, of course not. It was being stolen by a creature with claws!
-
-The Chaos Cat had broken into the room. Again. How did she keep doing that? She wore even bigger cardboard wings, a beak, and paper feathers painted in all the colors of the rainbow. 
-
-Those bright colors were a mistake. Now he could easily chase her through the dark castle. And so he did.
+"Hey! Can I ask you a question?"

@@ -1,146 +1,132 @@
 ---
-title: "The Feasting Fox"
+title: "Draw A Blank"
 weight: 70
 ---
 
-# The Feasting Fox
+# Draw A Blank
 
-The Sort Stork followed his nose. It smelled a delicious pizza, somewhere in the corner of the Sorting Room. This might be a surprise to you. Many believe that storks eat tiny fish and insects. Some believe that storks don't need to eat at all, and that they feed on the magic of letters, packages, and babies in baskets. In reality, the Sort Stork loved the same food as anyone else, especially after all the exhausting chaos.
+![Circles and circle-like drawings.](images/chapter-7.png) \
 
-The only problem? The food wasn't meant for him.
+Astra fell into a crack. A few heartbeats ago, the ground here had been solid. Stone. Unbreakable. Safe to walk on. Then, those mysterious lines appeared again, and someone broke her and Bruzo the tiger apart.
 
-The pizza had been shoved inside an envelope. Half the pizza stuck out. The side that didn't stick out had made the envelop wet and shriveled.
+She had jumped. She now saw it was a mistake.
 
-Confused, the Sort Stork picked it up.
+As she fell down into the darkness---
 
-"Ouch!"
+Until she stopped falling.
 
-He immediately dropped it as hot, molten cheese dripped on his wings.
+In fact, she started floating upwards, out of the crack. Soon she stared Bruzo in the eye. He was using _both_ paintbrushes to draw spells on the floor. A floating spell to save Astra. Some other spell that created a bubble around them. A shield? Protection? It was necessary, because the mysterious lines kept coming.
 
-He clapped his wings together. The sound echoed through the room, until everyone else fell quiet.
+Astra fell on Bruzo's back. Her paws reached for the second paintbrush.
 
-"Who left a pizza here? And why would you try to put it in an envelope!?"
+Bruzo kept it away from her.
 
-"Wasn't me!" said ... everyone.
+"Come on! You agreed to teach me."
 
-The Sort Stork turned the envelope around. An address was written on the back. It also had a logo of some sort, a simple drawing of a pizza and a very happy man with a moustache.
+"I need both brushes myself!"
 
-Ah. This was not the lunch of one of his employees. 
+"You just said you need _me_. Both powers combined are needed to leave the---"
 
-Someone had ordered a pizza in the mail.
+"Yes, yes, I know what I said. Now's not the time. You're ... you're not trained _yet!_"
 
-You must remember, dear listener, that Cloudmail Castle was the only mail service in the world. It was a new invention. A magical castle in the cloud, created and launched by the king. Years ago, everyone only sent envelopes, never packages. And animals simply walked to the store when they wanted to buy food.
+And so Bruzo held both the paintbrushes. Astra was only given the book.
 
-Things were changing very quickly. The Sort Stork sighed---deeply---and tried to get his thoughts in order.
+The world around them was crumbling. As if the volcano was never real, just made of sand. As if the trees were never real, just a shimmer in your eye, a trick of the light. As if someone was _erasing_ the drawings. 
 
-"This pizza needs to be _delivered_. Big Bat? Why don't you do it? It's too hot for our feathers."
+Bruzo had to zigzag to avoid falling stones. Astra's tired paws had to grab his fur to avoid falling off.
 
-"Same for me," said the Big Bat slowly and in tune. "And I hate the smell of cheese."
+"Quick!" yelled Bruzo. "Show me the drawing for the _Become a Dragon_ spell."
 
-The Sort Stork looked around. All the animals shook their heads. None of them could stand the heat of holding a pizza. Some of them couldn't stand the smell. And one of them, he suspected, could not be trusted as he would just _eat_ the pizza on the way. The Feasting Fox had earned his name for a reason.
+"The become a dragon---what? I don't know where that is!"
 
-The Sort Stork looked the Group Giraffe in the eyes.
+"Search!"
 
-"Okay. Fine! _New group._ Put all the food in that corner, yes, over there."
+Astra turned the book inside out. She rifled through the pages, her eyes scanning every title, but she didn't find any _Become a Dragon_ spell.
 
-"Aye, then what?" asked the fox. As he approached the pizza, he licked his lips and rubbed his belly. "Eat---"
+"Maybe," she said, "it was on one of the pages that were torn out."
 
-"No. Then we find some sturdy cardboard boxes to hold the food. So we don't burn our feathers, and nothing escapes."
+"No it wasn't. Those were the dangerous spells. I took them out."
 
-"Shouldn't the pizza stay warm?" asked the Group Giraffe.
+Astra's mouth fell open. "Even _more_ dangerous?"
 
-"Aye! Yes!" The Feasting Fox picked up the dripping pizza. "What a shame. The pizza is cold. Nobody wants it anymore, I'll just eat---"
+"Focus! Show me the spell, now!"
 
-"No! Put it over there, with the---"
+"I thought you _knew_ all the spells."
 
-The machines rattled. They puffed smoke, coughing it up as if it were their last breath. And when they were done, several cups with _hot chocolate milk_ traveled down the conveyor belt. Not long after, a machine vomited _ice cream cones_---enough to feed the entire kingdom.
+"I thought so too."
 
-It seemed more people had ordered food. A restaurant somewhere had probably discovered they could deliver their food for free, just by sending it to Cloudmail Castle.
+Bruzo sounded sad. Astra decided not to say anything else until she---
 
-Ugh. It had happened. After years of calm, and order, and smooth business ... they needed a new machine.
+Ah, there it was. She held the book before him on the right page.
 
-"Try to keep everything hot!" he yelled.
+Bruzo kept running, two paintbrushes between his jaws. And he perfectly copied the image. 
 
-The Group Giraffe looked confused. "The ice cream too?"
+Or so Astra thought.
 
-"No, no, that one stays cold."
+The final lines kept going wrong. He left a few tiny curves and zigzags for last. He kept trying, and trying, but this part of the spell was too difficult for him.
 
-"Your instructions are confusing."
+"Fine! Forget becoming a dragon!"
 
-"Try to keep the food from spoiling until I return!" 
+"What now?"
 
-As he yelled the instruction, he flew out of the Sorting Room. Down a hallway, past a pretty useless staircase, to the lowest level of the castle. The basement that powered the whole thing.
+"We'll just have to defend ourselves. This is as good a place as any."
 
-The workspace of their mechanic. Tools hung on the walls. They appeared in such numbers that the Sort Stork wondered if the tools _were_ the walls. Smoke from the Sorting Room drifted into here, where a machine captured it. Like a huge vacuum cleaner, it sucked up the smoke, and used it to create energy again.
+Bruzo stopped right there. They were halfway into the woods. The trees around them were changing colors and shapes. As if they were ice cream, and they were melting. Deep lines appeared all around them. Astra could recognize one as a curve now, and one as a straight line. If there was a 'god' painting on the planet, they knew the magic and they knew what they were doing.
 
-Nobody knew what animal the mechanic was. They always wore a uniform, which was, as you'd expect, covered in so many tools that they wondered if there was anyone beneath it at all.
+She shivered at the thought. What if Bruzo was right? They finish a huge drawing, and the planet ... the planet _explodes_ or something!
 
-"Mechanic?"
+Bruzo had made a decision.
 
-"Yessir?"
+He gave Astra a paintbrush.
 
-"We need a new machine. One that's able to detect if incoming mail is _food_."
+"Circles, circles, circles," he kept saying.
 
-"_Whatsir?_" 
+Astra flipped back to the page about circles. She knew what a Circle was, of course. She had lived in Shapesong, of all places, for years.
 
-"Well, people probably don't want bits of pizza and coffee all over their birthday card. We need to keep them seperated."
+But as you know, dear reader, knowing _what_ you want to draw is not the same as being able to _do that_. It takes practice, skill, training.
 
-The mechanic took off their glasses. They wore three more sets of glasses underneath, so it was mostly for effect. "_Food?_ Who sends food through the mail?"
+And so, honestly, Astra was drawing all the shapes in the universe _except_ Circles.
 
-"Don't know. But we need to catch it and let a machine create an extra sturdy box. One that keeps the temperature the same."
+"What are you doing!?" yelled Bruzo. "Circles! Not squiggly Rectangles!"
 
-"Wellsir, I'll see what I can do. I'm a bit busy, sir. With bigger problems. Sir."
+Bruzo's circles were perfect, of course. They were big. And the magic immediately used them.
 
-"Bigger ... problems?"
+As the book said: _Circle: Creates a bubble shield around you._
 
-He pointed at the big machine in the center of the room. It was like a tree. This machine was the root, sucking in smoke and creating magic energy. The Sorting Room above were the branches and the leaves. The mechanic was at the heart of it all, responsible for keeping things running smoothly. Or, well, keeping things running. Or, well, responsible for _keeping things_, let's call it that.
+It started to rain. Water would have been fine. But this rain brought ice cubes, and stones, and trees cut in half.
 
-As it turned out, however, he could not even _"keep things"_.
+"CIRCLES!"
 
-"The key is gone, sir."
+"I'M TRYING!" yelled Astra.
 
-"What key?"
+She made another squiggly Rectangle. She made a really nice curve that was one second away from closing and becoming a circle. But then Astra's paws were tired again, and the brush slipped from her hands.
 
-"The key to the castle! Oh it's a disaster. I've been locked in here for weeks! Couldn't even go to the toilet!"
+There is something, dear reader, about panic. When in the worst of situations, it brings out the worst in some people, and the best in others. In this case, Astra saw a large stone about to fall on top of her, and with her last attempt she made a _perfect_ circle.
 
-The Sort Stork had not known there was a key. It sounded pretty important now. Also, what animal species can hold their pee for a week? The Mechanic might just as well be called the Mystery.
+A glowing pink bubble appeared around her. It bounced the stone away, like a trampoline. 
 
-"But if you were locked in, how did I enter the room?" asked the stork.
+Astra grinned. "Take that, silly stones! Nothing can touch me---"
 
-"It only opens from the outside. Mistake by me, I guess. Thanks for saving me! Thank you for releasing me!"
+After a few more hits, the bubble disappeared again. As if it only had a tiny bit of energy, and now it was tired. Astra had to draw _another_ circle. After a few attempts, she had her shield up again.
 
-The mechanic went in for a hug, then thought the better of it. The Sort Stork thought that was better too.
+This continued for a while, until the rain finally stopped. The mysterious lines were gone too. Perhaps this 'god' was painting on the other side of the planet now.
 
-"And the key is ... lost?" he asked.
+"I did it! I drew circles!"
 
-"I guesssir. Or someone stole it. You have to ask the king about it. He made this place, so he made the key that turns it on and off."
+"Well, it's a bit much to call them Circles---"
 
-"Ah, yes, the key that turns it on."
+"Weehooo!" Astra hopped around. She gave her cutest cheers and tried to give Bruzo a hug.
 
-"And off, sir."
+He brushed her aside and took away her paintbrush again. 
 
-The Sort Stork froze. It must be the Chaos Cat! She wants to destroy Cloudmail Castle for some reason! She was _evil_---just like he told everyone. But they wouldn't listen, no no. And now that cat had stolen the key that could turn the whole thing off.
+"I still can't believe Tessella gave this to you," he growled. "You can't even draw a Circle! This magic is too good for you! I'm _not_ trusting another girl to help me leave this planet again. You ... you all pretend to be nice and cute, but then ..."
 
-"Make that machine!" yelled the stork as he flew out of the mechanic's room. "One that groups food and puts it in a strong box!"
+He shook his head and walked away.
 
-Sweat dripped down his forehead. This was _not good_. He flew even faster than before, bumping into the staircase, a pillar, and the Complaining Capybara, who complained about the bump. 
+Astra didn't know what she'd done wrong now. Maybe, she thought for the first time, she had done _nothing_ wrong. It just needed time. Time to get stronger; time to convince this grumpy tiger.
 
-He reached the Sorting Room in a panic. Fortunately, his employees had delivered most of the food. They put boxes inside boxes. They combined all the _cold_ food in the same box, so they'd stay cold together. 
+So she grabbed her twig again. She started drawing curves, then combining curves to get circles. Before long, she was making very nice Circles, and it took little effort.
 
-"Have we delivered all the food?" he asked the Feasting Fox. 
+By now, however, she had not slept for several days. As she was drawing something again ... her eyes closed, the twig fell from her paws, and she fell flat on the floor. Fast asleep. Dreaming of lines, and squiggles, and angry tigers who couldn't trust anyone anymore.
 
-"Aye, it's been delivered ..." The fox turned around, hiding his mouth. "To my, erm, stomach."
-
-"No! Stop eating it!"
-
-"Gonna spoil anyway," said the fox with a slice of pizza halfway into his mouth. "Might as well eat it now, aye?" 
-
-Oh no, this was all going wrong. The king was already disappointed with packages not being delivered on time. And now food was not being delivered at all! How much of the food had the fox eaten? How much had they actually delivered?
-
-How long until the king told them to stop? How long until he destroyed Cloudmail Castle? Until someone sent him that key and he used it to shut them down?
-
-Wait a minute ...
-
-The Sort Stork felt close to a breakthrough. Unfortunately, something else broke through.
-
-The mechanic appeared with the new machine they'd made. It was big, it was loud---and it had the clear paw print of a cat on the side.
+When she woke up, Bruzo towered over her. His paintbrush was pointed at her like a claw ready to strike.

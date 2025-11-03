@@ -1,126 +1,110 @@
 ---
-title: "The Painting Panda"
+title: "From Dusk To Drawn"
 weight: 50
 ---
 
-# The Painting Panda
+# From Dusk To Drawn
 
-It was early morning, and the Group Giraffe was trying to group all packages.
+![Curved line](images/chapter-5.png) \
 
-"Okay, so, so, first we group by size. They can't be too big to carry. Then we group by weight; they can't be too heavy. Any animals should be their own group. They need to be delivered faster. And they'll probably destroy or try to eat any other letters you carried. Okay, I think I got this ..."
+Astra hopped alongside Bruzo. The tiger ignored her and kept the book far away from her. 
 
-She, indeed, got this. As the sun was considering a rise, but decided not to do so yet, she made wonderful piles.
+"Please, please, please. Can you _teach me_?" she asked.
 
-And then a cat flew through them and messed it all up.
+"No. Too dangerous."
 
-"I have you now!" yelled the Sort Stork. "Nowhere to go! Giraffe, help me!"
+Astra thought this was silly. Wasn't it _more_ dangerous if she _did not_ know the magic? She might accidentally draw a line that turned the planet inside-out! But if he taught her, she would know which lines were safe to draw, and which were not.
 
-"But ... but ... my groups!" The giraffe stared ahead, eyes watering.
+"Maybe I have a third paintbrush," tried Astra.
 
-It was too dark to see. The stork stepped in a cardboard box and slipped on some letters. The cat's left wing broke off. She left a trail of rainbow feathers, like breadcrumbs for a creative fairy tale witch. 
+Bruzo stopped walking. He looked annoyed. "I already told you. Only two of them were ever made."
 
-Cats have good night vision, dear listener, but there's a limit. They can't see what is simply completely dark. It gets even harder if _you_ are the biggest source of light.
+"By you?"
 
-And so the stork actually managed to corner her. She had nowhere to go. No window left to jump through. No machine that would teleport her away with the shiny package.
+"By my parents."
 
-"You're stuck, I've won." The Sort Stork spread his wings. They immediately fell down, because he was too tired. "Who are you? Why do you want to destroy the package?"
+"Who are ..."
 
-"It's obviously magic," said the cat.
+"Gone." 
 
-"Erm, yes, _obviously_." He looked over his shoulder. The giraffe shrugged, insofar as she could do that.
+Bruzo looked away. His paws stroked the paintbrushes as if they were teddy bears. He was silent for a while, and Astra felt like giving him a hug, but she changed her mind before doing something so silly. 
 
-The cat frowned and took off her other cardboard wing. "Everything that glows is magic. Especially if it's those bright colors. Don't you know?"
+Instead, she tried a brave new strategy: being honest.
 
-"I do. Now I do. So ... you hate magic?"
+"I know Tessella. She helped me escape on Shapesong. She saved everyone! And believe me when I say that she _gave_ me the brush. A gift."
 
-"It's a package for the king."
+"Oh I believe you. That sounds like my sister."
 
-"The _king_ hates magic?"
+Astra felt a bit better. Bruzo calmed down, now that he had both brushes. And Tessella had chosen _her_ to hold this super powerful magical brush! 
 
-The black cat turned away. She mumbled, and muttered, and other words for mysterious whispering. For a moment the Sort Stork thought she might secretly be a witch casting a spell. Any moment now, he expected to feel sick, start floating upside-down, or join a hot party inside a bubbling cauldron. 
+She looked Bruzo in the eye. "Then ... why do you hate her?"
 
-Until he flew closer and heard what she said.
+"Look around. See anyone else here? No, you don't." Bruzo sniffed. "My sister probably wanted to get rid of that brush for years. She threw it at you as soon as you appeared, I imagine."
 
-"Mustn't say what's inside ... can't say I looked inside ... it's not _allowed_ to look inside packages ... can't say---"
+Astra's breath caught. Her shoulders drooped, her ears folding. So, she was _not_ special. Tessella wanted to throw that brush in the garbage, but Astra just happened to stand in the way. Great. 
 
-"So you know what's inside? Is it a _curse_? Someone sent a curse to the king?"
+They walked for a bit. In silence. Until Bruzo reached his campfire, which was next to a small tent made of sticks and leaves. 
 
-"No! No, you're not listening. Just let me destroy it."
+Astra looked around. It _was_ very empty out here. She hadn't actually seen or met another animal; she had only heard strange noises. The scratching made sense now: it was just Bruzo drawing things in the sand.
 
-"Can't do that."
+He was all alone, wasn't he?
 
-"Then I have to go."
+Bruzo tied the brushes together and kept the book close to his chest. Then he lay down next to the fire.
 
-The Chaos Cat jumped on top of the package. It gave her just enough height to jump on a machine. After another jump, she greeted the Big Bat hanging upside-down from the ceiling. Using his massive wings, she slid to a window on the side.
+"It was an accident with the magic," he said. "My parents worked their entire life to create and understand pencil magic. Using everything they had, they made two brushes. One for dad, one for mom. Then ... they made the wrong drawing. They disappeared. My sister and I never saw them again."
 
-"Ha!" The stork pointed at the package. "You're forgetting something---"
+"I'm ... I'm sorry to hear that."
 
-She had attached herself to the package with a hairthin rope. As the Chaos Cat fell out of the castle, the package followed her.
+"So was Tessella. She threw away the paintbrush, but it kept coming back to her. She wanted to destroy it, but nothing can hurt it. She hated it, and she was scared of it." 
 
-"Aargh! Then ... then ... then you are an _enemy_ of Cloudmail Castle!"
+Bruzo sighed. He was silent again, fighting the tears welling up in his eyes.
 
-He turned to the Big Bat. "You. Go chase that evil cat. Get the package back."
+"So, she tucked the brush in her toolbox and decided to ignore it existed at all. One day, she was gone, off to another planet. I imagine she never used the brush again. Until she gave it to you. I have no idea _why_ she would do that."
 
-The bat cracked open one eye. His low melodic voice said: "She's not evil. But I'll go talk to her."
+Astra sighed too. She hopped a little closer, enjoying the warm fire. She really wanted to ask if he had any _food_, but decided this was not the right time.
 
-The sun had finally decided to rise. It had been a tough decision, clearly, as the sunrays were barely able to travel through the clouds and the fog.
+Her head hung low, and she mumbled: "I have no idea why she'd give it to me, too. I'm terrible at this."
 
-This made the Sorting Room look even more like a war zone. Like an explosion had happened and zombies lived here now.
+Bruzo frowned. "You made a forest explode. That's hardly easy to---"
 
-The giraffe's piles were ruined, of course. The stork had tipped over some machines during the chase too. One of the conveyor belts was so broken that it looked like a gray snake on the floor.
+"But I did not _want_ that! I need to draw _small_ lines. Lines that aren't dangerous. Lines that will move _me_, instead of _houses_. But ... but I can't. I'm not strong enough. I don't have the skill. I am not worthy."
 
-He immediately grabbed his broom and swept the floor. The machines were put upright again, perfectly in line with each other, in the exact same spot as they were before. As he passed by, the stork also straightened the paintings on the wall. Especially the one with his face, drawn by the Painting Panda, and his saying of _"One stork, One Letter"_ below it.
+Worthy, dear reader, is a word which here means that someone is good and kind enough to have a certain gift. Astra felt she was _not_ worthy; that the magic was too strong and powerful for a bumbling fumbling thief like her.
 
-Several letters had opened again. Their contents were scattered all over the floor. Candy to his eyes.
+Astra looked away, fighting back her own tears. Her friend Lunib was still out there somewhere. Maybe she just had to find him and try to be happy on this weird planet. Live a normal life, without magic. "Keep the brush if you want. Pencil magic wasn't made for me."
 
-The stork started reading them immediately.
+"As if I would ever give it back to you," said Bruzo. 
 
-> _Hey Sarah, isn't it Irina's birthday soon? Why hasn't she invited us to her party?_
+They warmed themselves at the fire for a while. Astra kept listening for any other animals out there, but she heard nothing. Once in a while Bruzo checked the book. 
 
-After a quick search, he found Sarah's response.
+He only needed a quick look, a glance, to see what to do. Within a heartbeat, he could draw some beautiful shapes. Astra gawked at it. She couldn't even draw _one_ of those precise lines if she tried for days.
 
-> _No. Didn't receive an invitation. We're probably not good enough for her. Bleh, forget it._
+Bruzo used the pencil magic to create drawings of food. And suddenly the drawings turned into _real food_. Meat for himself; carrots, leaves and nuts for Astra.
 
-There was another letter sent _to_ the king.
+He also used the magic to make his own food float over the fire. This one was _much_ easier.
 
-> _Royal Highness, I have to file another complaint. Your Cloudmail service keeps delivering packages at night. Bright packages, sometimes even shiny packages. They always wake me up! It's like falling stars past my window! Please solve this problem, or I am forced to start my own mail service using our country's national animal: snails. Greetings, the King of the Country Next to Yours._
+It was not a straight line. But it also wasn't a squiggle. It was a ... a ...
 
-He looked up from the letter. He locked eyes with the giraffe, who was reading too.
+"A curve," said Bruzo. "That's when a line turns in a certain direction, but it's the same direction the whole time. If you continue the curve long enough, you just end up with a circle."
 
-"I ... I never thought about that," he said. "We need to ... we need to ..."
+Astra understood. If you drew a curve, and then switched to another curve, and then to another one, _that's_ how you got the wiggly line.
 
-More and more, he felt the king would be visiting any moment now. Knocking on the door, if they had a door, and demanding why his storks were making a mess of it. And he thought he'd been doing so well. And, well, maybe he _had_, years ago.
+But as you have learned, dear reader, _knowing_ what to do is not the same as _doing it_. Bruzo made a perfect curve without effort. Astra knew her paws weren't strong enough for that.
 
-In the old days, when the Sort Stork was still in training, they sent one letter at a time. This made them very slow. It made them send ten storks to the same home, instead of one stork holding ten letters. 
+"Can I ... can I practice?" she asked.
 
-Things were simpler then. Packages didn't even exist yet. Nobody bought clothes online; they bought them in the clothes shop. The Sorting Room wasn't a mess yet, nor filled with smoke and rattling machines. Or other animals. 
+"Sure." Bruzo reached for the brushes, then reached a little further. He picked up a random twig. "Practice with this practice brush."
 
-He started daydreaming about those days, until the Group Giraffe coughed and a flying letter hit him in the stomach.
+Astra took the twig and started drawing _curves_. She drew them all evening. She drew them all night. Every time, they were a little better. A little prettier, if she might say so herself.
 
-"I suggest we---"
+Bruzo went to sleep. When he woke up, Astra had drawn curves---and things that should have been curves---over the entire area. She was several tree lengths away now. If anybody else looked at this planet from above, they would probably think she was trying desperately to communicate with aliens.
 
-"Yes. Let's group packages by color too. Bright colors are only delivered by _day_, dark colors can be delivered by _night_. And if you see a shiny package, or a purple one, handle with care. It's probably magic."
+Suddenly, the tiger stood next to her. And Bruzo screamed in rage: "What did you do!?"
 
-When he explained the new rule to his storks, they groaned and sighed. And the Complaining Capybara, who would've thought, _complained_.
+He pointed at her. No, _past_ her.
 
-"We don't control the look of packages," he said. "Most people send white envelopes. White is bright. If we can only deliver those by day ... we'll fall behind again."
+Not at her curves. They weren't magic, remember, because she'd used a _twig_. And they hardly looked like curves still. Many of them looked more like smileys or arrows. Most of them resembled nothing at all.
 
-He was right. Most packages were white, light brown, or some shade inbetween. People had no imagination, he thought. And he had no _solutions_.
+Bruzo pointed at a much thicker, deeper line. One that ran around her like a river. Cutting the landscape like a giant's knife. Circling her like a shark, as if trying to capture her failed curve drawings. She certainly didn't remember anyone drawing _that_ ...
 
-The Painting Panda raised her hand.
-
-"What if ... you let me _paint_ the packages? I can make some blue, some red, some green. Then you can group them by color and be happy! Yay!"
-
-"That might just work."
-
-"And we can even take nature into account," continued the panda. "I'll paint packages blue if they are to be delivered in the ocean. I'll paint them green for forest, gray for the city, and everyone will be happy! Yay!"
-
-And so it was, dear listener, that the Painting Panda became one of the most important members of Cloudmail Castle. All packages had to go past her keen eyes. She sorted them by color. And if the color didn't match where it had to go, or they already had too many of that color, she'd paint it something else. 
-
-The next day, the Sort Stork woke up to six piles. One per color. And each was exactly as big as the other.
-
-Hmm, he thought. Maybe it wasn't so bad to allow other animals---besides storks---to join the mail service. They were doing a great job. The king would be pleased, he hoped. No more complaints.
-
-All that remained was the issue of the evil cat and the shiny package.
-
-And, of course, that of a _crying baby_ somewhere in the Sorting Room ...
+"Sorry," said Bruzo. "I know you did not do that. But we need to get away from here _now_. Before we're captured in the spell."

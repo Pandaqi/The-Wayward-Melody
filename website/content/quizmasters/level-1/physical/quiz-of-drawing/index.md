@@ -4,8 +4,8 @@ title: "Quiz of Drawing"
 id: "quiz-of-drawing"
 date: 2025-10-26
 price: 9.95
-image: ["quiz-of-drawing-header.webp", "quiz-of-drawing-1.webp", "quiz-of-drawing-2.webp"]
-file: "@TODO"
+image: ["quiz-of-drawing-header.webp", "quiz-of-drawing-1.webp", "quiz-of-drawing-2.webp", "quiz-of-drawing-3.webp", "quiz-of-drawing-4.webp", "quiz-of-drawing-5.webp", "quiz-of-drawing-6.webp", "quiz-of-drawing-7.webp"]
+file: "ba3cdb69-56fe-4311-aef1-b30a06be9cee"
 spell: "pencil-control"
 description: | 
   A quiz about drawing and pencil control
@@ -14,20 +14,21 @@ description: |
   And test if your mastery of the pen is in full swing
 
 contents:
-- Digital Quiz with 50 questions over 5 rounds
+- Digital Quiz with 64 questions over 9 rounds
 - Printable version
 - Tailored Answer Sheet and Answer Form
 - The raw files (media + questions) to modify/reuse the quiz yourself
+- Special answer form for kids to draw on directly!
 
 level: 1
-language: "EN"
+language: ["EN", "NL"]
 subject: "Physical"
 categories: ["drawing"]
 player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false
-duration: 30
+duration: 60
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -66,14 +67,15 @@ The only setup required is to give all players some papers and a writing utensil
 
 Below are the different rounds included. As always, you can easily skip rounds or only play one at a time.
 
-* **Twist The Line** -> draw the exact line shown, but rotated/flipped/shrunk.
+* **Copy The Line** -> draw the exact line shown.
 * **Get A Grip** -> all questions are about different ways to grip the pencil, and you have to use that grip for the answer.
 * **Fixed Symbols** -> you answer each question by drawing a symbol from the same three possible options each time.
 * **Drawing Dilemmas** -> multiple choice questions where you draw the answer (the most "typical quiz round")
 * **Draw The Solution** -> open questions where you can draw anything you think is the answer/solves the problem
 * **Wrong Hand** -> you must draw with your wrong hand this round.
-* **Connect Us** -> the question shows two (or more) things on a map/in space; you draw a line that would make a path between them all.
-* **Blind Draw** -> you must draw with eyes closed this round.
+* **Connect Us (Advanced)** -> the question shows two (or more) things on a map/in space; you draw a line that would make a path between them all.
+* **Twist The Line (Advanced)** -> draw the exact line shown, but rotated/flipped/shrunk.
+* **Blind Draw (Just For Fun)** -> you must draw with eyes closed this round.
 
 For open questions, when checking answers, the quiz includes a drawing too. This drawing is intentionally crude (unlike the other images), to look more like what a young child would draw, and to reinforce that there are no "wrong" answers there.
 
@@ -81,4 +83,8 @@ This quiz also has a fun **group mode variant** if you have a large number of pl
 
 {{% remark %}}
 You can, of course, apply this exact same trick to other educational quizzes you bought from us! Ask players to _draw_ the answer, instead of shouting it or pointing at it. The only requirement is that questions and answers are easily "illustrated". Which is true for most of our quizzes in level 1, because they need to be simple and textless. This specific quiz simply focuses _completely_ on the many ways you can answer questions with a drawing.
+{{% /remark %}}
+
+{{% remark %}}
+Deze quiz is ook beschikbaar in het Nederlands! Zodra je de vragen hebt geladen kan je een taal kiezen. Zodoende kan je zowel de inhoud als de interface naar Nederlands zetten.
 {{% /remark %}}

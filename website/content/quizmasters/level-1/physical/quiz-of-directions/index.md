@@ -27,7 +27,7 @@ player-count: 1-100
 age: 3
 # requirements: ""
 # single-use: false
-duration: 30
+duration: 45
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -50,7 +50,7 @@ duration: 30
 
 ---
 
-This quiz tests your skill when it comes to **basic directions**. It starts with the simplest possible questions, asking you to pick the thing standing on the _left_ or standing _above_ something else. Later rounds move to more varied questions, such as figuring out the directions of a map, or introducing _diagonals_ too.
+This quiz tests your skill when it comes to **basic directions**. It starts with the simplest possible questions, asking you to pick the thing standing on the _left_, or maybe the one standing _above_ something else. Later rounds move to more varied questions, such as figuring out the directions of a map and introducing _diagonals_ too.
 
 As always, you can play this quiz digitally, physically, or something in-between. It's easy to customize. For example, only play the rounds you want to focus on today, and leave the rest for another time.
 
@@ -71,5 +71,5 @@ We are physical beings who live in a physical world. That's why this topic is su
 {{% /remark %}}
 
 {{% remark %}}
-Deze quiz is ook beschikbaar in het Nederlands! Zodra je de vragen hebt geladen kan je een taal kiezen. Zodoende kan je zowel de inhoud als de interface zelf naar Nederlands zetten.
+Deze quiz is ook beschikbaar in het Nederlands! Zodra je de vragen hebt geladen kan je een taal kiezen. Zodoende kan je zowel de inhoud als de interface naar Nederlands zetten.
 {{% /remark %}}

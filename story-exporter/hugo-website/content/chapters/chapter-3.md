@@ -1,158 +1,118 @@
 ---
-title: "The Strong Stork"
+title: "Cut The Line"
 weight: 30
 ---
 
-# The Strong Stork
+# Cut The Line
 
-The Sort Stork had just discovered who stole the shiny package. It was right there, inside the Big Bat's claws.
+![Zigzag line](images/chapter-3.png) \
 
-Oh, it was clear now. The Bat was blind, it probably accidentally bumped into the Sort Stork before. It was mysteriously big and never had a good explanation why. Yes, he was sure he'd found the big bad.
+Astra's heart raced. The owner of the spell book wanted it back. And now they had caught her in a spell of their own. She floated above the ground, unable to hop. She turned slowly. Not because she wanted to, but because the magic forced her to.
 
-"I just want to know," said the Sort Stork, "_why?_"
+And she saw the face of a tiger. A young tiger. Drawing with a paintbrush that was also too large for him. That did not make his teeth any less sharp, though, or his red eyes any less scary.
 
-"Why what?" The bat's voice was low, slow, but always melodic. Like playing the most beautiful song you know in slow-motion. "I thought _you_ put that package in my claws. What's so special about it? I came back to ask where I had to deliver it."
+Wait. He had to keep drawing to keep her floating. She had just learned ... that drawing magic can be picky. Only the perfect line will do.
 
-"It glows, duh! Wait---"
+And so Astra reached around her. She touched some leaves, but those were too soft. Nobody would be distracted by that. Then she found a stone, and held it in her paw.
 
-The bat was blind. That package meant nothing to him. It just felt like another cardboard box. For all he knew, it held an ugly sweater, which had to be delivered to some remote monkeys on a mountain top.
+The tiger looked up. "Really thought you could run away from me, did you? Pff. They don't make thieves like they used to ..."
 
-"My dear bat, _when_ did you receive the package?"
+He looked back down again, focusing on getting the spell right.
 
-"I'm not sure. Some annoying cat was meowing in my ear. Gave me a headache."
+Astra threw the stone.
 
-"Well, well, I'm just glad we have it back. I will deliver it myself, now. It's clearly important."
+She missed the tiger. But she hit the paintbrush and made him draw a wrong line.
 
-The Group Giraffe was busy already. New mail was coming in, just as fast as before, and she tried sorting it by size.
+The spell disappeared in a puff of smoke and sparks.
 
-"Let the bat do it," she said. "I need you here to help me _sort_!"
+Astra fell back to the ground. Her butt did not like the landing, and the book slipped from her grasp. She collected her things and ran away again.
 
-Ugh. Why wouldn't anyone let him be heroic? He just wanted to meet the king and get a compliment. Or a magical sword, or whatever gifts he gave out. As far as he knew, the Cloudmail Castle had never had a package _from_ the king. Weird, that. Surely he had friends to congratulate with their birthday too? Dragons he had to tell to stay away from the princesses? Fairy tale writers to angrily convince the queen was _not_, in fact, evil?
+This time, however, she ran into the forest.
 
-He was looking for an excuse to deliver it anyway. He didn't find any, so he helped the giraffe find the smallest envelopes they had.
+She zipped past trees, making it hard to see her. She'd go one way for a few seconds ... and then suddenly go the other way. Hopping past trees, but now in the other direction.
 
-Fortunately, someone else _gave_ him an excuse.
+"Stop right there!" yelled the tiger. "You can't escape me!"
 
-A black dot shot through the window. It was a cat. With _new_ cardboard wings. And something else that was new: a _bag_ around their shoulders.
+He had to follow her now. He had to stay close, or he would never see her again. It's hard to make someone float when you have no idea where they are.
 
-It flew past the bat, a blur to the stork's eyes. The next time he blinked, the glowing package was in the cat's bag. The package was being stolen _again_!
+Astra had an idea. She'd seen the next type of line in the spell book. A "zigzag". The same as the wiggly line, but now the hills and valleys were _pointy_. 
 
-What was _inside_? What could be so important? And who was that cat who thought they were a stork?
+After running one way for a while, she turned around again and ran the other way. And she lowered her brush so it hit the floor. As she ran away, her brush was drawing a line all the time. 
 
-The Big Bat attempted to stop the thief. He probably thought he did quite well, but he actually held a crushed machine in his claws.
+It made it easy for the tiger to follow her. All he had to do was follow the line going left, right, left, right, but always forward.
 
-"Stop it! Stop it now!" The Sort Stork flew towards the cat, like a rocket locked onto its target. "This is _my_ Sorting Room! And I will have _order_!"
+She just hoped that her idea would work before he caught her.
 
-The cat stuck out their tongue. She swiped envelopes off the conveyor belts with her legs, creating the opposite of order. She jumped on top of machines, pressing all the buttons, even those he didn't know existed. Why did a sorting machine have a "play loud music"-button anyway?
+"Give me my book!" yelled the tiger.
 
-Fog filled the room. Conveyor belts stopped as they were blocked by fallen packages. The envelopes whizzing through the air made him feel as if he were flying through a thick syrup, barely able to move forward.
+"I didn't steal it! I, erm, found it."
 
-When the dust cleared, the cat---and the shiny package---were gone. 
+"At _my_ campfire."
 
-So was any order or structure that used to exist. 
+"Your name wasn't on it."
 
-The Group Giraffe sighed in frustration as all her piles were mixed up again. Layers of envelopes made the floor slippery. Another machine had broken down, refusing to come back to life. No matter how often they executed the old and trusted technique of "slam the top of the machine hard, several times".
+"Check the book! I'm Bruzo. My name is on the cover!"
 
-"Who was that?" asked the Big Bat.
+Astra briefly looked down. He was right. His name _was_ on the book. Right above a very realistic drawing of his face.
 
-The Sort Stork started picking up envelopes, the same way you might pick up dropped candy wrappers. "Chaos Cat."
+Her paws were shaking. They still weren't strong enough for this. The brush fell from her paws a few times.
 
-"You know her?" asked the giraffe.
+But ... that was not a problem.
 
-"No. But that's what she should be called!" 
+Because she realized the zigzag was just many small lines after another. A quick line going left. Then a quick line going back right. She could lift the brush and take a break, then start the next line. And if she made one line too long? She could just make the other one long too, and save the spell.
 
-The stork froze. Some of the envelopes had opened. Their contents had spilled out. Cards, poems, letters, they were all over the floor and could be read.
+It was also easier because she was drawing so _big_. She could move _herself_, instead of her paws. Each _hop_ made a straight line, even if her arms didn't move. Because, well, she could not suddenly change direction in the air! She had no wings. Once she hopped, she had to go straight until she landed.
 
-"Oh no," said the giraffe. "How are we _ever_ going to get them back inside the right envelope?"
+Her paws were tired and not used to these drawings. But hopping? She could hop all day!
 
-"Yeah, yeah," added the Sort Stork. "I see _no_ way. Except for _reading_ what's on them ..."
+Her zigzag line was moving past trees, shrubs, and startled animals. It was covering the whole forest. She felt pretty good about herself, until she looked behind her.
 
-"Yes. No other way at all. Absolutely."
+The tiger was running at full speed now. His face was red and his claws were out. His paintbrush was pointed towards her, as if she were a marshmellow he wanted to skewer.
 
-"Have to do it, then. We'll carry the burden."
+"It's _my_ book!" yelled Bruzo.
 
-They exchanged a glance. Then a smile. Then they dove on top of the envelopes, grabbing all the letters and reading what was on them.
+Astra yelled back at him over her shoulder. "No, no, it's mine. I, erm, _bought_ this book! In the, erm, magic shop?"
 
-> _Dear Sarah. You are invited to my birthday party! It's Sunday the 26th. It will be a lot of fun. I won't spoil what we're going to do, but bring swimwear and a potato. Love, Irina._
+"Oh come on. You're a thief. I see it in everything."
 
-The next few letters were the same thing. All invitations to Irina's birthday party, with only the name changed.
+"That's not nice."
 
-"Irina? Why does that name sound familiar?" asked the giraffe.
+"That paintbrush---"
 
-"Remember we had to deliver an entire band of musicians last year? And a birthday cake that could have fed the entire palace?"
+"I made it myself!"
 
-"Of course. It took _all_ of our storks to deliver that."
+"No, you didn't."
 
-"One stork, one musical instrument. I know my own rules. Well, that's spoiled Irina. Seems her birthday is coming up again."
+"Okay, fine, I bought it too. In the magic shop, which is a very real thing."
 
-They looked for other messages, but they were hard to find. Irina had invited almost fifty people.
+"Absolutely not."
 
-Finally, they found a few more important messages.
+He sounded so _sure_. Astra didn't know what to say. Usually, everyone believed her---a cute rabbit---immediately. And Tessella pulled whatever she wanted out of her toolbox, and nobody ever questioned that! 
 
-> _Dear Johan, I hope this message finds you well. Probably not, given how my previous letter was never delivered at all. I wanted to wish you a happy new year._
+Yes, he was right, of course. The book was his. But she wanted to keep it. She _needed_ to keep it, to learn all the spells.
 
-The Sort Stork turned the card around. The year on the card ... was not this year.
+Bruzo reached for her. She barely hopped away. She moved to the other side again. Her brush was still on the ground, drawing, scratching. If someone looked from above, they'd probably think she was trying to draw mountains.
 
-Another message.
+She tried one final thing.
 
-> _Royal Highness, I ask you to do something about these storks and their bad mail service. I ordered a pizza last month, and it still hasn't arrived! Sort Storks? More like Sort Sloths! Greetings, the King of the Country Next to Yours._
+"Alright, fine, I didn't buy it. I pulled it out of a magical toolbox. You know the ones. Bigger on the inside. Has whatever you need in the moment."
 
-"Hmpf. Complainers." The Sort Stork threw all the letters over his shoulder. "They wouldn't dare say that to the Sort Sloth's face!"
+"No, you didn't."
 
-"We have a Sort Sloth?"
+Astra suddenly turned and went the other way again. Drawing another mountain in the dirt. She was zigging and zagging through the trees.
 
-The stork sweeped up all the opened letters ... and sweeped them right into the bin. "Anyway, it's impossible to know what envelope contained them. There are just too many."
+"Only two of these paintbrushes were ever made." Bruzo's voice was loud and clear. Certain. Confident. What was he? The God of Paintbrushes? Professor of Pencils? "One for me. And one ... for my sister."
 
-The rest of the day was wasted cleaning up the mess. They had no time to create new piles of packages, grouped by _size_. The giraffe also didn't feel like doing it. Because, any moment, the Chaos Cat might return and ruin that work again.
+Now, dear reader, two things happened at once.
 
-But nobody returned. Not even their own employees.
+Firstly, Astra realized what this meant. Tessella was this guy's sister. He probably thought Astra had stolen the brush from her toolbox! But Tessella had given it to her, as a gift! What a coincidence to land on the planet with him ...
 
-Sure, Sammie returned, but he only had to deliver three thin envelopes. The Big Bat was fine too, although they were always worried he blindly dropped the packages at the first home he heard. But everyone else?
+Secondly, Astra had finished her drawing. She had zigzagged through the forest, keeping the brush on the ground. This had created a lot of mountains in a row, all connected to each other.
 
-"Where _are_ they?"
+The magic agreed that this was a _Zigzag Line_. And so, the spell happened. But here's a curious thing about _drawing spells_: the bigger the drawing, the stronger the spell. Some joke from the inventor that got out of hand, I guess.
 
-Well, they asked that question all evening, all night, and all morning. Then, finally, the first storks returned.
+The spell book said that zigzag lines _destroy things_. A tiny zigzag line would cut your vegetables for you. A slightly bigger zigzag line would break a twig below your feet. An even bigger one might create a small fire, or convince a tree to fall down. One as large as _a forest_ ...
 
-They walked with stooped posture. As if their back had turned to pudding.
+Well, let's just say the chase was over.
 
-Some of them fell asleep standing up. Others wound bandage around sore paws. None of them looked happy.
-
-"What's wrong?" asked Sort Stork, his voice small, like a scared child.
-
-"It's way too much!" said someone. "Sure, the package is small, but that doesn't mean it's _light_!"
-
-"What? You only want to deliver lamps?"
-
-"No, as in, _not heavy_. Light." 
-
-Other storks chimed in. "My packages were heavy too. I can't feel my wings anymore! I had to drop some of them in the lake!"
-
-"No! No, don't do that." The Sort Stork tried to make this _very_ clear. "Just, erm, some people have been complaining."
-
-"We are complaining _now_. Your new idea doesn't work."
-
-The Sort Stork turned to the Group Giraffe. "There you have it. They also don't like your ideas. Let's go back to: one stork, one letter---"
-
-"You give up so easily?"
-
-The giraffe strode through the room as she shook her head. What was she up to this time?
-
-She made new piles of packages. Only, this time, they weren't the same size anymore. Some tiny packages were placed with huge packages. It made no sense, until ...
-
-One of the machines in the Sorting Room was a _scale_. You placed a package on one side, and one on the other side, and waited. If one package dropped _lower_ than the other, well, then you knew it had to be _heavier_.
-
-The giraffe used this a hundred times. To compare the _weight_ of packages and envelopes. And anything that was about as heavy as another thing, was put together.
-
-The Sort Stork sighed. "Fine. Let's try that."
-
-He thought about his employees. Who was the strongest? Who was the weakest? He wrote down their names again, and placed one at each pile. The strongest stork received the heaviest mail. He was about to give the lightest mail to Sammie, when he realized they also employed a butterfly.
-
-"Attention! I've given you a new pile. It should be small enough that you can hold it, and you should be strong enough to carry it. Please take them all and deliver them. We can't fall behind any more!"
-
-The Strong Stork groaned, sweating as he lifted the heavy boxes for the first time. Sammie muttered that he was tired and wanted to go to bed. But after enough time, they all listened and went on their way.
-
-"It will work. You'll see," said the giraffe.
-
-"All I see is new packages already coming in ..."
-
-Not just any package. One with an _animal_ inside. 
+Astra flew one way; Bruzo flew the other way. 

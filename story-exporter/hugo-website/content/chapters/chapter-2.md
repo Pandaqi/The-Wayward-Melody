@@ -1,116 +1,102 @@
 ---
-title: "The Big Bat"
+title: "Out Of Line"
 weight: 20
 ---
 
-# The Big Bat
+# Out Of Line
 
-The Sort Stork was all out of sorts. What had happened? Did something attack him? Where was the glowing package meant for the king? 
+![Wiggly line](images/chapter-2.png) \
 
-Oh no. He hadn't accidentally dropped it, had he? Even if the contents were not _fragile_ ... that was a long way to fall. And he would have accidentally delivered it to the bottom of a lake. And last time he checked, the king was not a dolphin.
+Astra was ashamed of herself. She had crashed on a new planet. And the first thing she did was steal a book from someone else living there!
 
-After a while, a giraffe's face appeared above him. "Some animal attacked you! I chased it, but couldn't find it."
+But she was also happy. Because now she could finally learn how to use her magical paintbrush. No more guessing and accidentally making herself float.
 
-"Pfew. Yes. An attack. Not my fault, yes."
+She had been scared for a while. But the owner of the book had not chased her for long. They'd given up immediately, it seemed. And so, Astra dug herself a hole in the ground, and slept there.
 
-"What now?"
+She woke up when the sun rose. The planet still looked as colorful, and beautiful, as yesterday. And she was still alone, with no sign of Lunib the Bearchitect.
 
-The machines around them rattled again. New letters arrived. Packages big and small. They were checked for an address, sealed more tightly if needed, and then spit out onto the conveyor belts. It never ended, not even at night.
+There was no time to waste. She took out the book and looked for a useful spell. 
 
-And there were no storks left to deliver them.
+She found one called "talk to a friend", but you could only do it if you knew where they were. 
 
-The Sort Stork scratched his beak. "People won't mind if their mail is delayed by a day, right?"
+She found another spell called "create a map of the whole planet". It would draw lines in the dirt where she stood, and showing her where everything and everyone was. Very powerful. Very hard to draw. And also very useless. It said that the map could be as big as a forest, because it would show you _everything_.
 
-The Group Giraffe took another package in her mouth. "This one should have been delivered _last week_!"
+She kept turning the pages, until her breath caught. A spell called "fly to someone else". You only needed to draw it, and say your friend's name, and you would immediately fly there! She could ... she could even say the name of her mom and dad. She could go home, back to Shapesong.
 
-"Oh, well, what's a week against a lifetime? Better late than never, I would say---"
+Unfortunately, the pages were burned.
 
-The giraffe scowled, insofar as they can do that. She had to stick out her tongue to make the expression clear. "What if it's a birthday card? It's no good being congratulated half a year later! What if there's food inside? It will spoil in this hot room. What if---"
+They looked as if a dog had taken a bite out of them. And then thrown them into the campfire. And then stomped on it. And then taken another bite.
 
-"Stop!" The Sort Stork walked around the giraffe. He picked up the pile of packages to be delivered somewhere near the palace. "You've made your point. I'll take all of these and deliver them. _You_ need to figure out who stole the glowing package. And, erm, punish them."
+Truly, you had to be very angry at books to destroy them this much. Astra could do nothing about it. She could not even see the first line to draw.
 
-"How?"
+She sighed.
 
-"Say ... say ... we'll deliver all their mail to the wrong address! For a year! Ha! That'll teach them."
+Maybe she could guess the spell herself. Maybe she could _invent_ her own spell.
 
-The giraffe looked less sure about that. Still, the Sort Stork was the boss, so she started looking behind machines and underneath boxes. She found the keys to the kitchen that they lost a year ago. She found a birthday cake covered in flies and mold. And she found a stray cat with wings, claiming they were really a stork. Nothing strange, no intruders, no glowing package.
+Okay. Let's do that. Let's start from the beginning.
 
-Wait a minute.
+She looked at the first spell, on page number one. It was a very simple one. Just a wiggly line. Like a snake moving from left to right. Like a landscape with nice soft hills and soft valleys. Or maybe watery waves.
 
-A cat with wings? Cardboard wings, yes. And paper feathers, she saw now.
+And what did it do? It created water. And that was nice, because she _was_ getting thirsty.
 
-"Stop right there!"
+She held the paintbrush tightly. With tongue sticking out of her mouth, past two very long teeth, she started drawing.
 
-The cat yelped and, as you probably predicted, did _not_ stop. They leapt into the air and latched onto an envelope flying past. The envelope dipped down a bit, but the cat was light enough to keep flying. 
+And failed.
 
-The giraffe stuck out her neck as far as she could. She bit at the envelope, and almost caught it, but the cat twirled around and flew out the window. 
+Some of her hills were very high, others were not. It looked more like a bunch of camels with humps standing on each other's backs.
 
-She listened for a splash, but it never came. Maybe the cardboard wings really worked. Maybe the cat _was_ just a weird-looking stork and had nothing to do with the glowing package.
+"Oh come on," said Astra. "It's close enough! Give me some water!"
 
-The Sort Stork stood next to her. "Well, I see you're not the _Get-Them Giraffe_. Bye bye, to the sky!"
+Surprisingly, the magic was not convinced. There are, dear reader, few times when "close enough" is a good reason. You will not win a game from kicking the soccer ball past the goal and saying "close enough". You will remain hungry if you throw bread past your mouth and say "close enough".
 
-He'd put all the packages in a bag and put it on his back. It didn't fit, though, so he also prepared to carry the biggest package with his feet. 
+The magic did not recognize this as a wiggly line. It might even have laughed at her behind her back. Magic could be like that.
 
-He pushed off and took to the clouds.
+But Astra tried again. Her muscles didn't like this, and her tongue stuck out even more. 
 
-And immediately fell back down.
+And failed again.
 
-Okay, he was a bit rusty. Hadn't done the delivering himself for some time. Let's try that again.
+This time, she had accidentally lifted the brush. Her line suddenly ended when going up a hill ... and only returned in the distance, going nowhere at all.
 
-He tried again, using all his strength, spreading his wings wide.
+The magic did not recognize this as a wiggly line. If I might guess, I'd say it was gossiping about Astra by now. Possibly complaining to the other kinds of magic. "Oh, you only have to wave a wand, you have it _easy_. _My_ magicians need to draw complicated lines with gigantic brushes!"
 
-And he fell back down. He squished one of the packages, while another slipped out of his wings.
+Astra, however, had survived a journey through space on a mushroom. And an evil king who wanted everyone to be a Triangle. She could do this.
 
-"I was right!" he said to the giraffe. "It's too much! I can't hold it all! One stork, one package, much simpler." 
+She tried again. Her whole body swayed, ready to fall over and sleep for days. The brush kept slipping from her paws. They weren't strong enough for this. She had never gripped a pencil before in her life! Bunnies didn't go around writing things by hand. Their handwriting is terrible, everyone knows that. Also, they don't have hands.
 
-The giraffe looked uncertain. She stood frozen, as if she still couldn't believe she'd seen a cat with wings. Or she'd suddenly realized she was one of the rare giraffes with a fear of heights.
+This time, she kept the brush in the dirt. She didn't lift it; she didn't accidentally go the wrong direction. Her hills and valleys were, well, _not great_. But they were, for want of a better phrase, "good enough".
 
-Then, she suddenly took a few packages out of the Sort Stork's wings. She placed the packages on the other side of the room. 
+The magic accepted this drawing.
 
-That's odd, thought the Sort Stork. Those packages have a completely different address. What is she up to now?
+Water splashed in Astra's face.
 
-With a sore butt, he waddled after her. She ran from one edge of the room to the other, grabbing letters, moving packages, and creating new piles. The piles didn't make sense, until ...
+It came from nowhere. A spray of droplets, made from thin air. As if an invisible fountain was right next to her. _Magic._
 
-That pile had all the _big_ packages. The biggest ones they had.
+"Yes! YES! Yeeehoooo!"
 
-That other pile had only _tiny_ letters. The smallest and flattest ones available.
+Astra threw the brush down and cheered. She hopped around and gave the book a kiss.
 
-He walked from one end of the room to another. Every next pile was slightly bigger than the previous. He realized what she'd done: she had grouped the mail by _size_. 
+She noticed her wiggly line was gone. As if the spell had eaten it. As if it had _turned_ her drawing into the water droplets.
 
-He stopped in front of a pile in the middle. These packages fit between his wings. He could hold them without letting them slip. Any bigger, though, and ... well, you saw what happened.
+She didn't mind. It was much cleaner this way. No messy lines all over the floor. And it meant that nobody could find her doing magic.
 
-"I see," he mumbled. 
+With a smile, she turned back to the book. She flipped the page to move onto the next spell.
 
-The Group Giraffe looked at him expectantly. A word which, here, means that she refused to blink or stop smiling until the Sort Stork did what she expected of him. The issue with this, dear listener, is that you can't guess what other people expect. Did she want him to deliver this smaller pile now? Did she want a compliment? A sticker and candy, as reward for sorting packages by size?
+The book started shaking. It glowed and rattled, as if it were cold, or angry at her.
 
-He thought about all the storks and other animals that worked in the Cloudmail Castle. The younger storks were all smaller than him. Animals like the giraffe and the elephant were big, yes, but they couldn't fly or hold many things. They needed their four legs to stand on.
+The pages turned dark. So dark she could barely see what the next line would be.
 
-Of course! That's what she expected.
+And then she realized: a shadow had fallen over her. 
 
-It was _his_ job to sort his employees and assign the right pile to each.
+A figure rose before her. Angry. Holding a large paintbrush as if it were a sword. They spoke with a voice low and threatening, as if it could turn into a lion's roar at any moment.
 
-"Fine," he said. "Fine, let's try doing it your way. Just once!"
+"Who _are_ you?" they said. "And what are you doing with my book?"
 
-As afternoon became evening, they made a list. Young Sammie the Stork? He was given the smallest envelopes only. Old Dodo the Dragon? Well, he would give him the biggest packages ... if only he wouldn't set fire to everything he delivered! No, he'd need to ask the Big Bat for those.
+Astra wished she'd learned a spell to defend herself. Or one to run away really fast.
 
-He wrote down all their names. Then he placed the right name in front of each pile.
+For now, she had to do it all herself.
 
-All the while, the machines rattled and more mail arrived. They fell behind more and more, as the giraffe found letters that should have been delivered a month ago.
+She picked up the book and hopped into the forest. Again, the figure didn't follow her.
 
-Fortunately, as night fell, storks also returned from their deliveries. They looked at the piles, and their badly spelled names, in confusion. Some of them ignored it completely. They just grabbed one envelope---the first they saw---and turned to leave. 
+Until, suddenly, she noticed she wasn't touching the ground anymore. The mysterious figure laughed as Astra floated, helpless. 
 
-The Sort Stork coughed. Then he coughed again, more loudly, until everyone gave him their attention. Possibly because they thought he was getting stick. "It has been brought to my attention ... by someone with a long neck whom I will not name ... that we're failing our duties. There are envelopes here that are delayed by _months_! To fix this, we will try something else. I assigned each of you a pile. Packages that are small enough that you can carry them. Please take the whole pile with you when you go out."
-
-They did as requested. The Sort Stork heard some mumbled complaints, but said nothing of it. Soon enough, all the piles were gone, except the biggest one.
-
-The Big Bat was, as you expect, a bat as large as a house. The child of giants, he claimed. He was blind, but that was no issue. He was always singing songs and listening to how they sounded, to know if he was about to fly into a wall or not. Unfortunately, the Sorting Room was so noisy that he could never hear his own songs.
-
-The Big Bat crashed into a machine and collected hundreds of envelopes on his fangs. After shaking them off, he hung upside-down from the ceiling as if asleep.
-
-The Sort Stork helped load the biggest packages into the bat's claws. For the bat, of course, could not see them.
-
-When he did so, however, he noticed a package already buried in the claws.
-
-A glowing package. For the king.
-
-"Aha!" he yelled. "I've found you, thief!"
+It seemed they had a magical paintbrush too. And they _did_ know the right spells.

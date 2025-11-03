@@ -1,130 +1,108 @@
 ---
-title: "The Careful Cat"
+title: "Draw The Short Straw"
 weight: 80
 ---
 
-# The Careful Cat
+# Draw The Short Straw
 
-The mechanic placed the new machine in the middle of the room. Flashing lights covered the machine like skin hairs. They turned the space into a disco for dancing, especially with all the smoke. One side of the machine had a knob with only two settings: COLD and HOT. The other side had images of what food usually looked like. As if the machine still had to learn.
+![Triangles, squares, polygons.](images/chapter-8.png) \
 
-The Sork Stork did not focus on that. He focused on the paw print of a cat on the side. As explained in an earlier chapter, storks are very good at reading handwriting as well as paw writing. It's the only way to make sure packages arrive at _"The Right Address, house number 4"_, instead of _"Thin Night Papers, house number 7"_. 
+Bruzo pointed his magical paintbrush at Astra. His face was serious. Then, he pointed the brush at the trees around them. As if he was trying to paint some new colors _on_ them. Finally, he pointed the brush at the floor.
 
-And yes, his eyes were sure that this print belonged to Chaos Cat. It was _very_ similar.
+"You have been busy, I see."
 
-The mechanic whistled as they attached the food-sorting-machine. They wore gloves, and tools, and now one gloved paw moved to turn the machine on.
+Astra wiped the sleep from her eyes. Hundreds of straight lines, curves, and circles littered the dirt. "Oh. Yes. Sorry. Made a bit of a mess."
 
-The Sort Stork jumped and bumped him aside.
+Bruzo shook his head. "I've never seen someone work this hard. Even when it's so hard. Even when so much goes wrong."
 
-"Oh, so sorry. How clumsy of me. Do you ... are you sure the machine won't, erm, you know, blow up everything?"
+"Why, thank you---"
 
-The mechanic froze. They took off even more glasses. "Yessir. I've been doing this a while, sir. Taught my daughter, too. She'll take over in a few years and be your best mechanic ever, that is a promise sir. Our family _loves_ Cloudmail Castle!"
+"Even when she's so _bad_ at drawing shapes."
 
-"Great. Just great. Well, then, can you explain ..." The stork walked around the machine and pointed at the suspicious paw print. "THIS?"
+"Never mind."
 
-The mechanic laughed. Then they took off one glove, and raised their paw.
+Bruzo grinned. Then he smiled, and Astra believed it was the first time she had seen him smile. 
 
-A cat. They were a cat. The _mechanic_ was a cat.
+"You're getting better. You can do straight lines now, and you can do curves. It won't be long before you can _combine_ them into any shape you want."
 
-The Sort Stork felt silly now. "Ah. Yes. Forgive me. Turn on the machine!"
+He looked at a patch of colorful flowers. Really _stared_ at it, as if trying to take a picture with his eyes. Then he walked through the tall grass, enjoying how it tickled below his armpits. 
 
-The mechanic carefully rotated a few knobs. They tested the strength of the conveyor belt by jumping on top of it and bouncing, as it were a trampoline. When it didn't break, they were satisfied.
+He drew something on the ground. Astra looked over his shoulder and saw the most beautiful and detailed drawing of a tree. When he was done, the tree actually appeared. It made the world around them even more colorful and beautiful. It was the first time Bruzo had drawn something just because it was beautiful---just because he wanted to---instead of only drawing things he needed, like the same food every time.
 
-They turned on the machine.
+Bruzo smiled as he gazed at the sky. Astra had not even noticed that this planet had multiple suns. They, too, liked as if some giant had drawn them into the sky. They were all different shapes and sizes. Some were strong and warm, others looked more like decoration. The clouds were having a party around them. Sometimes they turned into actual cloud animals.
 
-Incredible noise filled the Sorting Room. Everyone covered their ears, dove to the floor, or fell out of the castle from shock.
+The tiger looked Astra in the eye.
 
-The lights flashed all colors known to storks, and probably even more. It was almost as blinding as the mysterious Shiny Package. The one for the king, and the one he still hoped to find before it was destroyed.
+"You were right. Imagination can be beautiful. This planet can be beautiful, instead of dangerous and ugly. I guess ... I guess I had forgotten that."
 
-And then the machine started working. A little _too_ eager to work, perhaps.
+Astra remembered the past few days. And she found a way in which she could _really_ help him. 
 
-It looked at a box of shoes and thought it was food too. It looked at a pile of letters, and thought they were crackers. It grabbed a box filled with balls and other toys, thinking they were tomatoes, apples and onions. It even tried to grab the Feasting Fox, probably detecting there was more food inside of him than outside of him.
+"I noticed you struggled with the tiny lines," she said. 
 
-The Sort Stork flew towards the machine. He looked everywhere for a knob to turn it off, while still covering one ear against the noise. The machine kept spitting out random letters inside thick boxes.
+"Yeah. My paws are too big. Clumsy, big tiger claws. Better for big drawings and rough shapes." 
 
-He kicked the machine. This made it angry. It blew _everything_ away from him, opening letters and boxes left and right. Then its levers crossed and it stopped, as if crossing its arms and pouting.
+"Well ... my paws are not so big."
 
-"What can I saysir. Food is hard to detect."
+Bruzo's face lit up when he realized. If _he_ drew the big lines, and _she_ drew the small lines ... they could create any spell they wanted, right?
 
-"No it's not. You just ... you just ..."
+Astra stepped forward, carefully. Then she hugged him. "I'm sorry for stealing your book. And I mean it. I really want to help you get off Somnia."
 
-You just _what_? How did you know something was food? How did you know something was an animal, and not a thing? How did you see the difference between a group of babies and a group of bananas?
+Bruzo let go of the hug, frowning. "Somnia? What? This planet is called _Brushfar_! It's in the _Colorpage Constellation_! What are they teaching in schools these days ..." 
 
-Well, there was the color. Babies usually weren't yellow.
+"What is a _school_?"
 
-There was the size. Babies were bigger.
+"Something we need right now," said Bruzo. "Because I will be teaching you everything I know."
 
-Oh, and movement, of course. Babies moved on their own. Bananas tended to hide that they secretly had arms and legs. They hid them _very well_.
+He offered her the magical paintbrush again.
 
-Babies were warm. Babies smelled different. Babies might make noises; bananas only made noise when you ate them or slipped on them.
+Astra's heart skipped a beat. But she did not let herself get excited yet. This happened before, and then Bruzo had taken the brush away again.
 
-All these things matter. The Sort Stork could tell the difference, because he had seen lots of babies and lots of bananas in his life. Because, all his life, he had already been putting things into groups. When he saw an animal, his head was like "hey an animal, maybe we can talk to them". When he saw a banana, his head was like "hey, that's something to eat, am I hungry?" Do that for many years, and you can easily see to what group something belongs.
+And indeed, Bruzo added a comment: "Don't ruin this chance I give you. I see ... a lot of my sister in you."
 
-But how do you teach that to a machine? It's hard. It's very hard. It's probably better to---
+"I won't! I won't. I promise."
 
-The Sort Stork saw something in the corner of his eye. More letters had been opened by the machine. 
+Once the paintbrush was in her paws again, her body shivered. The magic traveled through her. Eager to do something again, eager to create.
 
-And this time, there was a letter from Irina herself. He was already reading before he could stop himself.
+For several days, Bruzo taught her _shapes_. She knew shapes, of course, from Shapesong. But knowing what something looks like is _not_ the same as being able to draw it yourself. Many times, Astra told herself she would draw a Square, and somehow end up with a squiggly shape instead. 
 
-> _Dear Santa. I love you! Christmas is like my SECOND favorite holiday. Nothing beats my birthday, of course, my favorite day of the year! When everyone comes to visit, and we eat tasty cakes, and we play games together. Always so fun. Oh, I've been really good this year too, I promise. I've worked hard at school, cleaned my room, and even ate a vegetable. Greetings, Irina._
+He taught her how Triangles were just three straight lines. Three straight lines connected to each other, where the last one returned where you started.
 
-He remembered the birthday invitations from a week ago. And he felt terrible. He had thrown them into the bin. They had flown out of their envelope, so he could never figure out where they had to be delivered anyway. Or so he believed.
+He taught her how Rectangles were the same, but with four straight lines. 
 
-Now he imagined Irina. On her favorite day of the year: her birthday. And _nobody_ would show up, because _nobody_ was invited. The cards had never reached anyone.
+She struggled most with Squares. They were Rectangles, but with every side of the same length. Astra could do straight lines now, but it was still hard to make them look the same. She always had one line that was _too long_, and another that was _too short_, and so her Squares usually just ended up being Pentagons or Hexagons instead.
 
-Maybe the king was right. They were a _terrible_ mail service.
+But she kept practicising. She felt her paws getting stronger by the day. Bruzo smiled more and more, and made fewer and fewer remarks about how terrible she was.
 
-And maybe everyone was wrong. The mail service was too important to shut down. If people just walked to the store to buy a pizza, they would have time to deliver the important packages!
+Now she could draw Circles, Triangles and Squares. Any other shapes came easily, because they were just _more_ straight lines. Pentagons were five of them, Hexagons were six of them, and so on. 
 
-He found another letter.
+Until she was so good at them, that she tried making them _smaller_. Bruzo would draw a Triangle. Then Astra would try to draw a _smaller_ Triangle, one that fit inside it. Within days, she was much better at small lines than Bruzo ever was.
 
-> _Royal Highness, I am FED UP! I ordered a beautiful and delicate vase. One made of the finest porcelain. One worth over a million dollerydoos. A vase unlike any other vase you've seen. I wanted to place it in my room to impress everyone, but guess what happened? Your Cloudmail Castle BROKE IT! I didn't receive a vase, no. I received twenty SHARDS, broken and sharp. It's time to end this. Greetings, the King of the Country Next to Yours._
+Which meant that the time had come. The time to finally find Lunib, her bear friend. Astra had picked out the _Fly to Someone Else_-spell. But those pages in the book had burned, and Bruzo said it was too dangerous. Instead, he suggested the _Look at Someone Else_-spell.
 
-He looked behind him. The mechanic had been working on the machine. And he'd been so _silent_. He moved carefully, not touching anything by accident, screwing and unscrewing things without even a PEEP or a SQUEAK. A very Careful Cat.
+He drew the large lines and shapes. He could create huge circles and lines easily. Astra would have needed many hops to cover the same distance. She, instead, drew the tiny squiggles, the zigzags, a small curve here and there to connect everything.
 
-Maybe food wasn't going to work. And maybe the machine wasn't smart enough to do it without help.
+They checked the book often. Until Astra looked at the floor ... and saw a _perfect_ drawing of what was in the book.
 
-But the machine could make sturdy boxes. Ones that wouldn't break. Ones with soft pillows inside to keep your package whole.
+The magic accepted it, of course. It seemed very _happy_ to accept it. It was probably boasting against the other magic about how great its magicians were, and how pencil magic was _obviously_ better than shape magic or color magic.
 
-And so the Sort Stork asked the mechanic to change it. To add a knob for FRAGILE and NOT FRAGILE instead. If the storks thought something could break, they would turn the knob to FRAGILE themselves. They were much better at seeing that. The machine didn't try to make its own decisions. Because that would probably break even more expensive vases and other pottery.
+Pink and purple cloud appeared above the ground. As if some invisible thing was on fire. They danced through each other, shooting off sparks and glowing lines.
 
-The Sort Stork picked the most careful storks he had. They were fine, and did their best. But none came close to the carefulness of a cat.
+Until they flew apart and turned into a _bubble_. A transparent one, which meant you could see through it, like a glass window. And inside the bubble appeared an image. The spell was working hard to _draw_ a picture inside the bubble.
 
-"Your daughter," he asked the mechanic, "where is she? Is she as careful as you?"
+A drawing of Lunib!
 
-"Yessir. Even more so."
+The bear looked terrible. He was wounded, missing some of his fur. He slept with ragged breaths and fluttering eyes.
 
-"Why have I never seen her before? What does she look like?"
+It seemed he had drawn the short straw in the crash. A phrase, dear reader, which here means that he was most unlucky and had the hardest time. He looked sick. He had not even built a home for himself, which was saying a lot about a Bearchitect.
 
-"Wellsir. She is a bit shy, thinks the storks find her weird. She wants to be like you, ya know. She dresses up like you, wearing fake cardboard wings. And paper feathers, sir."
+But _where_ was he?
 
-Wait wait wait wait wait.
+"I think I know where that is," said Bruzo. "See those blue trees? Shaped like sharks, for some reason? And those clouds drawn low near the ground, that spooky fog? That's probably in the forest over there."
 
-His daughter was Chaos Cat.
+Lunib woke up. At least, that's what it looked like, in the drawing inside the bubble. His big friendly eyes reflected the moon. He couldn't help it: he was a Moonreader. Whenever the moon was clearly visible, he always woke up and tried to read its messages.
 
-The Sort Stork saw a chance. A very clever plan, he said to himself. He placed his wing around the mechanic's shoulders.
+This time, the message was not a good one.
 
-"Can you ask her to come? Now? To the Sorting Room?"
+Lunib jumped up and down. He screamed, panicked. He turned and turned as if dangerous tigers were all around him.
 
-"Yessir."
-
-"Great! We'll lay a trap and capture her---"
-
-"Trapsir!?"
-
-"Trap? Did I say trap? I meant present. To reward her for her good work."
-
-"She _loves_ presents, sir. I'll ask her to come right away!"
-
-The mechanic finished changing the machine, then walked away. 
-
-They had _another_ group now: fragile mail. Anything with glass was fragile. Anything large, or weirdly shaped, could easily fall and break in two. Some people were kind enough to write _FRAGILE_ on their package. Very helpful.
-
-He hoped they never broke anything again. And he hoped this was the last group. Even the Group Giraffe was getting overwhelmed. 
-
-As the day ended, they managed to deliver _everything_. Every stork carried a pile of packages in the morning. A pile that was exactly the right size and weight for them. The fastest storks would carry food and deliver it before it got cold. Animals were separated to make sure they didn't fight or eat each other. If possible, packages from the same area were grouped, so that one stork could just fly in a circle and deliver them all.
-
-He was proud of himself. Now he just had to lay his trap and _win_. And order would return to Cloudmail Castle. No more evil cats! Or other evil animals! And the king would see that they deliver everything on time, and be proud of them.
-
-As night fell, he turned off the lights and waited in the dark. 
-
-Until he heard the softest of cat paws tiptoeing over the floor.
+Astra and Bruzo ran to the forest where Bruzo _thought_ Lunib might be. She hoped he was right.

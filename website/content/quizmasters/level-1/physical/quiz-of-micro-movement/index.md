@@ -18,16 +18,17 @@ contents:
 - Printable version
 - Tailored Answer Sheet and Answer Form
 - The raw files (media + questions) to modify/reuse the quiz yourself
+- A PDF with "physical tokens" that each player needs
 
 level: 1
-language: "EN"
+language: ["EN", "NL"]
 subject: "Physical"
 categories: ["fine-motor-skills"]
 player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false
-duration: 30
+duration: 45
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -58,13 +59,17 @@ You can't shout your answer, or point at it, or write it down. Instead, you need
 
 Below are the different rounds included. As always, you can easily skip rounds or only play one at a time.
 
-* Cutting -> answer by cutting out the right part of your paper.
-* Folding -> answer by folding the paper so only your answer remains.
-* Crumpling -> answer closed questions (yes = crumpled paper, no = flattened paper)
-* Flags -> answer by raising your paper high (like a flag), with the right side showing
-* Tokens 1 -> answer by picking up a pawn/token and placing it on the right _location_.
-* Tokens 2 -> answer by picking up a pawn/token and placing it in the right _way_. (Examples: upside-down, standing up, etc.)
-* Rotation -> answer by rotating your paper to the right side.
-* Circling -> answer by encircling the right answer with a pen(cil).
+* **Cutting** -> answer by cutting out the right part of your paper.
+* **Folding** -> answer by folding the paper so only your answer remains.
+* **Crumpling** -> answer closed questions (yes = crumpled paper, no = flattened paper)
+* **Flags** -> answer by raising your paper high (like a flag), with the right side showing
+* **Tokens 1** -> answer by picking up a pawn/token and placing it on the right _location_.
+* **Tokens 2** -> answer by picking up a pawn/token and placing it in the right _way_. (Examples: upside-down, standing up, etc.)
+* **Rotation** -> answer by rotating your paper to the right side.
+* **Circling** -> answer by encircling the right answer with a pen(cil).
 
 This makes it an ideal quiz to play with (very) young kids. They can get familiar with the idea of quizzes, while being able to use their hands and train their muscles. They will learn a thing or two about these skills and why they are important, while actually _practicing_ the skills.
+
+{{% remark %}}
+Deze quiz is ook beschikbaar in het Nederlands! Zodra je de vragen hebt geladen kan je een taal kiezen. Zodoende kan je zowel de inhoud als de interface naar Nederlands zetten.
+{{% /remark %}}

@@ -1,152 +1,134 @@
 ---
-title: "The Birthday Babe"
+title: "End Of The Line"
 weight: 100
 ---
 
-# The Birthday Babe
+# End Of The Line
 
-It was afternoon. And it was chaos in the Sorting Room.
+![Coloring in areas + simple blueprint of spaceship.](images/chapter-10.png) \
 
-"Shape! Shape! Group by shape first!" yelled the Sort Stork. Everyone was happy to get instructions again. They listened.
+The planet seemed angry. Deep lines appeared everywhere. Rivers appeared where they were not before. Mountains became taller, or were suddenly flat. A large invisible hand seemed to draw on the planet, creating whatever it wanted---and destroying whatever it wanted too.
 
-They looked at what the Square Sloth was doing and copied it. Soon they found ways to fit more than one package inside their square bags again. They also promised each other to create bags in other shapes later.
+Astra jumped over another line. Just in time. She looked over her shoulder and saw a crack in the dirt, which soon became a big hole.
 
-"Food? Any food?" yelled the Sort Stork.
+She and Bruzo were drawing their big spell. The one that Bruzo drew, all those years ago, together with his sister Tessella. The one that helped Tessella fly away ... and leave Bruzo behind.
 
-Everyone looked around, but they only found a few pizzas. That's all the _same_ food, he thought. That's good. I can ask one stork to deliver that quickly, before the food is spoiled. And so he did.
+He was worried it might happen again. Bruzo stayed close to Astra all the time. She could finally draw Circles that actually _looked like Circles_, but she could not do it without Bruzo checking over her shoulder. Making a comment that it could be better.
 
-The Sort Stork flew in circles near the ceiling. He was able to oversee everything, and instead of overwhelming him---and making him sick again---he saw _order_. He saw which packages could be a group. Nicely grouped piles were already forming in his mind.
+Until the planet shook again and they were separated.
 
-"Alright, any animals? Chaos Cat, have you finally caught that puppy?"
+They drew as fast as they could. Astra's paws were tired, but she kept drawing. They _had_ to finish the whole spell. All the many, many lines and shapes. And they had to be as large as forests or lakes if they wanted to succeed. Anything smaller would not do.
 
-"Yessir!"
+And so they kept drawing, sticking out their tongue, fighting off sleep. 
 
-He asked two storks to bring the animals to the ark. It waited for them in the waters below. He'd only need a single captain to steer the ship, and the storks could come back to do other tasks. Fortunately, a Steering Seal had just joined their team. It seemed a lot of animals still liked working for Cloudmail Castle.
+Lunib the bear was certain now. These drawings looked a _lot_ like blueprints. Hundreds of pages, and each drawing showed some other detail that you would need for---
 
-Oh no! He'd forgotten the babies!
+"What's _that_!?" yelled Astra.
 
-Then he calmed down. _That's_ why they installed the baby alarm. Nothing had gone off, and he hadn't noticed anyone crying inside a wicker basket. Pfew.
+Another thick line split the earth in two. Trees toppled. Grass disappeared in the hole before she could blink.
 
-"Fragile stuff?" he asked the room. "Vases? Glass windows? Porcelain toys?"
+Astra did not notice, however, because she was focused on the next few drawings. They had something weird.
 
-Left and right, his employees found boxes they believed might be fragile. They carefully piled them up, then fed them to the new machine. While waiting for it to do its work, he continued with the next group.
+They had lines, yes. The lines returned to their start to create shapes, yes. But that wasn't all.
 
-And it was easy now. So easy. Because the large pile of packages and envelopes, had been cut down to just a few small piles here and there. Animals were already taken care of. So was food. Packages with a weird shape were already placed where they fit best.
+The space _inside_ the shape had _different colors_.
 
-Now it was easy to finish the work. The Sort Stork whistled as he moved some more packages. Chaos Cat already waited for him next to the Shiny Package.
+Some shapes were "filled in" or "colored in". The color seemed to matter too. But how? How did she draw different colors?
 
-"Size! It's all about size now, everyone! Yes, yes, turn those piles into smaller piles, with mail of the same size."
+As it turns out, dear reader, she could do it by simply _imagining_. By _thinking_ that her brush should be blue now, or purple, or red.
 
-They did so. Soon enough, a few piles were so small that they didn't need to be sorted further. He could just give the smallest one to Sammie the Stork and send him on his way. 
+And so she tried to fill the shapes.
 
-The Sorting Room was almost getting _empty_ by this point. Organized. Clear.
+She failed. Again. 
 
-"Weight! Final station: weight! My best storks, test how strong you are. Make the heaviest piles you can carry, but not heavier. Wouldn't want you to break your backs!"
+Her colored lines shot outside of the shape. She had drawn a nice Circle, but when she tried to color it red, she kept drawing lines outside of it. As if the Circle was a planet, and her red lines tried to fly away from it.
 
-They did. Soon enough, they had exactly as many piles as they had animals to deliver them.
+Stones tumbled down behind her. Rain started falling. Then it turned to hail and snow, as if the seasons had suddenly changed. Each snowflake looked just a little bit different, as if someone had practiced drawing a thousand snowflakes. Just like Astra had practiced drawing a thousand straight lines.
 
-Everyone smiled as they took their own pile. There was even some pride to it. This was _their_ pile. They were going to deliver it, and they were going to do _great_.
+She tried to keep going. Her next Circle had to be yellow. She told herself she wanted to draw a _sun_, and it helped. The brush turned a nice shade of yellow and she tried to _fill_ the whole circle, like filling a glass.
 
-As the final storks left, he picked up the Shiny Package. Chaos Cat jumped on top and held on tight.
+Still, a few lines escape and went outside of the Circle. In fact, she accidentally painted over an older drawing, and another one, ruining their work in an entire forest.
 
-"Oh, sorry," she said, wiggling. "I'm sitting on a bunch of envelopes."
+As expected, she failed to make the magic activate.
 
-"No no, it's fine. Keep them in place."
+It was not necessarily, dear reader, that she struggled to _color between the lines_. It was more so that she ignored there were lines at all! Or, as some artists might say, the entire world was her canvas. This was, of course, not true. You can't just go painting on other people's things. Just as the world was _not_ your oyster. And the sky was _not_ the limit. Astra and her mushroom rocket had shown that you could go further than that. The world wanted to remind everyone that they should stop saying all these things. But then again, its opinion was usually ignored. Why listen to the world when you can listen to your heart?
 
-"What are they?"
+And then ... it was done.
 
-Sort Stork smiled. "Just a little gift for a girl."
+They had painted the entire planet. They had drawn precise lines and shapes, and Astra was quickly getting better at coloring them in. They had painted the whole planet with what the book suggested.
 
-And so they traveled to the king.
+Now it was time for the drawings to work their magic.
 
-When they arrived at the palace, the gates immediately opened. Guards waved at them, but their faces were grim. The king had probably been complaining about the lost package for a week. He was probably expecting them, because other doors were open too, and the king sat on his throne staring as they entered.
+Lunib and Astra grabbed each other's paws. They held their breath, looking at the lines and colors. They slowly glowed brighter and brighter, as if a fire were burning inside them. Some of the drawings already turned into the _real_ thing that they looked like.
 
-Also, another clue was when he said: "I've been expecting you."
+It was slow.
 
-The Chaos Cat took the package on her back. She shoved it forward over the red carpet, slowly crossing the golden throne room. 
+But it was working.
 
-Until the king could take the package in his arms. He ripped it open in anger. His hands took out the magical shiny key. He turned it around, looked at it, then held it up.
+All around them, their drawings turned into physical things. Things they could touch. Things they needed. An engine here, a wheel there, a fuel tank as well. All parts of a ...
 
-"You know what this is, don't you?"
+"Spaceship!" yelled Lunib. 
 
-"Yes, royal highness," said the Sort Stork.
+The planet rumbled, shook, and roared. Trees disappeared in an instant. Volcanoes vanished as if some giant held a giant eraser. New things were drawn in their place, but they were ugly. The wrong shapes, the wrong forms, the wrong colors.
 
-"I thought you might try to keep it away from me. I was ready to go up to the Cloudmail Castle myself. Fire you all. Give an angry speech. Demand the key."
+The spaceship was coming together. The parts were moving towards each other, glued together in the right places. Exactly like their _blueprints_ said they should. Exactly like Lunib would build it. Now it happened automatically, and a spaceship was slowly appearing in front of Astra and Lunib.
 
-The Sort Stork swallowed, unsure what to say. "That doesn't sound like a fun time, royal highness."
+Where was Bruzo?
 
-"And now ... you deliver the key? In person? What am I to make of that?"
+"ASTRA!" screamed the tiger in the distance. 
 
-The king stood up. He was broad-shouldered, and broad-uniformed to be honest, which means he towered over the stork and the cat. He cast a shadow that could have reached Cloudmail Castle.
+He was far away. He had worked _so hard_ to get these drawings done. As he ran, he was hit by stones, falling trees, and even stung by some bees. He kept running anyway, leaping over cracks and holes in the floor, passing rivers as if water meant nothing to him.
 
-"We, erm, you see, we ..."
+He was still so far away.
 
-"We made a few mistakes," said the Chaos Cat. "But we're doing better. You'll see. We will deliver _everything_ on time, today. And tomorrow."
+"DON'T LEAVE! DON'T YOU DARE!" he screamed.
 
-"You think I won't use it?" He twisted the key again. It formed lines around itself, twisting like spells searching for the lock. Maybe it was nearby. Maybe he just needed to push the key into his throne, give it a twirl, and Cloudmail Castle was _gone_.
+The spaceship was done. It shimmered and glowed. It opened its doors, inviting them in. 
 
-"We _hope_ you won't, oh royal highness."
+At the same time, the ground below it was falling apart. Like sand castles washing back into the sea. Before long, the spaceship would fall into a hole too. All the effort would have been for nothing.
 
-The king grunted. He stroked his beard and looked at his guards. His eyes cast down, studying Chaos Cat wearing fake wings and feathers, and he frowned.
+Astra and Lunib looked at each other.
 
-"This is most unusal," he said.
+"NOOOO!" Bruzo cried and roared, kicking aside whatever the planet threw at him.
 
-Then he turned around and made for his throne. The key remained firmly in his hand.
+Lunib stepped inside the spaceship and held open the door.
 
-He looked over his shoulder and said: "I need to think about this. You can leave."
+Astra turned the other way.
 
-The Sort Stork backed up while saying "thank you" and "you're so kind" a hundred times. But he was also glad to be gone, because evening was near. 
+Using her paintbrush, she drew a _curve_. The biggest one possible, pointing at Bruzo. Suddenly, a strong wind _blew_ her in that direction. She only needed a single hop to leap over a forest.
 
-And somewhere, dear listener, a girl was crying. Her house had been turned into a party house. Balloons floated and bumped against the ceiling. Garlands decorated furniture and windows like cobwebs. "Congratulations" was written on a homebaked cake, a poster, her dress, and the front door.
+Bruzo slipped. He was too tired, too sad, and he fell into a hole.
 
-And Irina was sitting in her home, alone.
+With a squeak and a squeal, Astra raised her paintbrush. With dazzling speed, she drew a perfect line, with circles on the ends, and colored it brown. She didn't even know what she was doing---but it felt like it might work.
 
-It had not been easy, the Sort Stork admitted. All the birthday invitations had fallen out of their envelope. He had no clue which letter went inside which envelope. That's why he'd thrown them in the bin and forgotten about them. Impossible. Too much chaos, too much uncertainty.
+The magic immediately liked it, and turned it into a _rope_. Astra had just invented a new kind of drawing spell.
 
-But then he realized the solution. He could still figure out where he had to deliver the invitations.
+The rope shot away from her and grabbed Bruzo's paws.
 
-How?
+Astra tried to pull him out, but he was too heavy. While biting into the rope, she drew something else: wiggly lines, big wiggly lines everywhere, enough to ...
 
-The birthday cards had all been written by Irina. That includes the address on the envelope. And, well, you know by now how great the storks are at recognizing handwriting.
+Water sprayed away from her. Streams of water, filling all the cracks and turning them into rivers.
 
-And so he checked the handwriting of the addresses. Irina had sent a lot of invitations. He'd found exactly _that many_ envelopes with her handwriting on the back.
+The rope snapped. But it had done its job: Bruzo had not fallen into the planet. Instead, the new waves carried him along.
 
-He had found the group of birthday invitations. _And_ the group of birthday envelopes.
+As he passed Astra, he grabbed her ears and pulled her along. Normally, dear reader, it's very rude to grab a bunny by the ears. But Astra did not mind this time, because he brought her back to the spaceship, just before the planet completely fell apart.
 
-By knowing both, he could deliver each invitation where it had to go. Or, well, the name might be wrong. He might deliver Sarah's invitation at Carly, and Carly's invitation at Sarah. But that didn't matter.
+Lunib held open the door. The spaceship had already started up, a fire burning below it.
 
-It was the _group_ that mattered.
+Bruzo panted, then spoke. "I see now why my sister gave you the brush, Astra."
 
-As evening fell, Irina was tired from crying. She took off her "stupid birthday clothes", let the "stupid birthday cake" remain uneaten, and stomped up the stairs.
+"You ... do?"
 
-Until the door bell rang.
+He smiled. "Because you _are_ worthy of its magic." 
 
-And all her friends, and their friends, and probably a few strangers who saw an opportunity for free cake, yelled "HAPPY BIRTHDAY". They ran inside ready to hug her and play some games.
+He closed the door. The planet gave a final groan, and drew the final thick lines, before it was too much. It was cut so many times, erased and redrawn so many times, that the planet _shattered_ like glass.
 
-After a while, Chaos Cat ran inside too, flapping her cardboard wings. Irina scrunched her face. "Is that ... a stork cat? Cat stork? Cork?"
+Lunib, Astra and Bruzo watched it happen from a distance. Their spaceship had launched and they were on their way. Hopefully to Somnia, for real this time.
 
-"I don't know what group she belongs to. But she's part of Cloudmail Castle, that's for sure."
+Astra was still blushing from Bruzo's compliment. The paintbrush in her hand _changed_. It became more colorful. Beautiful patterns of roses, animals and suns were suddenly etched into the wood. It felt as if she had unlocked something, a type of pencil magic that felt even better than before.
 
-Well, needless to say, Irina had a great birthday party after all. Though she planned to deliver the invitations herself next year. And was late for school the next morning.
+"Well, the Bearchitects do have a saying," said Lunib with a grin. "That the pen is mightier than the sword."
 
-Back in Cloudmail Castle, nobody slept. The king had the key. The king had _the key_! He could destroy the castle any moment. Their work over. No more mail. The King of the Country Next To Yours would build his own mail service using snails. The horror!
+And so they fled Brushfar in their spaceship. Bruzo was not left behind. And Astra had earned her magical brush, which now felt as if it were part of her body. An extra arm to draw with; an extra leg to jump with. One could only wonder, dear reader, what great adventures she would have later.
 
-Nobody slept, so nobody woke up. They all just slowly, groggily, decided to leave their nest at some point and start the day.
-
-But that was a good thing, because the castle was still standing.
-
-As the sun rose, the Sort Stork touched the walls. "Yep. Still seem solid to me."
-
-The Group Giraffe tested the conveyor belts. "Still running."
-
-The Chaos Cat saw the first packages arrive. "Packages still coming, sir."
-
-Everyone fell silent. It was too early for cheering, but there were smiles, and some congratulations here and there.
-
-Silence returned again. Everyone looked at the Sort Stork.
-
-He spread his wings, pointing to the envelopes flying through the room.
-
-"Well? What are you all waiting and standing around for!? There's work to be done! Another day, another delivery! Groups! Piles! Let's gooooo!"
-
-And so it was, dear listener, that the Cloudmail Castle had it all sorted out.
+It starts with a line. A sketch. A drawing of whatever. You practice, you get stronger, you keep drawing. Before you know it, your lines turn into beautiful paintings and great plans. Blueprints for a house. The next big magical movie that will entertain the world. And before you know it, you've _changed_ the world and built a rocket to the moon.
