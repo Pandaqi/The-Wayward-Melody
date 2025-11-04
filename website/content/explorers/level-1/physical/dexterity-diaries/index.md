@@ -22,7 +22,7 @@ contents:
 level: 1
 language: "EN"
 subject: "Physical"
-categories: []
+categories: ["fine-motor-skills"]
 
 ---
 

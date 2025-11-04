@@ -5,7 +5,7 @@ id: "astra-buni-and-the-magical-paintbrush"
 date: 2025-04-26
 price: 9.95
 image: ["astra-buni-and-the-magical-paintbrush-header.webp", "astra-buni-1.webp", "astra-buni-2.webp", "astra-buni-3.webp", "astra-buni-4.webp", "astra-buni-5.webp", "astra-buni-6.webp", "astra-buni-7.webp", "astra-buni-8.webp"]
-file: "@TODO"
+file: "dd5f80c2-2aab-49ac-9cc2-7530b6eeb955"
 spell: "pencil-control"
 description: | 
   Astra Buni received a magical paintbrush
@@ -35,5 +35,5 @@ This is a **bundle of 10 short stories** (or "chapters"). If you read them all, 
 As expected, the stories teach about **pencil control**. They encourage Apprentices to start creating their own drawings, copy what Astra is doing, maybe invent their own written "spells". All of this is great practice for fine motor skills and great preparation for handwriting later.
 
 {{% remark %}}
-As can be seen in the marketing images, every chapter starts with an image of the new type of line/shape/spell that will appear in the chapter. These were kept simple and in the right format to make sure they display properly on both ereaders and when printed. Because, to put it mildly, ereaders and printers tend to heavily disagree about how to display images properly ;)
+As can be seen in the marketing images, every chapter starts with an image of the new type of line/shape/spell that will appear. These were kept simple and in the right format to make sure they display properly on both ereaders and when printed. Because, to put it mildly, ereaders and printers tend to heavily disagree about how to display images properly ;)
 {{% /remark %}}

@@ -149,6 +149,13 @@ h4 {
 img {
   max-width: 100%;
 }
+
+figcaption {
+  text-align: center; 
+  margin-bottom: 2.0em; 
+  font-style: italic; 
+  font-size: 0.75em;
+}
   
 h1.subtitle, p.author, p.date, div.rights {
     text-align: center; 
