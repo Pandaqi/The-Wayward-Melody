@@ -4,8 +4,8 @@ title: "Quiz of Micro Movement"
 id: "quiz-of-micro-movement"
 date: 2025-10-26
 price: 9.95
-image: ["quiz-of-micro-movement-header.webp", "quiz-of-micro-movement-1.webp", "quiz-of-micro-movement-2.webp"]
-file: "@TODO"
+image: ["quiz-of-micro-movement-header.webp", "quiz-of-micro-movement-1.webp", "quiz-of-micro-movement-2.webp", "quiz-of-micro-movement-3.webp", "quiz-of-micro-movement-4.webp", "quiz-of-micro-movement-5.webp", "quiz-of-micro-movement-6.webp", "quiz-of-micro-movement-7.webp", "quiz-of-micro-movement-8.webp", "quiz-of-micro-movement-9.webp"]
+file: "207b4dba-ea16-4c66-85fc-9a7e4ba55613"
 spell: "my-first-fine-motor-skills"
 description: | 
   A quiz to get you using your hands
@@ -14,7 +14,7 @@ description: |
   This quiz tests fine motor skills, creative and bold
 
 contents:
-- Digital Quiz with 50 questions over 5 rounds
+- Digital Quiz with 64 questions over 8 rounds
 - Printable version
 - Tailored Answer Sheet and Answer Form
 - The raw files (media + questions) to modify/reuse the quiz yourself
@@ -28,7 +28,7 @@ player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false
-duration: 45
+duration: 60
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -57,7 +57,7 @@ Sure, the quiz is filled with simple questions that are fun for children. But it
 
 You can't shout your answer, or point at it, or write it down. Instead, you need to **use fine motor skills** to pick your answer. This requires printing some pieces of paper and preparing some common tools (like scissors), even if you play the quiz "digitally".
 
-Below are the different rounds included. As always, you can easily skip rounds or only play one at a time.
+See the list below for the different rounds included. As always, you can easily skip rounds or only play one at a time.
 
 * **Cutting** -> answer by cutting out the right part of your paper.
 * **Folding** -> answer by folding the paper so only your answer remains.
