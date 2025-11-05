@@ -17,7 +17,7 @@ contents:
 - "25 Carrot Code puzzles of increasing difficulty"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["holiday", "Easter"]
 reusable: true

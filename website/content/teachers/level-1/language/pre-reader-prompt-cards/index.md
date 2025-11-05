@@ -19,7 +19,7 @@ contents:
 - Each card has a custom illustration, the word(s) for it, and the general category and difficulty of that concept.
 
 level: 1
-language: "EN"
+language: "en"
 subject: ["Language", "World"]
 player-count: 1-100
 age: 2

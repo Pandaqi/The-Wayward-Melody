@@ -32,7 +32,7 @@ contents:
 - "Activity/Game: Rhyme Architect"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["rhyme", "alliteration", "tropes"]
 player-count: 1-100

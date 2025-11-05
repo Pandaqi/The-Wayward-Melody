@@ -27,7 +27,7 @@ contents:
 - Pre-Reader Prompt Cards pack included for free
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonemes"]
 player-count: 1-100

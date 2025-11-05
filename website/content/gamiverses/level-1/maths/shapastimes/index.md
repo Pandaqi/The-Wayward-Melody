@@ -18,7 +18,7 @@ contents:
 - 8 pages of material to cut out (the same material is reused in all games)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-6

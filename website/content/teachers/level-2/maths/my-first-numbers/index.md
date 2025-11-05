@@ -31,7 +31,7 @@ contents:
 - Time Patterns (express known events like seasons and day/night with numbers)
 
 level: 2
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["numbers", "counting"]
 player-count: 1-100

@@ -17,7 +17,7 @@ contents:
 - "50 PAIRS of matching rhymes to cut out and use as you wish"
 
 level: 1
-language: "EN"
+language: "en"
 subject: ["Language"]
 player-count: 1-100
 age: 3

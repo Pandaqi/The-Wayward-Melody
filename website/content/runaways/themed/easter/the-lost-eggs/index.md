@@ -19,7 +19,7 @@ contents:
 - 9 sheets with puzzle eggs, decoy eggs, and a basket to cut out.
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "Easter"]
 player-count: 1-8
 age: 6

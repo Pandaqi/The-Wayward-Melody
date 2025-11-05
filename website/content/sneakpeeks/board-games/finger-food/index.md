@@ -7,7 +7,7 @@ price: 3.95
 image: [finger_food_header.webp]
 file: "195b0cd0-ce91-4dc1-815e-cfc03e268079"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["waitless-games"]
 

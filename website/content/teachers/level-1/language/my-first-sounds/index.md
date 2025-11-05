@@ -21,7 +21,7 @@ contents:
 - What Object Am I?
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["sound-awareness", "phonetic-awareness"]
 player-count: 1-100

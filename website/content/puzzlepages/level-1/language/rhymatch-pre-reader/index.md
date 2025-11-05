@@ -18,7 +18,7 @@ contents:
 - Explainers (text + images) for each round
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["rhyme", "alliteration"]
 player-count: 1

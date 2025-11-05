@@ -23,7 +23,7 @@ contents:
 - "A special SCHWA poster"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonemes"]
 player-count: 1-100

@@ -7,7 +7,7 @@ price: 3.95
 image: [mammoth_messages_header.webp]
 file: "234c8110-08d1-4bc5-b8a7-e857ee8ec5d0"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 
 contents:

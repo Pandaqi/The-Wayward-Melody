@@ -34,7 +34,7 @@ contents:
 - Comparing Activity/Game with board
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["comparing", "sequencing", "sorting"]
 player-count: 1-100

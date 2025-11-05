@@ -20,7 +20,7 @@ contents:
 - "Question Set: Audio Adventure! (Jariboo Jungle; 6 comprehension questions)"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["sound-awareness", "phonetic-awareness", "language-comprehension"]
 player-count: 1-100

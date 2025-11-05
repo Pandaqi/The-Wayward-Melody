@@ -7,7 +7,7 @@ price: 3.95
 image: [mountain_miners_header.webp]
 file: "049ed012-6f68-4e62-b2b4-7c630278f37a"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 
 contents:

@@ -24,7 +24,7 @@ external:
     desc: The way the map tiles look, and how you move over them, was inspired by this game. It's a GREAT game for all ages and players, though you need to be able to count and read at least a little bit.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["comparing", "grouping", "spatial-awareness", "discrimination"]
 player-count: 2-8

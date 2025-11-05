@@ -20,7 +20,7 @@ contents:
 - Printable Answer Sheet + Forms PDF
 
 level: 3
-language: "EN"
+language: "en"
 categories: ["video-games", "the-sims"]
 player-count: 1-100
 age: 7

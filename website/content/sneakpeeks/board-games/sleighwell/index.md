@@ -7,7 +7,7 @@ price: 4.95
 image: [sleighwell_header.webp]
 file: "b4c87720-b80f-4b80-ad93-d362ac4a864b"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 
 contents:

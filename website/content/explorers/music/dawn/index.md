@@ -14,7 +14,7 @@ contents:
 - Original notes + demo recordings/original ideas
 - Cover illustration (final + editable `.afdesign` file)
 
-language: "EN"
+language: "en"
 level: 2
 
 ---

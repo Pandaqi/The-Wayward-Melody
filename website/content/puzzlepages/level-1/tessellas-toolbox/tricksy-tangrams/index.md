@@ -21,7 +21,7 @@ contents:
 - 55 pages with Tangram Puzzles (from easy to hard, small to large)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes", "tessellas-toolbox"]
 player-count: 1

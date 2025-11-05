@@ -18,7 +18,7 @@ contents:
 - 4 pages (14 cards per page) of uniquely illustrated "Shape Animals"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes", "geometry"]
 player-count: 1-100

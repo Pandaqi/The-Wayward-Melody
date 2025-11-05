@@ -21,7 +21,7 @@ contents:
 - A PDF with "physical tokens" that each player needs
 
 level: 1
-language: ["EN", "NL"]
+language: ["en", "nl"]
 subject: "Physical"
 categories: ["fine-motor-skills"]
 player-count: 1-100

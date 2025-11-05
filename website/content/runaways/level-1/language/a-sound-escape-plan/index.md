@@ -16,7 +16,7 @@ contents:
 - Interactive web app (for the Guardian to run the experience).
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["sound-awareness", "words", "syllables", "phonetic-awareness", "phonemes", "language-comprehension"]
 # player-count: 1-100

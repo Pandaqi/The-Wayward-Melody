@@ -29,7 +29,7 @@ contents:
 - Egg Paths ("Help The Easter Bunny Collect Al Eggs")
 
 level: 2
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["holiday", "Easter"]
 player-count: 1

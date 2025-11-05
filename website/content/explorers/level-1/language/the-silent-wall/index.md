@@ -20,7 +20,7 @@ contents:
 - A **bingo** card which allows Apprentices to check if they understood what happened and cross of the related image if so!
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["sound-awareness", "words", "syllables", "phonetic-awareness", "phonemes", "language-comprehension"]
 

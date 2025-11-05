@@ -19,7 +19,7 @@ contents:
 - Answer Sheet
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["grouping", "pencil-control", "coloring"]
 player-count: 1

@@ -18,7 +18,7 @@ contents:
 - The story as a `.pdf` and `.epub` file (~50 pages)
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "Easter"]
 
 ---

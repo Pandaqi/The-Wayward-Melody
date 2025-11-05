@@ -23,7 +23,7 @@ external:
     desc: This is the game that directly inspired our own product. We simplified it, made it printable, and made it more educational (for our purposes). But if you liked this game, then Tacta gives you a proper box and set of cards to play something similar!
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-6

@@ -28,7 +28,7 @@ external:
     desc: A follow-up game by the same creator that fixes some flaws and takes this idea into yet another direction.
 
 level: 1
-language: "EN"
+language: "en"
 categories: ["holiday", "summer", "counting", "money", "color", "shape", "matching", "logic", "multiplication", "alphabet", "letters"]
 player-count: 2-6
 age: 4

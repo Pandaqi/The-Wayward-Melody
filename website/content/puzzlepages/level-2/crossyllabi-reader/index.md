@@ -18,7 +18,7 @@ contents:
 - 20 Crossyllabi Puzzles
 
 level: 2
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["syllables"]
 

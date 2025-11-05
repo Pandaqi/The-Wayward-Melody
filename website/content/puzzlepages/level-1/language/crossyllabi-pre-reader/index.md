@@ -19,7 +19,7 @@ contents:
 - "14 Crossyllabi Puzzles"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonetic-awareness", "syllables"]
 player-count: 1

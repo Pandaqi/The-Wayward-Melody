@@ -23,7 +23,7 @@ external:
     desc: This game originally inspired the idea of placing blankets, overlapping other blankets, then counting how much of your color still showed. In the end, Blankety Beach became a VERY different game. But I still wanted to mention Marrakech, because it's simply a really small and fun game in its own right.
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "summer", "counting", "spatial-awareness", "color"]
 player-count: 2-6
 age: 4

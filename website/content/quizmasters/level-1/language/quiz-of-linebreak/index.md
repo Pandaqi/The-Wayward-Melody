@@ -21,7 +21,7 @@ contents:
 - "Question Set: Which of these sentences has a matching word sound (to a given sentence)?"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["sound-awareness", "words", "phonetic-awareness", "phonemes"]
 player-count: 1-100

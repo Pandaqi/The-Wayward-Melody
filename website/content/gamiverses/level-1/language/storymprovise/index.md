@@ -17,7 +17,7 @@ contents:
 - "@TODO"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["stories", "creativity"]
 player-count: 2-10

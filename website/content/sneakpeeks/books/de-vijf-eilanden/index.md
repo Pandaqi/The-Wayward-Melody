@@ -16,7 +16,7 @@ contents:
 - Het originele manuscript in `.docx` bestandsformaat
 - En daarmee dus ook het volledige boek (inclusief bijlages) zoals te koop.
 
-language: "NL"
+language: "nl"
 level: 4
 
 ---

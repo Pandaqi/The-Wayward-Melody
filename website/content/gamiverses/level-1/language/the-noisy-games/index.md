@@ -19,7 +19,7 @@ contents:
 - The Material Generator (open in any browser) to generate your own PDFs with your preferred settings!
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["words", "syllable-awareness", "phoneme-awareness", "alphabet"]
 player-count: 2-8

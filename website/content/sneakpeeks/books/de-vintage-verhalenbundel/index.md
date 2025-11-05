@@ -16,7 +16,7 @@ contents:
 - Een oude schrijfgids van Tiamo, toen hij na een paar korte verhalen dacht iets te vertellen te hebben.
 - Let op! Al deze verhalen zijn `.md` (Markdown) bestanden. Dat betekent dat je ze in werkelijk elk tekstprogramma ter wereld kan openen, maar niet allemaal kunnen ze de rijke opmaak laten zien. (Dit is gekozen omdat niet iedereen Word heeft, en bovendien Word bestanden veel logger en groter zijn dan nodig.)
 
-language: "NL"
+language: "nl"
 level: 3
 
 ---

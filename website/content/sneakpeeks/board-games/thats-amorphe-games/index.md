@@ -7,7 +7,7 @@ price: 3.95
 image: [thats_amorphe_header.webp, thats_amorphe_pictures_header.webp]
 file: "0de358bb-4b23-4f62-8cdb-a010d37fbb7b"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["games-bundle", "party-games"]
 

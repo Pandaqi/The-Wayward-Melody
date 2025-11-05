@@ -24,7 +24,7 @@ contents:
 - "Question Set: A variety of questions about uncommon phonemes (not seen before in the base quiz)."
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonemes"]
 player-count: 1-100

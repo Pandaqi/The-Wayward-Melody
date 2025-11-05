@@ -21,7 +21,7 @@ contents:
 - "Explainer: VOICED versus UNVOICED"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonemes"]
 player-count: 1-100

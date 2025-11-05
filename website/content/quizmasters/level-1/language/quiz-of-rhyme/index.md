@@ -23,7 +23,7 @@ contents:
 - "Question Set: Finish the word so it rhymes with another word given"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["rhyme-and-alliteration"]
 player-count: 1-100

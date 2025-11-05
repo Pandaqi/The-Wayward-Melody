@@ -19,7 +19,7 @@ contents:
 - 8 pages with "Fences" to cut out
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["rhyme"]
 player-count: 2-5

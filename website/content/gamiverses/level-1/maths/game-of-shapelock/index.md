@@ -18,7 +18,7 @@ contents:
 - Each page contains the board needed + illustrated explanation of the rules at the bottom.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2

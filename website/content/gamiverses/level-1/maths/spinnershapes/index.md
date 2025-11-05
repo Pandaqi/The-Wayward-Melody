@@ -19,7 +19,7 @@ contents:
 - 5 different playing boards, from easy to hard.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-8

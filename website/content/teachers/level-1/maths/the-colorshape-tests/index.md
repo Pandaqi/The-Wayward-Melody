@@ -19,7 +19,7 @@ contents:
 - 11 pages, each with 1 container in a unique color and ~10 recognizable images in the same color
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["colors", "sorting"]
 player-count: 1-100

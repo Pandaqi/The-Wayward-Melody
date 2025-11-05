@@ -20,7 +20,7 @@ contents:
 - Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Physical"
 categories: ["fine-motor-skills"]
 

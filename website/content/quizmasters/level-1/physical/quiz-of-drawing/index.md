@@ -21,7 +21,7 @@ contents:
 - Special answer form for kids to draw on directly!
 
 level: 1
-language: ["EN", "NL"]
+language: ["en", "nl"]
 subject: "Physical"
 categories: ["drawing"]
 player-count: 1-100

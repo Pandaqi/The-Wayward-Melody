@@ -42,7 +42,7 @@ contents:
 - Tripplanning (World Map Routes Puzzle)
 
 level: 2
-language: "EN"
+language: "en"
 subject: ["Mathematics", "Language"]
 categories: ["holiday", "summer"]
 player-count: 1

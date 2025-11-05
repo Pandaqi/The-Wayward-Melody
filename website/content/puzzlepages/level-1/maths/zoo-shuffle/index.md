@@ -18,7 +18,7 @@ contents:
 - 20 puzzles of increasing difficulty (all playable by physically placing those animals)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
 reusable: true

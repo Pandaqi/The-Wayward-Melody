@@ -20,7 +20,7 @@ contents:
 - "Question Set: Which answer matches based on property X?"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
 player-count: 1-100

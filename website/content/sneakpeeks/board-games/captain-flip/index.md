@@ -7,7 +7,7 @@ price: 2.95
 image: [captain_flip_header.webp]
 file: "7c1a3929-0b40-4576-9037-422033ea65ff"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 1
 
 contents:

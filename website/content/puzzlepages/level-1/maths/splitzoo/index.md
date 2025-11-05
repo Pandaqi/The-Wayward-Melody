@@ -19,7 +19,7 @@ contents:
 - Answer Sheet
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["grouping", "cutting"]
 player-count: 1

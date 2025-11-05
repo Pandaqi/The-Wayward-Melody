@@ -34,7 +34,7 @@ contents:
 - Easter Story Timeline Exercise
 
 level: 1
-language: "EN"
+language: "en"
 subject: ["Mathematics", "Language"]
 categories: ["holiday", "Easter"]
 player-count: 1

@@ -24,7 +24,7 @@ contents:
 - Read and Mark (Simply _recognize_ recurring words or phrases in a simple story text)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["stories", "cause-and-effect"]
 player-count: 1-100

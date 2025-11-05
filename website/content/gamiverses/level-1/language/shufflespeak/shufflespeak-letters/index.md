@@ -20,7 +20,7 @@ contents:
 - The Material Generator (open in any browser) to generate your own PDFs with your preferred settings and new cards
 
 level: 2
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["letters"]
 player-count: 2-10

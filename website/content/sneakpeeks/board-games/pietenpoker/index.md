@@ -7,7 +7,7 @@ price: 4.95
 image: [pietenpoker_header.webp]
 file: "abe457a8-f5ed-4a62-bb5d-6d671acc6ae7"
 description: "Het spel zelf _plus_ alle originele notities, illustraties, en ander werk erachter."
-language: "NL"
+language: "nl"
 level: 2
 
 contents:

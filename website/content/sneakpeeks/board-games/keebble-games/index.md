@@ -7,7 +7,7 @@ price: 4.95
 image: [keebble_header.webp, keebble_domino_header.webp, keebble_knickknack_header.webp]
 file: "04033d7b-a9c3-47db-9939-d4f0cad73dc6"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["games-bundle"]
 

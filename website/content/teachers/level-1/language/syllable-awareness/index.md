@@ -30,7 +30,7 @@ external:
     desc: Nice (free) daily puzzles that you solve by picking the right syllables from a list of options.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonetic-awareness", "syllables"]
 player-count: 1-100

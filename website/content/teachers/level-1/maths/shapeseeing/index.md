@@ -18,7 +18,7 @@ contents:
 - Each challenge tests a new basic shape and provides an illustrated answer at the bottom.
 
 level: 2
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes", "geometry"]
 player-count: 1

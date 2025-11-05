@@ -20,7 +20,7 @@ contents:
 - Two solution sheets with illustrated solutions
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonemes"]
 player-count: 1

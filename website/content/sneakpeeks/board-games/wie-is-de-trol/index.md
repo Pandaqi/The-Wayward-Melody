@@ -7,7 +7,7 @@ price: 4.95
 image: [wie_is_de_trol_header.webp]
 file: "c2b8de7d-f21b-4bff-9151-c21396f26dc5"
 description: "Alle originele notities, tekeningen, spelbestanden en ander werk achter dit spel."
-language: "NL"
+language: "nl"
 level: 3
 
 contents:

@@ -35,7 +35,7 @@ contents:
 - Answer Sheet
 
 level: 1
-language: "EN"
+language: "en"
 subject: ["Mathematics", "Language"]
 categories: ["holiday", "summer"]
 player-count: 1

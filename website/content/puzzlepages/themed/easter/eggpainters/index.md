@@ -17,7 +17,7 @@ contents:
 - "40 Eggpainter puzzles of increasing difficulty"
 
 level: 2
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["holiday", "Easter"]
 

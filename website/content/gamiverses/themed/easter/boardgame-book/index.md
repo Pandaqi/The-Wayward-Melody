@@ -25,7 +25,7 @@ contents:
 - The Easter Virus (Risk-inspired board game with a large map)
 
 level: 2
-language: "EN"
+language: "en"
 subject: ["Mathematics", "Language"]
 categories: ["holiday", "Easter"]
 player-count: 2-6

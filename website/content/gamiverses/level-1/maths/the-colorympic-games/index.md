@@ -27,7 +27,7 @@ external:
     desc: This game also inspired one of our games in this bundle. Try this one if you want big sturdy cards, and more guidance as to how to use them for your illustration.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["colors"]
 player-count: 2-6

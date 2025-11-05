@@ -33,7 +33,7 @@ contents:
 - Activity Ideas/Setups
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes", "geometry"]
 player-count: 1-100

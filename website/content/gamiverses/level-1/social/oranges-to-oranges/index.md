@@ -22,7 +22,7 @@ external:
     desc: The old classic game that obviously inspired this. It's fine, but not playable by pre-readers (as it's all text-based) and misses some simple twists and tweaks (in our eyes) that could make the concept much better.
 
 level: 1
-language: "EN"
+language: "en"
 subject: ["Social", "Language"]
 categories: ["stories", "creativity", "association"]
 player-count: 2-10

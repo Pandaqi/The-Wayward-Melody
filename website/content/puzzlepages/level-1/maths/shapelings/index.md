@@ -18,7 +18,7 @@ contents:
 - 15 Shapeling puzzles from easy to hard, small to large
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 1

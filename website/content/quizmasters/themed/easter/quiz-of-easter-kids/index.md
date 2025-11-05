@@ -20,7 +20,7 @@ contents:
 - Printable Answer Sheet + Forms PDF
 
 level: 1
-language: "EN"
+language: "en"
 categories: ["holiday", "Easter"]
 player-count: 1-100
 age: 4

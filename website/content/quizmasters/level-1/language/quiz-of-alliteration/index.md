@@ -21,7 +21,7 @@ contents:
 - "Question Set: Alliteration in popular kids culture"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["rhyme-and-alliteration"]
 player-count: 1-100

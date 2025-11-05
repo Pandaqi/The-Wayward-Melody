@@ -21,7 +21,7 @@ contents:
 - A recording of a spooky theme song composed for this project!
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "halloween"]
 
 ---

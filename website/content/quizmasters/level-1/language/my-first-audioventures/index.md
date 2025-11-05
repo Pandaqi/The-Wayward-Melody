@@ -19,7 +19,7 @@ contents:
 - "Travel to Atlantis: An audioventure with 7 questions."
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["audioventures"]
 player-count: 1-100

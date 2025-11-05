@@ -14,7 +14,7 @@ contents:
 - De gebruikte lettertypes.
 - De uiteindelijke plaatjes (`.png` bestandsformaat) en volledig boek PDF.
 
-language: "NL"
+language: "nl"
 level: 1
 categories: ["picture-book"]
 

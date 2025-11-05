@@ -20,7 +20,7 @@ contents:
 - The raw files (media + questions) to modify/reuse the quiz yourself
 
 level: 4
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["grouping", "association", "creativity"]
 player-count: 1-100

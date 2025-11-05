@@ -16,7 +16,7 @@ contents:
 - The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["alphabet", "letters", "spelling"]
 

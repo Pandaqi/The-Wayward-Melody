@@ -7,7 +7,7 @@ price: 3.95
 image: [naivigation_original_header.webp]
 file: "e85d11e5-ea29-478b-b668-7ae9dc14c912"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: ["EN", "NL"]
+language: ["en", "nl"]
 level: 3
 
 contents:

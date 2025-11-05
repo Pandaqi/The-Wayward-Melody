@@ -20,7 +20,7 @@ contents:
 - 2 sheets to cut out and spread across a table, containing 9 simple color-based puzzles
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["colors"]
 # player-count: 1-100

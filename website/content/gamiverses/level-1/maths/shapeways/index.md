@@ -19,7 +19,7 @@ contents:
 - 4 pages with a wide variety of "Locations" you'll be connecting in the game
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-6

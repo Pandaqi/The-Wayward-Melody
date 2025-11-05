@@ -19,7 +19,7 @@ contents:
 - 4 sheets to cut out and spread across a table, containing 10 simple shape-based puzzles. (Their solutions are at the BACK.)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 # player-count: 1-100

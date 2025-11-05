@@ -24,7 +24,7 @@ contents:
 - "Question Set: Cut the given word into its exact phonemes."
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonemes"]
 player-count: 1-100

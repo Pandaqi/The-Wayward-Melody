@@ -19,7 +19,7 @@ contents:
 - "Clue Sheets (5 easy, 4 medium, 1 hard)"
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "Easter"]
 player-count: 1-8
 age: 4

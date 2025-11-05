@@ -7,7 +7,7 @@ price: 6.95
 image: [paper_thieves.webp, epic_medics.webp, one_pizza_the_puzzle.webp, timely_transports_header.webp, unstable_universe.webp]
 file: "77ef6303-42d8-46af-b423-876973d49f34"
 description: "All original notes, assets, illustrations and other work behind the first handful of One Paper Games."
-language: "EN"
+language: "en"
 level: 3
 categories: ["one-paper-games", "games-bundle"]
 

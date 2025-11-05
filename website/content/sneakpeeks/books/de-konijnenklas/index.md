@@ -15,7 +15,7 @@ contents:
 - En daarmee dus ook het volledige boek (inclusief bijlages) zoals te koop.
 - (Let op! Dit bestand is gigantisch, vanwege de vele complexe plaatjes op hoge resolutie. Zorg voor een stabiele internetverbinding bij het downloaden!)
 
-language: "NL"
+language: "nl"
 level: 1
 categories: ["picture-book"]
 

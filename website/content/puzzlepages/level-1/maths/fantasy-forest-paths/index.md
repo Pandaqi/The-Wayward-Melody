@@ -18,7 +18,7 @@ contents:
 - Fantasy Forest Paths x10
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["comparing"]
 player-count: 1

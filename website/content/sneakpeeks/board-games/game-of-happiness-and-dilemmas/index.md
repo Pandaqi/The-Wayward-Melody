@@ -7,7 +7,7 @@ price: 3.95
 image: [the_game_of_happiness_header.webp, the_game_of_dilemmas_header.webp]
 file: "9d926692-92f9-4ba0-995c-1355d8998592"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["games-bundle"]
 

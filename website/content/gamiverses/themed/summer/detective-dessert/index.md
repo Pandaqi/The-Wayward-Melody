@@ -26,7 +26,7 @@ external:
     desc: Probably the best and most famous game "inspired" by Da Vinci Code. Now you're defusing bombs together, trying to cut the right (numbered) wires in other player's hands (without cutting the WRONG numbers). Very good fun for the whole family.
 
 level: 2
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["holiday", "summer", "deduction", "counting"]
 player-count: 2-5

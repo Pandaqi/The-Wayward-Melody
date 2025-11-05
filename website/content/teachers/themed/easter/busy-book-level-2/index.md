@@ -32,7 +32,7 @@ contents:
 - Easter Bingo (2x; check if something happens or appears during Easter)
 
 level: 2
-language: "EN"
+language: "en"
 subject: ["Mathematics", "Language"]
 categories: ["holiday", "Easter"]
 player-count: 1

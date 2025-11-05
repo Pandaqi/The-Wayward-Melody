@@ -27,7 +27,7 @@ details:
 
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: []
 

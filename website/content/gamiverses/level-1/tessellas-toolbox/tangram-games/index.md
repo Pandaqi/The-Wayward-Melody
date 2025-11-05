@@ -21,7 +21,7 @@ contents:
 - 1 PDF with Pre-Reader Prompt Cards
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes", "tessellas-toolbox"]
 player-count: 2-6

@@ -18,7 +18,7 @@ contents:
 - Multiple puzzles per page, different subjects, slowly building to a larger and more detailed jigsaw puzzle.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes", "matching"]
 player-count: 1

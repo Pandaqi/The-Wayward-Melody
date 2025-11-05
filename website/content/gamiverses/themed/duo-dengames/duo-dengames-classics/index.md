@@ -35,7 +35,7 @@ external:
     desc: Started its life as a fictional game in a fantasy book series, but was turned into an actual game. Slightly more rules than the other games, but you get a beautiful and diverse game in return with far more depth and strategy.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["abstract-games", "duo-dengames"]
 player-count: 2

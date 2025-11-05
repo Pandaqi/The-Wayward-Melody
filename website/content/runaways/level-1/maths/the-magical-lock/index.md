@@ -19,7 +19,7 @@ contents:
 - 3 sheets to cut out and spread across a table (or even room).
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
 # player-count: 1-100

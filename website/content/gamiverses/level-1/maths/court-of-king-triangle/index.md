@@ -18,7 +18,7 @@ contents:
 - 9 pages of material (3 with Palaces, 2 with polygons, 4 with Shape Animal Cards)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-6

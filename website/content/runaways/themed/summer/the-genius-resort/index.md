@@ -22,7 +22,7 @@ contents:
 - Answer sheet
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "summer", "escape-calendar"]
 player-count: 1-4
 age: 5

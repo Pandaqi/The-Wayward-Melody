@@ -20,7 +20,7 @@ contents:
 - The raw files (media + questions) to modify/reuse the quiz yourself
 
 level: 1
-language: ["EN", "NL"]
+language: ["en", "nl"]
 subject: "Physical"
 categories: ["gross-motor-skills"]
 player-count: 1-100

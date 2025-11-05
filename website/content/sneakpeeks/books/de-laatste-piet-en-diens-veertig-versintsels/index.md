@@ -13,7 +13,7 @@ contents:
 - De originele bestanden voor de cover (`.png` bestandsformaat, bewerkbaar `.afdesign` bestand)
 - Het originele manuscript zoals te koop (in PDF en Ebook formaat), inclusief notities en andere versies
 
-language: "NL"
+language: "nl"
 level: 2
 
 ---

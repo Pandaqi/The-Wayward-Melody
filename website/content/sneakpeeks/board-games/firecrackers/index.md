@@ -7,7 +7,7 @@ price: 4.95
 image: [firecrackers_header.webp]
 file: "0679604e-fbe1-4f65-a085-2586a7457387"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 
 contents:

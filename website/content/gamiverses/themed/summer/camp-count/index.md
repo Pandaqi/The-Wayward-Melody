@@ -18,7 +18,7 @@ contents:
 - Material PDF (4 pages of ground tiles and player pawns)
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "summer", "counting", "spatial-awareness"]
 player-count: 2-6
 age: 4

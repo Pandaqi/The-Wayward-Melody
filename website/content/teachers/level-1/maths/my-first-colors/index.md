@@ -34,7 +34,7 @@ contents:
 - 3 fun coloring pages to let loose your own creativity
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["colors"]
 player-count: 1-100

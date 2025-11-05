@@ -20,7 +20,7 @@ contents:
 - 8 pages with different maps to play on (you can also simply play without a map at all)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
 player-count: 2-6

@@ -23,7 +23,7 @@ contents:
 - Wordmatch (with increasing difficulty) (Two words are given, but with missing pieces. Find the one missing letter/syllable that completes both.)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["alphabet", "letters", "spelling", "vocabulary"]
 # brand: ""

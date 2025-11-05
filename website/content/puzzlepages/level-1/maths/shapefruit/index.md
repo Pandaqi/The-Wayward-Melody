@@ -20,7 +20,7 @@ contents:
 - Answer Sheet
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["grouping", "physical", "shapes", "spatial-awareness"]
 player-count: 1

@@ -18,7 +18,7 @@ contents:
 - En daarmee dus ook het volledige boek (inclusief bijlages) zoals te koop.
 - (Let op! Dit bevat **niet** het computerspel met dezelfde naam. De code hiervan is al gratis beschikbaar online! Dit bevat **wel** de originele notities en ideeën voor dat spel, die uiteindelijk leidden tot dit interactieve prentenboek.)
 
-language: "NL"
+language: "nl"
 level: 2
 categories: ["picture-book"]
 

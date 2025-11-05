@@ -23,7 +23,7 @@ contents:
 - Alphastories (A few simple stories about alphabet, teaching the symbols in a wider context; "gestalt learning")
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["alphabet", "letters", "spelling"]
 # brand: ""

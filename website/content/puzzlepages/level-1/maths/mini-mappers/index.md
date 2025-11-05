@@ -18,7 +18,7 @@ contents:
 - "25 puzzles of increasing difficulty (all playable by physically placing those roads)"
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
 reusable: true

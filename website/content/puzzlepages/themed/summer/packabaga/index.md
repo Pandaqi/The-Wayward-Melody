@@ -19,7 +19,7 @@ contents:
 - 30 Packabaga puzzles spread over 3 difficulty levels
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["holiday", "summer", "spatial-reasoning", "shapes"]
 player-count: 1

@@ -23,7 +23,7 @@ contents:
 - Matching Tarsia (place tiles so that sides match; immediately know if you've done it correctly!)
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
 player-count: 1-100

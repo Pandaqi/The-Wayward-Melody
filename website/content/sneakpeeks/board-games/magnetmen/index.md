@@ -7,7 +7,7 @@ price: 3.95
 image: [magnetmen_header.webp]
 file: "a7253b35-9881-43aa-afe8-fc3ed4aa47b6"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["one-paper-games"]
 

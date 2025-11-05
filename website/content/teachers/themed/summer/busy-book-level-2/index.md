@@ -37,7 +37,7 @@ contents:
 - Answers + Reasoning (for the math challenges)
 
 level: 2
-language: "EN"
+language: "en"
 subject: ["Mathematics", "Language"]
 categories: ["holiday", "summer"]
 player-count: 1

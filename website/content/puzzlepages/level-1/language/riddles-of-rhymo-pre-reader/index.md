@@ -19,7 +19,7 @@ contents:
 - Page with illustrated solutions
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["rhyme"]
 player-count: 1

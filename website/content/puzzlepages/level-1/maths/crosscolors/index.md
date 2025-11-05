@@ -18,7 +18,7 @@ contents:
 - 18 Crosscolor puzzles from easy to hard
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["colors"]
 player-count: 1

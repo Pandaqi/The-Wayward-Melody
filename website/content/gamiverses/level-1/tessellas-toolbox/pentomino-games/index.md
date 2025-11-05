@@ -25,7 +25,7 @@ external:
     desc: One of the games in our bundle is a simplified/streamlined version of this game! If you desire proper pieces (instead of paper), and more pentomino challenges, check it out.
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["shapes", "tessellas-toolbox"]
 player-count: 2-6

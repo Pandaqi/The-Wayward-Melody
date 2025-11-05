@@ -33,7 +33,7 @@ contents:
 
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Mathematics"
 categories: ["sorting", "grouping", "patterns", "categorization", "labeling", "tables"]
 player-count: 1-100

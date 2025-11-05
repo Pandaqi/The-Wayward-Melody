@@ -7,7 +7,7 @@ price: 5.95
 image: [creature_quellector_header.webp]
 file: "976748d9-6915-48b8-b854-a31294d708ed"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["waitless-games"]
 

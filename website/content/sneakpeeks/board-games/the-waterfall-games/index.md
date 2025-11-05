@@ -7,7 +7,7 @@ price: 4.95
 image: [waterfall_header.webp]
 file: "f4223364-7b8c-4fa7-94ca-06c976b7a777"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["games-bundle"]
 

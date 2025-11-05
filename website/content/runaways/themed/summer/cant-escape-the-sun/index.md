@@ -19,7 +19,7 @@ contents:
 - Answers sheet ( + illustration of what final sun should look like)
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "summer"]
 player-count: 1-8
 age: 5

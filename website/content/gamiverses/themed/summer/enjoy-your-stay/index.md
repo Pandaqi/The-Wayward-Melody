@@ -26,7 +26,7 @@ external:
     desc: Hated by all, except those who won last time.
 
 level: 2
-language: "EN"
+language: "en"
 categories: ["holiday", "summer", "counting", "money"]
 player-count: 2-6
 age: 5

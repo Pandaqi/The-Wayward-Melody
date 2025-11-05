@@ -7,7 +7,7 @@ price: 2.95
 image: [foldigami_header.webp]
 file: "dd2900cf-835d-4186-9b59-7886e4097881"
 description: "All original notes, assets, illustrations and other work behind the game."
-language: "EN"
+language: "en"
 level: 2
 categories: ["waitless-games"]
 

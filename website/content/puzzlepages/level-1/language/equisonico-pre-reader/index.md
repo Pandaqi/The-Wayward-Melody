@@ -19,7 +19,7 @@ contents:
 - An interactive single-page story with blanks to fill in
 
 level: 1
-language: "EN"
+language: "en"
 subject: "Language"
 categories: ["phonemes", "homophones"]
 player-count: 1
