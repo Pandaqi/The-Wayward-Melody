@@ -1,110 +1,100 @@
 ---
-title: "From Dusk To Drawn"
+title: "Nothing Left"
 weight: 50
 ---
 
-# From Dusk To Drawn
+# Nothing Left
 
-![Curved line](images/chapter-5.png) \
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it had no fins. It could only turn RIGHT or LEFT, and so it spins and spins._
 
-Astra hopped alongside Bruzo. The tiger ignored her and kept the book far away from her. 
+Rovy and Pyra were two pirates. On a mysterious stolen ship, they sailed for _Pig's Bay_. They had two magical stones: the _Forwards Stone_ and the _Right Stone_. And now they were looking for a new one. 
 
-"Please, please, please. Can you _teach me_?" she asked.
+I think you can understand, dear listener, how annoying it is if you can only move one way. Imagine that! If you had to walk backwards for the rest of your life. Or, when riding your bike, you could only turn one way. Or that, if your mom says "please give me the bag on your right", you can't grab the bag at all!
 
-"No. Too dangerous."
+Quite annoying indeed. But that was exactly how this pirate ship worked. They still didn't know _whose_ ship it was, or _why_ it worked like this.
 
-Astra thought this was silly. Wasn't it _more_ dangerous if she _did not_ know the magic? She might accidentally draw a line that turned the planet inside-out! But if he taught her, she would know which lines were safe to draw, and which were not.
+And, so, the journey was hard. It took a lot of effort. They almost turned too early and got lost. But, in the end, the two pirates arrived at _Pig's Bay_.
 
-"Maybe I have a third paintbrush," tried Astra.
+They immediately saw why it had that name. A huge crowd of pigs waited for them on the beach.
 
-Bruzo stopped walking. He looked annoyed. "I already told you. Only two of them were ever made."
+Rovy smiled and waved. As their ship hit the sand, he dropped all the stones to make it _stop_. Then, him and Pyra climbed from the ship.
 
-"By you?"
+"Greetings, erm, pigs! We are pirates. We've come to find a stone like this one." He took the Forwards Stone in his hand. It only worked when he was _on_ the ship himself. So, right now, he could hold the stone and nothing happened. "Have you seen a stone like this?"
 
-"By my parents."
+OINK. OINK. OINK.
 
-"Who are ..."
+"Is that ... a yes?"
 
-"Gone." 
+Pyra already had trouble with Pirate-speak. Learning Pig-speak was going too far.
 
-Bruzo looked away. His paws stroked the paintbrushes as if they were teddy bears. He was silent for a while, and Astra felt like giving him a hug, but she changed her mind before doing something so silly. 
+"Let's just search the bay on our own---"
 
-Instead, she tried a brave new strategy: being honest.
+As she said it, the pigs ran past her. They climbed onto the ship. First two, then five, then ten, then _all of them_. The ship was filled with pigs, which made it so heavy that it almost went underwater.
 
-"I know Tessella. She helped me escape on Shapesong. She saved everyone! And believe me when I say that she _gave_ me the brush. A gift."
+"Hey! That's our map! Let go!"
 
-"Oh I believe you. That sounds like my sister."
+Pyra tried to get back on the ship. But there was just no space. The pigs OINKED, and curled their tails, and bumped her back onto the beach.
 
-Astra felt a bit better. Bruzo calmed down, now that he had both brushes. And Tessella had chosen _her_ to hold this super powerful magical brush! 
+Rovy shrugged. Without the stones, the pigs could not steal the ship anyway. Ha! He searched the beach for the next stone.
 
-She looked Bruzo in the eye. "Then ... why do you hate her?"
+"They're stealing our food!" yelled Pyra.
 
-"Look around. See anyone else here? No, you don't." Bruzo sniffed. "My sister probably wanted to get rid of that brush for years. She threw it at you as soon as you appeared, I imagine."
+Now ... now Rovy was interested.
 
-Astra's breath caught. Her shoulders drooped, her ears folding. So, she was _not_ special. Tessella wanted to throw that brush in the garbage, but Astra just happened to stand in the way. Great. 
+"Hey! Stop that! Bad pigs. _Baaaad piiigs!_"
 
-They walked for a bit. In silence. Until Bruzo reached his campfire, which was next to a small tent made of sticks and leaves. 
+This, dear listener, obviously did not work. Just as the pirates could not understand Pig-speak, the pigs had no clue what the kids were saying. They said something like OINK OINK OOOINK. Which, translated loosely, means "Can they stop making so much noise? We're trying to help these fake pirates!"
 
-Astra looked around. It _was_ very empty out here. She hadn't actually seen or met another animal; she had only heard strange noises. The scratching made sense now: it was just Bruzo drawing things in the sand.
+Pyra and Rovy watched as pigs took over their ship.
 
-He was all alone, wasn't he?
+Until, suddenly, all the pigs jumped off again. They took all the food, and the barrels, and the torches, and even some parts of the sail. They took everything they _could_ take, without sinking the ship.
 
-Bruzo tied the brushes together and kept the book close to his chest. Then he lay down next to the fire.
+And in return ... they left a stone on the deck.
 
-"It was an accident with the magic," he said. "My parents worked their entire life to create and understand pencil magic. Using everything they had, they made two brushes. One for dad, one for mom. Then ... they made the wrong drawing. They disappeared. My sister and I never saw them again."
+"It was a _trade_!" yelled Pyra. "They take our food; we get their stone."
 
-"I'm ... I'm sorry to hear that."
+Rovy groaned. "I don't _like_ this trade. Arr!"
 
-"So was Tessella. She threw away the paintbrush, but it kept coming back to her. She wanted to destroy it, but nothing can hurt it. She hated it, and she was scared of it." 
+But Pyra thanked all the pigs by saying OINK OINK OOOOINK OOINK. Which was a _very_ not-nice thing to say in Pig-speak, and this is why pigs have disliked humans ever since. That's a fact.
 
-Bruzo sighed. He was silent again, fighting the tears welling up in his eyes.
+But she didn't care. A new stone! A new way to move!
 
-"So, she tucked the brush in her toolbox and decided to ignore it existed at all. One day, she was gone, off to another planet. I imagine she never used the brush again. Until she gave it to you. I have no idea _why_ she would do that."
+She took it in her hands ... and the ship turned _left_.
 
-Astra sighed too. She hopped a little closer, enjoying the warm fire. She really wanted to ask if he had any _food_, but decided this was not the right time.
+"Rovy! Come! We can turn right _and_ left now. We can go anywhere!"
 
-Her head hung low, and she mumbled: "I have no idea why she'd give it to me, too. I'm terrible at this."
+"No we can't," said Rovy when he was back on the ship. "We're out of food!"
 
-Bruzo frowned. "You made a forest explode. That's hardly easy to---"
+"Then I know where we're going next."
 
-"But I did not _want_ that! I need to draw _small_ lines. Lines that aren't dangerous. Lines that will move _me_, instead of _houses_. But ... but I can't. I'm not strong enough. I don't have the skill. I am not worthy."
+> **Guardian's Guide:** pause the story. Ask the Apprentice(s) to find the closest location on the map they can visit, and which shows a _food icon_. Remember they can only go _forward, turn right, or turn left_. The ship can't go through obstacles like islands and you can't cross your own path.
 
-Worthy, dear reader, is a word which here means that someone is good and kind enough to have a certain gift. Astra felt she was _not_ worthy; that the magic was too strong and powerful for a bumbling fumbling thief like her.
+![Pirate Map for Chapter 5](images/chapter-5@0.25x.png)
 
-Astra looked away, fighting back her own tears. Her friend Lunib was still out there somewhere. Maybe she just had to find him and try to be happy on this weird planet. Live a normal life, without magic. "Keep the brush if you want. Pencil magic wasn't made for me."
+The two pirates decided to sail to _Ho-Ho-Ha Harbor_.
 
-"As if I would ever give it back to you," said Bruzo. 
+People have always struggled, dear listener, to remember what's _left_ and what's _right_. That's why people on ships call them a different name. Left is _port_ and right is _starboard_. The port side is where you get on and off the boat. It points to the _port_, or the _harbor_. The other side is where the oars are, which are used for rowing and going faster.
 
-They warmed themselves at the fire for a while. Astra kept listening for any other animals out there, but she heard nothing. Once in a while Bruzo checked the book. 
+Why? Well, if you confuse these two sides, you get something like what happens next ...
 
-He only needed a quick look, a glance, to see what to do. Within a heartbeat, he could draw some beautiful shapes. Astra gawked at it. She couldn't even draw _one_ of those precise lines if she tried for days.
+Rovy sent their ship into the harbor. And he confused _port_ and _starboard_, arriving the wrong way around. All the nice oars on one side of the ship _crashed_ into the beach. They shattered to pieces, raining wood on some boys building a sand castle.
 
-Bruzo used the pencil magic to create drawings of food. And suddenly the drawings turned into _real food_. Meat for himself; carrots, leaves and nuts for Astra.
+Then, when Rovy wanted to step off the ship, he accidentally stepped right into the ocean.
 
-He also used the magic to make his own food float over the fire. This one was _much_ easier.
+Pyra was still laughing when he came back and changed his clothes.
 
-It was not a straight line. But it also wasn't a squiggle. It was a ... a ...
+"Maybe _I_ should hold those stones," she said.
 
-"A curve," said Bruzo. "That's when a line turns in a certain direction, but it's the same direction the whole time. If you continue the curve long enough, you just end up with a circle."
+"Aye."
 
-Astra understood. If you drew a curve, and then switched to another curve, and then to another one, _that's_ how you got the wiggly line.
+"No, I. Me."
 
-But as you have learned, dear reader, _knowing_ what to do is not the same as _doing it_. Bruzo made a perfect curve without effort. Astra knew her paws weren't strong enough for that.
+"Aye! I just said yes!"
 
-"Can I ... can I practice?" she asked.
+"Oh, _aye_."
 
-"Sure." Bruzo reached for the brushes, then reached a little further. He picked up a random twig. "Practice with this practice brush."
+They really had to work on their Pirate-speak.
 
-Astra took the twig and started drawing _curves_. She drew them all evening. She drew them all night. Every time, they were a little better. A little prettier, if she might say so herself.
+Rovy let the stones fall from his pocket. He couldn't touch them, of course, because then the ship would start moving again. Pyra would just have to pick them up when they returned.
 
-Bruzo went to sleep. When he woke up, Astra had drawn curves---and things that should have been curves---over the entire area. She was several tree lengths away now. If anybody else looked at this planet from above, they would probably think she was trying desperately to communicate with aliens.
-
-Suddenly, the tiger stood next to her. And Bruzo screamed in rage: "What did you do!?"
-
-He pointed at her. No, _past_ her.
-
-Not at her curves. They weren't magic, remember, because she'd used a _twig_. And they hardly looked like curves still. Many of them looked more like smileys or arrows. Most of them resembled nothing at all.
-
-Bruzo pointed at a much thicker, deeper line. One that ran around her like a river. Cutting the landscape like a giant's knife. Circling her like a shark, as if trying to capture her failed curve drawings. She certainly didn't remember anyone drawing _that_ ...
-
-"Sorry," said Bruzo. "I know you did not do that. But we need to get away from here _now_. Before we're captured in the spell."
+"Now, let's see if the people here can help out some pirates."

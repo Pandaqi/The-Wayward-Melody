@@ -1,118 +1,122 @@
 ---
-title: "Cut The Line"
+title: "Backwards Thinking"
 weight: 30
 ---
 
-# Cut The Line
+# Backwards Thinking
 
-![Zigzag line](images/chapter-3.png) \
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it had no fins. It could only go FORWARD and BACKWARD, was it enough to find their fins?_
 
-Astra's heart raced. The owner of the spell book wanted it back. And now they had caught her in a spell of their own. She floated above the ground, unable to hop. She turned slowly. Not because she wanted to, but because the magic forced her to.
+Rovy and Pyra had just found their second stone. Now they could go _forwards_ or _backwards_. Of course, Rovy immediately played with it. He moved the ship forwards, backwards, forwards, backwards. Like some sort of dance. Or someone who really can't decide where to go. 
 
-And she saw the face of a tiger. A young tiger. Drawing with a paintbrush that was also too large for him. That did not make his teeth any less sharp, though, or his red eyes any less scary.
+He played with it until Pyra got a bit sick and told him to stop.
 
-Wait. He had to keep drawing to keep her floating. She had just learned ... that drawing magic can be picky. Only the perfect line will do.
+Rovy dropped both stones into his pocket. The ship stood perfectly still, near the coast of Hammerhead Island.
 
-And so Astra reached around her. She touched some leaves, but those were too soft. Nobody would be distracted by that. Then she found a stone, and held it in her paw.
+"We need to visit the next place on the map," she said. "Maybe there's treasure there."
 
-The tiger looked up. "Really thought you could run away from me, did you? Pff. They don't make thieves like they used to ..."
+"Where can we go?"
 
-He looked back down again, focusing on getting the spell right.
+"I see only _one_ place where we can go."
 
-Astra threw the stone.
+> **Guardian's Guide:** pause the story. Ask the Apprentice(s) to find the only (new) location on the map they can visit. Remember they can only go _forward or backward_, nothing else.
 
-She missed the tiger. But she hit the paintbrush and made him draw a wrong line.
+![Pirate Map for Chapter 3](images/chapter-3@0.25x.png)
 
-The spell disappeared in a puff of smoke and sparks.
+Both pirates looked at the map and smiled. 
 
-Astra fell back to the ground. Her butt did not like the landing, and the book slipped from her grasp. She collected her things and ran away again.
+Then, Rovy said: "Aye. _The Candy Fins_. That place sounds even better than treasure! Maybe candy grows from trees. Let's go!"
 
-This time, however, she ran into the forest.
+He grabbed the _Backwards Stone_. For a while, they enjoyed the breeze and the nice ocean, as the ship sailed backwards towards _The Candy Fins_.
 
-She zipped past trees, making it hard to see her. She'd go one way for a few seconds ... and then suddenly go the other way. Hopping past trees, but now in the other direction.
+"Maybe there's another stone there," said Pyra.
 
-"Stop right there!" yelled the tiger. "You can't escape me!"
+"Maybe. Who do you think made the stones?"
 
-He had to follow her now. He had to stay close, or he would never see her again. It's hard to make someone float when you have no idea where they are.
+Pyra shrugged. "Some legendary pirate, probably. Long ago."
 
-Astra had an idea. She'd seen the next type of line in the spell book. A "zigzag". The same as the wiggly line, but now the hills and valleys were _pointy_. 
+The Candy Fins was not really an island, dear listener. It was a group of huge trees that grew underwater. But they were so large, that their top poked through the surface. From a distance, this made the trees look like fins. Giant fins from giant sharks.
 
-After running one way for a while, she turned around again and ran the other way. And she lowered her brush so it hit the floor. As she ran away, her brush was drawing a line all the time. 
+As for the _candy_ part, well, see for yourself.
 
-It made it easy for the tiger to follow her. All he had to do was follow the line going left, right, left, right, but always forward.
+Rovy enjoyed the view a lot. So much, in fact, that he let go of the stone too late! The ship crashed into the first fin. There was a short battle between ship and tree, and in the end the tree won. The ship stood still, but only because it was stuck.
 
-She just hoped that her idea would work before he caught her.
+Rovy picked up the other stone, only for a moment, to move _forwards_ again. This got them unstuck. But the damage was already done.
 
-"Give me my book!" yelled the tiger.
+Their crash with the tree had made it drop its fruit.
 
-"I didn't steal it! I, erm, found it."
+Did I say fruit? I meant, of course, _candy_. 
 
-"At _my_ campfire."
+This particular fin grew _gum_. Now, piles and piles of gum had fallen on the ship. As if this part of the world had very strange weather that made it rain gum. 
 
-"Your name wasn't on it."
+Pyra looked at the other trees. One of them grew licorice. Another grew candy corn, and another grew mint snowflakes. 
 
-"Check the book! I'm Bruzo. My name is on the cover!"
+"I don't see a new stone," said Pyra.
 
-Astra briefly looked down. He was right. His name _was_ on the book. Right above a very realistic drawing of his face.
+"Wha--mmm--wha--mm?" Rovy spoke with a mouth full. He had put ten gumballs into his mouth at once. He chewed for a while, blew a massive gum bubble, then swallowed. "Who cares about that stone? We've found our treasure! Candy!"
 
-Her paws were shaking. They still weren't strong enough for this. The brush fell from her paws a few times.
+Pyra crossed her arms. "You said we were going to find gold. And we were going to conquer ships. Like _real_ pirates."
 
-But ... that was not a problem.
+"I _am_ a real pirate! Just ... just a _hungry_ one too. Arrr!"
 
-Because she realized the zigzag was just many small lines after another. A quick line going left. Then a quick line going back right. She could lift the brush and take a break, then start the next line. And if she made one line too long? She could just make the other one long too, and save the spell.
+"Arrrr you done?"
 
-It was also easier because she was drawing so _big_. She could move _herself_, instead of her paws. Each _hop_ made a straight line, even if her arms didn't move. Because, well, she could not suddenly change direction in the air! She had no wings. Once she hopped, she had to go straight until she landed.
+Rovy scowled. He grabbed as much candy as he could, then looked at the trees. The "candy fins". 
 
-Her paws were tired and not used to these drawings. But hopping? She could hop all day!
+Their ship was at the center now. They could turn their head around, in a circle, and see _all_ the fins. They looked, they peered, they stared, until---
 
-Her zigzag line was moving past trees, shrubs, and startled animals. It was covering the whole forest. She felt pretty good about herself, until she looked behind her.
+"There!" Pyra almost ran off the ship in her excitement. "Another stone! It's hanging in one of the trees. Hidden by the candy. Like, like, an apple about to fall!"
 
-The tiger was running at full speed now. His face was red and his claws were out. His paintbrush was pointed towards her, as if she were a marshmellow he wanted to skewer.
+Rovy frowned. "_Is it_ about to fall?"
 
-"It's _my_ book!" yelled Bruzo.
+"No. I don't think so."
 
-Astra yelled back at him over her shoulder. "No, no, it's mine. I, erm, _bought_ this book! In the, erm, magic shop?"
+"Then we need to grab it."
 
-"Oh come on. You're a thief. I see it in everything."
+"You do it. Your arms are longer."
 
-"That's not nice."
+"They're not _that_ long!"
 
-"That paintbrush---"
+And he was right, dear listener. The stone was all the way at the top of the tree. Even an adult would not get anywhere near it.
 
-"I made it myself!"
+They did not have a ladder. They could not climb the tree, because most of it was underwater. Even if they stood on each other's shoulders---and Pyra's shoulders hated the idea---they could not reach it at all.
 
-"No, you didn't."
+The two pirates sunk to the floor. It was hopeless. How were they ever going to get it?
 
-"Okay, fine, I bought it too. In the magic shop, which is a very real thing."
+Pyra looked at the map again. They _needed_ a new stone. They could not reach any of the other places just by going forwards and backwards.
 
-"Absolutely not."
+"Wait! That's it!" yelled Rovy. He jumped up so quickly that piles of gum fell from his pockets. "How did we get this gum, Pyra? How did we get it down?"
 
-He sounded so _sure_. Astra didn't know what to say. Usually, everyone believed her---a cute rabbit---immediately. And Tessella pulled whatever she wanted out of her toolbox, and nobody ever questioned that! 
+"We ... accidentally sailed into a tree!"
 
-Yes, he was right, of course. The book was his. But she wanted to keep it. She _needed_ to keep it, to learn all the spells.
+"Exactly!"
 
-Bruzo reached for her. She barely hopped away. She moved to the other side again. Her brush was still on the ground, drawing, scratching. If someone looked from above, they'd probably think she was trying to draw mountains.
+"No! That's not a good thing!"
 
-She tried one final thing.
+"Yes it is. Watch this, aye! This is how a real pirate solves problems!"
 
-"Alright, fine, I didn't buy it. I pulled it out of a magical toolbox. You know the ones. Bigger on the inside. Has whatever you need in the moment."
+"By eating candy?"
 
-"No, you didn't."
+"No, look."
 
-Astra suddenly turned and went the other way again. Drawing another mountain in the dirt. She was zigging and zagging through the trees.
+He took the stones back in his hands. Then, he started _juggling_. He held the Forwards Stone for a bit, then threw it into the air and held the Backwards Stone. Forwards, backwards, forwards, backwards, on and on.
 
-"Only two of these paintbrushes were ever made." Bruzo's voice was loud and clear. Certain. Confident. What was he? The God of Paintbrushes? Professor of Pencils? "One for me. And one ... for my sister."
+And every time, the ship _bumped_ into the tree.
 
-Now, dear reader, two things happened at once.
+Bump.
 
-Firstly, Astra realized what this meant. Tessella was this guy's sister. He probably thought Astra had stolen the brush from her toolbox! But Tessella had given it to her, as a gift! What a coincidence to land on the planet with him ...
+Bump.
 
-Secondly, Astra had finished her drawing. She had zigzagged through the forest, keeping the brush on the ground. This had created a lot of mountains in a row, all connected to each other.
+Bump.
 
-The magic agreed that this was a _Zigzag Line_. And so, the spell happened. But here's a curious thing about _drawing spells_: the bigger the drawing, the stronger the spell. Some joke from the inventor that got out of hand, I guess.
+The stone at the top came loose. It dangled. It danced. It shook.
 
-The spell book said that zigzag lines _destroy things_. A tiny zigzag line would cut your vegetables for you. A slightly bigger zigzag line would break a twig below your feet. An even bigger one might create a small fire, or convince a tree to fall down. One as large as _a forest_ ...
+And then it fell down, onto the ship.
 
-Well, let's just say the chase was over.
+A new stone. Just like the others. And with a new symbol too.
 
-Astra flew one way; Bruzo flew the other way. 
+Rovy grabbed the stone. 
+
+Pyra grabbed the mast to make sure she didn't fall down again.
+
+What would this one do?

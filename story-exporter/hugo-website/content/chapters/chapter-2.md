@@ -1,102 +1,110 @@
 ---
-title: "Out Of Line"
+title: "Full Sail Ahead"
 weight: 20
 ---
 
-# Out Of Line
+# Full Sail Ahead
 
-![Wiggly line](images/chapter-2.png) \
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it had no fins. It could only go FORWARD, and so their journey begins._
 
-Astra was ashamed of herself. She had crashed on a new planet. And the first thing she did was steal a book from someone else living there!
+Rovy and Pyra stood on someone else's ship. They didn't know why it was empty. When they found it, the ship did not move at all.
 
-But she was also happy. Because now she could finally learn how to use her magical paintbrush. No more guessing and accidentally making herself float.
+But now it _was_ moving. How? And where were they going?
 
-She had been scared for a while. But the owner of the book had not chased her for long. They'd given up immediately, it seemed. And so, Astra dug herself a hole in the ground, and slept there.
+You see, dear listener, it's hard to see things on the ocean. Where there's water _everywhere_, and nothing else. How do you know where you are? How do you know if you're going forwards or backwards?
 
-She woke up when the sun rose. The planet still looked as colorful, and beautiful, as yesterday. And she was still alone, with no sign of Lunib the Bearchitect.
+Rovy looked for something in the water. An island. A tree. Another ship. 
 
-There was no time to waste. She took out the book and looked for a useful spell. 
+"There!" yelled Rovy. "A palm tree in the distance!"
 
-She found one called "talk to a friend", but you could only do it if you knew where they were. 
+When Rovy said it, the palm tree was in front of the ship. By the time Pyra saw it too, it was already behind them.
 
-She found another spell called "create a map of the whole planet". It would draw lines in the dirt where she stood, and showing her where everything and everyone was. Very powerful. Very hard to draw. And also very useless. It said that the map could be as big as a forest, because it would show you _everything_.
+That means ...
 
-She kept turning the pages, until her breath caught. A spell called "fly to someone else". You only needed to draw it, and say your friend's name, and you would immediately fly there! She could ... she could even say the name of her mom and dad. She could go home, back to Shapesong.
+"We're going _forwards_!" said Rovy. "That's great. A great start."
 
-Unfortunately, the pages were burned.
+"That's not great at all!" Pyra pointed at the map. Her finger pointed at where they were right now, then drew a line going forwards. "If we don't stop moving, we will sail straight into these rocks!"
 
-They looked as if a dog had taken a bite out of them. And then thrown them into the campfire. And then stomped on it. And then taken another bite.
+"Aye. That's not good."
 
-Truly, you had to be very angry at books to destroy them this much. Astra could do nothing about it. She could not even see the first line to draw.
+Rovy searched the ship again. Was there a _brake_ somewhere? How could they slow down? This whole pirate thing was more difficult than he thought. 
 
-She sighed.
+"Quick! Quick!" yelled Pyra. Her face was red, and her eyes watched the rocks on the horizon. "We're almost there!"
 
-Maybe she could guess the spell herself. Maybe she could _invent_ her own spell.
+"I'm trying!"
 
-Okay. Let's do that. Let's start from the beginning.
+Rovy jumped into a hole, which brought him to the ship's hold: a large space below the deck. It had a large number of barrels and hammocks.
 
-She looked at the first spell, on page number one. It was a very simple one. Just a wiggly line. Like a snake moving from left to right. Like a landscape with nice soft hills and soft valleys. Or maybe watery waves.
+He tried to open a barrel. He needed both his hands for that. But he was still holding that weird stone! 
 
-And what did it do? It created water. And that was nice, because she _was_ getting thirsty.
+With a shrug, he tossed the stone over his shoulder. Then, his hands grabbed the barrel, but they never reached it.
 
-She held the paintbrush tightly. With tongue sticking out of her mouth, past two very long teeth, she started drawing.
+Suddenly, the floor below his feet tilted and changed. Rovy fell down. Barrels fell over and started to roll. Rovy jumped aside just in time, before a barrel rolled _over_ him.
 
-And failed.
+"What happened?" he yelled.
 
-Some of her hills were very high, others were not. It looked more like a bunch of camels with humps standing on each other's backs.
+"We stopped!" yelled Pyra from above. "The ship stopped! You did it! How?"
 
-"Oh come on," said Astra. "It's close enough! Give me some water!"
+How, indeed. He didn't ... he ... he dropped the stone!
 
-Surprisingly, the magic was not convinced. There are, dear reader, few times when "close enough" is a good reason. You will not win a game from kicking the soccer ball past the goal and saying "close enough". You will remain hungry if you throw bread past your mouth and say "close enough".
+Rovy crawled around in the dark. Until he found the stone again. When he touched it, the ship immediately started moving again!
 
-The magic did not recognize this as a wiggly line. It might even have laughed at her behind her back. Magic could be like that.
+He dropped the stone.
 
-But Astra tried again. Her muscles didn't like this, and her tongue stuck out even more. 
+The ship stopped.
 
-And failed again.
+He grabbed the stone.
 
-This time, she had accidentally lifted the brush. Her line suddenly ended when going up a hill ... and only returned in the distance, going nowhere at all.
+The ship sailed forwards.
 
-The magic did not recognize this as a wiggly line. If I might guess, I'd say it was gossiping about Astra by now. Possibly complaining to the other kinds of magic. "Oh, you only have to wave a wand, you have it _easy_. _My_ magicians need to draw complicated lines with gigantic brushes!"
+"It's the stone!" yelled Rovy, climbing back to deck. "While you hold it, the ship sails forward."
 
-Astra, however, had survived a journey through space on a mushroom. And an evil king who wanted everyone to be a Triangle. She could do this.
+"Huh. Weird." Pyra took her sword. She wanted to scratch a symbol into the stone ... but it already had one. A mark that looked like an alien language. "Remember that symbol. Remember this is the _Forwards Stone_."
 
-She tried again. Her whole body swayed, ready to fall over and sleep for days. The brush kept slipping from her paws. They weren't strong enough for this. She had never gripped a pencil before in her life! Bunnies didn't go around writing things by hand. Their handwriting is terrible, everyone knows that. Also, they don't have hands.
+Rovy caught on. "You think there are more stones like this?"
 
-This time, she kept the brush in the dirt. She didn't lift it; she didn't accidentally go the wrong direction. Her hills and valleys were, well, _not great_. But they were, for want of a better phrase, "good enough".
+"I hope so. Look at the map." Pyra pointed at all the red crosses. "We are near the _Isle of Diro_ now. There is only _one_ place we can go by moving forward. And it's the place I like the least."
 
-The magic accepted this drawing.
+> **Guardian's Guide:** pause the story. Ask the Apprentice(s) to find the only location on the map they can visit. Remember they can only go _forward_, nothing else.
 
-Water splashed in Astra's face.
+![Pirate Map for Chapter 2](images/chapter-2@0.25x.png)
 
-It came from nowhere. A spray of droplets, made from thin air. As if an invisible fountain was right next to her. _Magic._
+Rovy said: "_Hammerhead Island_."
 
-"Yes! YES! Yeeehoooo!"
+"It sounds dangerous," said Pyra.
 
-Astra threw the brush down and cheered. She hopped around and gave the book a kiss.
+"We are pirates! We laugh at danger! We cry at, erm, safety?"
 
-She noticed her wiggly line was gone. As if the spell had eaten it. As if it had _turned_ her drawing into the water droplets.
+In any case, they decided to sail to Hammerhead Island. A small, rocky island. One where it always rained and thundered. 
 
-She didn't mind. It was much cleaner this way. No messy lines all over the floor. And it meant that nobody could find her doing magic.
+Rovy picked up the _Forwards Stone_. The ship shot forward, faster and faster. The rocks were getting closer. 
 
-With a smile, she turned back to the book. She flipped the page to move onto the next spell.
+Pyra was biting her nails, clutching the map.
 
-The book started shaking. It glowed and rattled, as if it were cold, or angry at her.
+Rovy waited, and waited, as large waves tried to push them off course.
 
-The pages turned dark. So dark she could barely see what the next line would be.
+Then, at exactly the right time, he let go of the stone.
 
-And then she realized: a shadow had fallen over her. 
+The ship stopped _immediately_. It was such a surprise that Rovy and Pyra fell into each other's arms, then rolled over the floor. 
 
-A figure rose before her. Angry. Holding a large paintbrush as if it were a sword. They spoke with a voice low and threatening, as if it could turn into a lion's roar at any moment.
+The front of the ship just about kissed the rocks---but no more than that. The ship was safe. They could step off, onto the sandy beach of Hammerhead Island.
 
-"Who _are_ you?" they said. "And what are you doing with my book?"
+Rovy looked at the gray rocks. There was something _familiar_ to them. Like he had seen them before. Like ...
 
-Astra wished she'd learned a spell to defend herself. Or one to run away really fast.
+"There!" Rovy ran off the beach. Running in sand is quite hard to do, dear listener, so by the end he was stumbling and rolling. But he never lost sight of what he had seen. He put his hand behind some rocks, grabbed something, and returned with a smile. 
 
-For now, she had to do it all herself.
+"Another magical stone," he said, out of breath. "It looks just like the Forwards Stone!"
 
-She picked up the book and hopped into the forest. Again, the figure didn't follow her.
+"Aye. Except ..." Pyra turned the stone around. It had a symbol scratched into it, like the other one. But it was a different symbol. 
 
-Until, suddenly, she noticed she wasn't touching the ground anymore. The mysterious figure laughed as Astra floated, helpless. 
+"What do you think this one does?" asked Rovy.
 
-It seemed they had a magical paintbrush too. And they _did_ know the right spells.
+"Let's find out!"
+
+Giggling, they ran back to their ship. Pyra entered first. Rovy was holding both stones when he landed on deck.
+
+And ... nothing happened. They didn't move forward anymore.
+
+"Oh! Of course. Silly me." Rovy dropped the Forwards Stone.
+
+Immediately, the ship moved _backwards_, away from Hammerhead Island.

@@ -1,130 +1,108 @@
 ---
-title: "Everything On The Line"
+title: "X Marks The Spot"
 weight: 90
 ---
 
-# Everything On The Line
+# X Marks The Spot
 
-![Combining everything you've seen into more complex shapes.](images/chapter-9.png) \
+![Pirate Map for Chapter 8](images/chapter-8@0.25x.png)
 
-Astra and Bruzo searched for Lunib. The fog made it hard to see much further than your own paws. And the planet _rumbled_, as if hungry, or about to roar. They kept losing their footing and losing their place in the forest.
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it had no hand or eye. But it could move however it wanted; it could even fly._
 
-"Lunib! Lunib!" Astra yelled it over and over, but only her own echoes returned. "We're coming! Where are you? Make a noise!" 
+Rovy and Pyra sat on their flying ship. A---flying---ship! The wind played with their hair. They looked down and saw the ocean, and the islands, below them. Like looking at a bigger, more colorful version of their treasure map. They confused a few birds who almost got caught in the ships sail. Later that day, those birds would speak about this scary experience with some confused fish.
 
-They must be close now. She believed that in her heart. Lunib was probably too weak, or too scared, to respond.
+Rovy and Pyra were cheering and dancing. Until they were high enough, among the clouds. The Cacketoo Cove, the Pig's Bay, they could see it all. These places looked like tiny dots to them.
 
-Astra thought positive thoughts. The planet of Brushfar made it quite easy to find someone. Because all the trees looked different, and all the places were drawn in a different way. She remembered the _exact_ tree where Lunib was sleeping, and would recognize it if she saw it.
+Pyra let go of the _Upwards Stone_. The ship slowly fell back down again, but it would take a while before it was back in the water.
 
-And then she saw it.
+"We can go _over_ land now!" said Pyra. "So ... where do we go?"
 
-"There! There! The tree shaped like a shark, next to the tree shaped like a heart!"
+Rovy placed his finger on the map. "The last red cross. _Brokebeard's Bay._"
 
-"You might be right," said Bruzo. "But it's hard to see."
+Using the magical stones, they rotated the ship, then moved in the right direction. Once in a while, Pyra grabbed the _Upwards Stone_ again to fly even higher. She didn't want to forget it and accidentally crash into the ground!
 
-Only the treetops were visible above the fog. It is not recommended, dear reader, to run blindly into fog and hope you don't hit your head. It's rather dangerous actually. 
+They enjoyed the wind in their hair. They played with clouds as if they were candy floss. They waved at a few birds, who might have waved back.
 
-In this case, however, Astra's love for the bear won out.
+Until they arrived at Brokebeard's Bay.
 
-She stumbled through the fog, paws forward, until she felt the tree. And then she felt the soft fur of a bear.
+It looked ... normal. Nothing strange. A few people walked around here and there. A few fishermen were out on the ocean. Fishing, of course. They didn't look like pirates at all.
 
-"Astra ... you came back ..." croaked Lunib, his voice failing.
+Were they in the wrong place? Was it all for nothing? How could they ever find a treasure?
 
-"Of course! I wouldn't leave you behind!" 
+Pyra looked at the map again. They had visited all the red crosses. There was nowhere else to go.
 
-She hugged the Bearchitect, who was ice cold and shivering. It took a while before he had the strength to hug her back.
+"We can go down and search," said Rovy.
 
-Bruzo and Astra worked together to draw food. A true feast for a starving bear. Two magical paintbrushes, with skilled artists holding them, were very powerful indeed. With every bite, Lunib seemed to regain strength. Until he looked strong enough to answer some questions.
+"Brokebeard's Bay is _huge_!" Pyra spread her arms wide. "We'll be searching for years!"
 
-"What did you see in the moon?" asked Astra. "We saw you moonread and panic."
+"Aye guess ..." 
 
-Lunib's mouth fell open. "You saw me? How?"
+They didn't have the time. Their food was also running out, and their parents were probably very worried. 
 
-"Pencil magic!" Astra proudly presented her magical brush. Bruzo presented his own. 
+That's why they left in the first place.
 
-Lunib's mouth fell open _even more_. "It's actually magical? And there are more? Woah. Imagine what the Bearchitects could do with---"
+Pyra spoke with a soft voice. "What if ... what if the treasure is not real?"
 
-"Please answer our question," said Bruzo. He clutched his brush to his chest, as if afraid Lunib might steal it.
+"Don't say that! It _is_ real! My ... my pirate senses are tingling!"
 
-"I read the moon ... and, and, and I might be wrong but ..."
+"Because you're hungry?"
 
-"You are never wrong," said Astra.
+"Maybe!" 
 
-"The moon told me that ..." Lunib's paws started to shake. "That this planet would be _destroyed_. Soon. Very soon."
+Rovy turned away. He looked down on the bay and thought he saw something weird. Something that was there in real life, but _not_ on the map. He just didn't know _what_. Maybe his eyes were seeing strange things because he was so _hungry_. 
 
-Astra and Bruzo looked at each other.
+"We can't go home without treasure," whispered Rovy. "Our parents need the money. We heard them say it so many times."
 
-"Must be those mysterious lines," she said.
+"Aye." Pyra stood next to Rovy and took his hand. "So what do we do?"
 
-"We must have made god angry," added Bruzo.
+Rovy suddenly stood up straight. It finally made sense what his eyes were seeing.
 
-"Oh stop it with your god," said Astra. "Have you ever _seen_ him? Why can't it be some animal drawing the lines? Or just a normal type of _weather_ on this planet, like rain or snow?"
+"Look at those homes," he said. "Aye. All those homes down there. They're weird, right?"
 
-Bruzo looked at the trees, the flowers, the buzzing bees, the colorful world. As if he was seeing it all for the first time. Like a little kid happy to just run around in the sun and enjoy the many drawings of his 'god'.
+Pyra shrugged; her stomach growled. "Looks like a normal home to me."
 
-"I don't _know_ if there is a god or not," he said. "But look around you. The trees, the clouds, the birds, the sounds, the smells. You really think that came from _nothing_? It's an accident? You really think there isn't some very skilled painter, with a magical brush, who painted nature? And stars, and planets, and everything?" 
+"No, look at the homes _together_. What do you see?"
 
-"I think there are _many_ painters like that," said Astra. "You. Me. Lunib. Everyone else who draws and creates. Those trees weren't put there like that. They started as tiny seeds. And they _grew_, themselves, for years. Birds weren't born like that. They _grew_ wings, and _learned_ how to fly, through hard work."
+Pyra jumped. She forgot to blink. "The homes make shapes! They make ... they make ..."
 
-They all fell silent. 
+"Arrows."
 
-"We Bearchitects have a saying," said Lunib eventually. "A house isn't built in one day. And if it was, never go inside."
+At the edge of Brokebeard's Bay, the homes created arrows. Simple lines with a sharp end. If the sharp end points to the right, well, then the arrow means _right_. If the sharp end poins up, then the arrow means _up_.
 
-The others looked puzzled.
+"It's a code!" yelled Pyra. "The arrows tell us where the treasure is!"
 
-Lunib rolled his eyes. "... because the house was probably built very badly and it will collapse soon. That's what it means. When building a house, we draw a _blueprint_ first. We make a drawing of where the doors should be, and the windows, and the walls, and the stairs. Once we have a nice drawing ... then we can simply make it real and _know_ we'll get a nice house."
+"But ... but ... that's not enough," said Rovy. "Where do we start? How do we start?"
 
-Astra nodded at that. "We don't know who draws the thick, deep lines on this planet, Bruzo. Might be god. Might just be random. But we can do _better_."
+You see, dear listener, there are many ways to give directions. 
 
-She hugged Lunib again and looked him in the eyes. "We are going to leave this planet, Lunib. This is _not_ Somnia. This is not where we're meant to be. Bruzo says he needed two magical brushes for it. What else do you need?"
+In this story, all the magical stones gave directions for the _ship_. The _Left Stone_ makes the ship turn right. The _Forwards Stone_ makes the ship go forward.
 
-Bruzo looked ... ashamed? Guilty? As if he'd been hiding a secret all this time.
+But, what is _left_, or what is _forward_ ... depends on who you ask! If Rovy turns around, then his left is suddenly Pyra's right. If Rovy hangs upside-down, his _up_ is Pyra's _down_.
 
-"It's rather complicated," he said. "It's not just a small drawing. Not a simple spell. We need ... rather a lot of _space_."
+This can be very confusing. So confusing that smart people---probably pirates---invented _compass directions_. The main directions are _North, East, South, and West_. No matter where you are, _North_ is always the same. It always points at the same part of the planet, called the _North Pole_.
 
-"What ... what do you mean?"
+To help find North, pirates use something called a _compass_.
 
-Bruzo dropped the spell book. He drew a bag in the dirt, and the bag became _real_. And it had something inside.
+Something that the two children did not have.
 
-It contained all the pages that had been ripped out of the book. Hundreds of them. Bruzo had removed them himself, then hidden them in a magical bag.
+Or did they?
 
-"But you said they were too dangerous?"
+From up high, Rovy noticed one final thing. A huge compass, half-buried in the sand. It was so large that they could probably live inside of it, together with their parents.
 
-"Yes. Many of them are. It was also ... hard to look at them again, after my sister Tessella left me here."
+"That's where we start," he said. "My, erm, pirate senses are sure!"
 
-He spread out the pages. More and more kept coming, enough to fill an entire spell book again.
+> **Guardian's Guide (Optional):** pause the story. Follow the arrow code on the map! Start at the compass image. Each arrow moves you one square ("grid space") in that direction. Where does the ship end up?
 
-It contained difficult shapes. Ones that Astra had not practiced before. Shapes that _combined_ straight lines and curves. 
+![Pirate Map for Chapter 9](images/chapter-9@0.25x.png)
 
-There was a Heart shape. Pointy end, but two curves at the top. There was a Cloud shape. And a Tear shape, which looked very similar to the shape of her own ears and whiskers. 
+The two pirates followed the code. Grab a stone, drop a stone, grab another stone, on and on until they were at the right location.
 
-They looked difficult. But she knew that, if she just practiced them, she could draw them.
+Pyra grabbed the _Downwards Stone_. The ship quickly fell from the sky. Like a balloon that was out of air, or a bird out of wings.
 
-The spell would work. They would leave this planet.
+Until they _splashed_ into the water, soaking themselves and their map.
 
-"There's only one tiny important thing left ..." said Bruzo. His large tiger paw fell on one of the pages. It had a note.
+They did not mind. Because they knew they had picked the right location. They had followed the code correctly and arrived at the _Sea of Many Chests_.
 
-_To leave a planet the size of Brushfar, these drawings must be as large as forests and as deep as oceans._
+Around them, in bigger and bigger circles, were _hundreds_ of chests. So many that they could not count them. So many that they could not even see all of them.
 
-In other words ...
-
-Astra grabbed her magical paintbrush. "Fine. We need to draw on _the entire planet_. Challenge accepted."
-
-She and Bruzo smiled at each other. They held their brushes tightly, feeling the magic waiting to happen.
-
-Then they started drawing, all day, and all night. Running through forests, swimming through lakes, climbing mountains, just to make sure their drawing was large enough. Bruzo drew the big shapes. Astra drew the tiny detailed shapes, ones so fine and precise that only her tiny bunny paws could do it.
-
-Lunib brought them the right page when they asked for it. He helped remind them of what to draw, if they were standing on some faraway cliff and had to draw the next line. 
-
-And Lunib studied the drawings day and night. He looked at them, read everything about them, because he felt there was something familiar to them.
-
-Until, one night, he realized what was wrong. Or, rather, what was right.
-
-The drawings ... were like blueprints. Not blueprints for a house, no. Blueprints for a _metal vehicle_. Blueprints for a device that would _create air to breathe_. Blueprints for _oil_ and a _fuel tank_. Blueprints for _windows_, and for an _engine_ that spit out fire, and for a _space suit_.
-
-Without knowing it, Bruzo and Astra were drawing a---
-
-The planet shook. It rumbled one more time, and then it actually _roared_. Stones fell from the sky. Thunder set the forest on fire. Cracks appeared, as if someone had dropped the entire planet on a glass floor, and now it was breaking into many pieces. 
-
-Spell pages flew away, carried by sudden strong winds. Lunib struggled to snatch them all, then hurried to where Astra was drawing in the distance.
-
-They had to finish their drawing quickly, or there might not be a planet left to draw on at all.
+Which one was the treasure?

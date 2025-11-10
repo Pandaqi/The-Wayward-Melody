@@ -1,134 +1,120 @@
 ---
-title: "Hook, Line, and Sinker"
+title: "Dia Gonall's Help"
 weight: 60
 ---
 
-# Hook, Line, and Sinker
+# Dia Gonall's Help
 
-![Random closed shape; "blob"](images/chapter-6.png) \
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it had no handy oar. It could only go FORWARDS or TURN, so how will they go where nobody went before?_
 
-Astra and Bruzo ran away from the campfire. Astra kept asking _what_ they were running away from. Bruzo kept shushing her and then increasing his pace.
+Rovy and Pyra had arrived at the harbor. They had three magical stones now: forwards, turn right, and turn left. But they only worked if someone was holding them, and if they were on the ship.
 
-"At least give me my brush, so I can help---"
+Right now, they were off the ship. After a short walk, they reached a busy market. Colorful stalls lined the streets. People were talking, and singing, and shouting. They were dressed in all sorts of colorful clothes; those people probably came from all parts of the world. They sailed here to buy things at the market. And, well, let's say there were _many_ things to buy.
 
-"No!" 
+"Aye. Where do we start?" said Pyra. "Where do you think we can buy food?"
 
-"Then give me the book so I can teach myself---"
+"No, no, you mean _steal_ food," whispered Rovy. "Like pirates!"
 
-"No! And run faster!"
+"I would rather not."
 
-They arrived at a different part of the planet. It was ... not beautiful. Or, well, Astra always tried to see the good in everything. 
+"But we don't have any money. That's why we're trying to find treasure!"
 
-It was _different_. Yes, let's call it that. It was a rocky, black landscape, where trees had no leaves. And, honestly, barely looked like trees at all. They were just some squiggly lines. Grass couldn't grow. Even the volcano refused to be a proper volcano. It looked more like someone had accidentally dropped their fragile mountain and broken it into five smaller mountains.
+As Rovy said it, a man waved at them. He stepped away from behind his stall, then crouched before the children.
 
-Everything still looked as if she had stepped inside someone's drawing. Only this drawing was made by someone with paws that were just as unsteady as Astra's paws.
+"Treasure?" said the man. "Did I hear treasure?"
 
-And there were _lines_ in the floor. The same thick, deep lines that scared Bruzo before. She knew what to look for now. She saw those mysterious lines appear everywhere, but also disappear. Without anyone that actually seemed to _draw_ them.
+"Aye," said Pyra. "Do you have any we can, erm, borrow?"
 
-Bruzo finally stopped. Astra caught her breath.
+The man laughed. He pointed at his stall. He sold simple fruit and bread, in simple baskets. "Do I look like I'm rich? No, no, my children. But I may have ... heard things."
 
-She wanted to ask for her paintbrush again. Her mind invented ways to steal it back. But she knew it was no use.
+The children leaned forward.
 
-She had to _convince_ Bruzo to give the brush back. Get him to teach her. To train her. But how?
+The man whispered: "The legendary pirate Brokebeard hid a treasure somewhere."
 
-Finally, she asked him: "What _are_ those lines?"
+Of course he did, thought Rovy. Brokebeard was the best pirate he'd ever heard of! And _everyone_ had heard of him. He must have been very rich. And Brokebeard must have a ship that was much bigger and better than their own ship. One that, you know, actually had a steering wheel and moved when it should.
 
-Bruzo drew something in the stone. With some effort, he could press his brush into the stone and cut right through it. When done, a new campfire started. Astra was jealous; she wanted to learn that too.
+"Nobody has found the treasure yet," whispered the man. "Aye, nobody has ever _seen_ Brokebeard at all. He's like a ghost. One minute there, the other gone. He never lost a single sea battle. So ..."
 
-"Have you ever wondered who created this world?" asked Bruzo. "Where all the planets came from?"
+The man leaned in even more and spoke even more softly.
 
-"Can't say I have. It's always been there, right?"
+Rovy and Pyra were listening so closely, dear listener, that they didn't notice what the man actually did. He patted their pockets, looking for something to steal.
 
-Bruzo shook his head. "There must be a god or something. A big artist. A designer. They say that he drew this planet. A very complicated and big drawing. And my parents would say ... he's drawing on it still."
+Except ... there was nothing to steal.
 
-He pointed at the volcano. "That volcano over there? Wasn't here when I was born. And that river? It was on the _other_ side of the planet before."
+"Ugh!" said the man. He stood back up to his full height. "You're really broke, aren't you?"
 
-Astra grabbed a twig and started practicing again. Lines, lines, and more lines. Looking at her drawings in the dirt, she asked: "So what?"
+"Yes!" said Pyra. "That's why we left home. That's why we became pirates. And now we're hungry."
 
-"We're god's experiment, that's what I believe. His testing ground. His sketch. He's experimenting on us. Tomorrow he might draw a dragon right next to us. Or the river may suddenly be full of piranhas. It's _dangerous_ here! I told you! Why are you not looking for a way to _leave_!?"
+Rovy realized what the man had tried to do. And he wasn't even angry. "You could be a _great_ pirate, sir. Trying to steal like that."
 
-Bruzo towered over her. His shadow made her entire world cold. 
+The man chuckled. "No, I don't think so. I'd be a terrible pirate. Because I have a soft spot for hungry kids. Here, take some food."
 
-Still, Astra smiled and hopped with joy. "But that's _amazing_! Tomorrow your 'god' might draw a unicorn to be my friend. Or the river might suddenly be made of gold. Or he might fill the sky with rainbows, and the floor with tasty carrots. Anything is possible! You can draw _anything_!"
+"Really?"
 
-The tiger frowned. "You're one silly bunny. Now, if you see any strange marks on the ground, let me know immediately." 
+"Yes, yes, just don't tell anyone else."
 
-They had been running all day. Bruzo was so tired that he fell asleep immediately.
+The man gave them some bread, water, apples, and peaches. Enough to last a few days.
 
-Astra was tired too, make no mistake. But she was eager to get her paws under control and learn to draw the right lines.
+When he took the last apple from the basket, Rovy suddenly noticed something. Hidden among the apples ... was a stone. It was painted green, which made it hard to see. But it definitely wasn't an apple. And when Rovy turned it around, he saw a symbol on the other side, just like with the other stones.
 
-She tried curve after curve. First with a tiny twig. Then with a bigger one. Until, finally, she thought she created a _perfect_ curve. She wondered: if she had used her paintbrush, what spell would have happened? She didn't know.
+"How did you get this?" asked Rovy.
 
-Bruzo had magically created a rope to chain the book to himself. Astra couldn't steal it, unless she could magically draw scissors. But she could _open_ it. 
+"That?" The man cocked an eyebrow. "Oh, yes. I searched for Brokebeard's treasure last summer. I did not find it, of course. But I found _that_."
 
-She tiptoed towards him. It made more noise than she liked, but Bruzo did not seem to hear. Her face was right next to his, when he suddenly raised his paw ... and rolled over to his other side.
+"Can we have it?"
 
-Astra held her breath. She nudged the book open with her nose, then browsed until she found the right page.
+"My children, you know you can't eat stones, right?"
 
-There it was. _Curves create wind._ A small curve would just blow some hair out of your face. A big curve would be a tornado, a whirlwind, flinging you to the top of a mountain. Maybe ... with enough wind ... she could help Bruzo _leave_ this planet?
+Pyra quickly took the stone, before the merchant could change his mind. Then, she took out the map, and unrolled it on his stall.
 
-She flipped to the next page.
+"What are you doing?" whispered Rovy. He tried to take the map away. "We're pirates! We can't trust him!"
 
-Bruzo's breathing stopped. Wait---did he open an eye? Astra could barely see it in the dark.
+More and more, though, Pyra felt like being a pirate maybe wasn't that great. This man had given them food. Would a pirate do that? If this harbor was filled with pirates, they would probably still be hungry.
 
-Then Bruzo let out a deep breath, and rolled back to his other side.
+And, so, she decided to trust the merchant.
 
-Astra sighed and studied the next page. The next step in her training. And it showed something new: a line that returns to where it started. A loop. _A shape_.
+"Do you know anything else about the treasure? Where did you search? Where should _we_ search?"
 
-Oh. Oh no. This was going to be hard.
+The man licked his lips, then pointed at a part of the map. 
 
-She grabbed her favorite twig and tried. Oh, dear reader, she tried very hard. But all her lines refused to come back where they started. It was just too hard. Her paws were too weak. She didn't have the _coordination_. That is a word which here means that what her brain _wanted_ to do, and what her arms _actually did_, were not the same. They were not talking to each other. Or if they were, they spoke a different language and didn't understand.
+Pyra's smile faded. Rovy groaned. That part was _impossible_ to reach. 
 
-Some lines went so far right that she couldn't come back to the start. Some lines crossed themselves, like the squiggly from the first chapter. In that case, she didn't even know what the start or the end was anymore.
+> **Guardian's Guide:** pause the story. Ask the Apprentice(s) to find the one location they _can't_ visit from where they are now.
 
-In the end, it took her all night. But when the sun rose, she finally drew her first _shape_. Her first closed line that looped back to where she started.
+"That's why I never searched the _Cacketoo Cove_," said the man. "See this corner? Where the two islands touch? It's hard to get past that."
 
-It was an ugly one, to be honest. The magic would _not_ have accepted this, even if she had used the magical paintbrush. It would have laughed at her even harder and suggested a good pair of glasses.
+"It's _impossible_," said Rovy. "You _can't_ get past it."
 
-But it was a shape nonetheless. And Astra was proud of herself.
+"Sure you can, if you move your ship in the right way."
 
-When Bruzo woke up, she quickly kicked the dirt to hide her drawings. And she asked what had been worrying her all night.
+Someone called out his name: _Dia Gonall_. His wife walked up to him with an angry face. Only now did he notice that there was a line of impatient customers in front of his stall. 
 
-"Bruzo, you told me again and again how _dangerous_ this planet is. How I should _leave_. But ... you are still here. Why are _you_ not leaving?"
+"What are you doing, Dia?" said his wife. "There's people waiting to buy things! We're losing money!"
 
-Bruzo sighed. "Can't even let me wake up a little, can you?"
+"No, no, believe me," said Dia. He winked at Pyra. "These kids are going to find Brokebeard's treasure! And then they will come back and share it with me."
 
-"Sorry."
+"Ugh. Always treasure with you," muttered his wife. "Always the same."
 
-"Well, the simple fact is ... that I could never leave this planet. Not until you came along."
+Rovy did not like this. Pirates did not share treasure! Everyone knew that! Especially not pirates who, like Rovy and Pyra, had very poor parents. Pirates were _rebels_, and they stole, and they took everything for themselves, and---
 
-"Why?"
+"Of course we'll share with you," said Pyra. "But how do we get to Cacketoo Cove?"
 
-"You need two brushes for that. And Tessella was always a finer painter than me. Tessella didn't just leave, no, she _tricked_ me into helping her leave!"
+"You just move in two directions at once," said Dia Gonall. "Go left _and_ forwards. Go right _and_ backwards. We call that a Diagonal Move. Yeah, that's a name I invented."
 
-Astra looked past him, and smiled. The two magical paintbrushes were stood upright, chained to some stone. Yes, two of them. The two brushes were together once more.
+"No it's not," said his wife. "It's just what everyone calls it. They called it _diagonal_ long before you were born, darling."
 
-She saw a way to convince him. A way he couldn't refuse. She had him now!
+"Sssht."
 
-"I can help you leave this planet," said Astra. "Teach me the pencil magic. And together we can _both_ get away."
+"Thanks a lot!" said Pyra. She rolled up the map and made sure their new stone was in her pocket. She promised to come back and share the treasure with him.
 
-Bruzo fell silent. He petted the brushes as if they were his, well, pets. Without even looking at the floor, he used one of the brushes to draw food. It became real a second later: carrots for Astra, meat for himself. 
+They went back to their ship. And Pyra did what the man said: she picked up two stones at once. Not just going left, but also going forwards. 
 
-It took a while for Bruzo to speak. "What about your friend? The bear?"
+And the new stone? It helped _combine_ the two directions into a new one. A _diagonal_ direction.
 
-Astra tried to hide her smile. It was almost too big for her face, and it showed a two very long teeth. Yes, he had fallen for it. Hook, line, and sinker.
+After some practice, they decided to do it for real.
 
-"The book has a spell to find him. I was hoping ... you could help with that?"
+They aimed for _Cacketoo Cove_, moving _diagonally_, until they reached that corner.
 
-Bruzo nodded. He removed the rope and set the book free. He was about to give it to Astra---
+They sailed right through it ... and saw they weren't the only ones in the cove.
 
-But then his paw froze. His entire body froze. He suddenly seemed a statue, his eyes uncertain.
-
-In a voice low and dangerous, he asked: "Are you hearing that?"
-
-"No. I am---" She _was_ hearing that.
-
-Out of nowhere, a thick line was drawn between them. A deep line that created cliffs and ravines where it touched. One that split the campfire into two fires---and one that broke Astra and Bruzo apart.
-
-Astra didn't believe him at first. But this ... this seemed to be a very _angry_ 'god', painting something on the whole planet.
-
-With a loud CRACK and BOOM, the ground split open. 
-
-With all her power, Astra leapt _over_ the crack to try and stay with Bruzo.
-
-It was too far away---she did not make it.
+![Pirate Map for Chapter 6](images/chapter-6@0.25x.png)

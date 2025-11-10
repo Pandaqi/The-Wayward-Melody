@@ -1,112 +1,118 @@
 ---
-title: "Drawn-Out"
+title: "The Right Way"
 weight: 40
 ---
 
-# Drawn-Out
+# The Right Way
 
-![Straight line (horizontal)](images/chapter-4.png) \
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it had no fins. It could only turn RIGHT, and so it spins and spins._
 
-When Astra woke up, she was alone again. She remembered drawing a big zigzag line through the whole forest. Things exploded, a wind started blowing, and now her and Bruzo were on other sides of the planet. At least, that's what she hoped. For all she knew, the angry tiger was nearby and ready to steal back his book.
+Rovy and Pyra were two kids who wanted to be pirates. They found an empty ship, but it was a strange ship indeed. Because it didn't move on its own, no, for that you needed magical stones.
 
-She _wanted_ to give back the book. She didn't want to be an annoying bunny that stole from other people. 
+They just found their third stone.
 
-And so she decided to learn even faster. To _not_ listen her rumbling belly, or her butt that ached from crashing _again_.
+What did it do?
 
-Instead, she flipped the book to the next page. It showed a perfectly _straight_ line. Yes, dear reader, you learned about that in the previous story. A zigzag line is just many small, somewhat straight lines after another. It's easier that way. But one, long straight line? Without accidentally lifting the brush? That was much harder.
+"Make it stop! Make it stop!" yelled Pyra. "I'm getting sick! And we're not getting anywheeeeere."
 
-A "straight line" means that the line doesn't change direction. It doesn't take a turn. It doesn't create hills and valleys, or mountains and squigglies. 
+It made the ship turn _right_.
 
-A straight line is like moving. Astra was standing in a clearing now, but she saw homes in the distance. There were no obstacles in the way, like fences or trees. Let's say she wanted to visit a home. How would she do it? What was the fastest way? To move in a _straight line_ from here to there. 
+Right and right they went. They went right so many times, dear listener, that they simply made a circle. They ended up back where they started ... and then continued going right. The whole ship was spinning out of control.
 
-Now, if there _were_ a tree in the way, she would have to go around it. It would take longer---and the path she walked would _not_ be a straight line anymore.
+Rovy tried to stop it, of course. But it's hard to find the right stones when you're spinning around like you're at a theme park. 
 
-Astra told herself all of this. To remember exactly what she had to do, and make the magic happy. The book said that straight lines were a _movement_ spell. Astra imagined it would allow her to fly anywhere and find her friend, the Bearchitect!
+He picked up the backwards stone. But now they were just spinning _backwards_. They were making circles, but in the other direction. Not really an improvement.
 
-Then she tried to draw a straight line. 
+"I'm trying!" yelled Rovy. "But I can't see ..."
 
-And she failed.
+They were spinning so fast that everything was blurry. He couldn't read the symbols on the stones. He picked up a stone, dropped another one, and finally the ship stopped turning.
 
-Her line kept wobbling. She kept going the wrong way and having to change direction to get back. Her paws weren't strong enough for this!
+"Pfew." Pyra had one arm wrapped around the map to make sure she didn't lose it. Her other arm was wrapped around the ship's mast, to make sure she didn't lose _herself_. "Alright. We've found the _Right Stone_."
 
-It seemed she actually needed _two_ things. She needed to know _what_ to draw, which the book told her. But she also needed to be strong enough to _actually draw that_. Which was an issue at the moment.
+"The right stone? Is there a _wrong_ stone?"
 
-She tried again. This time, the line started out straight enough. But soon her paws slipped again and the line became a wiggly squiggly again.
+"No, as in, the _direction_. Right. The Stone that makes us go Right."
 
-Another failure. But she didn't give up. She remembered drawing that zigzag line yesterday. It was much easier to move her whole body than just her paws. If drawing a straight line was like _moving_ from one place to another ... maybe she could just draw while hopping!
+"Aye!"
 
-She decided to actually go and visit those homes in the distance.
+Night had fallen. Darkness was all around. It made it hard to see what happened around them. Only a faint moon shone on the waves around them. If they had a _normal_ ship, those waves would carry them away. They would fall asleep and wake up at some other island. But their ship was, of course, not normal. It would stay in place, forever, unless they touched a stone again.
 
-She hopped forward, and forward again, and forward again. And all this time, she simply pressed the tip of the brush against the floor. Her body moved, not her paws. And she was drawing a straight line! A very long and large straight line.
+Rovy heard strange noises next to the ship. 
 
-And by now, dear reader, you know how drawing magic works. The bigger the drawing, the bigger the spell ...
+"What was that?"
 
-Astra hopped forward again, and again, and again.
+His heart beat in his throat. He closed one eye, then looked over the side of the ship.
 
-She was right: they were _homes_. Other animals lived here. Or maybe Lunib, her bear friend, had built these? They looked beautiful too. With windows in all shapes and sizes. Flowers growing along the walls and covering the roof.
+What he saw made him scream.
 
-Astra hopped forward one final time and stopped before a wooden door.
+The waters next to the ship were going crazy. The waves became higher and higher, pulling on the ship. A little further, the ocean had a black hole. It was sucking water into itself. Some poor duck drifted into the hole and _disappeared_ with a squeak.
 
-"Lunib? Is that you?" she yelled at the door. "Did you build this? I'm here! Astra!"
+Pyra stood next to him; her breath caught. "I know what that is. It's a _whirlpool_. Dangerous things"
 
-The straight line was finished. She let go of her paintbrush, to place her paw on the door knob.
+"Well, it wasn't there before. Maybe it only comes at night? Do you think we need to go away? Before ... the hole ... you know ..."
 
-The magic accepted this line. And what did straight lines do? They made things _move_. But not in the way Astra thought.
+"Aye. That's probably smart."
 
-The homes got up and walked away.
+Rovy took the _Forwards Stone_ and the _Right Stone_ out of his pocket. The ship turned slowly. It circled _around_ the whirlpool, like drawing a circle in the sea.
 
-"Hey! Come back!" 
+"We're not getting away!" said Rovy.
 
-They did not listen to Astra's screams. They ran away from here, following the straight line she'd drawn. As if it weren't a line, but a road. A path they had to follow. They ran much faster than Astra could hop.
+Pyra took one of the stones from his hands. "We need to turn the _other_ way."
 
-Soon they ran past the end of the straight line. The homes plopped back down, into the dirt. And the line disappeared.
+"We can't! We can only turn right!"
 
-Then she heard a small voice. As if it was far away---or very sick and tired.
+The two of them fought over the stones, until they dropped them all.
 
-"Astra! It's me, Lunib!" said the voice. It felt like a whisper that could be lost in the winds at any moment.
+When they looked to the side, the whirlpool was even _stronger_. Like some angry monster was creating a hole in the world. And it was about to drag them into it.
 
-Astra's long ears twitched and turned. She immediately knew where the sound was coming from: the homes. 
+Pyra's voice was a shaky whisper. "Are ... are _we_ doing that?"
 
-Oh. Oh no. She was doing it all wrong again. Her magic had almost sent her friend to the other side of the planet!
+"I have it! We need to sail in _bigger_ circles! Then we'll get away."
 
-She ran to the sound. Without hesitation, almost blind.
+And so they did. Rovy held the Forwards Stone for longer than he held the Right Stone. They made a big circle around the whirlpool, slowly getting further and further away.
 
-"I'm coming, Lunib! I'm coming! Don't go anywhere!"
+But, dear listener, Pyra was right. Unfortunately.
 
-Well, dear reader, she _should_ have hesitated and opened her eyes.
+The whirlpool didn't magically appear. It wasn't like some animal that only came out at night. No, they _made_ the whirlpool by sailing in a circle. It was a new trick of the magic. A trick that the pirates did not like.
 
-Out of nowhere, a fence appeared. A huge wooden fence. It looked as if it would fall over any moment, and all the wooden planks were different sizes. It looked ... hastily _drawn_ by someone.
+Because now they had made an even _bigger_ whirlpool. They made the problem worse!
 
-Astra bumped into it, hitting her head. As she fell back down, the face of a tiger appeared above her. She realized her mistake now.
+"Stop going in circles!" cried Pyra.
 
-"Oh, it's so easy to trick you," said Bruzo. "Now, tell me, who is Lunib? Another thief like you?"
+The whirlpool dragged the ship closer. It wobbled a bit. Rovy fell down---and he accidentally let go of the Backwards Stone. It flew into the whirlpool and was quickly eaten by the hole.
 
-"Let me go!" said Astra. "Or ... or ... I'll make the homes move again!"
+The two pirates were scared now. Scared to try anything else. To lose another stone. To sail in a circle and _create_ whirlpools.
 
-"That was an accident. You didn't want to do that. Nobody lives there anyway."
+They sat on the floor, holding each other's hands. And all around them ... the world was dark and made scary noises.
 
-"What?"
+"Do you think our parents are worried?" asked Pyra.
 
-Bruzo's eyes flashed red. His claws pinned her into the dirt. "Don't you see? Pencil magic is _dangerous_. The bigger the drawing, the bigger the spell. You could have blown up the planet!"
+"Nah," said Rovy. "A true pirate doesn't care what their parents think! We are _rebels_!"
 
-"But ... but ..." Astra reached for her paintbrush. 
+"Rebels?"
 
-Bruzo kicked it away. "You drew a straight line the size of a thousand footsteps. _Of course_ it was going to move the houses. If you wanted to move _yourself_, you should have drawn a straight line as small as _you_."
+"Aye. It means ... I think it means you don't do what your parents want you to do. Like, on purpose."
 
-The tiger shook his head. He mumbled something about saying too much. That he should just destroy her paintbrush and be done with it.
+"Why?"
 
-_Destroy_ her brush? No, no, she couldn't lose it!
+"That's what a pirate does! A true pirate is _free_ and _brave_ and---"
 
-"Your sister would not like it if you destroyed her brush."
+"It's pretty dark," said Pyra. She looked all around her, wide-eyed. Like she expected a large scary bat to come and kidnap her any moment. "I'm scared."
 
-Bruzo jumped on top of her again. His sharp teeth almost touched her. "You think I care about my sister? would _love_ to destroy her brush!"
+Rovy stopped talking for a while. Then he whispered: "I am too."
 
-Huh? Tessella was, like, the nicest person she'd ever met. Astra started to believe Bruzo was a bit insane. He had anger issues, at least.
+They fell asleep.
 
-Bruzo took away her paintbrush and his book. Then he walked away, not caring what happened to Astra.
+The next morning, their ship was still in the same place. So was the whirlpool.
 
-It would have been so easy to just lay there, in the dirt, and give up. To sleep, find food, and forget about the drawing magic. 
+"Aye." Pyra looked at the map. "Where can we go? If we can only go forwards or turn right?"
 
-But that wasn't who Astra Buni was. So she made the decision to get up and follow Bruzo.
+"And without going in circles." Rovy shivered. He side-eyed the whirlpool. "Don't want to create more of _those_. Arrr."
 
-"Hey! Can I ask you a question?"
+> **Guardian's Guide:** pause the story. Ask the Apprentice(s) to find the only (new) location on the map they can visit. Remember they can only go _forward or turn right_. The ship can't go through obstacles like islands, and you can't cross your own path ( = looping creates a "dangerous whirlpool" like in the story).
+
+The two pirates looked at the map for a while. Then, at the same time, they had their answer.
+
+They set sail for _Pig's Bay_.
+
+![Pirate Map for Chapter 4](images/chapter-4@0.25x.png)

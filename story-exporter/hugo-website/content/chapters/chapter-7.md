@@ -1,132 +1,98 @@
 ---
-title: "Draw A Blank"
+title: "Traffic Pajama"
 weight: 70
 ---
 
-# Draw A Blank
+# Traffic Pajama
 
-![Circles and circle-like drawings.](images/chapter-7.png) \
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it made no normal trips. It could only go FORWARDS, LEFT, RIGHT, or DIAGONAL, so how will they get past all the other ships?_
 
-Astra fell into a crack. A few heartbeats ago, the ground here had been solid. Stone. Unbreakable. Safe to walk on. Then, those mysterious lines appeared again, and someone broke her and Bruzo the tiger apart.
+Cacketoo Cove was filled with ships. Lots of people were looking for Brokebeard's treasure.
 
-She had jumped. She now saw it was a mistake.
+This wasn't much of a surprise. Brokebeard was the hero of all pirates. They told stories about all the things he did, which they called _legends_. They say he fought with an octopus once, and won. They say he could speak with fishes, which turned out to be not so useful because fishes only talked about water and nothing else. They say he built his ship all by himself, and that it was a magic ghost ship. Why did they believe this? Because once, on the same day, he attacked two different islands that were as far away as islands can be.
 
-As she fell down into the darkness---
+"Aye," said Rovy, smiling. "We're with the _real_ pirates now."
 
-Until she stopped falling.
+"You say that like it's a good thing." Pyra pointed at the map, then at the waters in front of them. It was so full, so busy, that waves did not even have the room to wave, and droplets did not have the room to drip. "We're never getting through that!"
 
-In fact, she started floating upwards, out of the crack. Soon she stared Bruzo in the eye. He was using _both_ paintbrushes to draw spells on the floor. A floating spell to save Astra. Some other spell that created a bubble around them. A shield? Protection? It was necessary, because the mysterious lines kept coming.
+To make matters worse, the pirates were _fighting_. Of course they were. All of them thought they knew where the treasure was.
 
-Astra fell on Bruzo's back. Her paws reached for the second paintbrush.
+And so, ships sailed into each other. Cannons were fired; cannonballs ruptured hulls; sails were cut to pieces; and once in a while, someone yelled "Arr!" even louder.
 
-Bruzo kept it away from her.
+Before their eyes, a pirate ship was turned into wreckage. It fell apart and sank. The ship was so big, though, that it did not sink all the way. Half of it poked out of the water---like the Candy Fins you saw before---which made it even _harder_ to move around. As the fight continued, little islands of wrecked ships filled the water.
 
-"Come on! You agreed to teach me."
+Pyra dropped all the magical stones. The ship fell still. Once in a while, the ship before them would move, and then _they_ could move a tiny bit. And then they would be stuck again and need to wait.
 
-"I need both brushes myself!"
+It was, frankly, the worse pirate traffic jam I've ever seen. Yes, they happen a lot. There's only so much water and so few treasures. Nobody ever writes about pirate traffic jams, dear listener. Don't know why.
 
-"You just said you need _me_. Both powers combined are needed to leave the---"
+And so, over time, pirates had placed signage in the water.
 
-"Yes, yes, I know what I said. Now's not the time. You're ... you're not trained _yet!_"
+Rovy read the first one as they sailed past it.
 
-And so Bruzo held both the paintbrushes. Astra was only given the book.
+> _Ships on your right go first._
 
-The world around them was crumbling. As if the volcano was never real, just made of sand. As if the trees were never real, just a shimmer in your eye, a trick of the light. As if someone was _erasing_ the drawings. 
+It was quickly followed by another sign.
 
-Bruzo had to zigzag to avoid falling stones. Astra's tired paws had to grab his fur to avoid falling off.
+> _Exception: Pirates always go first. If you don't give way to a pirate, they will TAKE WAY!_
 
-"Quick!" yelled Bruzo. "Show me the drawing for the _Become a Dragon_ spell."
+Before them, two ships blew each other to pieces. The pirates went down with a raised sword and an "Arrr!" Once they were in the water, though, they weren't so tough and simply swam out of the cove.
 
-"The become a dragon---what? I don't know where that is!"
+> **Guardian's Guide (Optional):** pause the story. All (black) ships in the cove will shoot a cannonball in the direction of their arrow, which continues in a straight line as far as it wants. Find a path through the cove (for Rovy and Pyra) such that you are _not_ blown to pieces by other pirates!
 
-"Search!"
+![Pirate Map for Chapter 7](images/chapter-7@0.25x.png)
 
-Astra turned the book inside out. She rifled through the pages, her eyes scanning every title, but she didn't find any _Become a Dragon_ spell.
+Pyra did her best to avoid all the battles going on. Slowly but surely, they moved further into the cove. It took so long, though, that the kids changed into their pajamas and took turns sleeping.
 
-"Maybe," she said, "it was on one of the pages that were torn out."
+Rovy was awake now. And he read the next sign.
 
-"No it wasn't. Those were the dangerous spells. I took them out."
+> _Also, please use your turn signals. Light a torch on your left side if you intend to turn left. We're all civilized pirates here._
 
-Astra's mouth fell open. "Even _more_ dangerous?"
+Another sign was right behind it.
 
-"Focus! Show me the spell, now!"
+> _Your ship may only be destroyed by cannonballs. Accidentally bumping into another ship is just a very silly not-so-Pirate way to go. Greetings, Brokebeard._
 
-"I thought you _knew_ all the spells."
+After a while, they reached the front of the line. They thought there must be something there. Maybe a disaster, or a whirlpool, or some big battle. Or perhaps a large octopus that refused to get out of the way. _Something_ had to cause the traffic jam.
 
-"I thought so too."
+But when they reached the front ... there was just nothing there. What was everyone waiting for?
 
-Bruzo sounded sad. Astra decided not to say anything else until she---
+Rovy spotted a _traffic light_. Or, well, some part of it. Most of the light was underwater, which also made the candles inside go out. Now you could only see the top and a faint red light.
 
-Ah, there it was. She held the book before him on the right page.
+That's probably why there was a sign next to it.
 
-Bruzo kept running, two paintbrushes between his jaws. And he perfectly copied the image. 
+> _There's no need to obey traffic lights during flood periods. They'll be underwater; you can't see them anyway. Common sense, pirates, use it. Greetings, Brokebeard._
 
-Or so Astra thought.
+Then, Rovy saw what made everyone slow down. Why all pirates were so afraid to move faster---and why there weren't any ships in front of them anymore.
 
-The final lines kept going wrong. He left a few tiny curves and zigzags for last. He kept trying, and trying, but this part of the spell was too difficult for him.
+There was a final row of signs. They were _red_. Their letters seemed angry and spiky, like they were written with the sharpest of swords.
 
-"Fine! Forget becoming a dragon!"
+> _Don't sail any further. Dangers ahead! I've warned you, Brokebeard._
 
-"What now?"
+"Sure," said Rovy, smiling. "A pirate would say that. What a smart way to _hide_ your treasure, Brokebeard. Tell everyone it's too dangerous to come here. But I see right through you!"
 
-"We'll just have to defend ourselves. This is as good a place as any."
+Another sign.
 
-Bruzo stopped right there. They were halfway into the woods. The trees around them were changing colors and shapes. As if they were ice cream, and they were melting. Deep lines appeared all around them. Astra could recognize one as a curve now, and one as a straight line. If there was a 'god' painting on the planet, they knew the magic and they knew what they were doing.
+> _Ye be warned!_
 
-She shivered at the thought. What if Bruzo was right? They finish a huge drawing, and the planet ... the planet _explodes_ or something!
+He just laughed and yelled. "No, I be Rovy!"
 
-Bruzo had made a decision.
+And then, a final sign. It was stuck to the back of the cove. Or was it? When Rovy looked ahead, he could only see darkness and stone, and the water also didn't flow any further. Where was he supposed to go? If he didn't stop moving, he'd crash into a wall. If he turned around ... this was all for nothing.
 
-He gave Astra a paintbrush.
+The final sign said:
 
-"Circles, circles, circles," he kept saying.
+> _Only a mind of stone can pass this danger you are not shown._
 
-Astra flipped back to the page about circles. She knew what a Circle was, of course. She had lived in Shapesong, of all places, for years.
+And so, obviously, Rovy thought: "I am a stone. My mind is stone. My ship is stone. Nothing can hurt me. I am stone."
 
-But as you know, dear reader, knowing _what_ you want to draw is not the same as being able to _do that_. It takes practice, skill, training.
+Now, dear listener, it's good to think positive thoughts. To really believe in yourself. But it doesn't change that Rovy was _not_ made of stone. He was made of muscles, and bone, and a strong desire to be a real pirate. The ship was made of wood, nails, and magic.
 
-And so, honestly, Astra was drawing all the shapes in the universe _except_ Circles.
+They crashed into the back wall of the cove.
 
-"What are you doing!?" yelled Bruzo. "Circles! Not squiggly Rectangles!"
+Pyra woke up with a yelp. She immediately grabbed the magical stones and _stopped_ the ship. Just in time, too, before it would be completely destroyed.
 
-Bruzo's circles were perfect, of course. They were big. And the magic immediately used them.
+Their faces were not far from the wall. If Pyra hadn't been so quick, their noses would have touched the final sign.
 
-As the book said: _Circle: Creates a bubble shield around you._
+And that's how they noticed. A simple stone sat on top of the sign. A gray stone, with a symbol at the back.
 
-It started to rain. Water would have been fine. But this rain brought ice cubes, and stones, and trees cut in half.
+Pyra took it in her hand.
 
-"CIRCLES!"
-
-"I'M TRYING!" yelled Astra.
-
-She made another squiggly Rectangle. She made a really nice curve that was one second away from closing and becoming a circle. But then Astra's paws were tired again, and the brush slipped from her hands.
-
-There is something, dear reader, about panic. When in the worst of situations, it brings out the worst in some people, and the best in others. In this case, Astra saw a large stone about to fall on top of her, and with her last attempt she made a _perfect_ circle.
-
-A glowing pink bubble appeared around her. It bounced the stone away, like a trampoline. 
-
-Astra grinned. "Take that, silly stones! Nothing can touch me---"
-
-After a few more hits, the bubble disappeared again. As if it only had a tiny bit of energy, and now it was tired. Astra had to draw _another_ circle. After a few attempts, she had her shield up again.
-
-This continued for a while, until the rain finally stopped. The mysterious lines were gone too. Perhaps this 'god' was painting on the other side of the planet now.
-
-"I did it! I drew circles!"
-
-"Well, it's a bit much to call them Circles---"
-
-"Weehooo!" Astra hopped around. She gave her cutest cheers and tried to give Bruzo a hug.
-
-He brushed her aside and took away her paintbrush again. 
-
-"I still can't believe Tessella gave this to you," he growled. "You can't even draw a Circle! This magic is too good for you! I'm _not_ trusting another girl to help me leave this planet again. You ... you all pretend to be nice and cute, but then ..."
-
-He shook his head and walked away.
-
-Astra didn't know what she'd done wrong now. Maybe, she thought for the first time, she had done _nothing_ wrong. It just needed time. Time to get stronger; time to convince this grumpy tiger.
-
-So she grabbed her twig again. She started drawing curves, then combining curves to get circles. Before long, she was making very nice Circles, and it took little effort.
-
-By now, however, she had not slept for several days. As she was drawing something again ... her eyes closed, the twig fell from her paws, and she fell flat on the floor. Fast asleep. Dreaming of lines, and squiggles, and angry tigers who couldn't trust anyone anymore.
-
-When she woke up, Bruzo towered over her. His paintbrush was pointed at her like a claw ready to strike.
+Immediately, their ship _sank_.

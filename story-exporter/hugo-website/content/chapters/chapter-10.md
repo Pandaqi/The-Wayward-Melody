@@ -1,134 +1,104 @@
 ---
-title: "End Of The Line"
+title: "The Real Treasure"
 weight: 100
 ---
 
-# End Of The Line
+# The Real Treasure
 
-![Coloring in areas + simple blueprint of spaceship.](images/chapter-10.png) \
+_Round and round the rovers go. Their ship was special, you must know. It had no steering wheel, it could not help finish their quest. The rovers had to be smart, if they were to find the real treasure chest._
 
-The planet seemed angry. Deep lines appeared everywhere. Rivers appeared where they were not before. Mountains became taller, or were suddenly flat. A large invisible hand seemed to draw on the planet, creating whatever it wanted---and destroying whatever it wanted too.
+Rovy and Pyra were in Brokebeard's Bay. They were surrounded by loads of chests, and they all looked about the same. Which one was the treasure? Which one do they open?
 
-Astra jumped over another line. Just in time. She looked over her shoulder and saw a crack in the dirt, which soon became a big hole.
+"We should try them all," said Pyra. 
 
-She and Bruzo were drawing their big spell. The one that Bruzo drew, all those years ago, together with his sister Tessella. The one that helped Tessella fly away ... and leave Bruzo behind.
+"No way, that takes too long. Oh, and also ..."
 
-He was worried it might happen again. Bruzo stayed close to Astra all the time. She could finally draw Circles that actually _looked like Circles_, but she could not do it without Bruzo checking over her shoulder. Making a comment that it could be better.
+Rovy noticed a sign. It used the same letters as the other signs; it was clearly written by Brokebeard himself.
 
-Until the planet shook again and they were separated.
+> _The treasure is IN FRONT OF a triangle chest._
+> 
+> _The treasure is BEHIND a star chest._
+> 
+> _The treasure is NEXT TO a rectangle chest._
+> 
+> _You only get ONE chance to open a chest. If you fail, the chests disappear. Good luck!_
 
-They drew as fast as they could. Astra's paws were tired, but she kept drawing. They _had_ to finish the whole spell. All the many, many lines and shapes. And they had to be as large as forests or lakes if they wanted to succeed. Anything smaller would not do.
+> **Guardian's Guide (Optional):** pause the story. Use the clue to find the treasure chest in the image! Only a single chest should fit all the statements. (Answer = circle chest.)
 
-And so they kept drawing, sticking out their tongue, fighting off sleep. 
+![Puzzle Image for Chapter 10](images/chapter-10@0.25x.png)
 
-Lunib the bear was certain now. These drawings looked a _lot_ like blueprints. Hundreds of pages, and each drawing showed some other detail that you would need for---
+"Found it!" yelled Pyra. She splashed and ran to a large chest shaped like a circle. The water here was shallow enough to walk. It still took a while, though, because wading through water is hard to do. 
 
-"What's _that_!?" yelled Astra.
+Her hand reached for the chest. She checked the clues one final time. Was it in front of a triangle chest? Behind a star one? Next to a rectangle one?
 
-Another thick line split the earth in two. Trees toppled. Grass disappeared in the hole before she could blink.
+"Aye, aye, aye!" said Rovy, who finally arrived too.
 
-Astra did not notice, however, because she was focused on the next few drawings. They had something weird.
+Their hands fell on the top side of the chest.
 
-They had lines, yes. The lines returned to their start to create shapes, yes. But that wasn't all.
+"Together?"
 
-The space _inside_ the shape had _different colors_.
+"Together!"
 
-Some shapes were "filled in" or "colored in". The color seemed to matter too. But how? How did she draw different colors?
+They put all their strength into opening the chest. With a groan, and a CREAK, the lid came off.
 
-As it turns out, dear reader, she could do it by simply _imagining_. By _thinking_ that her brush should be blue now, or purple, or red.
+And what was inside made their eyes glow.
 
-And so she tried to fill the shapes.
+Piles of coins. Gemstones. Diamonds. A crown that probably belonged to some rich king long ago. And even more golden coins, so many that a few spilled out of the chest and dropped into the water.
 
-She failed. Again. 
+"We're pirates! We're _real_ pirates!" yelled Rovy.
 
-Her colored lines shot outside of the shape. She had drawn a nice Circle, but when she tried to color it red, she kept drawing lines outside of it. As if the Circle was a planet, and her red lines tried to fly away from it.
+"Aye! Aye! Aye!" screamed Pyra. She wanted to dive into the treasure chest and swim in all the gold. Most of all, she wanted to go home and show it to her parents.
 
-Stones tumbled down behind her. Rain started falling. Then it turned to hail and snow, as if the seasons had suddenly changed. Each snowflake looked just a little bit different, as if someone had practiced drawing a thousand snowflakes. Just like Astra had practiced drawing a thousand straight lines.
+There was something else too. A paper lay on top of all the gold, and it had a message.
 
-She tried to keep going. Her next Circle had to be yellow. She told herself she wanted to draw a _sun_, and it helped. The brush turned a nice shade of yellow and she tried to _fill_ the whole circle, like filling a glass.
+It was written in Brokebeard's handwriting.
 
-Still, a few lines escape and went outside of the Circle. In fact, she accidentally painted over an older drawing, and another one, ruining their work in an entire forest.
+> _Great job finding my treasure, Rovy and Pyra. Now, please come home, dinner's waiting._
 
-As expected, she failed to make the magic activate.
+The two children gasped. They looked at each other in disbelief.
 
-It was not necessarily, dear reader, that she struggled to _color between the lines_. It was more so that she ignored there were lines at all! Or, as some artists might say, the entire world was her canvas. This was, of course, not true. You can't just go painting on other people's things. Just as the world was _not_ your oyster. And the sky was _not_ the limit. Astra and her mushroom rocket had shown that you could go further than that. The world wanted to remind everyone that they should stop saying all these things. But then again, its opinion was usually ignored. Why listen to the world when you can listen to your heart?
+"Wait ... wait ..." muttered Rovy.
 
-And then ... it was done.
+"Our father ..." Pyra could barely believe what she was saying. "... _is_ Brokebeard?"
 
-They had painted the entire planet. They had drawn precise lines and shapes, and Astra was quickly getting better at coloring them in. They had painted the whole planet with what the book suggested.
+"Our parents were pirates all along." Rovy smiled. "Didn't I tell you, sister? We're pirates! It's in our blood! Our father is the greatest pirate in the world!"
 
-Now it was time for the drawings to work their magic.
+"You _specifically_ said that you didn't care that father was a terrible pirate, aye."
 
-Lunib and Astra grabbed each other's paws. They held their breath, looking at the lines and colors. They slowly glowed brighter and brighter, as if a fire were burning inside them. Some of the drawings already turned into the _real_ thing that they looked like.
+"Nah-uh. Nobody heard that. That's a lie. How darrrrr you say that!"
 
-It was slow.
+The two siblings grinned at each other. It seemed they _had_ become better at Pirate-speak.
 
-But it was working.
+They hauled the treasure chest onto the ship. They attached it to the deck with thick ropes, to make sure it didn't slide off on the journey home.
 
-All around them, their drawings turned into physical things. Things they could touch. Things they needed. An engine here, a wheel there, a fuel tank as well. All parts of a ...
+And then, Pyra grabbed the _Upwards Stone_. The ship flew into the air.
 
-"Spaceship!" yelled Lunib. 
+Rovy grabbed the _Right Stone_ to turn them in the right direction. Then he grabbed the _Forwards Stone_ to shoot forward. They went home in a straight line, much faster than before.
 
-The planet rumbled, shook, and roared. Trees disappeared in an instant. Volcanoes vanished as if some giant held a giant eraser. New things were drawn in their place, but they were ugly. The wrong shapes, the wrong forms, the wrong colors.
+As they approached the Island of Diro, their parents already stood on the beach. They waved and smiled. Father wore his pirate hat and sword, for the first time. They yelled that they found the treasure; father yelled that he already knew.
 
-The spaceship was coming together. The parts were moving towards each other, glued together in the right places. Exactly like their _blueprints_ said they should. Exactly like Lunib would build it. Now it happened automatically, and a spaceship was slowly appearing in front of Astra and Lunib.
+They dropped all the magical stones to make the ship fall down on the beach.
 
-Where was Bruzo?
+As they jumped off, Rovy realized the truth.
 
-"ASTRA!" screamed the tiger in the distance. 
+"You ... you set this up for us," he said. "You planned for us to find the ship! And the stones! And the treasure!"
 
-He was far away. He had worked _so hard_ to get these drawings done. As he ran, he was hit by stones, falling trees, and even stung by some bees. He kept running anyway, leaping over cracks and holes in the floor, passing rivers as if water meant nothing to him.
+Both of them gave father---or should I say _Pirate Brokebeard_---a big hug. One so big that he almost fell over.
 
-He was still so far away.
+Their father grinned. "You were bored. We thought we'd teach you a thing or two about sailing, directions, and being a pirate. A _honorable_ pirate, that is. Not one of those nasty rovers that steals things. They're fakes anyway. They don't even read my traffic signs. They even sail through my red lights!"
 
-"DON'T LEAVE! DON'T YOU DARE!" he screamed.
+Pyra frowned. "But ... we've always been so poor. We heard you talking about it. You didn't even have money to buy us clothes."
 
-The spaceship was done. It shimmered and glowed. It opened its doors, inviting them in. 
+"Aye aye, my little girl." Father crouched to make himself as small as his children. Which was a tough thing to do, dear listener, because he was a big strong pirate with shoulders as wide as a treasure chest. "I gave away all riches I found. To help those who needed it. To buy food for those who went hungry. I even helped a really strange fellow called Dia Gonall, who is now selling fruit in Ho-Ho-Ha Harbor if I'm not mistaken."
 
-At the same time, the ground below it was falling apart. Like sand castles washing back into the sea. Before long, the spaceship would fall into a hole too. All the effort would have been for nothing.
+He walked around them. He rapped the top of the treasure chest with his knuckles. A pirate melody that went like TIK TIK TOCK.
 
-Astra and Lunib looked at each other.
+"But it wasn't for nothing, children. I kept this money back, just in case. Now was the time to find the treasure and use what's inside."
 
-"NOOOO!" Bruzo cried and roared, kicking aside whatever the planet threw at him.
+And so, dear listener, Rovy and Pyra became real pirates that day. 
 
-Lunib stepped inside the spaceship and held open the door.
+They knew exactly how the magical stones worked and could sail the ship. They often went on journeys to faraway islands, to install more traffic signs or speak with an octopus. Sometimes alone, sometimes with father, who trusted them to understand directions now.
 
-Astra turned the other way.
+And the money from the treasure was used to make sure everyone had food to eat, and a safe island to live. Some of it had to be used to defend against pirates coming to attack the _Isle of Diro_. Most of the naughty pirates, though, were nowhere to be seen. They were still stuck in Cacketoo Cove, in a traffic jam, and would probably stay there forever.
 
-Using her paintbrush, she drew a _curve_. The biggest one possible, pointing at Bruzo. Suddenly, a strong wind _blew_ her in that direction. She only needed a single hop to leap over a forest.
-
-Bruzo slipped. He was too tired, too sad, and he fell into a hole.
-
-With a squeak and a squeal, Astra raised her paintbrush. With dazzling speed, she drew a perfect line, with circles on the ends, and colored it brown. She didn't even know what she was doing---but it felt like it might work.
-
-The magic immediately liked it, and turned it into a _rope_. Astra had just invented a new kind of drawing spell.
-
-The rope shot away from her and grabbed Bruzo's paws.
-
-Astra tried to pull him out, but he was too heavy. While biting into the rope, she drew something else: wiggly lines, big wiggly lines everywhere, enough to ...
-
-Water sprayed away from her. Streams of water, filling all the cracks and turning them into rivers.
-
-The rope snapped. But it had done its job: Bruzo had not fallen into the planet. Instead, the new waves carried him along.
-
-As he passed Astra, he grabbed her ears and pulled her along. Normally, dear reader, it's very rude to grab a bunny by the ears. But Astra did not mind this time, because he brought her back to the spaceship, just before the planet completely fell apart.
-
-Lunib held open the door. The spaceship had already started up, a fire burning below it.
-
-Bruzo panted, then spoke. "I see now why my sister gave you the brush, Astra."
-
-"You ... do?"
-
-He smiled. "Because you _are_ worthy of its magic." 
-
-He closed the door. The planet gave a final groan, and drew the final thick lines, before it was too much. It was cut so many times, erased and redrawn so many times, that the planet _shattered_ like glass.
-
-Lunib, Astra and Bruzo watched it happen from a distance. Their spaceship had launched and they were on their way. Hopefully to Somnia, for real this time.
-
-Astra was still blushing from Bruzo's compliment. The paintbrush in her hand _changed_. It became more colorful. Beautiful patterns of roses, animals and suns were suddenly etched into the wood. It felt as if she had unlocked something, a type of pencil magic that felt even better than before.
-
-"Well, the Bearchitects do have a saying," said Lunib with a grin. "That the pen is mightier than the sword."
-
-And so they fled Brushfar in their spaceship. Bruzo was not left behind. And Astra had earned her magical brush, which now felt as if it were part of her body. An extra arm to draw with; an extra leg to jump with. One could only wonder, dear reader, what great adventures she would have later.
-
-It starts with a line. A sketch. A drawing of whatever. You practice, you get stronger, you keep drawing. Before you know it, your lines turn into beautiful paintings and great plans. Blueprints for a house. The next big magical movie that will entertain the world. And before you know it, you've _changed_ the world and built a rocket to the moon.
+_Round and round the rovers go. Their ship is special, you must know. It has no steering wheel, it has no fins. But it can fly, turn, move, dance in every direction---and so it spins and spins and spins._
