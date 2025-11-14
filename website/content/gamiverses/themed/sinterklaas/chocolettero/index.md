@@ -61,3 +61,7 @@ Het basisspel lijkt op Scrabble, maar dan met een snellere opzet en de twist dat
 Als je deze versie een paar keer hebt gespeeld, echter, kan je naar de _uitbreidingen_! Die voegen speciale tegels toe met gave acties. Elke uitbreiding zet het spel op een nieuwe manier op z'n kop.
 
 Ideaal voor in de klas of thuis tijdens Sinterklaastijd, zeker als je kinderen wilt laten oefenen met het alfabet en spelling. En als je de uitbreidingen toevoegt wordt het een serieus tactisch spel dat de hele familie zal bezighouden!
+
+{{% remark %}}
+We proberen altijd een balans te vinden tussen een spel dat er mooi en kleurrijk uitziet, en iets dat geen inkt verspilt en goedkoop is om te printen. Ook dit spel kan je in grijstinten of op verschillende groottes printen en nog steeds volledig spelen. Tevens zijn de regels dermate simpel dat je ze misschien niet eens hoeft te printen.
+{{% /remark %}}

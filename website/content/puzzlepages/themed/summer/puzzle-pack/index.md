@@ -8,7 +8,7 @@ image: ["summer-puzzlepack-header.webp", "summer-puzzlepack-1.webp", "summer-puz
 file: "ba1a2204-2cf2-4f91-80d2-63243a46df60"
 spell: ["summer-batch-1"]
 description: | 
-  With book full of puzzles so fine
+  With a book full of puzzles so fine
   About summer, holiday and more
   Your summer will never be a bore
   So dive in; it's time for your brain to shine!
