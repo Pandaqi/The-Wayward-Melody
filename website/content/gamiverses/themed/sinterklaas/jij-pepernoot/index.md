@@ -4,8 +4,8 @@ title: "Jij Pepernoot!"
 id: "jij-pepernoot"
 price: 6.95
 date: 2025-11-05
-image: ["jij-pepernoot-header.webp", "jij-pepernoot-1.webp", "jij-pepernoot-2.webp", "jij-pepernoot-3.webp", "jij-pepernoot-4.webp"]
-file: "@TODO"
+image: ["jij-pepernoot-header.webp", "jij-pepernoot-1.webp", "jij-pepernoot-2.webp", "jij-pepernoot-3.webp", "jij-pepernoot-4.webp", "jij-pepernoot-5.webp"]
+file: "7c40b35e-0117-48c1-aac2-ce0b329609ca"
 spell: "sinterklaas"
 description: | 
   Je wilt Sinterklaas graag helpen in nood
@@ -15,7 +15,7 @@ description: |
 
 contents:
 - Spelregels PDF (1 pagina basisspel, 1 pagina uitbreidingen, 1 pagina overzicht alle kaarten)
-- "Materiaal PDF (@TODO: X pagina's met kaarten + een paar speciale kaarten voor uitbreidingen)"
+- Materiaal PDF (3 pagina's met kaarten + een paar speciale kaarten voor uitbreidingen)
 
 level: 1
 language: "nl"
@@ -58,3 +58,11 @@ Het basisspel is zo geleerd en gespeeld. De uitbreidingen bevatten een paar extr
 Het spel test geheugen, vooruitdenken, matchen van icoontjes (mag dit wel/niet naast dat?), en precies op de juiste manier anderen voor de gek houden---en dat allemaal zonder tekst of getallen.
 
 Veel plezier!
+
+{{% remark %}}
+In grote groepen (5--8 spelers) moet je inclusief de "gemiddelde" en/of "moeilijke" kaarten spelen, anders heb je niet genoeg kaarten om uit te delen aan het begin. Dat betekent niet perse dat je met een uitbreiding moet spelen; het basisspel volstaat nog steeds.
+{{% /remark %}}
+
+{{% update %}}
+We kregen wat vragen over of je jouw kaart nou gedekt moet spelen. Dit kan je inderdaad missen als je de spelregels vluchtig bekijkt, maar het antwoord is **ja**! Nadat je iedereen hebt verteld/laten zien wat je gaat spelen, leg je de kaart gedekt ("geheim") op de plek die je wilt. Goed opletten en onthouden waar alles ligt is een groot onderdeel van dit spel.
+{{% /update %}}
