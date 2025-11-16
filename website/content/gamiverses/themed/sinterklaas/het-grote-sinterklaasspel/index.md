@@ -2,10 +2,10 @@
 type: "product"
 title: "Het Grote Sinterklaasspel"
 id: "het-grote-sinterklaasspel"
-price: 14.95
+price: 13.95
 date: 2025-11-05
-image: ["het-grote-sinterklaasspel-header.webp", "het-grote-sinterklaasspel-1.webp", "het-grote-sinterklaasspel-2.webp", "het-grote-sinterklaasspel-3.webp", "het-grote-sinterklaasspel-4.webp"]
-file: "@TODO"
+image: ["het-grote-sinterklaasspel-header.webp", "het-grote-sinterklaasspel-1.webp", "het-grote-sinterklaasspel-2.webp", "het-grote-sinterklaasspel-3.webp", "het-grote-sinterklaasspel-4.webp", "het-grote-sinterklaasspel-5.webp", "het-grote-sinterklaasspel-6.webp", "het-grote-sinterklaasspel-7.webp", "het-grote-sinterklaasspel-8.webp"]
+file: "c2450916-d78b-49d4-b954-0e16525b13be"
 spell: "sinterklaas"
 description: | 
   Zoek je iets te doen op Pakjesavond?
