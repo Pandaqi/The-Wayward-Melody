@@ -3,7 +3,7 @@ type: "product"
 title: "Monster On The Loose"
 id: "monster-on-the-loose"
 price: 9.95
-date: 2025-05-05
+date: 2025-10-25
 image: ["monster-on-the-loose-header.webp", "monster-on-the-loose-1.webp", "monster-on-the-loose-2.webp", "monster-on-the-loose-3.webp", "monster-on-the-loose-4.webp"]
 file: "@TODO"
 spell: ["halloween"]
@@ -11,8 +11,8 @@ description: |
   @TODO
 
 contents:
-- Rulebook PDF (4 pages; front page, base game, expansions, expansions)
-- Material PDF (2 pages of player blankets and special tiles; 12 pages with 2-sided unique beach maps)
+- Rulebook PDF (@TODO)
+- Material PDF (@TODO)
 
 external:
   - name: "Letters From Whitechapel"
@@ -20,7 +20,7 @@ external:
     desc: The first "hidden movement" game I ever played. It's good, but setup is very long and rules are needlessly complicated. The theme (Jack the Ripper) is also a bit weird for a family game. When you have to explain to kids what prostitutes are and why they might be murdered in this game ... your life has taken a weird turn.
   - name: "Whitehall Mystery"
     url: "https://boardgamegeek.com/boardgame/190082/whitehall-mystery"
-    desc: A later version of Whitechapel that improves all aspects of it (quicker setup, more constraints on movement to help out, etc). This is a really good hidden movement game I'd recommend to anyone.
+    desc: A later version of Whitechapel that improves all aspects of it (quicker setup, more constraints on movement to help out, etc). This is a really good hidden movement game I'd recommend to anyone, though it still has a murderous theme.
 
 level: 2
 language: "en"
@@ -63,7 +63,7 @@ The game has a slight Halloween theme, making it ideal for some fun family time 
 
 The rules for the base game (your "first game") are so simple they fit on a single page. The "basic monsters" you'll play with are also simple enough that you can play with kids who can't read yet. Once you've got a taste of the experience, you can move to the expansions, which add twists and more advanced monster types to play. (In a way, the base game + expansions is the "full game" as we intended it, with maximum strategy and excitement.)
 
-Because of the wide variety of monsters and maps, the "setup" (cutting out the material) will take a bit longer than with most of our games. The setup for each individual game is very quick. The possible monsters chosen for a game also decide the _map_ you'll play on, which makes every game completely unique.
+Because of the wide variety of monsters and maps, the "preparation" (cutting out the material) will take a bit longer than with most of our games. The setup for each individual game is very quick. The possible monsters chosen for a game also decide the _map_ you'll play on, which makes every game completely unique.
 
 If we had to pick one product from our Halloween series to recommend, it would be this one! We put a lot into its design, art, monsters, everything. We hope you enjoy it too.
 
