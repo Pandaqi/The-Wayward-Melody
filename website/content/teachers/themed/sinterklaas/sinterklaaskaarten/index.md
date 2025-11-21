@@ -5,7 +5,7 @@ id: "sinterklaas-kaarten"
 price: 0.00
 free: true
 date: 2025-11-05
-image: ["sinterklaas-kaarten-1.webp", "sinterklaas-kaarten-2.webp"]
+image: ["sinterklaaskaarten-1.webp", "sinterklaaskaarten-2.webp"]
 file: "cf516c1e-447c-42d6-9662-78ac50a85254"
 spell: "sinterklaas"
 description: | 

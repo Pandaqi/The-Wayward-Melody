@@ -8,7 +8,10 @@ image: ["sinterklaas-doeboek-lv2-header.webp", "sinterklaas-doeboek-lv2-1.webp",
 file: "@TODO"
 spell: "sinterklaas"
 description: | 
-  @TODO
+  Een doeboek voor Sinterklaastijd
+  Voor kinder die net leren lezen of tellen
+  Dit boekje bevat vele uitdagingen en spellen
+  Voor educatief plezier tot Sinterklaas weer naar Spanje rijdt
 
 contents:
 - "@TODO"
@@ -46,7 +49,7 @@ parallel-play: true
 
 Dit is een **doeboek** voor **Sinterklaastijd**. Het zit in Level 2 van deze winkel, wat doorgaans betekent dat het voor kinderen tussen 5 en 8 jaar oud is. Het bevat leuke opdrachten en educatieve uitdagingen voor kinderen die op dit moment leren lezen en rekenen.
 
-Sommige activiteiten zijn speelbaar met schrijfgerei en papier. Sommige vereisen dat je eerst iets uitknipt. Ze zijn allemaal erg simpel, kleurrijk, en thematisch, zodat ze aanspreken bij de tijd en de leeftijd.
+Sommige activiteiten zijn speelbaar met schrijfgerei en papier. Sommige vereisen dat je eerst iets uitknipt. Deze twee verschillende categorieën zijn handig van elkaar gescheiden en duidelijk aangegeven, zodat je hierin geen fouten maakt. Ze zijn allemaal erg simpel, kleurrijk, en thematisch, zodat ze aanspreken bij de tijd en de leeftijd.
 
 Dit boek zal je kind de hele Sinterklaastijd bezighouden en ondertussen helpen met belangrijke vaardigheden oefenen.
 
