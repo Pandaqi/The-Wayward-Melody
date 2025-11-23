@@ -2,10 +2,10 @@
 type: "product"
 title: "Sinterklaas Doeboek (Level 2)"
 id: "sinterklaas-doeboek-lv2"
-price: 12.95
+price: 9.95
 date: 2025-11-05
-image: ["sinterklaas-doeboek-lv2-header.webp", "sinterklaas-doeboek-lv2-1.webp", "sinterklaas-doeboek-lv2-2.webp", "sinterklaas-doeboek-lv2-3.webp", "sinterklaas-doeboek-lv2-4.webp", "sinterklaas-doeboek-lv2-5.webp"]
-file: "@TODO"
+image: ["sinterklaas-doeboek-lv2-header.webp", "sinterklaas-doeboek-lv2-1.webp", "sinterklaas-doeboek-lv2-2.webp", "sinterklaas-doeboek-lv2-3.webp", "sinterklaas-doeboek-lv2-4.webp", "sinterklaas-doeboek-lv2-5.webp", "sinterklaas-doeboek-lv2-6.webp", "sinterklaas-doeboek-lv2-7.webp"]
+file: "88daad25-9de1-4606-aabb-46748d5b1819"
 spell: "sinterklaas"
 description: | 
   Een doeboek voor Sinterklaastijd
@@ -14,7 +14,32 @@ description: |
   Voor educatief plezier tot Sinterklaas weer naar Spanje rijdt
 
 contents:
-- "@TODO"
+- Rekenpiet
+- Doolhoftuin
+- Beginletter Bingo (beginletters matchen)
+- Woordsnoeper (missend letters invullen in woord)
+- Voorspelpiet (patronen afmaken)
+- Detectivepiet (zoek details in plaatje)
+- Detectivepiet & Rekenpiet (TEL hoe vaak een voorwerp voorkomt in plaatje)
+- Rebus
+- Pepernootsommen
+- Cijferverbinder ("connect the dots" met oplopende getallen)
+- Letterverbinder ("connect the dots" met letters in alfabetische volgorde)
+- Chocoladeschilder (x4)
+- Lijstjespiet
+- Cadeaugorieën ("scattergories" met Sintthema)
+- Sinterklaasdilemma's
+- Quizpiet
+- Raadselkleuren
+- Snoepgetallen (ingewikkeldere wiskundesom)
+- Kadomino (Activiteit spel; Knip)
+- Zakkenvullers (Sorteer op aantal pakjes; Knip)
+- Schoorsorteren (sorteer op letters en/of lengte van schoorsteen; Knip)
+- Woordzoeker (klein / simpel)
+- Woordschoorsteen (klein / simpel)
+- Letterrijmpjes ("acrostic poem")
+- Leespiet (kort Sintverhaal voorlezen of zelf lezen)
+- Pakjesavond (de moeilijkste uitdaging om de juiste pakjes op de juiste plek te krijgen; Knip)
 
 level: 2
 language: "nl"

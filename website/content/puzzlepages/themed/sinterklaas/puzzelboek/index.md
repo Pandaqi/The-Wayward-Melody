@@ -88,10 +88,10 @@ De meeste pagina's bevatten een _soort_ puzzel, en dan _meerdere puzzels_ in die
 
 Er zijn maar 2 pagina's die je eigenlijk alleen kan spelen als je in **kleur** print. Alle andere puzzels kunnen ook in **grijstinten**!
 
-Onder "puzzel" verstaan wij iets dat je kan oplossen met patronen herkennen, logische denkstappen en misschien wat creativiteit. Het is nooit "gokken" en het zijn ook nooit (repetitieve) "huiswerkopgaven". Voor Sinterklaasgerelateerde opgaves, uitdagingen, sommen, of algemene activiteiten hebben we een [Sinterklaas Doeboek](/teachers/themed/sinterklaas/sinterklaas-doeboek-level-1).
+Onder "puzzel" verstaan wij iets dat je kan oplossen met patronen herkennen, logische denkstappen en misschien wat creativiteit. Het is nooit "gokken" en het zijn ook nooit (repetitieve) "huiswerkopgaven". Voor Sinterklaasgerelateerde opgaves, uitdagingen, sommen, of algemene activiteiten hebben we een [Sinterklaas Doeboek](/teachers/themed/sinterklaas/doeboek-level-1).
 
 Kortom, een leuk boek waarmee kinderen van verschillende leeftijden zich lang kunnen vermaken tijdens Sinterklaastijd!
 
 {{% remark %}}
-Als je puzzels wilt doen met de allerjongste kinderen, verwijs ik je graag naar onze fysieke Sinterklaaspuzzels: @TODO. Nadat je deze hebt uitgelegd komen er geen tekst/getallen meer aan te pas, en oplossen doe je door fysiek dingen te verplaatsen, wat veel beter werkt bij jonge (snel afgeleide) kinderen ;)
+Als je puzzels wilt doen met de allerjongste kinderen, verwijs ik je graag naar onze fysieke Sinterklaaspuzzels, zoals bijvoorbeeld [Prachtige Pakjespuzzel](/puzzlepages/themed/sinterklaas/prachtige-pakjespuzzel). Nadat je deze hebt uitgelegd komen er geen tekst/getallen meer aan te pas, en oplossen doe je door fysiek dingen te verplaatsen, wat veel beter werkt bij jonge (snel afgeleide) kinderen ;)
 {{% /remark %}}
