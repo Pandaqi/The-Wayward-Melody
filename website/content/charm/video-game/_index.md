@@ -45,6 +45,16 @@ As such, typical video games as described here will be rare. They will only appe
 
 {{% /section-foldable %}}
 
+{{% section-foldable header="Oh no! Something broke!" %}}
+
+We're sorry! It's hard to make sure video games work on all devices, forever, in all situations. It's also very hard to "patch" them from here, especially because our digital tools have _no_ internet connection leading back to us (on purpose).
+
+In most cases, we just can't diagnose the problem here and can't spend the resources to find the mysterious problem. So we don't make any promises or guarantees; in rare situations, a video game of ours just might _not work_ on your system.
+
+But don't worry, you can always contact us! Try to give screenshots/descriptions of the problem and we might recognize the problem instantly. If not, we might offer a different game for free.
+
+{{% /section-foldable %}}
+
 {{% /double-view-item %}}
 
 {{% /double-view %}}
