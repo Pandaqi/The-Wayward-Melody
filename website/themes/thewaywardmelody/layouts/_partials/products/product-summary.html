@@ -2,12 +2,12 @@
 <div id="product-{{ .Params.id }}" 
     class="product-summary bg-color-light-xx text-color-dark-xx padding-m rounded-m limit-width-s maximize-height position-relative"
     data-section="{{ .Section }}">
-    {{ $level := $data.level }}
-    <div class="position-absolute anchor-top-right maximize-width height-xs block-level-{{ $level }}">
+    {{ $level_data := partial "func/get-level.html" $data.level }}
+    <div class="position-absolute anchor-top-right maximize-width height-xs {{ $level_data.class }}">
         <div class="font-size-s font-accent align-center padding-xs">
-            <a href="/level/{{ $level }}" class="flex flex-center">
+            <a href="{{ $level_data.url }}" class="flex flex-center">
                 <div class="metadata-icon metadata-icon-level metadata-icon-black blend-overlay"></div>
-                <span>LEVEL {{ $level }}</span>
+                <span>LEVEL {{ $level_data.string }}</span>
                 <div class="metadata-icon metadata-icon-level metadata-icon-black blend-overlay"></div>
             </a>
         </div>

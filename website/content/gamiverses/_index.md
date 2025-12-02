@@ -8,7 +8,9 @@ banners: ["banner_fun_frontier_1", "banner_fun_frontier_2", "banner_fun_frontier
 
 {{% double-view-item %}}
 
-This category is the "final boss" of this online store, because it contains **(board) games**! The most fun and effective way to learn almost anything. Every topic for which you can find educational material on this website, probably has a few games attached as well. 
+This category is the "final boss" of this online store, because it contains **board games and video games**! The most fun and effective way to learn almost anything. 
+
+Every topic for which you can find educational material on this website probably has a few games attached as well. And if they don't, they will surely appear in the future, as this is the category that has endless growth potential.
 
 {{< metadata-navigation >}}
 
@@ -16,35 +18,52 @@ This category is the "final boss" of this online store, because it contains **(b
 
 {{% double-view-item %}}
 
-{{% section-foldable header="Can I get FREE games too?" %}}
+{{% section-foldable header="Common Charms" %}}
 
-Yes! Before starting this online store, we designed and published board games completely for free for 10 years at [Pandaqi](https://pandaqi.com). We vowed to keep a clear separation between that old website and this store, and keeping free games, well, free. You can find some 100 professional board games there, and we hope to always keep it that way.
+Below are the common Charms (_types of products_) you'll find in this Faction. Visit their pages for details about what they are and what is inside once purchased.
 
-Education _should_ be free for all. We only sell paid games here because, surprisingly, we need a bit of money to survive. But whenever the budget allows, we make older products free, so keep an eye out for games you like but can't afford right now.
-
-Please note that many of the Pandaqi games are older work _and_ made as a hobby. They will not necessarily be the same quality as the games we sell here, nor were they made with education in mind. (Also note that Pandaqi contains many video games too.)
+* [Board Game](/charm/board-game/)
+* [Video Game](/charm/video-game/)
+* [One Button Game](/charm/one-button-game/)
+* [One Paper Game](/charm/one-paper-game/)
+* [Classroom Game](/charm/classroom-game/)
+* [Hybrid Game](/charm/hybrid-game/)
+* [Peerful Game](/charm/peerful-game/)
+* [(Board)game Book](/charm/boardgame-book/)
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="What kind of games can I expect?" %}}
+{{% section-foldable header="Can I get FREE games too?" %}}
 
-We focus on **simple and minimalist games** (at most 1 page of rules, 1 minute of setup, only several pages of material). To prevent making it simplistic, however, we usually add a single well-designed twist to make them interesting for kids and adults alike. After ten years of making games simpler, shorter and more streamlined, we have the 1-page-rulebook down to a science.
+Yes! 
 
-We focus on **clever games**, not homework or lots of reading, that simulate something in real life and teach how that works. Sure, you could force a child to read ten pages about the Roman Empire. You could _also_ design a game in which they _live_ inside the Roman Empire, or _run_ a part of it, and have fun while gaining a far deeper understanding of it.
+Before starting this online store, we designed and published free board games for 10 years at [Pandaqi (Games)](https://pandaqi.com). We vowed to keep a clear separation between that old website and this store, and keeping free games, well, free. You can find some 100 professional board games there, and we hope to always keep it that way.
 
-Because of our focus on educational games for all ages, they will usually be **textless, short, and family friendly** too. The core of the game is something anyone can understand, and communication happens through icons/colors/shapes. Once in a while, we break this trend to go all-out on a really thematic, colorful, immersive game, which is usually reflected by their price tag and marketing ;)
+Education _should_ be free for all. We only sell paid games here because, surprisingly, we need a bit of money to survive. But whenever the budget allows, we make older products free, so keep an eye out for games you like but can't afford right now.
 
-Our biggest asset, however, is our broad knowledge of **what games can be**. How we can apply proven ideas and mechanics to do away with _any_ hurdles standing between (young/inexperienced) players and new board games. See the next section for what that means.
+Please note that many of the Pandaqi games are older work _and_ made as a hobby. They will not necessarily be the same quality as the games we sell here, nor were they made with education in mind. Also note that Pandaqi contains a large number of video games too.
+
+{{% /section-foldable %}}
+
+{{% section-foldable header="Can I customize these?" %}}
+
+The advantage of **board games** is that customization is ridiculously easy, perhaps even expected. You can leave components out of the game. You can change them. You can invent your own rules. You can print something twice if you run out. We often provide multiple versions (such as _color_ versus _grayscale_) to pick the one that suits you most.
+
+With **video games**, this is much harder. But we tried our best anyway! Our video games usually have a **settings** screen that allows tweaking _many things_.
+
+If you want more customization, you can contact us. We can't make any promises, but if it's a reasonable request we'll update the game for everyone with this addition.
 
 {{% /section-foldable %}}
 
 {{% section-foldable header="The Gamiverse Laws" %}}
 
-We have some overall principles that govern that types of games we make here. In general,
+We have some overall principles that govern that types of games we make here. 
+
+In general,
 
 * **Level 1** games are _cooperative_ and _simultaneous_. This means that you win/lose _together_, and that you _take turns at the same time_. It reduces game duration to something palatable to young kids, it removes any tension from winning/losing/waiting your turn, and it fosters collaboration and being proactive.
-* **Level 2** games are _cooperative_ still, but can be turn-based. Longer and more strategic games are possible, but we don't lose the social and collaborative aspect. We can't state often enough how crucial the social part of games is, and how important it is to share time as a parent/teacher _with_ the child.
-* **Level 3** games (and onward) can be anything, including _competitive_, _one-against-many_, _real-time games_, etcetera. Around this stage is where you'll also find our unique classroom games and other "game experiences" (rather than more standard "board games").
+* **Level 2** games are _cooperative_ still, but can be turn-based. Longer and more strategic games are possible, but we don't lose the social and collaborative aspect. We can't state often enough the importance of the social part of games and spending time as a parent/teacher _with_ the child.
+* **Level 3(+)** games can be anything, including _competitive_, _one-against-many_, _real-time games_, etcetera. Around this stage is where you'll also find our unique classroom games and other "game experiences" (rather than more standard "board games").
 
 There are plenty exceptions to this, of course. Some games just do not work with these constraints. But with every new idea, we try to cleverly twist it into this mold first.
 
@@ -54,27 +73,15 @@ There are plenty exceptions to this, of course. Some games just do not work with
 
 I have always loved _learning_, but hated _education_. I've researched how people actually _learn_ all my life, literally since I was a boy, and came away with a few certain conclusions. One of them is that **playing games = learning**. Absolutely. No questions about it. Moving on. (I have actually written countless articles on this if you want details, both on this website, my Pandaqi blog, and my personal blog.)
 
-I wrote educational _stories_, such as [The Saga of Life](https://thesagaoflife.com). I wrote literal educational tutorials/courses on [Pandaqi Tutorials](https://pandaqi.com/tutorials/). But with every project I did, every study I read, everything I experienced, I kept coming back to the holy grail of learning. Reading is inefficient and often not fun. Sitting in class and letting the teacher waffle on about something is _incredibly_ inefficient. All the things I tried, all the things schools are doing, simply paled in comparison to the **effectiveness and pleasure of well-designed board games**. 
+I wrote educational _stories_, such as [The Saga of Life](https://thesagaoflife.com). I wrote literal educational tutorials/courses on [Pandaqi Tutorials](https://pandaqi.com/tutorials/). 
+
+With every project I did, however, every study I read, everything I experienced, I kept coming back to the holy grail of learning. Reading is inefficient and often not fun. Sitting in class and letting the teacher waffle on about something is _incredibly_ inefficient. All the things I tried, all the things schools are doing, simply paled in comparison to the **effectiveness and pleasure of well-designed board games**. 
 
 And so I started developing an entire **curriculum of board games**. Literally a school curriculum where every important topic or skill is handled through a board game.
 
-This project became known as **"Explorers of the Fun Frontier"**. I had intended to launch it as its own website, but plans change, this online store was created, and it seamlessly slotted into it. You might still find traces of the words "fun frontier" in my writing or this website's code ;)
+This project became known as **"Explorers of the Fun Frontier"**. I had intended to launch it as its own website, but plans change, this online store was created, and it seamlessly slotted into it. You might still find traces of the words "fun frontier" in my writing ;)
 
 Download these games, print them, play them with your children or pupils. Watch them have fun while _actually_ learning.
-
-{{% /section-foldable %}}
-
-{{% section-foldable header="What do I get?" %}}
-
-These games are **"print and play"**. It means that you receive one or more PDF files including rules and material to print and cut out. In the future, we hope to sell proper physical versions of our best games too, but for many complicated reasons this is more of a long-term dream now.
-
-Because of how we design games, you usually get a lot of **bonus material** too. Expansions. Variants. Suggestions or tools for how to modify the game to fit your group or your goals better. 
-
-Rules are not set in stone. Slight tweaks on the same core game idea can take a game from "meh" to "really effective" for specific playing groups. We acknowledge and accomodate this. We have played _so many games_ with _so many different groups/types of players_ that we learned there is no one way to play any game, and there should not be. Games are more ... fluid than that. Just like learning should be dynamic and mold itself around the one doing the learning.
-
-In the rare case we create an expansion or extra work for a board game _after_ releasing it, we'll just update the files and you get these improvements for free.
-
-_We are working on a system that allows interactive rulebooks and material generators, like the one we created for Pandaqi. It would allow pressing a button to see a random turn of the game, which is a faster and better way to learn the rules. It would allow customizing the material yourself. It's not available yet, but future games will hopefully include this._
 
 {{% /section-foldable %}}
 
@@ -83,6 +90,8 @@ _We are working on a system that allows interactive rulebooks and material gener
 **However you like!** Share them with an entire class. Prepare one as a surprise gift. Customize it for your kid.
 
 You don't need a special license or permission for anything. You bought the experience---it's yours to experience it as you wish.
+
+We are purposely **not** like most video game companies these days, which force you to always be online and use their shoddy launcher. All because they're very afraid someone might put one purchased copy of the game on ... gasp ... two computers. Or something like that. Our video games have _no_ connection with the internet and _no_ restrictions at all on how they are used.
 
 {{% /section-foldable %}}
 

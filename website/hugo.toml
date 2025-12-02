@@ -14,6 +14,8 @@ theme = "thewaywardmelody"
   pagerSize = 10
 
 [taxonomies]
+  charm = "charm"
+  spell = "spell"
   level = "level"
   language = "language"
   categories = "categories"

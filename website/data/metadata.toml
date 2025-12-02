@@ -1,3 +1,9 @@
+[spell]
+    desc = "To which group of products or which chunk of the curriculum it belongs."
+
+[charm]
+    desc = "The specific type of product. Example: Digital Escape Room."
+
 [categories]
     desc = "To which general categories, tags or genres this activity belongs."
 

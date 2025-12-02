@@ -10,9 +10,10 @@
 {{ $root_section := .FirstSection }}
 {{ $sub_section := .CurrentSection }}
 {{ $is_sub_section := ne $root_section $sub_section }}
-{{ $level := $data.level }}
-<div class="maximize-width height-xxxs block-level-{{ $level }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
-    <div class="font-size-s font-accent">LEVEL {{ $level }}</div>
+<!--- Support multilevels too with a (+) behind -->
+{{ $level_data := partial "func/get-level.html" $data.level }}
+<div class="maximize-width height-xxxs {{ $level_data.class }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
+    <div class="font-size-s font-accent">LEVEL {{ $level_data.string }}</div>
 </div>
 <div class="image-carousel flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center">
     <!--- Image on left/top --->

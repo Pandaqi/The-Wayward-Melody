@@ -1,0 +1,8 @@
+{{ $level := . }}
+{{ if not (reflect.IsSlice $level) }}{{ $level = slice $level }}{{ end }}
+{{ $level_first := index $level 0 }}
+{{ $level_string := string $level_first }}
+{{ if gt (len $level) 1 }}{{ $level_string = printf "%d(+)" $level_first }}{{ end }}
+{{ $level_class := printf "block-level-%d" $level_first }}
+{{ $level_url := printf "/level/%d" $level_first }}
+{{ return (dict "url" $level_url "class" $level_class "string" $level_string) }}

@@ -2,6 +2,11 @@
 <header>
 {{ partial "views/banner-image" (dict "context" .) }}
 </header>
+
+<div>
+{{ .Content }}
+</div>
+    
 <main class="text-reader margin-m limit-width-m block-align-center">
     {{ $key := .Data.Plural }}
     {{ $value := .Title }}
