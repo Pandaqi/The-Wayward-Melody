@@ -670,6 +670,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .maximize-width {
     width: 100%;
   }
+  .limit-width-xs {
+    max-width: 160px;
+  }
   .limit-width-s {
     max-width: 380px;
   }

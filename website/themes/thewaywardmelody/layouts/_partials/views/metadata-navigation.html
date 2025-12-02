@@ -1,4 +1,4 @@
-{{- $all_metadata := partial "func/get-all-taxonomies" . -}}
+{{- $all_metadata := partialCached "func/get-all-taxonomies" . -}}
 {{- $relevant_metadata := or .Params.metadataRelevant $all_metadata -}}
 {{- $context := . -}}
 <ul class="flex flex-wrap remove-list-styling gap-xs padding-xs">

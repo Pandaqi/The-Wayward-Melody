@@ -1,0 +1,34 @@
+{{ $data := .Site.Data.promo }}
+{{ range $key,$content := $data }}
+    <!--- Collect all info in nice variables --->
+    {{ $spell := index $content "spell" }}
+    {{ $pages := (where $.Site.RegularPages "Params.spell" "eq" $spell) | shuffle | first 10 }}
+    {{ if le (len $pages) 0 }}{{ continue }}{{ end }} <!--- no products in this spell; ignore --->
+    {{ $title := index $content "title" }}
+    {{ $dateStart := index $content "dateStart" }}
+    {{ $dateEnd := index $content "dateEnd" }}
+    {{ $desc := index $content "desc" }}
+    <!--- Cache what we need from the products --->
+    {{ $urls := slice }}
+    {{ $images := slice }}
+    {{ $headings := slice }}
+    {{ range $pages }}
+        {{ $urls = $urls | append .RelPermalink }}
+        {{ $first_image := (index .Params.image 0) }}
+        {{ $first_image_url := printf "%s/%s" .RelPermalink $first_image }}
+        {{ $images = $images | append $first_image_url }}
+        {{ $headings = $headings | append .Title }}
+    {{ end }}
+    {{ $urls = delimit $urls "," }}
+    {{ $images = delimit $images "," }}
+    {{ $headings = delimit $headings "," }}
+    <!--- Save on an invisible div --->
+    <div style="display:none;" class="promo-data-cached"
+        data-key="{{ $key }}" data-title="{{ $title }}" 
+        data-start="{{ $dateStart }}" data-end="{{ $dateEnd }}" 
+        data-desc="{{ $desc }}" data-spell="{{ $spell }}"
+        data-urls="{{ $urls  }}" data-images="{{ $images }}" data-headings="{{ $headings }}"
+        ></div>
+{{ end }}
+<!--- Also, provide the div where the dynamic content will be attached --->
+<div class="promo-dynamic"></div>

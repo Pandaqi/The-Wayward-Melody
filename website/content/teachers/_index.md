@@ -8,9 +8,11 @@ banners: ["banner_educational_1", "banner_educational_2", "banner_educational_3"
 
 {{% double-view-item %}}
 
-Check out all the **educational materials and activities** this webshop has to offer! Use them at home or in the classroom to teach first understanding of a topic, aided by some simple exercises or challenges. Check out the [Curriculum](/info/curriculum/) page to see the age range attached to every "level" of our material, as well as the topics covered in that level.
+Check out all the **educational materials and activities** this webshop has to offer! 
 
-Check out the [Gamiverses](/gamiverses/) for educational _games_ instead. Check out [Quizmasters](/quizmasters/) for educational _quizzes_ instead.
+Use them at home or in the classroom to teach first understanding of a topic, aided by some simple exercises or challenges. Check out the [Curriculum](/info/curriculum/) page to see the age range attached to every "level" of our material, as well as the topics covered in that level.
+
+Check out the other factions for more playful and interactive ways to teach: [Quizmasters](/quizmasters/) for educational _quizzes_, [Puzzlepages](/puzzlepages/) for educational _puzzles_ and escape rooms, and [Gamiverses](/gamiverses/) for educational _games_.
 
 {{< metadata-navigation >}}
 
@@ -18,21 +20,36 @@ Check out the [Gamiverses](/gamiverses/) for educational _games_ instead. Check 
 
 {{% double-view-item %}}
 
+{{% section-foldable header="Common Charms" %}}
+
+Below are the common Charms (_types of products_) you'll find in this Faction. Visit their pages for details about what they are and what is inside once purchased.
+
+* [Lesson Material](/charm/lesson-material/)
+* [Busy Book](/charm/busy-book/)
+* [Activity (Aid)](/charm/activity-aid/)
+
+{{% /section-foldable %}}
+
 {{% section-foldable header="For whom are these materials intended?" %}}
 
 Anyone can use them, of course. Education and fun activities are not bound to age or classroom.
 
 They are, however, mainly used by **teachers** and **parents**. We try to follow established curriculae closely and make our teaching material as complete, effective and creative as possible. 
 
-That said, no single approach or textbook can ever be 100% effective for everyone every time. We do things _our_ way, a bit more magical and freeform than most. Try our methods, then try those from someone else, and then someone else again, as you offer your Apprentices a variety of experiences and explanations. That's the best way to get a deep understanding of a broad range of topics and skills.
+That said, no single approach or textbook can ever be 100% effective for everyone every time. We do things _our_ way, a bit more magical and freeform than most. Try our methods, then try the material made by someone else, and then someone else again. That's how you offer your Apprentices a variety of experiences and explanations, and are sure to find _something_ that clicks with them. 
+
+That's the best way to get a deep understanding of a broad range of topics and skills.
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="What do I get?" %}}
+{{% section-foldable header="Can I customize these?" %}}
 
-Everything provided in this category is a (digital) **PDF file**, with (infrequently) extra files or interactive components. A single printer or screen is enough to enjoy them all. 
+Most of these resources are PDFs to be printed. This gives you two ways to customize them to your liking.
 
-In many cases, you can give them to your kid/pupil to enjoy on their own. But we'll always recommend actually _sharing_ the activity with them.
+* Either use a PDF reader/editor to change the original files.
+* Or modify them after printing. (Cutting out parts, writing over other parts, leaving parts out entirely, etcetera.)
+
+In the future, we might publish the source illustrations and documents that created the PDFs in Sneakpeeks. We're still looking for the best way to use that Faction and streamline that process.
 
 {{% /section-foldable %}}
 
@@ -52,8 +69,9 @@ Unfortunately, **to say our educational systems fall short would be a massive un
 
 I create these materials based on my understanding of how learning actually works. How to make it fun and effective. How to actually achieve something, without treating children like obedient little workers. Hopefully these educational materials and activities can enlighten and satisfy many children---or adults!---around the world.
 
-{{% /section-foldable %}}
+And I hope that, after you've found these materials and used them, you might be encouraged to try materials from the _next_ Faction. Try a Quiz instead. A puzzle. An educational game. The products in Teachers are a stepping stone, a first introduction, guiding you towards the places where learning actually happens.
 
+{{% /section-foldable %}}
 
 {{% /double-view-item %}}
 

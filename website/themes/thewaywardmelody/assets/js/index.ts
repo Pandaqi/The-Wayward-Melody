@@ -4,6 +4,7 @@ import activateDynamicSections from "./dynamicSections";
 import applySearchFilters from "./search";
 import activateVariantPickers from "./variantPicker";
 import { loadLightDarkMode } from "./lightDarkMode";
+import { loadDynamicPromotions } from "./promoLoader";
 
 loadLightDarkMode();
 loadExternalProducts();
@@ -11,3 +12,4 @@ loadBundledProducts();
 activateDynamicSections();
 applySearchFilters();
 activateVariantPickers();
+loadDynamicPromotions();

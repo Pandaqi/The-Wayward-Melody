@@ -1,8 +1,12 @@
 {{- $data := partial "func/get-taxonomy-data.html" . -}}
 {{- $has_valid_value := ne $data.value nil -}}
 {{- $search_key := $data.key_readable -}}
+{{- $dynamic_class := "text-color-light-xx bg-color-mid" }}
+{{- if or (eq $data.key "spell") (eq $data.key "charm") -}}
+    {{- $dynamic_class = "text-color-dark-xx bg-color-accent-contrast" -}}
+{{- end -}}
 {{- if $has_valid_value -}}
-<a class="flex flex-center remove-link-styles text-color-light-xx gap-xs font-size-s font-accent rounded-xs bg-color-mid padding-xs hover_popup transition-m" title="{{ $data.desc }}" href="{{ $data.url }}">
+<a class="flex flex-center remove-link-styles gap-xs font-size-s font-accent rounded-xs padding-xs hover_popup transition-m {{ $dynamic_class }}" title="{{ $data.desc }}" href="{{ $data.url }}">
 {{- if .value_only -}}<span data-pagefind-meta="{{ $search_key }}" data-pagefind-filter="{{ $search_key }}">{{ $data.value_readable }}</span>
 {{- else -}}<div class="metadata-icon {{ $data.icon }}"></div><span>{{ $data.key_readable }}: <span data-pagefind-meta="{{ $search_key }}" data-pagefind-filter="{{ $search_key }}">{{ $data.value_readable }}</span></span>
 {{- end -}}

@@ -976,6 +976,10 @@ $viewport-xl: 1280px;
         width: 100%;
     }
 
+    .limit-width-xs {
+        max-width: $viewport-xs;
+    }
+
     .limit-width-s {
         max-width: $viewport-s;
     }

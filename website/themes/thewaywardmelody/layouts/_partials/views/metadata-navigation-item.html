@@ -1,10 +1,14 @@
+
 {{- $context := .context -}}
 {{- $key := .key -}}
 {{- $section := $context.Section -}}
 {{- $is_product := eq $context.Type "product" -}}
 <!--- By default, we select ALL relevant terms within a certain section --->
-{{- $all_terms := index $context.Site.Taxonomies $key -}}
-{{- $all_terms_filtered := where $all_terms "Section" $section }}
+{{- $all_terms := where (index $context.Site.Taxonomies $key) "Section" $section -}}
+{{- $all_terms_filtered := slice -}}
+{{- range $term, $pages := $all_terms -}}
+{{- $all_terms_filtered = $all_terms_filtered | append $term }} <!--- Ugly conversion necessary because the site taxonomies are a WeightedMap, not a Slice --->
+{{- end -}}
 <!--- If it's a product page, however, we only read its specific Params (if not set, empty slice, does nothing) --->
 {{- if $is_product -}}
 {{- $all_terms_filtered = or (index $context.Params $key) slice -}}
@@ -20,9 +24,10 @@
 {{- if not .hide_label -}}
 <div class="text-style-italic font-size-s">{{ $data.key_readable }}?</div>
 {{- end -}}
-{{- range $term, $pages := $all_terms_filtered -}}
-{{- $value := cond $is_product $pages $term -}} <!--- Ugly exception necessary because the site taxonomies are a WeightedMap, not a Slice --->
-{{- partial "views/metadata-item" (dict "context" $context "key" $key "value" $value "value_only" true "url_params" $url_params) -}}
+<!--- Truncate to prevent overwhelming number of options, especially on Section pages --->
+{{- $all_terms_filtered = ($all_terms_filtered | shuffle) | first 10 }}
+{{- range $pages := $all_terms_filtered -}}
+{{- partial "views/metadata-item" (dict "context" $context "key" $key "value" $pages "value_only" true "url_params" $url_params) -}}
 {{- end -}}
 </li>
 {{- end -}}

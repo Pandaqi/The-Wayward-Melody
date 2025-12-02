@@ -1,0 +1,66 @@
+# @TODO: Need something more for January/February/March?
+[valentine]
+    spell = "valentine"
+    dateStart = "02-04"
+    dateEnd = "02-18"
+    title = "Valentine's Day"
+    desc = "@TODO"
+
+[easter]
+    spell = "easter"
+    dateStart = "03-22"
+    dateEnd = "04-25"
+    title = "Easter"
+    desc = "@TODO"
+
+[mothers-day]
+    spell = "mothers-day"
+    dateStart = "04-05"
+    dateEnd = "04-18"
+    title = "Mother's Day"
+    desc = "@TODO"
+
+[fathers-day]
+    spell = "fathers-day"
+    dateStart = "06-12"
+    dateEnd = "06-25"
+    title = "Father's Day"
+    desc = "@TODO"
+
+[summer]
+    spell = "summer"
+    dateStart = "07-01"
+    dateEnd = "08-31"
+    title = "Summer (Holiday)"
+    desc = "@TODO"
+
+[animals]
+    spell = "world-animal-day"
+    dateStart = "09-20"
+    dateEnd = "10-07"
+    title = "World Animal Day"
+    desc = "@TODO"
+
+[halloween]
+    spell = "halloween"
+    dateStart = "10-10"
+    dateEnd = "11-03"
+    title = "Halloween"
+    desc = "@TODO"
+
+# @TODO: Thanksgiving? Black Friday?
+[sinterklaas]
+    spell = "sinterklaas"
+    dateStart = "11-11"
+    dateEnd = "12-05"
+    title = "Sinterklaas (nl)"
+    desc = "Het is weer die tijd van het jaar! Bekijk alle leuke Sinterklaasproducten in deze winkel en je zal vast iets vinden dat een kinderhart verblijdt."
+
+# @TODO: Split new year's eve into its own thing?
+[christmas]
+    spell = "christmas"
+    dateStart = "12-06"
+    dateEnd = "12-28"
+    title = "Christmas"
+    desc = "The days get shorter. The nights get colder. Santa Claus is coming to town. Why don't you browse our Christmas products and find something to keep yourself warm?"
+

@@ -62,3 +62,66 @@ PROMPTS FOR HEADER IMAGE GENERATION:
 Terms and Conditions Other Sources:
 * https://jumpseller.com/learn/sample-terms-and-conditions/
 * https://escaperoomgeeks.com/shop/ has a pretty nice one?
+
+
+
+
+## CHARMS
+
+### Explorers
+
+* [x] Novel
+* [x] Novella Interactiva
+* [x] Musical Album
+
+### Teachers
+
+* [x] Lesson Material -> a guide for actually giving a lesson/lecture and teaching a specific topic from start to finish
+* [x] Busy Book -> book with educational challenges and problems for a kid to work out on their own
+* [x] Activity Aid -> an activity, or general material such as flash cards to be used however you desire
+
+### Quizmasters
+
+* [x] Trivia Kit -> both digital and physical quiz experience using our system.
+* [x] Quiz Adventure -> any quiz that has custom attributes, a different way of doing things, doesn't use our system, etc
+
+### Puzzlepages
+
+* [x] Educational Puzzle
+* [x] Logic Puzzle
+* [x] Puzzle Pack
+* (Physical Puzzle)
+
+### Runaways
+
+* [x] Physical Escape Kit
+* [x] Digital Escape Kit
+* [x] Escape Calendar
+* (Merchandise Escape Kit)
+
+### Gamiverses
+
+* [x] Board Game
+* [x] Video Game
+* [x] One Button Game
+* [x] One Paper Game
+* [x] Classroom Game
+* [x] Hybrid Game
+* [x] Peerful Project
+* [x] Game Book
+
+https://www.reddit.com/r/worldbuilding/comments/ak7pc2/making_a_list_of_generic_one_word_names_for/
+
+Synonyms for a magical artifact include relic, enchantment, charm, magical item, or arcana. If you are referring to the term "artifact" in a more general sense, synonyms can include heirloom, antique, or curio. 
+Synonyms for a magical artifact
+Relic: An object surviving from an earlier time, especially one of historical or archaeological interest.
+Enchantment: A feeling of great pleasure induced by something delightful, or the state of being under a magic spell.
+Charm: A device, often magical, to protect or bring good luck.
+Magical item: In fantasy and role-playing games, an item with magical powers.
+Arcana: Secret or mysterious knowledge, or a magical object.
+Curio: A rare, unusual, or intriguing object. 
+General synonyms for artifact
+Heirloom: A valuable object that has been passed down through a family for generations.
+Antique: A collector's item, such as a piece of furniture or porcelain, from an earlier period.
+Handiwork: Something made by hand.
+Creation: A thing which has been made or invented. 

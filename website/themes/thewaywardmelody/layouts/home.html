@@ -62,4 +62,7 @@
 {{ $all_product_pages := (where .Site.Pages "Type" "product") }}
 {{ partial "products/product-list" (dict "context" . "paginator" (.Paginate $all_product_pages) "suppress_navigation" true) }}
 
+<!--- Dynamic promo based on time of year --->
+{{ partial "views/promo-data.html" . }}
+
 {{ end }}
