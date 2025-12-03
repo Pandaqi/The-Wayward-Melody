@@ -23,8 +23,9 @@ We design OBGs first and foremost for the following purposes.
 * Playing **quick games with family and friends**. Rounds are short, rules are simple, the game is very friendly with lives/restarts/mistakes.
 * Playing games in a **classroom**, with many kids being able to share a single computer.
 * Playing games with people with **disabilities or little experience gaming**. (For example, people who struggle to press _two_ buttons at once on a controller.)
+* Continuing that thought, most kids can't hold a controller or switch between buttons until they're ~6 years old. One Button Games allow **playing with even the youngest kids too**!
 * **If you want more cooperative video games.** (Not all OBGs are cooperative, but many are, and that's still a lot more cooperative video games than you'll find elsewhere!)
-* If you want more **control or customization** over the game. Most OBGs have a large array of settings you can tweak, **localized to many languages**.
+* If you want more **control over or customization within** the game. Most OBGs have a large array of settings you can tweak, **localized to many languages**.
 * You **can't guarantee you have time/energy**. All OBGs allow players to _join_ or _leave_ at any time, even while playing.
 
 Social experiences are amazing for the development and mental health of any human, and especially children. These games combine the ease and attraction of video games, with actually being together and playing together. That's why we made OBGs a reality.

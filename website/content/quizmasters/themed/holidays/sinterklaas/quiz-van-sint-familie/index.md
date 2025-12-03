@@ -52,7 +52,7 @@ duration: 60
 Dit is een **quiz over het Sinterklaasfeest**! Hij is bedoeld voor de hele familie, inclusief kinderen die eventueel nog geloven. Je hoeft maar een klein beetje te kunnen lezen en rekenen om alle vragen te volgen.
 
 {{% remark %}}
-Als je een quiz wilt doen met echt de allerjongste kinderen, verwijs ik je graag naar [Quiz van Sint: Kinderen](/quizmasters/themed/sinterklaas/quiz-van-sint-kinderen/). Deze is korter en bevat makkelijkere vragen, altijd met een plaatje/audio/video.
+Als je een quiz wilt doen met echt de allerjongste kinderen, verwijs ik je graag naar [Quiz van Sint: Kinderen](/quizmasters/themed/holidays/sinterklaas/quiz-van-sint-kinderen/). Deze is korter en bevat makkelijkere vragen, altijd met een plaatje/audio/video.
 {{% /remark %}}
 
 De quiz is speelbaar op veel manieren, zowel digitaal (open het `index.html` bestand in de browser) als analoog (print de PDFs uit). Er zijn een paar audio/video-fragmenten, maar die zijn slechts ter ondersteuning en niet cruciaal voor het spelen van elke vraag.
