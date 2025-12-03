@@ -25,6 +25,7 @@
 
 # Niceties/Future To-Do
 
+* The PROMO sections could look a little better and more fitting
 * The Section metadata overview is pretty useless anyway because it doesn't remember your _faction_ when clicking the button---it just goes for the raw term on all factions. Change it? Make it less important? Warn about this?
 * Make CURRICULUM/PHILOSOPHY page much nicer: graphics, an image for the whole "path through the factions"
 * UPDATE AI BANNERS TO PRETTIER / CUSTOM ONES. (And a smaller selection of regular ones, but a much bigger selection of the shared info ones.)
