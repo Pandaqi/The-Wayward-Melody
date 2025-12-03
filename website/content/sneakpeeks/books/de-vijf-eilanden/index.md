@@ -7,7 +7,8 @@ price: 9.95
 image: [de_vijf_eilanden_1.webp, de_vijf_eilanden_2.webp, de_vijf_eilanden_3.webp, de_vijf_eilanden_4.webp]
 file: "3db7fe7b-4321-4ef0-841d-f30a173e7de2"
 description: "Alle originele teksten, notities en tekeningen achter het boek."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - De originele illustraties in het boek (`.png` bestandsformaat, bewerkbaar `.afdesign` / `.ai` bestand)
 - Het gebruikte lettertype.

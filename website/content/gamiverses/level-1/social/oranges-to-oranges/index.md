@@ -7,6 +7,7 @@ date: 2025-07-18
 image: ["oranges-to-oranges-header.webp", "oranges-to-oranges-1.webp", "oranges-to-oranges-2.webp", "oranges-to-oranges-3.webp", "oranges-to-oranges-4.webp"]
 file: "@TODO"
 spell: "my-unbounded-imagination"
+charm: "board-game"
 description: | 
   One player picks and adjective like "strong"
   Everyne else plays a noun like "elephant" to belong

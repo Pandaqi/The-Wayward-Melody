@@ -9,7 +9,7 @@
 ## Systems To Build
 
 * **Gamiverses**: already did the conversion for the most part.
-* **Escape Rooms**: create that general system (already wrote detailed `docs.md`)
+* **Puzzlepages**: the system is like 50% done. Needs interface, interactiveness, bug fixes, cleaner API, etc
 
 ## Business
 
@@ -25,6 +25,7 @@
 
 # Niceties/Future To-Do
 
+* The Section metadata overview is pretty useless anyway because it doesn't remember your _faction_ when clicking the button---it just goes for the raw term on all factions. Change it? Make it less important? Warn about this?
 * Make CURRICULUM/PHILOSOPHY page much nicer: graphics, an image for the whole "path through the factions"
 * UPDATE AI BANNERS TO PRETTIER / CUSTOM ONES. (And a smaller selection of regular ones, but a much bigger selection of the shared info ones.)
 * LIBRARY

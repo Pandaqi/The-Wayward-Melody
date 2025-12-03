@@ -7,7 +7,8 @@ price: 9.95
 image: [vierkante_ogre_1.webp, vierkante_ogre_2.webp, vierkante_ogre_3.webp, vierkante_ogre_4.webp, vierkante_ogre_5.webp]
 file: "dda572dd-cda8-4f00-9cd9-1ff8c035fb9b"
 description: "Alle originele teksten, illustraties en andere bestanden achter het prentenboek."
-
+spell: "books-and-other-writing"
+charm: "novella-interactiva"
 contents:
 - De originele illustraties van het prentenboek (bewerkbaar `.afdesign` / `.ai` bestand)
 - De originele puzzels van het prentenboek (bewerkbaar `.afdesign` / `.ai` bestand)

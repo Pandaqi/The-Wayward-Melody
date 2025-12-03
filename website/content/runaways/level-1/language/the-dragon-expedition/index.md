@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-dragon-expedition-header.webp", "the-dragon-expedition-1.webp", "the-dragon-expedition-2.webp", "the-dragon-expedition-3.webp", "the-dragon-expedition-4.webp", "the-dragon-expedition-5.webp"]
 file: "@TODO"
 spell: "my-first-stories"
+charm: "printable-escape-kit"
 description: | 
   Your parents went on an exciting expedition
   To find a dragon, no less, but they didn't return

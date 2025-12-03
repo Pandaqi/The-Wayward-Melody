@@ -7,6 +7,7 @@ date: 2025-04-26
 image: ["my-first-colors-header.webp", "my-first-colors-1.webp", "my-first-colors-2.webp", "my-first-colors-3.webp"]
 file: "4837e985-ee36-427a-90bc-3792ed8f3534"
 spell: "my-first-colors"
+charm: "lesson-material"
 advances: "my-first-shapes"
 description: | 
   The first step to recognizing complex things in life

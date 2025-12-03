@@ -7,6 +7,7 @@ price: 9.95
 image: ["scribbles-pictures-header.webp", "scribbles-pictures-1.webp", "scribbles-pictures-2.webp", "scribbles-pictures-3.webp", "scribbles-pictures-4.webp"]
 file: "585ea86a-8fe4-4fea-a5c2-3723003a1c29"
 spell: "my-first-comparisons"
+charm: "educational-puzzle"
 description: | 
   All you need to do for this puzzle at heart
   Is know how to scribble in or outside the lines

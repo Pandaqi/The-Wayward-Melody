@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-movement-header.webp", "quiz-of-movement-1.webp", "quiz-of-movement-2.webp", "quiz-of-movement-3.webp", "quiz-of-movement-4.webp", "quiz-of-movement-5.webp", "quiz-of-movement-6.webp"]
 file: "a6f4b849-8a8e-4e87-b2ba-df7f1c932ef8"
 spell: "my-first-gross-motor-skills"
+charm: "trivia-kit"
 description: | 
   A quiz to get you moving around
   Jump, walk, run, or strike a pose

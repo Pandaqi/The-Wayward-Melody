@@ -6,7 +6,8 @@ price: 9.95
 date: 2025-10-25
 image: ["monster-on-the-loose-header.webp", "monster-on-the-loose-1.webp", "monster-on-the-loose-2.webp", "monster-on-the-loose-3.webp", "monster-on-the-loose-4.webp"]
 file: "@TODO"
-spell: ["halloween"]
+spell: "halloween"
+charm: "board-game"
 description: | 
   @TODO
 
@@ -24,7 +25,7 @@ external:
 
 level: 2
 language: "en"
-categories: ["holiday"]
+categories: ["holidays"]
 player-count: 2-7
 age: 5
 # requirements: ""

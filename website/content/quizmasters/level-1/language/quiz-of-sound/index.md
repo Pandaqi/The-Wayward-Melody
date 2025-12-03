@@ -7,6 +7,7 @@ price: 7.95
 image: ["quiz-of-sound-header.webp", "quiz-of-sound-1.webp"]
 file: "9b4baac3-b71d-4ac2-992c-3e24378f6a76"
 spell: ["my-first-sounds"]
+charm: "trivia-kit"
 description: | 
   The first step to learning language
   Is to recognize that sounds have meaning

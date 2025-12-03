@@ -7,6 +7,7 @@ price: 5.95
 image: ["riddles-of-rhymo-pre-reader-header.webp", "riddles-of-rhymo-pre-reader-1.webp", "riddles-of-rhymo-pre-reader-2.webp", "riddles-of-rhymo-pre-reader-3.webp", "riddles-of-rhymo-pre-reader-4.webp"]
 file: "079c9e03-2063-42dc-b72b-74b32df0fe3a"
 spell: ["rhyme-and-alliteration"]
+charm: "educational-puzzle"
 description: | 
   An experimental pre-reader language puzzle
   About simple rhymes

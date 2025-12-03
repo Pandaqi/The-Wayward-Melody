@@ -7,7 +7,8 @@ price: 8.95
 image: [als_dit_huis_1.webp, als_dit_huis_2.webp, als_dit_huis_3.webp]
 file: "d37287cf-a149-436c-b7e9-bc5a9f711c2b"
 description: "Alle originele teksten, notities en tekeningen achter het boek."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - De originele plaatjes van het boek (als `.webp` plaatjes, en als bewerkbaar `.afdesign` / `.ai` bestand)
 - De originele cover (als `.webp` plaatje, inclusief bewerkbaar `.afdesign` / `.ai` bestand).

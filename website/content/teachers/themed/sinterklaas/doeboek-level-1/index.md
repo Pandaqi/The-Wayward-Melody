@@ -7,6 +7,7 @@ date: 2025-11-05
 image: ["sinterklaas-doeboek-lv1-header.webp", "sinterklaas-doeboek-lv1-1.webp", "sinterklaas-doeboek-lv1-2.webp", "sinterklaas-doeboek-lv1-3.webp", "sinterklaas-doeboek-lv1-4.webp", "sinterklaas-doeboek-lv1-5.webp", "sinterklaas-doeboek-lv1-6.webp", "sinterklaas-doeboek-lv1-7.webp"]
 file: "c49a8d7b-168e-495e-bd18-da66fcfe5321"
 spell: "sinterklaas"
+charm: "busy-book"
 description: | 
   Een doeboek voor Sinterklaastijd
   Voor de jongste kinder die nog niet lezen of tellen
@@ -40,7 +41,7 @@ contents:
 level: 1
 language: "nl"
 subject: ["Mathematics", "Language"]
-categories: ["holiday", "sinterklaas"]
+categories: ["holidays", "sinterklaas"]
 player-count: 1
 age: 3
 # requirements: ""

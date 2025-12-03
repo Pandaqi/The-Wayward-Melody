@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-noisy-tongues-cover.webp", "the-noisy-tongues-screenshot-1.webp", "the-noisy-tongues-screenshot-2.webp"]
 file: "5683eb4e-314e-4f7e-a281-58b18c4311d2"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phoneme-awareness", "my-first-letters"]
+charm: "novella-interactiva"
 description: | 
   The Noisy Tongues are a folk strange
   They're always up to no good

@@ -8,7 +8,8 @@ image: de-laatste-piet-header.webp
 file: "da92695d-9a3c-4b8d-8c27-085aad08382b"
 spell: "sinterklaas"
 description: "Alle originele teksten, notities en tekeningen achter het boek."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - Het gebruikte lettertype.
 - De originele bestanden voor de cover (`.png` bestandsformaat, bewerkbaar `.afdesign` bestand)

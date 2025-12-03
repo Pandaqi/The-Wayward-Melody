@@ -7,6 +7,7 @@ date: 2025-05-05
 image: ["halloween-busy-book-lv1-header.webp", "halloween-busy-book-lv1-1.webp", "halloween-busy-book-lv1-2.webp", "halloween-busy-book-lv1-3.webp", "halloween-busy-book-lv1-4.webp", "halloween-busy-book-lv1-5.webp"]
 file: "@TODO"
 spell: "halloween"
+charm: "busy-book"
 description: | 
   @TODO
 
@@ -16,7 +17,7 @@ contents:
 level: 1
 language: "en"
 subject: ["Mathematics", "Language"]
-categories: ["holiday"]
+categories: ["holidays"]
 player-count: 1
 age: 3
 # requirements: ""

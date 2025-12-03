@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 9.95
 image: ["quiz-of-easter-pro-header.webp", "quiz-of-easter-pro-sc1.webp", "quiz-of-easter-pro-sc2.webp", "quiz-of-easter-pro-sc3.webp"]
 file: "e71631d4-2c65-4717-856f-7bcc9c2cb9dc"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "trivia-kit"
 description: | 
   To celebrate or learn about Easter
   A quiz with tough challenges and asks
@@ -21,7 +22,7 @@ contents:
 
 level: 4
 language: "en"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 player-count: 1-100
 age: 9
 # requirements: ""

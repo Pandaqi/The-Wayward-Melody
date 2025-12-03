@@ -6,7 +6,8 @@ date: 2025-09-26
 price: 9.95
 image: ["quiz-of-halloween-pro-header.webp", "quiz-of-halloween-pro-1.webp", "quiz-of-halloween-pro-2.webp", "quiz-of-halloween-pro-3.webp", "quiz-of-halloween-pro-4.webp", "quiz-of-halloween-pro-5.webp", "quiz-of-halloween-pro-6.webp", "quiz-of-halloween-pro-7.webp", "quiz-of-halloween-pro-8.webp"]
 file: "174c9955-31f0-4490-a09c-f7db3c044e6a"
-spell: "holidays-batch-1"
+spell: "halloween"
+charm: "trivia-kit"
 description: | 
   For Halloween, a spooky quiz
   About mummies, vampires, maybe a witch
@@ -21,7 +22,7 @@ contents:
 
 level: 4
 language: "en"
-categories: ["holiday", "halloween"]
+categories: ["holidays"]
 player-count: 1-100
 age: 10
 # requirements: ""

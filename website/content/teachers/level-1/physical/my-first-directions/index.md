@@ -7,6 +7,7 @@ date: 2025-04-26
 image: ["my-first-directions-header.webp", "my-first-directions-1.webp", "my-first-directions-2.webp", "my-first-directions-3.webp"]
 file: "@TODO"
 spell: "my-first-directions"
+charm: "lesson-material"
 advances: "pencil-control"
 description: | 
   Humans are physical beings in a physical space

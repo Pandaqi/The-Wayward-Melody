@@ -7,6 +7,7 @@ price: 9.95
 image: ["my-first-groups-header.webp", "my-first-groups-1.webp", "my-first-groups-2.webp", "my-first-groups-3.webp", "my-first-groups-4.webp", "my-first-groups-5.webp"]
 file: "f5267a71-5575-46fa-a681-6d673a359b7e"
 spell: "my-first-groups"
+charm: "lesson-material"
 advances: "my-first-comparisons"
 description: | 
   Once an Apprentice can contrast and compare

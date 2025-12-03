@@ -7,6 +7,7 @@ price: 9.95
 image: ["dexterity-diaries-header.webp", "dexterity-diaries-1.webp", "dexterity-diaries-2.webp", "dexterity-diaries-3.webp", "dexterity-diaries-4.webp", "dexterity-diaries-5.webp", "dexterity-diaries-6.webp", "dexterity-diaries-7.webp"]
 file: "f53d583c-9476-4009-9dd4-8f8f92ce6ecb"
 spell: "my-first-fine-motor-skills"
+charm: "novel"
 description: | 
   A group of superheroes must come together
   But their powers are not what you'd think

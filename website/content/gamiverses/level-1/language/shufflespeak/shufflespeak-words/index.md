@@ -7,6 +7,7 @@ date: 2025-07-18
 image: ["shufflespeak-words-header.webp", "shufflespeak-words-1.webp", "shufflespeak-words-2.webp", "shufflespeak-words-3.webp", "shufflespeak-words-4.webp"]
 file: "8af78714-7dea-43b1-a1ff-9d999ce21840"
 spell: ["word-awareness"]
+charm: "board-game"
 description: | 
   How do you play a language game
   With people who can't read yet?

@@ -7,6 +7,7 @@ date: 2025-04-26
 image: ["my-first-gross-motor-skills-header.webp", "my-first-gross-motor-skills-1.webp", "my-first-gross-motor-skills-2.webp", "my-first-gross-motor-skills-3.webp"]
 file: "@TODO"
 spell: "my-first-gross-motor-skills"
+charm: "lesson-material"
 description: | 
   The most important thing for any human, short or long
   Is to move a lot and make their body strong

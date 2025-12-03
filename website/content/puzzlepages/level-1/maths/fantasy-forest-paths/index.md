@@ -7,6 +7,7 @@ price: 9.95
 image: ["fantasy-forest-paths-header.webp", "fantasy-forest-paths-1.webp", "fantasy-forest-paths-2.webp", "fantasy-forest-paths-3.webp", "fantasy-forest-paths-4.webp"]
 file: "c0452b25-8839-45a4-89a2-bc938b492697"
 spell: "my-first-comparisons"
+charm: "educational-puzzle"
 description: | 
   Some colorful characters walk through the woods
   They arrive at a crossroads; what should they choose?

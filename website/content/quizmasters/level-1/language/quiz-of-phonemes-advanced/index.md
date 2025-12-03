@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-phonemes-advanced-header.webp", "quiz-of-phonemes-advanced-1.webp", "quiz-of-phonemes-advanced-2.webp", "quiz-of-phonemes-advanced-3.webp", "quiz-of-phonemes-advanced-4.webp", "quiz-of-phonemes-advanced-5.webp"]
 file: "c60c99a0-284a-4d1d-8e8b-0d7def4e34a1"
 spell: ["phonemic-fun"]
+charm: "trivia-kit"
 description: | 
   For language awareness this is the final step
   Add, delete and change phonemes to make words

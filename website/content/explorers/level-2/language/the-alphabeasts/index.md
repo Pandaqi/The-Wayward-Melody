@@ -7,6 +7,7 @@ price: 1.95
 image: ""
 file: "@TODO"
 spell: ["my-first-letters"]
+charm: "novella-interactiva"
 description: | 
   In enchanted woods not far from here
   Lived a dragon, a rhino, and even a bear

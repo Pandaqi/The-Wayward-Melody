@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-van-sint-kinderen-header.webp", "quiz-van-sint-kinderen-1.webp", "quiz-van-sint-kinderen-2.webp", "quiz-van-sint-kinderen-3.webp", "quiz-van-sint-kinderen-4.webp", "quiz-van-sint-kinderen-5.webp", "quiz-van-sint-kinderen-6.webp"]
 file: "9400c3a4-bac6-4398-aeac-1770995d22d5"
 spell: "sinterklaas"
+charm: "trivia-kit"
 description: | 
   Wat is er leuker voor kinderen
   Dan het feest van Sinterklaas?
@@ -20,7 +21,7 @@ contents:
 
 level: 1
 language: "nl"
-categories: ["holiday", "sinterklaas"]
+categories: ["holidays", "sinterklaas"]
 player-count: 1-100
 age: 4
 # requirements: ""

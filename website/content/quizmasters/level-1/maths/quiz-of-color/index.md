@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-color-header.webp", "quiz-of-color-1.webp", "quiz-of-color-2.webp"]
 file: "a261b814-413f-4cbb-a040-2ead6782502e"
 spell: ["my-first-colors"]
+charm: "trivia-kit"
 description: | 
   A quiz to test your understanding
   Of colors, tints and shades

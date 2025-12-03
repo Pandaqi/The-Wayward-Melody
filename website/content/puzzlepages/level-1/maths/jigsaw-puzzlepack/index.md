@@ -7,6 +7,7 @@ price: 7.95
 image: ["the-jigsaw-puzzlepack-header.webp", "jigsaw-puzzlepack-1.webp", "jigsaw-puzzlepack-2.webp", "jigsaw-puzzlepack-3.webp", "jigsaw-puzzlepack-4.webp"]
 file: "04f3ee34-00c1-4eb5-8e77-12f9fc8dd044"
 spell: ["my-first-shapes"]
+charm: "educational-puzzle"
 description: | 
   One of the earliest activities
   That any Apprentice can do and enjoy

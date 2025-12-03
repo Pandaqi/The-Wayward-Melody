@@ -7,6 +7,7 @@ date: 2025-11-05
 image: ["het-grote-sinterklaasspel-header.webp", "het-grote-sinterklaasspel-1.webp", "het-grote-sinterklaasspel-2.webp", "het-grote-sinterklaasspel-3.webp", "het-grote-sinterklaasspel-4.webp", "het-grote-sinterklaasspel-5.webp", "het-grote-sinterklaasspel-6.webp", "het-grote-sinterklaasspel-7.webp", "het-grote-sinterklaasspel-8.webp"]
 file: "c2450916-d78b-49d4-b954-0e16525b13be"
 spell: "sinterklaas"
+charm: "board-game"
 description: | 
   Zoek je iets te doen op Pakjesavond?
   Of een educatieve ervaring met Sinterklaastijd?
@@ -19,7 +20,7 @@ contents:
 
 level: [1,2] # @TODO: check if multilevel products are even supported by template code!
 language: "nl"
-categories: ["holiday", "sinterklaas"]
+categories: ["holidays", "sinterklaas"]
 player-count: 2-8
 age: 4
 # requirements: ""

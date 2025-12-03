@@ -7,6 +7,7 @@ price: 9.95
 image: ["roundabout-rovers-header.webp", "roundabout-rovers-1.webp", "roundabout-rovers-2.webp", "roundabout-rovers-3.webp", "roundabout-rovers-4.webp", "roundabout-rovers-5.webp", "roundabout-rovers-6.webp", "roundabout-rovers-7.webp", "roundabout-rovers-8.webp"]
 file: "44607c72-3e25-4afb-9ea1-790ebd4786ab"
 spell: "my-first-directions"
+charm: "novella-interactiva"
 advances: "pencil-control"
 description: | 
   The Roundabout Rovers roam the seas

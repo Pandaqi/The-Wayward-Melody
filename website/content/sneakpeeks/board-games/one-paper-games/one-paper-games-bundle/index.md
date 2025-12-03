@@ -9,8 +9,9 @@ file: "77ef6303-42d8-46af-b423-876973d49f34"
 description: "All original notes, assets, illustrations and other work behind the first handful of One Paper Games."
 language: "en"
 level: 3
-categories: ["one-paper-games", "games-bundle"]
-
+categories: []
+spell: "pandaqi-games"
+charm: "one-paper-game"
 contents:
 - This bundle contains **Paper Thieves**, **Epic Medics**, **One Pizza The Puzzle**, **Timely Transports** and **Unstable Universe**.
 - The `deliverables` folder contains the final rulebook and material PDFs for playing the game!

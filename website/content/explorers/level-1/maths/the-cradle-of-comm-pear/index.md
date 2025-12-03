@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-cradle-of-comm-pear-header.webp", "the-cradle-of-comm-pear-1.webp", "the-cradle-of-comm-pear-2.webp", "the-cradle-of-comm-pear-3.webp", "the-cradle-of-comm-pear-4.webp"]
 file: "a0f8ad06-c3ae-4c3c-a50c-093324e6bef2"
 spell: "my-first-comparisons"
+charm: "novel"
 advances: "my-first-colors"
 description: | 
   A father pear was about to have a baby

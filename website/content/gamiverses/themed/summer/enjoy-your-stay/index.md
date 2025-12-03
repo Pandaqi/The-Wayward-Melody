@@ -6,7 +6,8 @@ price: 13.95
 date: 2025-05-05
 image: ["enjoy-your-stay-header.webp", "enjoy-your-stay-1.webp", "enjoy-your-stay-2.webp", "enjoy-your-stay-3.webp"]
 file: "dc988aea-40ac-4f46-a2d4-7035c8a7e526"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "board-game"
 description: | 
   Race around the dynamic game board
   Buying or improving hotels, resorts, and more
@@ -27,7 +28,7 @@ external:
 
 level: 2
 language: "en"
-categories: ["holiday", "summer", "counting", "money"]
+categories: ["holidays", "counting", "money"]
 player-count: 2-6
 age: 5
 # requirements: ""

@@ -6,7 +6,8 @@ price: 12.95
 date: 2025-05-05
 image: ["summer-busy-book-lv2-header.webp", "summer-busy-book-lv2-1.webp", "summer-busy-book-lv2-2.webp", "summer-busy-book-lv2-3.webp", "summer-busy-book-lv2-4.webp", "summer-busy-book-lv2-5.webp"]
 file: "8c1438a4-2dc3-45b4-8227-88049bfe9ca5"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "busy-book"
 description: | 
   What to do on a long car trip?
   Or a lazy summer afternoon?
@@ -39,7 +40,7 @@ contents:
 level: 2
 language: "en"
 subject: ["Mathematics", "Language"]
-categories: ["holiday", "summer"]
+categories: ["holidays"]
 player-count: 1
 age: 5
 # requirements: ""

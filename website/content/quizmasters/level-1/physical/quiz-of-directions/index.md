@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-directions-header.webp", "quiz-of-directions-1.webp", "quiz-of-directions-2.webp", "quiz-of-directions-3.webp", "quiz-of-directions-4.webp", "quiz-of-directions-5.webp", "quiz-of-directions-6.webp"]
 file: "d38ec337-6a77-42ec-832f-7ff4badc23de"
 spell: "my-first-directions"
+charm: "trivia-kit"
 description: | 
   A quiz to test your understanding
   Of what is left and what is right

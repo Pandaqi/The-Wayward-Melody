@@ -6,7 +6,8 @@ price: 9.95
 date: 2025-02-18
 image: ["boardgame-book-header.webp", "boardgame-book-1.webp", "boardgame-book-2.webp", "boardgame-book-3.webp", "boardgame-book-4.webp"]
 file: "9dcb3eb7-e9fb-400a-a26c-2e9dbe14beef"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "boardgame-book"
 description: | 
   When Easter rolls around
   Children want to explore and play
@@ -27,7 +28,7 @@ contents:
 level: 2
 language: "en"
 subject: ["Mathematics", "Language"]
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 player-count: 2-6
 age: 4
 # requirements: ""

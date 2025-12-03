@@ -7,6 +7,7 @@ price: 5.95
 image: ["equisonico-pre-reader-header.webp", "equisonico-pre-reader-1.webp", "equisonico-pre-reader-2.webp", "equisonico-pre-reader-3.webp"]
 file: "38ae5c2e-d68d-49d8-b0b8-783a45ceb711"
 spell: ["phoneme-awareness"]
+charm: "educational-puzzle"
 description: | 
   A puzzle for pre-readers
   Testing phoneme skills through homophones

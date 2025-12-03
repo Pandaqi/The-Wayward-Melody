@@ -7,6 +7,7 @@ price: 12.95
 image: ["the-shapesquare-stories-header.webp", "the-shapesquare-stories-1.webp", "the-shapesquare-stories-2.webp", "the-shapesquare-stories-3.webp", "the-shapesquare-stories-4.webp", "the-shapesquare-stories-5.webp"]
 file: "a5f651df-76e6-40a5-9464-35b72f35af39"
 spell: ["my-first-shapes"]
+charm: "novel"
 advances: "recognition-and-discrimination"
 description: | 
   Once there was an evil king

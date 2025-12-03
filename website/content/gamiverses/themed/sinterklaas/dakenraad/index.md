@@ -7,6 +7,7 @@ date: 2025-11-05
 image: ["dakenraad-header.webp", "dakenraad-1.webp", "dakenraad-2.webp", "dakenraad-3.webp", "dakenraad-4.webp", "dakenraad-5.webp", "dakenraad-6.webp"]
 file: "330f6e13-5d1a-4e6a-88d1-1181b17feb5f"
 spell: ["sinterklaas"]
+charm: "board-game"
 description: | 
   Werk samen en bezorg alle pakjes
   Voordat op Pakjesavond de klok slaat
@@ -19,7 +20,7 @@ contents:
 
 level: 2
 language: "nl"
-categories: ["holiday", "sinterklaas", "colors", "shapes", "counting"]
+categories: ["holidays", "sinterklaas", "colors", "shapes", "counting"]
 player-count: 2-5
 age: 6
 # requirements: ""

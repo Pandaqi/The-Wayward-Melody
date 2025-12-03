@@ -6,7 +6,8 @@ date: 2025-05-05
 price: 8.95
 image: ["cant-escape-the-sun-header.webp", "cant-escape-the-sun-1.webp", "cant-escape-the-sun-2.webp", "cant-escape-the-sun-3.webp"]
 file: "ddf0e9f2-d21f-4a43-a9ad-dcadec1b3cf3"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "printable-escape-kit"
 description: | 
   A sort of mini escape kit
   For kids and families, some holiday fun
@@ -20,7 +21,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "summer"]
+categories: ["holidays"]
 player-count: 1-8
 age: 5
 # requirements: ""

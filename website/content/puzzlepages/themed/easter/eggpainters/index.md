@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 9.95
 image: ""
 file: "@TODO"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "logic-puzzle"
 description: | 
   This challenging Easter-themed puzzle here
   Has you drawing eggs with patterns rare
@@ -19,7 +20,7 @@ contents:
 level: 2
 language: "en"
 subject: "Mathematics"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 
 ---
 

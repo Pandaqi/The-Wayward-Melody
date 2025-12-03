@@ -7,6 +7,7 @@ date: 2025-07-18
 image: ["shufflespeak-syllables-header.webp", "shufflespeak-syllables-1.webp", "shufflespeak-syllables-2.webp", "shufflespeak-syllables-3.webp"]
 file: "086a86dd-29db-4038-b471-b61287d04535"
 spell: ["syllable-awareness"]
+charm: "board-game"
 description: | 
   How do you play a language game
   With people who can't read yet?

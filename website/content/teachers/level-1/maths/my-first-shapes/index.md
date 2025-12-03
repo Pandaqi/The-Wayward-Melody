@@ -7,6 +7,7 @@ price: 9.95
 image: ["my-first-shapes-header.webp", "my-first-shapes-1.webp", "my-first-shapes-2.webp", "my-first-shapes-3.webp"]
 file: "9e601ca1-da5d-4951-92d1-502b6273c863"
 spell: "my-first-shapes"
+charm: "lesson-material"
 advances: "recognition-and-discrimination"
 description: | 
   The first step to recognizing complex things in life

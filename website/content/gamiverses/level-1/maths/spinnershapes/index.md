@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["spinnershapes-header.webp", "spinnershapes-1.webp", "spinnershapes-2.webp", "spinnershapes-3.webp"]
 file: "1c40a3dc-8386-455e-ac37-5eca6cdcf0ee"
 spell: ["my-first-shapes"]
+charm: "board-game"
 description: | 
   Race to the finish first
   On a board with basic colors and shapes

@@ -7,6 +7,7 @@ price: 8.95
 image: ["quiz-of-linebreak-header.webp", "quiz-of-linebreak-screenshot.webp"]
 file: "21ab2ceb-0839-4509-92eb-7ad68fd5200a"
 spell: ["word-awareness"]
+charm: "trivia-kit"
 description: | 
   The next step to learning language
   Is to break it down into individual parts

@@ -6,7 +6,8 @@ date: 2025-05-05
 price: 14.95
 image: ["summer-puzzlepack-header.webp", "summer-puzzlepack-1.webp", "summer-puzzlepack-2.webp", "summer-puzzlepack-3.webp", "summer-puzzlepack-4.webp", "summer-puzzlepack-5.webp"]
 file: "ba1a2204-2cf2-4f91-80d2-63243a46df60"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "puzzle-pack"
 description: | 
   With a book full of puzzles so fine
   About summer, holiday and more
@@ -44,7 +45,7 @@ contents:
 level: 2
 language: "en"
 subject: ["Mathematics", "Language"]
-categories: ["holiday", "summer"]
+categories: ["holidays"]
 player-count: 1
 age: 5
 # requirements: ""

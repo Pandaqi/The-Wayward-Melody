@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 8.95
 image: ["quiz-of-summer-header.webp", "quiz-of-summer-1.webp", "quiz-of-summer-2.webp", "quiz-of-summer-3.webp", "quiz-of-summer-4.webp", "quiz-of-summer-5.webp"]
 file: "6371e8cb-7ee3-4bc5-88a3-db6fbaf8a9f4"
-spell: ["seasons"]
+spell: "summer-holiday"
+charm: "trivia-kit"
 description: | 
   Ah, the season of summer arrived
   A longer day, a warmer night
@@ -21,7 +22,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["summer", "seasons"]
+categories: ["seasons"]
 player-count: 1-100
 age: 6
 # requirements: ""

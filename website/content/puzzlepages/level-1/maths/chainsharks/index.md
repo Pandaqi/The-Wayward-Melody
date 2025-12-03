@@ -7,6 +7,7 @@ price: 9.95
 image: ["chainsharks-header.webp", "chainsharks-1.webp", "chainsharks-2.webp", "chainsharks-3.webp", "chainsharks-4.webp", "chainsharks-5.webp", "chainsharks-6.webp"]
 file: "940d461f-9e0c-4f3b-bdfc-bc988f1c3f4f"
 spell: "my-first-comparisons"
+charm: "educational-puzzle"
 description: | 
   It's eat or be eaten, this chain
   In the ocean filled with many fish

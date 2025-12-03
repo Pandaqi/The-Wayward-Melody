@@ -7,6 +7,7 @@ price: 9.95
 image: ""
 file: "@TODO"
 spell: "my-first-numbers"
+charm: "lesson-material"
 advances: "my-first-groups"
 description: | 
   Once your apprentice has mastered comparing, sorting and more

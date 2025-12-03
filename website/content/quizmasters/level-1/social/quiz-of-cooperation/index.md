@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-grouping-header.webp", "quiz-of-grouping-1.webp", "quiz-of-grouping-2.webp"]
 file: "@TODO"
 spell: "my-first-groups"
+charm: "trivia-kit"
 description: | 
   A quiz to test your understanding
   Of grouping animals, food, clothes, and more

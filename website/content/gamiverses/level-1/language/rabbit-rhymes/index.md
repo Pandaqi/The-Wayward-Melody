@@ -7,6 +7,7 @@ date: 2025-07-18
 image: ["rabbit-rhymes-header.webp", "rabbit-rhymes-1.webp", "rabbit-rhymes-2.webp", "rabbit-rhymes-3.webp", "rabbit-rhymes-4.webp"]
 file: "446ef455-fe24-43d5-9d26-27d698e990a3"
 spell: ["rhyme-and-alliteration"]
+charm: "board-game"
 description: | 
   A physical game
   That has kids hopping like bunnies

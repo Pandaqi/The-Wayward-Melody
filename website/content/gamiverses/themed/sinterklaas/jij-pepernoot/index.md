@@ -7,6 +7,7 @@ date: 2025-11-05
 image: ["jij-pepernoot-header.webp", "jij-pepernoot-1.webp", "jij-pepernoot-2.webp", "jij-pepernoot-3.webp", "jij-pepernoot-4.webp", "jij-pepernoot-5.webp"]
 file: "7c40b35e-0117-48c1-aac2-ce0b329609ca"
 spell: "sinterklaas"
+charm: "board-game"
 description: | 
   Je wilt Sinterklaas graag helpen in nood
   Alles op een rijtje voor het grote feest
@@ -19,7 +20,7 @@ contents:
 
 level: 1
 language: "nl"
-categories: ["holiday", "sinterklaas"]
+categories: ["holidays", "sinterklaas"]
 player-count: 2-8
 age: 4
 # requirements: ""

@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-tumbletail-games-header.webp", "the-tumbletail-games-1.webp", "the-tumbletail-games-2.webp", "the-tumbletail-games-3.webp"]
 file: "@TODO"
 spell: "my-first-gross-motor-skills"
+charm: "novella-interactiva"
 description: | 
   The Tumbletail Games is a legendary sporting event
   Attracting elephants, tigers, cheetahs, and more

@@ -6,7 +6,8 @@ date: 2025-05-05
 price: 18.95
 image: ["the-genius-resort-header.webp", "the-genius-resort-1.webp", "the-genius-resort-2.webp", "the-genius-resort-3.webp", "the-genius-resort-4.webp", "the-genius-resort-5.webp", "the-genius-resort-6.webp"]
 file: "82fb66df-1b6c-4f00-960b-e6d5ee3cb4d0"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "escape-calendar"
 description: | 
   An escape calender to track the days
   Solve a little puzzle each summer day, like a sport
@@ -23,7 +24,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "summer", "escape-calendar"]
+categories: ["holidays"]
 player-count: 1-4
 age: 5
 # requirements: ""

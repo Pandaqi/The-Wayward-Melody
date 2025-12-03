@@ -9,7 +9,8 @@ file: "e85d11e5-ea29-478b-b668-7ae9dc14c912"
 description: "All original notes, assets, illustrations and other work behind the game."
 language: ["en", "nl"]
 level: 3
-
+spell: "pandaqi-games"
+charm: "board-game"
 contents:
 - Contains the **old version** of the Naivigation game idea, both in **English** and **Dutch**.
 - "Dutch: all `.ai` files to be opened in **Adobe Illustrator** + final material PDFs"

@@ -7,7 +7,8 @@ date: 2025-05-05
 price: 9.95
 image: ["saving-sergeant-sandcastle-header.webp", "saving-sergeant-sandcastle-1.webp", "saving-sergeant-sandcastle-2.webp", "saving-sergeant-sandcastle-3.webp"]
 file: "@TODO"
-spell: "summer-batch-1"
+spell: "summer-holiday"
+charm: "novel"
 description: | 
   @TODO
 
@@ -17,7 +18,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "summer"]
+categories: ["holidays"]
 
 ---
 

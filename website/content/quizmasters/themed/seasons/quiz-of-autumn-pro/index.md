@@ -6,7 +6,8 @@ date: 2025-09-26
 price: 9.95
 image: ["quiz-of-autumn-pro-header.webp", "quiz-of-autumn-pro-1.webp", "quiz-of-autumn-pro-2.webp", "quiz-of-autumn-pro-3.webp", "quiz-of-autumn-pro-4.webp", "quiz-of-autumn-pro-5.webp", "quiz-of-autumn-pro-6.webp"]
 file: "ab5fda0b-43e3-406b-98f5-42c3f454b5e5"
-spell: "seasons"
+spell: "autumn"
+charm: "trivia-kit"
 description: | 
   Ah, the season of autumn arrived
   Leaves fall down, a longer night
@@ -21,7 +22,7 @@ contents:
 
 level: 4
 language: "en"
-categories: ["seasons", "autumn"]
+categories: ["seasons"]
 player-count: 1-100
 age: 10
 # requirements: ""

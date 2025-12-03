@@ -6,7 +6,8 @@ price: 19.95
 date: 2025-05-05
 image: ["travelers-of-teach-header.webp", "travelers-of-teach-1.webp", "travelers-of-teach-2.webp", "travelers-of-teach-3.webp", "travelers-of-teach-4.webp", "travelers-of-teach-5.webp", "travelers-of-teach-6.webp"]
 file: "4c5f720b-824c-440d-8d36-ccecf1a33cdc"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "board-game"
 description: | 
   Travel the magical road of Teach
   Where the player who is furthest behind always gets the next turn
@@ -29,7 +30,7 @@ external:
 
 level: 1
 language: "en"
-categories: ["holiday", "summer", "counting", "money", "color", "shape", "matching", "logic", "multiplication", "alphabet", "letters"]
+categories: ["holidays", "counting", "money", "color", "shape", "matching", "logic", "multiplication", "alphabet", "letters"]
 player-count: 2-6
 age: 4
 # requirements: ""

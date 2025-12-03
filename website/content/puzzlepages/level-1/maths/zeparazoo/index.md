@@ -7,6 +7,7 @@ price: 9.95
 image: ["zeparazoo-header.webp", "zeparazoo-1.webp", "zeparazoo-2.webp", "zeparazoo-3.webp", "zeparazoo-4.webp", "zeparazoo-5.webp"]
 file: "2d3645d2-69fe-4fca-b5c7-b03bc37c63ab"
 spell: "my-first-comparisons"
+charm: "educational-puzzle"
 description: | 
   Separate the animals in the zoo
   By placing physical fences between some pairs

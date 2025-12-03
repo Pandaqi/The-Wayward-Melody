@@ -7,7 +7,8 @@ price: 4.95
 image: this-year-was-supposed-to-be-my-best-header.webp
 file: "364f7c40-e6c6-467b-832d-2f03cd998b82"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - The ORIGINAL project file, including all individual tracks and recordings

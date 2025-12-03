@@ -7,7 +7,8 @@ price: 9.95
 image: [boek_tegen_school_1.webp, boek_tegen_school_2.webp, boek_tegen_school_3.webp]
 file: "ee996de9-ad85-4e5d-bf52-6f72e6961158"
 description: "Alle originele teksten, notities en tekeningen/cartoons achter het boek."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - De originele (60+) cartoons getekend voor het boek (`.png` bestandsformaat, `.kra` bestand bewerkbaar in gratis tekenprogramma **Krita**)
 - De originele extra tekeningen voor het boek (`.png`, bewerkbaar `.afdesign` bestand)

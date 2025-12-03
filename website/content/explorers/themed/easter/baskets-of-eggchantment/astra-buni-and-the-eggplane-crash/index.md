@@ -7,7 +7,8 @@ date: 2025-03-01
 price: 4.95
 image: "astra-buni-and-the-eggplane-crash-header.webp"
 file: "@TODO"
-spell: ["baskets-of-eggchantment"]
+spell: "baskets-of-eggchantment"
+charm: "novel"
 description: | 
   Did I ever tell you eggs have magical powers?
   They can fly or sing, depending on how you paint them
@@ -19,7 +20,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 
 ---
 

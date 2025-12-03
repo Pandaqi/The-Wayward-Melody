@@ -7,6 +7,7 @@ price: 9.95
 image: ["phonemic-phun-header.webp", "phonemic-phun-1.webp", "phonemic-phun-2.webp", "phonemic-phun-3.webp", "phonemic-phun-4.webp"]
 file: "ccdf89dc-f780-4c4d-8b07-fb6af2fa2b78"
 spell: "phoneme-awareness"
+charm: "lesson-material"
 advances: "rhyme-and-alliteration"
 description: | 
   The final step to phonetic awareness

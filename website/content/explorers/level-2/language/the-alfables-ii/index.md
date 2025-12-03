@@ -7,6 +7,7 @@ price: 8.95
 image: "the-alfables-ii-header.webp"
 file: "@TODO"
 spell: ["my-first-letters"]
+charm: "novel"
 description: | 
   @TODO
 

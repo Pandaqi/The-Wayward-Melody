@@ -9,7 +9,8 @@ file: "9495143b-c592-45fd-9300-a2313526c7f2"
 description: "All original notes, assets, illustrations and other work behind the game."
 language: "en"
 level: 2
-
+spell: "pandaqi-games"
+charm: "board-game"
 contents:
 - The `deliverables` folder contains the final rulebook and material PDFs for playing the game!
 - Rulebook images (`.webp`, editable `.afdesign` file).

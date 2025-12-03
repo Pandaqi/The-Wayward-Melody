@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-mysterious-disappearance-of-hannahs-house-header.webp", "the-mysterious-disappearance-of-hannahs-house-1.webp", "the-mysterious-disappearance-of-hannahs-house-2.webp", "the-mysterious-disappearance-of-hannahs-house-3.webp", "the-mysterious-disappearance-of-hannahs-house-4.webp", "the-mysterious-disappearance-of-hannahs-house-5.webp"]
 file: "@TODO"
 spell: "my-first-stories"
+charm: "printable-escape-kit"
 description: | 
   When Hannah came home, her house was gone
   Her town map was lost too---now where does she belong?

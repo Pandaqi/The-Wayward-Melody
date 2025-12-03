@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-crackel-collective-header.webp", "the-crackel-collective-1.webp", "the-crackel-collective-2.webp", "the-crackel-collective-3.webp"]
 file: "@TODO"
 spell: "collaboration"
+charm: "novel"
 description: | 
   A world where teamwork is required
   A world where teamwork is forbidden

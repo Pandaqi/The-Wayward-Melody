@@ -6,7 +6,8 @@ price: 9.95
 date: 2025-05-05
 image: ["camp-count-header.webp", "camp-count-1.webp", "camp-count-2.webp", "camp-count-3.webp"]
 file: "d1ec11bc-3918-4397-84ed-761f7c635ce2"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "board-game"
 description: | 
   Place your little tents, together or alone
   But don't forget to check the ground
@@ -19,7 +20,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "summer", "counting", "spatial-awareness"]
+categories: ["holidays", "counting", "spatial-awareness"]
 player-count: 2-6
 age: 4
 # requirements: ""

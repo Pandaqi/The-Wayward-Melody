@@ -7,6 +7,7 @@ price: 8.95
 image: ["quiz-of-wordbreak-header.webp", "quiz-of-wordbreak-screenshot.webp"]
 file: "70dd747f-9e5c-4763-8a86-b1602d2a1a7e"
 spell: ["syllable-awareness"]
+charm: "trivia-kit"
 description: | 
   The next step to learning language
   Is to break words down into smaller parts

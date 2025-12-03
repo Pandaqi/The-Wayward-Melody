@@ -10,7 +10,8 @@ description: "Een collectie van Tiamo's allereerste pogingen tot het maken van b
 language: "nl"
 level: 3
 categories: ["games-bundle"]
-
+spell: "pandaqi-games"
+charm: "board-game"
 contents:
 - Bevat de projecten **Slingerende Schoten**, **Scheve Schapenschutters**, **De Dierenbandiet**, **Tower of Zero**, **Che-ou-Wyen**, en **Levensweg Verbeterd**.
 - De uiteindelijke PDFs met de volledige regels en het benodigde spelmateriaal.

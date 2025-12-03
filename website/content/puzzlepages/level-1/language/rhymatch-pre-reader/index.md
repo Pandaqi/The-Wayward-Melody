@@ -7,6 +7,7 @@ price: 6.95
 image: ["rhymatch-pre-reader-header.webp", "rhymatch-pre-reader-1.webp", "rhymatch-pre-reader-2.webp", "rhymatch-pre-reader-3.webp"]
 file: "1f09dd1e-b0fe-4e4f-9f03-b859f4686e8d"
 spell: ["rhyme-and-alliteration"]
+charm: "educational-puzzle"
 description: | 
   For pre-readers, a puzzle unseen
   To test word knowledge and rhyme

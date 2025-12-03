@@ -7,7 +7,8 @@ price: 4.95
 image: is-it-too-much-to-ask-header.webp
 file: "af568a92-b9e9-404a-87de-1f8a4750d641"
 description: "The high-quality music files and original notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - Original notes + demo recordings/original ideas

@@ -7,6 +7,7 @@ price: 9.95
 image: ["potent-pentominoes-header.webp", "potent-pentominoes-1.webp", "potent-pentominoes-2.webp", "potent-pentominoes-3.webp", "potent-pentominoes-4.webp"]
 file: "e1f77178-be4b-4b78-a4ca-e1f02aa7809f"
 spell: ["tessellas-toolbox", "my-first-shapes"]
+charm: "educational-puzzle"
 description: | 
   Tessella reached into her toolbox
   And came back with a pile of Pentominoes!

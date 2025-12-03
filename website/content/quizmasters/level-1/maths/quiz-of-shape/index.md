@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-shape-header.webp", "quiz-of-shape-1.webp", "quiz-of-shape-2.webp"]
 file: "b06d120d-8c8b-4c83-8bfd-65c9f2473dd3"
 spell: ["my-first-shapes"]
+charm: "trivia-kit"
 description: | 
   A quiz to test your understanding
   Of basic shapes, corners, polygons and forms

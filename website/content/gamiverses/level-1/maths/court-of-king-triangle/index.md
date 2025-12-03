@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["court-of-king-triangle-header.webp", "court-of-king-triangle-1.webp", "court-of-king-triangle-2.webp", "court-of-king-triangle-3.webp"]
 file: "89e16d35-64d9-4ba5-963c-2ea1c681e889"
 spell: ["my-first-shapes"]
+charm: "board-game"
 description: | 
   Play evil King Triangle 
   Or one of the Rebelshapes

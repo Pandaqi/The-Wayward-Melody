@@ -7,6 +7,7 @@ price: 9.95
 image: ["brainblankets-header.webp", "brainblankets-1.webp", "brainblankets-2.webp", "brainblankets-3.webp", "brainblankets-4.webp", "brainblankets-5.webp", "brainblankets-6.webp"]
 file: "082404a5-389a-48c0-8603-158471b87632"
 spell: "my-first-groups"
+charm: "educational-puzzle"
 description: | 
   A nice day at the beach
   But what do my eyes see?

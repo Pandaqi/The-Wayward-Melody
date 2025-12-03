@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["duo-dengames-classics-header.webp", "duo-dengames-classics-screenshot-1.webp", "duo-dengames-classics-screenshot-2.webp", "duo-dengames-classics-screenshot-3.webp"]
 file: "a882d3ce-fd26-47a6-806e-2ba4c87aa015"
 spell: ["duo-dengames"]
+charm: "boardgame-book"
 description: | 
   The earliest games humans invented
   Were abstract games, simple rules and no text

@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 7.95
 image: ["quiz-of-holiday-family-header.webp", "quiz-of-holiday-family-1.webp", "quiz-of-holiday-family-2.webp", "quiz-of-holiday-family-3.webp", "quiz-of-holiday-family-4.webp"]
 file: "bbdbed1b-2a80-47b3-bbbf-be8b994eac40"
-spell: "holidays-batch-1"
+spell: "summer-holiday"
+charm: "trivia-kit"
 description: | 
   A quiz for a summer night
   On holiday, below sunlight
@@ -21,7 +22,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "summer"]
+categories: ["holidays"]
 player-count: 1-100
 age: 5
 # requirements: ""

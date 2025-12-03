@@ -7,7 +7,8 @@ price: 4.95
 image: a-ship-to-something-header.webp
 file: "3c35347a-b820-47ec-ba6f-8a7a335ab806"
 description: "The high-quality music files and original notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - Original notes + demo recordings/original ideas

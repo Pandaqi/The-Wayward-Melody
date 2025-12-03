@@ -7,6 +7,7 @@ price: 9.95
 image: ["phantasy-phonics-header.webp", "phantasy-phonics-1.webp", "phantasy-phonics-2.webp", "phantasy-phonics-3.webp", "phantasy-phonics-4.webp"]
 file: "bf320428-63f9-4225-881e-3eb5d9cb9687"
 spell: "phoneme-awareness"
+charm: "lesson-material"
 advances: "rhyme-and-alliteration"
 description: | 
   The final step to phonetic awareness

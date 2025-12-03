@@ -7,7 +7,8 @@ price: 9.95
 image: [konijnenklas_0.webp, konijnenklas_1.webp, konijnenklas_2.webp, konijnenklas_3.webp, konijnenklas_4.webp]
 file: "06cc1732-8a6b-4621-aae8-cd6a4da01449"
 description: "Alle losse tekeningen achter het prentenboek."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - De originele plaatjes van het prentenboek (`.webp` bestandsformaat, bewerkbaar `.krz` bestand voor openen in **Krita**).
 - De originele cover (`.webp` bestand, bewerkbaar `.krz` bestand, en `.ai` bestand voor openen in **Adobe Illustrator**).

@@ -7,6 +7,7 @@ price: 8.95
 image: ["the-treasure-of-squaro-header.webp", "the-treasure-of-squaro-1.webp", "the-treasure-of-squaro-2.webp"]
 file: "17b4a1f0-8cc3-4365-a6de-5ce112786f8c"
 spell: ["my-first-shapes"]
+charm: "printable-escape-kit"
 description: | 
   A visual escape room for young kids
   Testing your shape knowledge and wits

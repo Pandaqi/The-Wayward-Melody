@@ -7,6 +7,7 @@ price: 9.95
 image: "pre-reader-prompt-cards-header.webp"
 file: "@TODO"
 spell: "word-awareness"
+charm: "activity-aid"
 description: | 
   A huge bundle of cards to cut out
   With custom drawings showing familiar things

@@ -8,6 +8,7 @@ price: 9.95
 image: ""
 file: "@TODO"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phoneme-awareness", "my-first-letters"]
+charm: "digital-escape-kit"
 description: | 
   @TODO
 

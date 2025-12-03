@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 9.95
 image: ["quiz-of-glee-header.webp", "quiz-of-glee-1.webp", "quiz-of-glee-2.webp", "quiz-of-glee-3.webp", "quiz-of-glee-4.webp", "quiz-of-glee-5.webp", "quiz-of-glee-6.webp"]
 file: "ce6a31c5-54d7-447b-994e-3e152d06d01b"
-spell: ["movies-and-shows-batch-1"]
+spell: ["tv-shows"]
+charm: "trivia-kit"
 description: | 
   Are you a true Gleek?
   Know all the songs and think they're peak?

@@ -6,7 +6,8 @@ price: 9.95
 date: 2025-03-01
 image: ["egg-hunt-template-header.webp", "egg-hunt-template-1.webp", "egg-hunt-template-2.webp", "egg-hunt-template-3.webp"]
 file: "dace2362-281b-440c-b950-a2d9201c5ce7"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "printable-escape-kit"
 description: | 
   When Easter rolls around
   Children want to explore and play
@@ -20,7 +21,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 player-count: 1-8
 age: 4
 # requirements: ""

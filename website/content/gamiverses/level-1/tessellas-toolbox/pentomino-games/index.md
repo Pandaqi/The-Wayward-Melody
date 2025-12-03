@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["pentomino-games-header.webp", "pentomino-games-1.webp", "pentomino-games-2.webp", "pentomino-games-3.webp"]
 file: "@TODO"
 spell: ["tessellas-toolbox", "my-first-shapes"]
+charm: "board-game"
 description: | 
   Did you love solving our Pentomino puzzles?
   And you're looking to share that joy in a game?

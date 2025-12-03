@@ -8,6 +8,7 @@ date: 2025-11-05
 image: ["sinterklaaskaarten-1.webp", "sinterklaaskaarten-2.webp"]
 file: "cf516c1e-447c-42d6-9662-78ac50a85254"
 spell: "sinterklaas"
+charm: "activity-aid"
 description: | 
   Een verzameling illustraties
   Die te maken hebben met de Sint
@@ -21,7 +22,7 @@ contents:
 level: 1
 language: "nl"
 subject: []
-categories: ["holiday", "sinterklaas"]
+categories: ["holidays", "sinterklaas"]
 # player-count: 1
 age: 3
 # requirements: ""

@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["game-of-shapelock-header.webp", "game-of-shapelock-1.webp", "game-of-shapelock-2.webp", "game-of-shapelock-3.webp"]
 file: "c94f63c0-bdd4-4b74-9208-90976696c9ef"
 spell: ["my-first-shapes"]
+charm: "boardgame-book"
 description: | 
   A great way to learn in the classroom
   Is to pair up and play games with pen and paper

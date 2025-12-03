@@ -7,7 +7,8 @@ price: 7.95
 image: feast-your-eyes-on-me-header.webp
 file: "3bda5bf6-e5ab-40eb-88e9-499728faa448"
 description: "The high-quality music files and original notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - Original notes + demo recordings/original ideas

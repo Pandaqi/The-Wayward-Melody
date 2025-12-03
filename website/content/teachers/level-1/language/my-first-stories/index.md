@@ -7,6 +7,7 @@ price: 5.95
 image: ["my-first-stories-header.webp", "my-first-stories-1.webp", "my-first-stories-2.webp", "my-first-stories-3.webp"]
 file: "79141b13-d111-4f88-b7b7-9e8166a9817e"
 spell: "my-first-stories"
+charm: "lesson-material"
 advances: "phoneme-awareness"
 description: | 
   With a few words and letters under your belt

@@ -7,7 +7,8 @@ price: 4.95
 image: dusk-header.webp
 file: "cb69336c-3295-4eeb-95b0-811913bd08db"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - The ORIGINAL project file, including all individual tracks and recordings

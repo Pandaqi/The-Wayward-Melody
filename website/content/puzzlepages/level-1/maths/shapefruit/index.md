@@ -7,6 +7,7 @@ price: 9.95
 image: ["shapefruit-header.webp", "shapefruit-1.webp", "shapefruit-2.webp", "shapefruit-3.webp", "shapefruit-4.webp", "shapefruit-5.webp", "shapefruit-6.webp", "shapefruit-7.webp"]
 file: "b7c09a9b-fe92-4d02-ace8-53c31bffd023"
 spell: "my-first-groups"
+charm: "educational-puzzle"
 description: | 
   A basket of friendly fruit
   They want a shape around them ASAP

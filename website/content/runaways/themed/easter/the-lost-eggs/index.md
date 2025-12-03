@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 9.95
 image: ["the-lost-eggs-header.webp", "the-lost-eggs-1.webp", "the-lost-eggs-2.webp", "the-lost-eggs-3.webp"]
 file: "7ac78a37-651b-44b5-be2c-30ec310c828a"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "printable-escape-kit"
 description: | 
   When puzzles are hidden inside Easter eggs
   Magical, lost, mysterious, and in doubt
@@ -20,7 +21,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 player-count: 1-8
 age: 6
 # requirements: ""

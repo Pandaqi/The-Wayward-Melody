@@ -7,7 +7,8 @@ price: 4.95
 image: dont-give-me-up-header.webp
 file: "a6ca3c20-cf33-4170-96f2-ae8af04a69cc"
 description: "The high-quality music files and original notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - Original notes + demo recordings/original ideas

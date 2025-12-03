@@ -7,7 +7,8 @@ price: 4.95
 image: onverslaanbaar-header.webp
 file: "7f4987cb-6317-4173-ba31-e27a5688cb22"
 description: "Alle originele teksten, notities en tekeningen achter het boek."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - Het gebruikte lettertype.
 - De originele bestanden voor de cover (`.png` bestandsformaat, bewerkbaar `.afdesign` bestand)

@@ -6,7 +6,8 @@ price: 9.95
 date: 2025-05-05
 image: ["blankety-beach-header.webp", "blankety-beach-1.webp", "blankety-beach-2.webp", "blankety-beach-3.webp", "blankety-beach-4.webp"]
 file: "f27e66e1-1562-41f5-9e54-694799feacd4"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "board-game"
 description: | 
   A busy summer day at the beach
   Will you find the space for all your blankets?
@@ -24,7 +25,7 @@ external:
 
 level: 2
 language: "en"
-categories: ["holiday", "summer", "counting", "spatial-awareness", "color"]
+categories: ["holidays", "counting", "spatial-awareness", "color"]
 player-count: 2-6
 age: 4
 # requirements: ""

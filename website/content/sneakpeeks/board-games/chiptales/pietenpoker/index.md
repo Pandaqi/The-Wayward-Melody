@@ -9,7 +9,8 @@ file: "abe457a8-f5ed-4a62-bb5d-6d671acc6ae7"
 description: "Het spel zelf _plus_ alle originele notities, illustraties, en ander werk erachter."
 language: "nl"
 level: 2
-
+spell: "pandaqi-games"
+charm: "board-game"
 contents:
 - De `deliverables` folder bevat de spelregels en het uiteindelijke speelmateriaal (als `.pdf`)!
 - Spelregelplaatjes (`.webp`, bewerkbaar `.afdesign` bestand).

@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 9.95
 image: ["quiz-of-sims-header.webp", "quiz-of-sims-1.webp", "quiz-of-sims-2.webp", "quiz-of-sims-3.webp", "quiz-of-sims-4.webp", "quiz-of-sims-5.webp"]
 file: "9338aedf-d3dc-4c9b-a700-4286d7597491"
-spell: ["video-games-batch-1"]
+spell: "video-games"
+charm: "trivia-kit"
 description: | 
   Are you a true Sims fan?
   Do you know all the things?

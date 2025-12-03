@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-mathemagiswan-header.webp", "the-mathemagiswan-1.webp", "the-mathemagiswan-2.webp", "the-mathemagiswan-3.webp"]
 file: "@TODO"
 spell: ["my-first-numbers"]
+charm: "novel"
 description: | 
   The Mathemagiswan has some special tricks
   Every number has a special power to it

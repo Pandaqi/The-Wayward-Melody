@@ -7,6 +7,7 @@ price: 4.95
 image: ["rhyme-pairs-cards-header.webp", "rhyme-pairs-cards-1.webp", "rhyme-pairs-cards-2.webp"]
 file: "7ab696de-87a5-44c3-9a74-3151d2b1b531"
 spell: "rhyme-and-alliteration"
+charm: "activity-aid"
 description: | 
   A collection of cards like puzzle pieces
   Showing images of recognizable rhymes

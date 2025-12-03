@@ -10,7 +10,8 @@ description: "All original notes, assets, illustrations and other work behind th
 language: "en"
 level: 2
 categories: ["waitless-games"]
-
+spell: "pandaqi-games"
+charm: "one-paper-game"
 contents:
 - The `deliverables` folder contains the final material PDFs for playing the game!
 - Marketing images (`.webp`, editable `.afdesign` file).

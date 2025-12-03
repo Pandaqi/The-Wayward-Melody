@@ -7,6 +7,7 @@ price: 9.95
 image: ["pylgrim-mage-level-1-header.webp", "pylgrim-mage-level-1-1.webp", "pylgrim-mage-level-1-2.webp", "pylgrim-mage-level-1-3.webp"]
 file: "@TODO"
 spell: "school-and-learning"
+charm: "novel"
 description: | 
   In Educo every kid must walk the Pylgrimage of Learn
   A path past magical teaching buildings, but each one is stern

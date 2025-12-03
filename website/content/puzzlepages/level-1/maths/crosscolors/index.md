@@ -7,6 +7,7 @@ price: 7.95
 image: ["crosscolors-header.webp", "crosscolors-1.webp", "crosscolors-2.webp"]
 file: "8f663206-ee72-4e60-b0a3-73b4c805c7b0"
 spell: ["my-first-colors"]
+charm: "educational-puzzle"
 description: | 
   A magical coloring puzzle
   That even toddlers can understand

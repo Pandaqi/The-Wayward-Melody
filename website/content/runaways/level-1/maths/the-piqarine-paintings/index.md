@@ -7,6 +7,7 @@ price: 8.95
 image: ["the-piqarine-paintings-header.webp", "the-piqarine-paintings-1.webp", "the-piqarine-paintings-2.webp", "the-piqarine-paintings-2.webp"]
 file: "d6169205-250a-4ee9-9b72-a8f3d865491e"
 spell: ["my-first-colors"]
+charm: "printable-escape-kit"
 description: | 
   A visual escape room for young kids
   Testing your color knowledge and wits

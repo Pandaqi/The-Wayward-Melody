@@ -7,7 +7,8 @@ price: 7.95
 image: jij-moet-het-eerst-zeggen-header.webp
 file: "834f7135-d0d4-4237-ab86-c5ef3697b29a"
 description: "Alle originele teksten, notities en tekeningen achter het boek."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - Het gebruikte lettertype.
 - De originele bestanden voor de cover (`.png` bestandsformaat, bewerkbaar `.afdesign` bestand)

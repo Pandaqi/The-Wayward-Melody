@@ -7,6 +7,7 @@ price: 9.95
 image: ["my-first-audioventures-header.webp", "my-first-audioventures-1.webp", "my-first-audioventures-2.webp", "my-first-audioventures-3.webp"]
 file: "2dd37681-c1a8-4b27-ae61-529bd520ad8b"
 spell: ["my-first-stories"]
+charm: "trivia-kit"
 description: | 
   For adventurous pre-reader kids
   Or Apprentices getting started on stories

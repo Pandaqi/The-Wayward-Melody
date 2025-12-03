@@ -7,6 +7,7 @@ price: 3.95
 image: ""
 file: "@TODO"
 spell: ["recognition-and-discrimination"]
+charm: "educational-puzzle"
 description: | 
   The first step to any path of growth
   Is the ability to say things are the same (or not)

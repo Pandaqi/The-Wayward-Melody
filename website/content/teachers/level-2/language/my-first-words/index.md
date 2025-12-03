@@ -7,6 +7,7 @@ price: 4.95
 image: ""
 file: "@TODO"
 spell: "my-first-words"
+charm: "lesson-material"
 advances: "my-first-letters"
 description: | 
   Once you know a few symbols of the alphabet

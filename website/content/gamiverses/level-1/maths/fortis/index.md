@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["fortis-header.webp", "fortis-1.webp", "fortis-2.webp", "fortis-3.webp"]
 file: "d477da2e-c088-4c29-96a4-e60db200b266"
 spell: ["my-first-shapes"]
+charm: "board-game"
 description: | 
   What if the video game Tetris
   Was a simple board game anyone could play?

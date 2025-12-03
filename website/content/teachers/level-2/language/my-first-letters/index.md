@@ -7,6 +7,7 @@ price: 4.95
 image: ""
 file: "@TODO"
 spell: "my-first-letters"
+charm: "lesson-material"
 advances: "phoneme-awareness"
 description: | 
   The first step to understanding a word

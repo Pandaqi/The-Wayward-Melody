@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-micro-movement-header.webp", "quiz-of-micro-movement-1.webp", "quiz-of-micro-movement-2.webp", "quiz-of-micro-movement-3.webp", "quiz-of-micro-movement-4.webp", "quiz-of-micro-movement-5.webp", "quiz-of-micro-movement-6.webp", "quiz-of-micro-movement-7.webp", "quiz-of-micro-movement-8.webp", "quiz-of-micro-movement-9.webp"]
 file: "207b4dba-ea16-4c66-85fc-9a7e4ba55613"
 spell: "my-first-fine-motor-skills"
+charm: "trivia-kit"
 description: | 
   A quiz to get you using your hands
   Training finger dexterity, or how to hold pens

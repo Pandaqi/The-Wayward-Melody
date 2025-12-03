@@ -6,7 +6,8 @@ date: 2025-05-05
 price: 9.95
 image: ["packabaga-header.webp", "packabaga-1.webp", "packabaga-2.webp", "packabaga-3.webp", "packabaga-4.webp", "packabaga-5.webp"]
 file: "791afa5e-e2a6-48bd-8736-c33b8b51e358"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "logic-puzzle"
 description: | 
   You're ready to go on holiday
   Packing your things, but something is wrong
@@ -21,7 +22,7 @@ contents:
 level: 1
 language: "en"
 subject: "Mathematics"
-categories: ["holiday", "summer", "spatial-reasoning", "shapes"]
+categories: ["holidays", "spatial-reasoning", "shapes"]
 player-count: 1
 age: 3
 # requirements: ""

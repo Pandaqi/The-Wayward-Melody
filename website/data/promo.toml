@@ -4,49 +4,50 @@
     dateStart = "02-04"
     dateEnd = "02-18"
     title = "Valentine's Day"
-    desc = "@TODO"
+    desc = "Want to surprise someone with a lovely gift? Or teach about love and relationships in the classroom? Check out some of our Valentine spells below."
 
 [easter]
     spell = "easter"
     dateStart = "03-22"
     dateEnd = "04-25"
     title = "Easter"
-    desc = "@TODO"
+    desc = "The feast of Spring and new beginnings has returned. Pick one of our products to celebrate or teach about Easter!"
 
+# @TODO: Add "Koningsdag (nl)"?
 [mothers-day]
     spell = "mothers-day"
     dateStart = "04-05"
     dateEnd = "04-18"
     title = "Mother's Day"
-    desc = "@TODO"
+    desc = "Celebrate mothers and all they do for us with our stories, activities, puzzles, games and more!"
 
 [fathers-day]
     spell = "fathers-day"
     dateStart = "06-12"
     dateEnd = "06-25"
     title = "Father's Day"
-    desc = "@TODO"
+    desc = "Celebrate fathers and all they do for us with our stories, activities, puzzles, games and more!"
 
 [summer]
     spell = "summer"
     dateStart = "07-01"
     dateEnd = "08-31"
     title = "Summer (Holiday)"
-    desc = "@TODO"
+    desc = "Ah! The sun is shining, the temperature is nice, and maybe you're already on your way to the beach. Browse our abundance of summer stories, games, puzzles, activities, and more to have a fun time!"
 
 [animals]
     spell = "world-animal-day"
     dateStart = "09-20"
     dateEnd = "10-07"
     title = "World Animal Day"
-    desc = "@TODO"
+    desc = "Let's celebrate animals and nature, and be kind to the world we live in. Try some of our stories, puzzles and games about animals and nature below.!"
 
 [halloween]
     spell = "halloween"
     dateStart = "10-10"
     dateEnd = "11-03"
     title = "Halloween"
-    desc = "@TODO"
+    desc = "The days get colder. The nights get darker. The world turns scary ... so why not hole up inside with some Halloween stories, puzzles or games?"
 
 # @TODO: Thanksgiving? Black Friday?
 [sinterklaas]
@@ -62,5 +63,5 @@
     dateStart = "12-06"
     dateEnd = "12-28"
     title = "Christmas"
-    desc = "The days get shorter. The nights get colder. Santa Claus is coming to town. Why don't you browse our Christmas products and find something to keep yourself warm?"
+    desc = "Christmas songs are everywhere. Santa Claus is coming to town. You can't go outside without wearing gloves and four layers of clothng. So why don't you browse our Christmas products and find something to keep yourself warm?"
 

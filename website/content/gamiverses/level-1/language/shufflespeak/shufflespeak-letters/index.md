@@ -7,6 +7,7 @@ date: 2025-07-18
 image: ["shufflespeak-letters-header.webp", "shufflespeak-letters-1.webp", "shufflespeak-letters-2.webp", "shufflespeak-letters-3.webp", "shufflespeak-letters-4.webp"]
 file: "ca309a1d-2dfb-4b27-b217-e790866b3866"
 spell: ["my-first-letters"]
+charm: "board-game"
 description: | 
   How do you play a language game
   With people who can barely read yet?

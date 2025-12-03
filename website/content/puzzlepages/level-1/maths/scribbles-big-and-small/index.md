@@ -7,6 +7,7 @@ price: 9.95
 image: ["scribbles-big-and-small-header.webp", "scribbles-big-and-small-1.webp", "scribbles-big-and-small-2.webp", "scribbles-big-and-small-3.webp", "scribbles-big-and-small-4.webp", "scribbles-big-and-small-5.webp"]
 file: "3c285060-91af-46df-a323-38dc176f247e"
 spell: "my-first-comparisons"
+charm: "educational-puzzle"
 description: | 
   All you need to do for this puzzle
   Is draw something either BIG or SMALL

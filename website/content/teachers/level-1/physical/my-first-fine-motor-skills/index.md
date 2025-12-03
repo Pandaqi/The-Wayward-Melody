@@ -7,6 +7,7 @@ date: 2025-04-26
 image: ["my-first-fine-motor-skills-header.webp", "my-first-fine-motor-skills-1.webp", "my-first-fine-motor-skills-2.webp", "my-first-fine-motor-skills-3.webp"]
 file: "@TODO"
 spell: "my-first-fine-motor-skills"
+charm: "lesson-material"
 advances: "my-first-gross-motor-skills"
 description: | 
   The most important thing for any human, short or long

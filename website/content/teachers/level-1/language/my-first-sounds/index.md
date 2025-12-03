@@ -7,6 +7,7 @@ price: 4.95
 image: ["my-first-sounds-header.webp", "my-first-sounds-1.webp", "my-first-sounds-2.webp"]
 file: "92277b70-2b05-4fb3-a999-b1e534408346"
 spell: "my-first-sounds"
+charm: "lesson-material"
 description: | 
   The first step to learning language
   Is to recognize that sounds have meaning

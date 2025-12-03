@@ -6,7 +6,8 @@ price: 9.95
 date: 2025-05-05
 image: ["detective-dessert-header.webp", "detective-dessert-1.webp", "detective-dessert-2.webp", "detective-dessert-3.webp"]
 file: "a2c99c6b-957e-45b6-a126-73bbbe5174ed"
-spell: ["summer-batch-1"]
+spell: "summer-holiday"
+charm: "board-game"
 description: | 
   Everyone has a hand of ice cream
   With secret numbers only they know
@@ -28,7 +29,7 @@ external:
 level: 2
 language: "en"
 subject: "Mathematics"
-categories: ["holiday", "summer", "deduction", "counting"]
+categories: ["holidays", "deduction", "counting"]
 player-count: 2-5
 age: 5
 # requirements: ""

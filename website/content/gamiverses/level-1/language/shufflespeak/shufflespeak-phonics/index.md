@@ -7,6 +7,7 @@ date: 2025-07-18
 image: ["shufflespeak-phonics-header.webp", "shufflespeak-phonics-1.webp", "shufflespeak-phonics-2.webp", "shufflespeak-phonics-3.webp"]
 file: "05ab02f1-e131-45e6-9602-660dfd1816b4"
 spell: ["phoneme-awareness"]
+charm: "board-game"
 description: | 
   How do you play a language game
   With people who can't read yet?

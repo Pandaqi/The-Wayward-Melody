@@ -7,7 +7,8 @@ price: 4.95
 image: dawn-header.webp
 file: "bab29f93-05f6-464f-8c85-94d1a1a993f9"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - The ORIGINAL project file, including all individual tracks and recordings

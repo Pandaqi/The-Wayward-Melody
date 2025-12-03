@@ -7,6 +7,7 @@ date: 2025-04-26
 image: ["pencil-control-header.webp", "pencil-control-1.webp", "pencil-control-2.webp", "pencil-control-3.webp"]
 file: "@TODO"
 spell: "pencil-control"
+charm: "lesson-material"
 advances: "my-first-fine-motor-skills"
 description: | 
   With the mind full of curiosity, a body growing and moving

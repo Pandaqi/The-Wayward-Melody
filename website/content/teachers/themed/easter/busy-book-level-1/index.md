@@ -6,7 +6,8 @@ price: 9.95
 date: 2025-02-18
 image: ["busy-book-level1-header.webp", "busy-book-level1-1.webp", "busy-book-level1-2.webp", "busy-book-level1-3.webp", "busy-book-level1-4.webp"]
 file: "044f9c0f-b27e-4d46-8f40-16be0c82d9c0"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "busy-book"
 description: | 
   When Easter rolls around
   Children want to explore and play
@@ -36,7 +37,7 @@ contents:
 level: 1
 language: "en"
 subject: ["Mathematics", "Language"]
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 player-count: 1
 age: 3
 # requirements: ""

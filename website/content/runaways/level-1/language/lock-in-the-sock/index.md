@@ -7,6 +7,7 @@ price: 8.95
 image: ["lock-in-the-sock-header.webp", "lock-in-the-sock-1.webp", "lock-in-the-sock-2.webp", "lock-in-the-sock-3.webp", "lock-in-the-sock-4.webp"]
 file: "80907404-ab33-4d91-9a5c-1fae03b9e812"
 spell: "phoneme-awareness"
+charm: "printable-escape-kit"
 description: | 
   A mini escape room for pre-readers
   To find where Santa hid your gift

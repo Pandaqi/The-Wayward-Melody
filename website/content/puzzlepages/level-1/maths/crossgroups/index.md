@@ -7,6 +7,7 @@ price: 9.95
 image: ["crossgroups-header.webp", "crossgroups-1.webp", "crossgroups-2.webp", "crossgroups-3.webp", "crossgroups-4.webp", "crossgroups-5.webp", "crossgroups-6.webp"]
 file: "269504c3-24eb-4872-9587-00da90025e30"
 spell: "my-first-groups"
+charm: "educational-puzzle"
 description: | 
   Figure out the secret groups
   Hidden inside the list of images for you

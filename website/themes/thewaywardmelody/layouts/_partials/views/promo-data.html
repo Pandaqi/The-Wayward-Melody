@@ -14,8 +14,8 @@
     {{ $headings := slice }}
     {{ range $pages }}
         {{ $urls = $urls | append .RelPermalink }}
-        {{ $first_image := (index .Params.image 0) }}
-        {{ $first_image_url := printf "%s/%s" .RelPermalink $first_image }}
+        {{ $first_image := cond (reflect.IsSlice .Params.image) (index .Params.image 0) .Params.image }}
+        {{ $first_image_url := printf "%s/%s" (.RelPermalink | strings.TrimSuffix "/") $first_image }}
         {{ $images = $images | append $first_image_url }}
         {{ $headings = $headings | append .Title }}
     {{ end }}

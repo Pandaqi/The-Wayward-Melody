@@ -7,6 +7,7 @@ price: 9.95
 image: ["astra-buni-and-the-magical-paintbrush-header.webp", "astra-buni-1.webp", "astra-buni-2.webp", "astra-buni-3.webp", "astra-buni-4.webp", "astra-buni-5.webp", "astra-buni-6.webp", "astra-buni-7.webp", "astra-buni-8.webp"]
 file: "dd5f80c2-2aab-49ac-9cc2-7530b6eeb955"
 spell: "pencil-control"
+charm: "novella-interactiva"
 description: | 
   Astra Buni received a magical paintbrush
   But how does it work? What does it do?

@@ -7,7 +7,8 @@ price: 4.95
 image: keeping-the-sunset-on-my-side-header.webp
 file: "e72c3696-f552-4f38-aafb-92cc2e0dd0d1"
 description: "The high-quality music files and original notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - Original notes + demo recordings/original ideas

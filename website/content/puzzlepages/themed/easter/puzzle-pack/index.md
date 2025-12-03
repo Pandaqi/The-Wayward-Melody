@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 9.95
 image: "puzzle-pack-header.webp"
 file: "2fe72572-77b3-452d-a8d2-981b5dc4c43b"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "puzzle-pack"
 description: | 
   A set of puzzles Easter-themedish
   That present challenges so fiendish
@@ -31,7 +32,7 @@ contents:
 level: 2
 language: "en"
 subject: "Mathematics"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 player-count: 1
 age: 5
 # requirements: ""

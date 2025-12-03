@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-warden-of-awk-header.webp", "the-warden-of-awk-1.webp", "the-warden-of-awk-2.webp", "the-warden-of-awk-3.webp"]
 file: "@TODO"
 spell: "social-situations"
+charm: "novel"
 description: | 
   Awk has an important task
   He has to guard the Friendliness Stations

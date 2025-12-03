@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-connections-pro-header.webp", "quiz-of-connections-pro-1.webp", "quiz-of-connections-pro-2.webp", "quiz-of-connections-pro-3.webp", "quiz-of-connections-pro-4.webp", "quiz-of-connections-pro-5.webp", "quiz-of-connections-pro-6.webp", "quiz-of-connections-pro-7.webp", "quiz-of-connections-pro-8.webp", "quiz-of-connections-pro-9.webp", "quiz-of-connections-pro-10.webp"]
 file: "4fc8029f-4ab9-4303-95e1-01b11f317fd4"
 spell: "my-unbounded-imagination"
+charm: "trivia-kit"
 description: | 
   Can you find the creative connections
   Between the recognizable images shown?

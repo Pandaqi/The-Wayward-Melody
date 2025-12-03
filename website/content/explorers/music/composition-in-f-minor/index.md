@@ -7,7 +7,8 @@ price: 7.95
 image: composition-in-f-minor-header.webp
 file: "258a1bb6-82ca-4da0-a383-71416bffd948"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."
-
+spell: "music-el-troubadour"
+charm: "musical-album"
 contents:
 - All tracks from this album (`.wav` files)
 - The ORIGINAL project file, including all individual tracks and recordings

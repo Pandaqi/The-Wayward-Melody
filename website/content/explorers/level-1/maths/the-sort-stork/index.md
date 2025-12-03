@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-sort-stork-header.webp", "the-sort-stork-1.webp", "the-sort-stork-2.webp", "the-sort-stork-3.webp", "the-sort-stork-4.webp", "the-sort-stork-5.webp"]
 file: "3ced763b-9c94-49d5-a475-9ecc0c9ec8b9"
 spell: "my-first-groups"
+charm: "novel"
 advances: "my-first-comparisons"
 description: | 
   High up in the cloud palace

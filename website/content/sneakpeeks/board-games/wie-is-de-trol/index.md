@@ -9,7 +9,8 @@ file: "c2b8de7d-f21b-4bff-9151-c21396f26dc5"
 description: "Alle originele notities, tekeningen, spelbestanden en ander werk achter dit spel."
 language: "nl"
 level: 3
-
+spell: "pandaqi-games"
+charm: "hybrid-game"
 contents:
 - Spelregelplaatjes (`.png`, bewerkbaar `.afdesign` bestand) en uiteindelijke spelregels PDF.
 - Marketingplaatjes (`.webp`, bewerkbaar `.psd` bestand om te openen in **Photoshop**).

@@ -7,6 +7,7 @@ price: 7.95
 image: ["escape-grape-cape-header.webp", "escape-grape-cape-1.webp", "escape-grape-cape-2.webp", "escape-grape-cape-3.webp", "escape-grape-cape-4.webp", "escape-grape-cape-5.webp"]
 file: "f0a17bdd-9605-481d-b7f1-f142857e1518"
 spell: ["rhyme-and-alliteration"]
+charm: "printable-escape-kit"
 description: | 
   A mini escape room for kids with little time
   To find out who robbed the bank

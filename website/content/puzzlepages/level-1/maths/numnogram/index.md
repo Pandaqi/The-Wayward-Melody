@@ -7,6 +7,7 @@ price: 9.95
 image: ["numnogram-header.webp", "numnogram-1.webp", "numnogram-2.webp", "numnogram-3.webp", "numnogram-4.webp", "numnogram-5.webp"]
 file: "0efe0dbb-5733-4e88-9dd7-fd05ac802870"
 spell: "my-first-groups"
+charm: "educational-puzzle"
 description: | 
   A puzzle that always ends in a picture
   No numbers needed, hence the name

@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 8.95
 image: ["quiz-of-easter-family-header.webp", "quiz-of-easter-family-sc1.webp", "quiz-of-easter-family-sc2.webp", "quiz-of-easter-family-sc3.webp"]
 file: "c738d28f-f026-4a82-9472-0a50648b89f7"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "trivia-kit"
 description: | 
   To celebrate or learn about Easter
   A quiz with fun questions and a riddle
@@ -21,7 +22,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 player-count: 1-100
 age: 6
 # requirements: ""

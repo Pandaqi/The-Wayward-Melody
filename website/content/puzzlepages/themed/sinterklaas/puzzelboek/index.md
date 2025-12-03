@@ -7,6 +7,7 @@ price: 14.95
 image: ["sinterklaas-puzzelboek-header.webp", "sinterklaas-puzzelboek-1.webp", "sinterklaas-puzzelboek-2.webp", "sinterklaas-puzzelboek-3.webp", "sinterklaas-puzzelboek-4.webp", "sinterklaas-puzzelboek-5.webp", "sinterklaas-puzzelboek-6.webp", "sinterklaas-puzzelboek-7.webp", "sinterklaas-puzzelboek-8.webp", "sinterklaas-puzzelboek-9.webp"]
 file: "faafa087-70cc-4672-8053-99963c5cd566"
 spell: "sinterklaas"
+charm: "puzzle-pack"
 description: | 
   Strooipiet is weer langs gekomen
   En hij heeft puzzels en raadsels gestrooid
@@ -44,7 +45,7 @@ contents:
 level: [1,2,3]
 language: "nl"
 subject: ["Mathematics", "Language"]
-categories: ["holiday"]
+categories: ["holidays"]
 player-count: 1
 age: 5
 # requirements: ""

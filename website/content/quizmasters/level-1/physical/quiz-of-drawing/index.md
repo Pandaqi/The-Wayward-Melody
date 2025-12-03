@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-drawing-header.webp", "quiz-of-drawing-1.webp", "quiz-of-drawing-2.webp", "quiz-of-drawing-3.webp", "quiz-of-drawing-4.webp", "quiz-of-drawing-5.webp", "quiz-of-drawing-6.webp", "quiz-of-drawing-7.webp"]
 file: "ba3cdb69-56fe-4311-aef1-b30a06be9cee"
 spell: "pencil-control"
+charm: "trivia-kit"
 description: | 
   A quiz about drawing and pencil control
   Making lines, and doodles, and paintings whole

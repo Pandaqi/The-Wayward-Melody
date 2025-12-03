@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-of-phonemes-header.webp", "quiz-of-phonemes-1.webp", "quiz-of-phonemes-2.webp", "quiz-of-phonemes-3.webp", "quiz-of-phonemes-4.webp", "quiz-of-phonemes-5.webp"]
 file: "df36a1e2-98a3-4490-acf3-1bfdfe993f61"
 spell: ["phoneme-awareness"]
+charm: "trivia-kit"
 description: | 
   For language awareness this is the final step
   Learn the phonemes that make up each word

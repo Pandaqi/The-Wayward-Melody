@@ -8,7 +8,8 @@ free: true
 image: [de-vintage-verhalenbundel.webp]
 file: "0d0dbe1d-9bf7-4e48-a9fb-a1aa12e19367"
 description: "Een collectie van de alleroudste schrijfwerken van een zeer jonge Tiamo pastoor."
-
+spell: "books-and-other-writing"
+charm: "novel"
 contents:
 - Drie afgemaakte oude verhalen (één middellang, twee kort)
 - Zeven beginnetjes van verhalen/boekenreeksen (enkele hoofdstukken, vaag plan voor daarna)

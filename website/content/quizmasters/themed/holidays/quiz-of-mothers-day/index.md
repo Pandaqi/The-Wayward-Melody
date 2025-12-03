@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 7.95
 image: ["quiz-of-mothersday-header.webp", "quiz-of-mothersday-screenshot-1.webp", "quiz-of-mothersday-screenshot-2.webp", "quiz-of-mothersday-screenshot-3.webp"]
 file: "8b18cd73-d5a9-4a3b-b184-1e1ed8d1132e"
-spell: "holidays-batch-1"
+spell: "mothers-day"
+charm: "trivia-kit"
 description: | 
   To celebrate mothers
   And the life they create
@@ -21,7 +22,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "mothers-day"]
+categories: ["holidays"]
 player-count: 1-100
 age: 6
 # requirements: ""

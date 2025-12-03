@@ -8,6 +8,7 @@ price: 0.00
 image: ["quiz-of-alliteration-header.webp", "quiz-of-alliteration-1.webp", "quiz-of-alliteration-2.webp", "quiz-of-alliteration-3.webp", "quiz-of-alliteration-4.webp"]
 file: "b18408e1-caee-470b-91d7-909b7d1bdcc9"
 spell: ["rhyme-and-alliteration"]
+charm: "trivia-kit"
 description: | 
   A fun, practical step when learning language
   Is to learn some word-play and rhyme

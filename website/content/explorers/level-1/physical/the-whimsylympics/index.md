@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-whimsylympics-header.webp", "the-whimsylympics-1.webp", "the-whimsylympics-2.webp", "the-whimsylympics-3.webp"]
 file: "@TODO"
 spell: "my-first-gross-motor-skills"
+charm: "novella-interactiva"
 description: | 
   In the event called Whimsylympics, 
   All kinds of animals play magical sports

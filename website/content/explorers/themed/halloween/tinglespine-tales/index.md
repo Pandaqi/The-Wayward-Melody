@@ -7,6 +7,7 @@ price: 9.95
 image: ["tinglespine-tales-header.webp", "tinglespine-tales-1.webp", "tinglespine-tales-2.webp", "tinglespine-tales-3.webp", "tinglespine-tales-4.webp", "tinglespine-tales-5.webp", "tinglespine-tales-6.webp", "tinglespine-tales-7.webp"]
 file: "3282404a-31da-487e-8e6c-a6ec3eec513f"
 spell: "halloween"
+charm: "novel"
 description: | 
   Come listen to the Tinglespine Tales 
   that happened over in Tinglespine Town
@@ -22,7 +23,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "halloween"]
+categories: ["holidays"]
 
 ---
 

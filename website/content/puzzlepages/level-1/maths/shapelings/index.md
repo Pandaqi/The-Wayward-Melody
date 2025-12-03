@@ -7,6 +7,7 @@ price: 9.95
 image: ["shapelings-header.webp", "shapelings-screenshot-1.webp", "shapelings-screenshot-2.webp", "shapelings-screenshot-3.webp"]
 file: "bc1f02f8-a79c-4fc4-944f-a7d451a4647a"
 spell: ["my-first-shapes"]
+charm: "educational-puzzle"
 description: | 
   A magical shape drawing puzzle
   That even toddlers can understand

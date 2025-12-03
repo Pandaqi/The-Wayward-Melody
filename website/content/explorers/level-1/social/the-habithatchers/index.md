@@ -7,6 +7,7 @@ price: 9.95
 image: ["the-habithatchers-header.webp", "the-habithatchers-1.webp", "the-habithatchers-2.webp", "the-habithatchers-3.webp"]
 file: "@TODO"
 spell: "schedule-and-routine"
+charm: "novel"
 description: | 
   Would you like to become a Habithatcher?
   You'd get to decide what habits are allowed and which are not

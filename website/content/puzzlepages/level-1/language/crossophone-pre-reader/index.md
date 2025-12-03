@@ -7,6 +7,7 @@ price: 8.95
 image: ["crossophone-pre-reader-header.webp", "crossophone-pre-reader-1.webp", "crossophone-pre-reader-2.webp", "crossophone-pre-reader-3.webp", "crossophone-pre-reader-4.webp"]
 file: "5e8868d3-75f8-4ee5-bd45-e75f4569d056"
 spell: ["phoneme-awareness"]
+charm: "educational-puzzle"
 description: | 
   A mix between crosswords and phonemes
   A great test of phonics skills

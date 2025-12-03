@@ -8,7 +8,8 @@ image: [kat_van_sint_0.webp, kat_van_sint_1.webp, kat_van_sint_2.webp, kat_van_s
 file: "c2a32379-95c1-46d2-9503-ef26799b7e82"
 spell: "sinterklaas"
 description: "Alle losse tekeningen achter het prentenboek."
-
+spell: "books-and-other-writing"
+charm: "novella-interactiva"
 contents:
 - De originele plaatjes van het prentenboek (`.webp` bestandsformaat, bewerkbaar `.ai` bestand voor openen in **Adobe Illustrator**).
 - De originele cover in verschillende versies (`.webp` bestand, bewerkbaar `.ai` bestand).

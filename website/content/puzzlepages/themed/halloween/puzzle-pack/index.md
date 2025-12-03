@@ -7,6 +7,7 @@ price: 14.95
 image: ["halloween-puzzlepack-header.webp", "halloween-puzzlepack-1.webp", "halloween-puzzlepack-2.webp", "halloween-puzzlepack-3.webp", "halloween-puzzlepack-4.webp", "halloween-puzzlepack-5.webp"]
 file: "@TODO"
 spell: "halloween"
+charm: "puzzle-pack"
 description: | 
   These puzzles may sound difficult and scary
   But you'll feel great when the answer is found
@@ -19,7 +20,7 @@ contents:
 level: 2
 language: "en"
 subject: ["Mathematics", "Language"]
-categories: ["holiday"]
+categories: ["holidays"]
 player-count: 1
 age: 5
 # requirements: ""

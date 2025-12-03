@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["the-colorympic-games-header.webp", "the-colorympic-games-1.webp", "the-colorympic-games-2.webp", "the-colorympic-games-3.webp", "the-colorympic-games-4.webp"]
 file: "015cb8be-28eb-4efb-a818-cebd59f9f052"
 spell: ["my-first-colors"]
+charm: "boardgame-book"
 description: | 
   A bundle of fast board games
   Playing with color in all ways

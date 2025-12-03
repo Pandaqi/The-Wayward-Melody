@@ -7,6 +7,7 @@ price: 9.95
 image: ["crosscompare-header.webp", "crosscompare-1.webp", "crosscompare-2.webp", "crosscompare-3.webp", "crosscompare-4.webp", "crosscompare-5.webp"]
 file: "ada34d73-8bce-40d4-9dff-3bfb0d75d73f"
 spell: "my-first-comparisons"
+charm: "educational-puzzle"
 description: | 
   Compare row and column
   And make sure the rabbit has plants to eat

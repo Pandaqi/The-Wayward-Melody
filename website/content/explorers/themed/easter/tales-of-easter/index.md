@@ -6,7 +6,8 @@ date: 2025-03-01
 price: 9.95
 image: ["tales-of-easter-header.webp", "tales-of-easter-screenshot-1.webp", "tales-of-easter-screenshot-2.webp"]
 file: "bb150642-849e-483b-93e5-fad842579f1a"
-spell: ["easter-batch-1"]
+spell: "easter"
+charm: "novel"
 description: | 
   The origin of the celebrated Easter feast
   Has many an interesting magical myth
@@ -19,7 +20,7 @@ contents:
 
 level: 2
 language: "en"
-categories: ["holiday", "Easter"]
+categories: ["holidays"]
 
 ---
 

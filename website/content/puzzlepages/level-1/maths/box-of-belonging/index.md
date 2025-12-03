@@ -7,6 +7,7 @@ price: 9.95
 image: ["box-of-belonging-header.webp", "box-of-belonging-1.webp", "box-of-belonging-2.webp", "box-of-belonging-3.webp", "box-of-belonging-4.webp", "box-of-belonging-5.webp", "box-of-belonging-6.webp"]
 file: "9037b763-0d0a-4715-bdd3-5ba15523163c"
 spell: "my-first-groups"
+charm: "educational-puzzle"
 description: | 
   You see images of animals, plants, and bad weather
   Some of these images secretly belong together!

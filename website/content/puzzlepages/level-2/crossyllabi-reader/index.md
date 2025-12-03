@@ -7,6 +7,7 @@ price: 7.95
 image: ["crossyllabi-reader.header.webp", "crossyllabi-reader-screenshot-0.webp", "crossyllabi-reader-screenshot-1.webp", "crossyllabi-reader-screenshot-2.webp"]
 file: "@TODO"
 spell: ["syllable-awareness"]
+charm: "educational-puzzle"
 description: | 
   Crossyllabi Reader is a kind of Crosswords, but unique
   Because it has syllables---not letters---in every space

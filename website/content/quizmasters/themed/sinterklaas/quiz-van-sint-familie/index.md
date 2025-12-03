@@ -7,6 +7,7 @@ price: 9.95
 image: ["quiz-van-sint-familie-header.webp", "quiz-van-sint-familie-1.webp", "quiz-van-sint-familie-2.webp", "quiz-van-sint-familie-3.webp", "quiz-van-sint-familie-4.webp", "quiz-van-sint-familie-5.webp", "quiz-van-sint-familie-6.webp", "quiz-van-sint-familie-7.webp"]
 file: "141f5792-9f1e-4eb8-b7cd-df3a7d1c23d5"
 spell: "sinterklaas"
+charm: "trivia-kit"
 description: | 
   Wat is er leuker voor de hele familie
   Dan het feest van Sinterklaas?
@@ -20,7 +21,7 @@ contents:
 
 level: 2
 language: "nl"
-categories: ["holiday", "sinterklaas"]
+categories: ["holidays", "sinterklaas"]
 player-count: 1-100
 age: 6
 # requirements: ""

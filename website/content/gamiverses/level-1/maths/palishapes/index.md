@@ -7,6 +7,7 @@ date: 2025-02-18
 image: ["palishapes-header.webp", "palishapes-screenshot-0.webp", "palishapes-screenshot-1.webp"]
 file: "7c7025a2-4810-490e-bf86-bb388b316fd8"
 spell: ["my-first-shapes"]
+charm: "board-game"
 description: | 
   A simplified version of Chess
   Using basic shapes for board and pieces

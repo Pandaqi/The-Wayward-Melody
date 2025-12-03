@@ -7,6 +7,7 @@ price: 4.95
 image: ["crossyllabi-pre-reader-header.webp", "crossyllabi-pre-reader-screenshot-0.webp", "crossyllabi-pre-reader-screenshot-1.webp", "crossyllabi-pre-reader-screenshot-2.webp"]
 file: "7fe69d06-66ce-4846-9edc-c08f9196b1a3"
 spell: ["syllable-awareness"]
+charm: "educational-puzzle"
 description: | 
   Even though an Apprentice can't read or write
   They would still like to puzzle some

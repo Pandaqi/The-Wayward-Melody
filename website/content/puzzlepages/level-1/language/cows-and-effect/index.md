@@ -7,6 +7,7 @@ price: 9.95
 image: ["cows-and-effect-header.webp", "cows-and-effect-1.webp", "cows-and-effect-2.webp", "cows-and-effect-3.webp", "cows-and-effect-4.webp"]
 file: "@TODO"
 spell: my-first-stories
+charm: "educational-puzzle"
 description: | 
   A fun puzzle about cause and effect
   Cut out story beats and make them make sense
