@@ -9,7 +9,10 @@ file: "@TODO"
 spell: "christmas"
 charm: "trivia-kit"
 description: | 
-  @TODO
+  A fun and challenging Christmas quiz
+  For the pros, experts, and biggest Santa fans
+  Hard-hitting questions, obscure Christmas tracks
+  Can you figure out who the biggest Santa Expert is?
 
 contents:
 - Instructions PDF
@@ -41,11 +44,25 @@ duration: 120
 # indoors: false
 # outdoors: false
 # customizable: false
-interactive-media: true
+# interactive-media: false
 # multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
 # activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
 # brand: ""
 
 ---
 
-@TODO
+This is a fun **Christmas quiz** for **"experts"**! It's a great quiz when your players are mostly adults, or perhaps with young adults at university. It contains our hardest questions about Christmas.
+
+If you prefer something simpler for the whole family, check out our [Quiz of Christmas Family](/quizmasters/themed/holidays/christmas/quiz-of-christmas-family/). If you've already played that quiz last year and enjoyed it, then yes, this Pro version is a great upgrade to try this year! As opposed to the other Christmas quizzes, this one is longer and does not have interactive media (audio/video).
+
+Moreover, this quiz has a special trick up its sleeve: **all players get a little "advent calendar"**. Once in a while, questions allow you to eliminate one of the days. As the quiz continues, more and more days will be gone, which will give clues about what the right answers could be on other questions. Then, at the end, there's a high-scoring question about the only day on your calendar that is left untouched ...
+
+You can ignore this extra calendar or leave it out entirely. Don't worry! It's just some extra fun to make the quiz a more unique (team) puzzling adventure.
+
+It contains XX rounds, XX questions, as follows,
+
+* @TODO
+
+{{% remark %}}
+Je krijgt de quiz ook in het Nederlands! Kies simpelweg je taal voordat je begint. Veel Kerstgerelateerde dingen zijn natuurlijk in het Engels, maar we gaan ervan uit dat de doelgroep van deze quiz die taal goed genoeg beheerst om alles te begrijpen.
+{{% /remark %}}

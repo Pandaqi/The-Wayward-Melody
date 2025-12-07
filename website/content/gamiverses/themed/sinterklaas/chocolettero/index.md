@@ -63,6 +63,10 @@ Als je deze versie een paar keer hebt gespeeld, echter, kan je naar de _uitbreid
 
 Ideaal voor in de klas of thuis tijdens Sinterklaastijd, zeker als je kinderen wilt laten oefenen met het alfabet en spelling. En als je de uitbreidingen toevoegt wordt het een serieus tactisch spel dat de hele familie zal bezighouden!
 
+{{% update %}}
+Voor een makkelijker spel kan je zeggen dat de "Y" ook mag worden gebruikt als "IJ" (lange ij). Dit is vrij standaard in woordpuzzels en woordspellen, maar we wilden het voor de zekerheid toch even vermelden!
+{{% /update %}}
+
 {{% remark %}}
 We proberen altijd een balans te vinden tussen een spel dat er mooi en kleurrijk uitziet, en iets dat geen inkt verspilt en goedkoop is om te printen. Ook dit spel kan je in grijstinten of op verschillende groottes printen en nog steeds volledig spelen. Tevens zijn de regels dermate simpel dat je ze misschien niet eens hoeft te printen.
 {{% /remark %}}

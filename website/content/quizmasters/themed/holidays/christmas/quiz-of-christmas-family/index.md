@@ -9,12 +9,15 @@ file: "@TODO"
 spell: "christmas"
 charm: "trivia-kit"
 description: | 
-  @TODO
+  A fun and interactive Christmas quiz
+  For young and old, the whole family wins
+  Do you know your Santa History? Your Christmas hits?
+  Let's figure out who the Yuletide Champion is!
 
 contents:
 - Instructions PDF
 - Digital Quiz (open in any browser); @TODO questions
-- Special Physical Material (Santa Map); use once per player
+- Special Physical Material (Santa Map); use once per player/team
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
 
@@ -48,4 +51,18 @@ interactive-media: true
 
 ---
 
-@TODO
+This is a fun **Christmas quiz** for **the whole family**! Ideal for playing with the family on Christmas Day, or perhaps at high school or teenage activities.
+
+The questions vary in difficulty, topic and method of answering. They are simple enough that anyone can understand and try to play, and are often textless (featuring image/audio/video).
+
+Moreover, this quiz has a special trick up its sleeve: **every round has a secret theme**. All players/teams get a "Santa Map" at the start, where they'll try to figure out the shared concept that the round is subtly about. By studying the map, they can get clues to answers, can solve a high-scoring mystery question, and the quiz becomes more than just a long list of text questions.
+
+You can ignore this map or leave it out if you want. Don't worry! It's just a bonus to score some more points and help you out when stuck.
+
+It contains XX rounds, XX questions, as follows,
+
+* @TODO
+
+{{% remark %}}
+Je krijgt de quiz ook in het Nederlands! Kies simpelweg je taal voordat je begint. Jammer genoeg zijn veel populaire kerstliedjes en kerstfilms exclusief Engels, dus die vragen kunnen voor (jonge) kinderen nog lastig zijn.
+{{% /remark %}}
