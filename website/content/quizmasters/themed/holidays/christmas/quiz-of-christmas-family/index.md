@@ -4,7 +4,7 @@ title: "Quiz of Christmas (Family)"
 id: "quiz-of-christmas-family"
 date: 2025-12-05
 price: 19.95
-image: ["quiz-of-christmas-family-header.webp", "quiz-of-christmas-family-1.webp", "quiz-of-christmas-family-2.webp", "quiz-of-christmas-family-3.webp", "quiz-of-christmas-family-4.webp", "quiz-of-christmas-family-5.webp"]
+image: ["quiz-of-christmas-family-header.webp", "quiz-of-christmas-family-1.webp", "quiz-of-christmas-family-2.webp", "quiz-of-christmas-family-3.webp", "quiz-of-christmas-family-4.webp", "quiz-of-christmas-family-5.webp", "quiz-of-christmas-family-6.webp", "quiz-of-christmas-family-7.webp"]
 file: "@TODO"
 spell: "christmas"
 charm: "trivia-kit"
@@ -44,7 +44,7 @@ duration: 120
 # indoors: false
 # outdoors: false
 # customizable: false
-interactive-media: true
+# interactive-media: false
 # multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
 # activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
 # brand: ""
@@ -57,11 +57,11 @@ Looking for a shorter quiz or one with a different difficulty? Check out our oth
 
 The questions vary in difficulty, topic and method of answering. They are simple enough that anyone can understand and try to play, and are often textless (featuring image/audio/video). 
 
-Moreover, this quiz has a special trick up its sleeve: **every round has a secret theme**. All players/teams get a "Santa Map" at the start, where they'll try to figure out the shared concept that the round is subtly about. By studying the map, they can get clues to answers, can solve a high-scoring mystery question, and the quiz becomes more than just a long list of textual questions.
+Moreover, this quiz has a special trick up its sleeve: **every round has a secret theme**. All players/teams get a beautiful **"Santa Map"** at the start, split into regions, each of which is linked to _one specific round_. Teams can use the map to figure out this shared theme ("oh, I think this entire round must be about _that_ region!") and score points. By studying the details and answers closely, they can get clues, can solve the high-scoring final question, and the quiz becomes more than just a long list of textual questions.
 
 You can ignore this map or leave it out if you want. Don't worry! It's just a bonus to score some more points and help you out when stuck.
 
-It contains 7 rounds, 70 questions, as follows,
+The quiz contains 7 rounds, 70 questions, as follows,
 
 * Common Knowledge
 * Finish The Song

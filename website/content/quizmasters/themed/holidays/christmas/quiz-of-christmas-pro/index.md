@@ -4,8 +4,8 @@ title: "Quiz of Christmas (Pro)"
 id: "quiz-of-christmas-pro"
 date: 2025-12-05
 price: 14.95
-image: ["quiz-of-christmas-pro-header.webp", "quiz-of-christmas-pro-1.webp", "quiz-of-christmas-pro-2.webp", "quiz-of-christmas-pro-3.webp", "quiz-of-christmas-pro-4.webp", "quiz-of-christmas-pro-5.webp"]
-file: "@TODO"
+image: ["quiz-of-christmas-pro-header.webp", "quiz-of-christmas-pro-1.webp", "quiz-of-christmas-pro-2.webp", "quiz-of-christmas-pro-3.webp", "quiz-of-christmas-pro-4.webp", "quiz-of-christmas-pro-5.webp", "quiz-of-christmas-pro-6.webp"]
+file: "4c283894-345c-42d7-9802-6e570693b420"
 spell: "christmas"
 charm: "trivia-kit"
 description: | 
@@ -17,7 +17,7 @@ description: |
 contents:
 - Instructions PDF
 - Digital Quiz (open in any browser); 70 questions
-- Special Physical Material (Advent Calendar); use once per player
+- Special Physical Material (Advent Calendar); use once per team
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
 
@@ -51,7 +51,7 @@ duration: 120
 
 ---
 
-This is a fun **Christmas quiz** for **"experts"**! It's a great quiz when your players are mostly adults, or perhaps with young adults at university. It contains our hardest questions about Christmas.
+This is a fun **Christmas quiz** for **"experts"**! It's a great quiz for when your players are mostly adults, or perhaps with young adults at university. It contains our hardest questions about Christmas.
 
 If you prefer something simpler for the whole family, check out our [Quiz of Christmas Family](/quizmasters/themed/holidays/christmas/quiz-of-christmas-family/). If you've already played that quiz last year and enjoyed it, then yes, this Pro version is a great upgrade to try this year! As opposed to the other Christmas quizzes, this one is harder and does not have any interactive media (audio/video).
 
@@ -70,5 +70,5 @@ It contains 7 rounds, 70 questions, as follows,
 * Christmas Around The World
 
 {{% remark %}}
-Je krijgt de quiz ook in het Nederlands! Kies simpelweg je taal voordat je begint. Veel Kerstgerelateerde dingen zijn natuurlijk in het Engels, maar we gaan ervan uit dat de doelgroep van deze quiz die taal goed genoeg beheerst om alles te begrijpen.
+Je krijgt de quiz ook in het Nederlands! Kies simpelweg je taal voordat je begint. Veel Kerstgerelateerde dingen hebben natuurlijk alleen Engelse titels of uitvoeringen, maar we gaan ervan uit dat de doelgroep van deze quiz die taal goed genoeg beheerst om alles te begrijpen.
 {{% /remark %}}

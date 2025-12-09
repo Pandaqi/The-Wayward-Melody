@@ -45,9 +45,9 @@ parallel-play: true
 
 ---
 
-This is a book of exercises and solo/group activities for the youngest children (Level 2; up to age 6/7) about **Halloween**! It's colorful and thematic, fun to look at and play around with, as you explore the different challenges and exercises connected to summer.
+This is a book of exercises and solo/group activities for the youngest children (Level 2; up to age 6/7) about **Halloween**! It's colorful and thematic, fun to look at and play around with, as you explore the different challenges and exercises connected to Halloween.
 
-About half of the pages require cutting out some material, and half do not. A large chunk of the busy book is educational, practicing core skills like counting, alphabet, logical problem solvoing, and more. As the name suggests, however, the _busy book_ is first and foremost meant as a fun and easy way to kill some time during the summer!
+About half of the pages require cutting out some material, and half do not. A large chunk of the busy book is educational, practicing core skills like counting, alphabet, logical problem solvoing, and more. As the name suggests, however, the _busy book_ is first and foremost meant as a fun and easy way to kill some time during the Halloween!
 
 Because this book is for _Level 2_, it assumes children have at least a very basic understanding of numbers and letters. If their understanding is good enough, they can enjoy and understand this book completely on their own. Otherwise, a bit of help by a Guardian might be necessary. (For younger children, try the [Level 1 Busy Book](/teachers/themed/halloween/busy-book-level-1).)
 

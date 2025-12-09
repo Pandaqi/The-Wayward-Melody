@@ -45,9 +45,9 @@ parallel-play: true
 
 ---
 
-This is a book of exercises and solo/group activities for the youngest children (Level 1; up to age 4/5) about **Halloween**! It's colorful and thematic, fun to look at and play around with, as you explore the different challenges and exercises connected to summer.
+This is a book of exercises and solo/group activities for the youngest children (Level 1; up to age 4/5) about **Halloween**! It's colorful and thematic, fun to look at and play around with, as you explore the different challenges and exercises connected to Halloween.
 
-About half of the pages require cutting out some material, and half do not. A large chunk of the busy book is educational, practicing core skills like pencil control, colors, shapes, basic patterns and more. As the name suggests, however, the _busy book_ is first and foremost meant as a fun and easy way to kill some time during the summer!
+About half of the pages require cutting out some material, and half do not. A large chunk of the busy book is educational, practicing core skills like pencil control, colors, shapes, basic patterns and more. As the name suggests, however, the _busy book_ is first and foremost meant as a fun and easy way to kill some time during Halloween!
 
 Because such young children (usually) can't count or read yet, none of the exercises require it. It's still recommended, however, to guide your child through the book and help them (explain/cut out/steer in the right direction). It's much harder for a child of that age to 100% figure out what they're supposed to do on their own!
 

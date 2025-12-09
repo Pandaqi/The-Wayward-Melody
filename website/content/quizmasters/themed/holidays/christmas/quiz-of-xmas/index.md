@@ -52,7 +52,7 @@ interactive-media: true
 
 This is a fun **Christmas quiz** for **the whole family**! Ideal for playing with friends or family on Christmas Day, or a group of teenagers/young adults, or even in a classroom.
 
-It's called _Quiz of Xmas_ because it's a shorter and simpler quiz than our big [Quiz of Christmas](/quizmasters/themed/christmas/quiz-of-christmas-family/). That doesn't mean it's any easier, though! That bigger quiz is simply meant to fill an evening (and include special material and rounds), while this Xmas quiz is shorter and more "ordinary".
+It's called _Quiz of Xmas_ because it's a shorter and simpler quiz than our big [Quiz of Christmas](/quizmasters/themed/holidays/christmas/quiz-of-christmas-family/). That doesn't mean it's any easier, though! That bigger quiz is simply meant to fill an evening (and include special material and rounds), while this Xmas quiz is shorter and more "ordinary".
 
 The questions vary in difficulty, topic and method of answering. They are simple enough that anyone can understand and try to play, and often feature an image/audio/video. 
 
