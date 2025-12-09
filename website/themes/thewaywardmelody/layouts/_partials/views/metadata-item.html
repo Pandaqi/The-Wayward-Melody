@@ -2,7 +2,8 @@
 {{- $has_valid_value := ne $data.value nil -}}
 {{- $search_key := $data.key_readable -}}
 {{- $dynamic_class := "text-color-light-xx bg-color-mid" }}
-{{- if or (eq $data.key "spell") (eq $data.key "charm") -}}
+{{- $highlighted_types := slice "spell" "charm" "language" -}}
+{{- if in $highlighted_types $data.key -}}
     {{- $dynamic_class = "text-color-dark-xx bg-color-accent-contrast" -}}
 {{- end -}}
 {{- if $has_valid_value -}}

@@ -45,7 +45,7 @@ contents:
 level: 2
 language: "nl"
 subject: ["Mathematics", "Language"]
-categories: ["holidays", "sinterklaas"]
+categories: ["holidays"]
 player-count: 1
 age: 6
 # requirements: ""

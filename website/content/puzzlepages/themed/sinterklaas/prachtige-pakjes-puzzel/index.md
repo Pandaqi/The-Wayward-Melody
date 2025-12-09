@@ -19,7 +19,7 @@ contents:
 
 level: [1,2]
 language: "nl"
-subject: ["Logic", "Mathematics"]
+subject: ["Mathematics", "Physical"]
 categories: ["holidays"]
 player-count: 1
 age: 4

@@ -3,7 +3,7 @@ type: "product"
 title: "Quiz of Christmas (Family)"
 id: "quiz-of-christmas-family"
 date: 2025-12-05
-price: 9.95
+price: 19.95
 image: ["quiz-of-christmas-family-header.webp", "quiz-of-christmas-family-1.webp", "quiz-of-christmas-family-2.webp", "quiz-of-christmas-family-3.webp", "quiz-of-christmas-family-4.webp", "quiz-of-christmas-family-5.webp"]
 file: "@TODO"
 spell: "christmas"
@@ -16,7 +16,7 @@ description: |
 
 contents:
 - Instructions PDF
-- Digital Quiz (open in any browser); @TODO questions
+- Digital Quiz (open in any browser); 70 questions
 - Special Physical Material (Santa Map); use once per player/team
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
@@ -28,7 +28,7 @@ player-count: 1-100
 age: 7
 # requirements: ""
 # single-use: false
-duration: 90
+duration: 120
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -51,17 +51,25 @@ interactive-media: true
 
 ---
 
-This is a fun **Christmas quiz** for **the whole family**! Ideal for playing with the family on Christmas Day, or perhaps at high school or teenage activities.
+This is a fun **Christmas quiz** for **the whole family**! Ideal for playing with friends or family on Christmas Day. This is our **"big fat Christmas quiz"**, if you will, with lots of creative rounds and special elements. It's supposed to take at least 2 hours, possibly with breaks, and supports large groups!
 
-The questions vary in difficulty, topic and method of answering. They are simple enough that anyone can understand and try to play, and are often textless (featuring image/audio/video).
+Looking for a shorter quiz or one with a different difficulty? Check out our other Christmas quizzes, such as [Quiz of Xmas](/quizmasters/themed/holidays/christmas/quiz-of-xmas/), [Quiz of Christmas Kids](/quizmasters/themed/holidays/christmas/quiz-of-christmas-kids/) or [Quiz of Christmas Pro](/quizmasters/themed/holidays/christmas/quiz-of-christmas-pro/).
 
-Moreover, this quiz has a special trick up its sleeve: **every round has a secret theme**. All players/teams get a "Santa Map" at the start, where they'll try to figure out the shared concept that the round is subtly about. By studying the map, they can get clues to answers, can solve a high-scoring mystery question, and the quiz becomes more than just a long list of text questions.
+The questions vary in difficulty, topic and method of answering. They are simple enough that anyone can understand and try to play, and are often textless (featuring image/audio/video). 
+
+Moreover, this quiz has a special trick up its sleeve: **every round has a secret theme**. All players/teams get a "Santa Map" at the start, where they'll try to figure out the shared concept that the round is subtly about. By studying the map, they can get clues to answers, can solve a high-scoring mystery question, and the quiz becomes more than just a long list of textual questions.
 
 You can ignore this map or leave it out if you want. Don't worry! It's just a bonus to score some more points and help you out when stuck.
 
-It contains XX rounds, XX questions, as follows,
+It contains 7 rounds, 70 questions, as follows,
 
-* @TODO
+* Common Knowledge
+* Finish The Song
+* Merry Media
+* Reindeer Rollercoaster
+* Seasonal Shuffle
+* Christmas Around The World
+* Feasty Food
 
 {{% remark %}}
 Je krijgt de quiz ook in het Nederlands! Kies simpelweg je taal voordat je begint. Jammer genoeg zijn veel populaire kerstliedjes en kerstfilms exclusief Engels, dus die vragen kunnen voor (jonge) kinderen nog lastig zijn.

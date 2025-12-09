@@ -18,9 +18,9 @@ contents:
 - Spelregels PDF (1 pagina Stoomboot regels, 1 pagina Daken regels, 1 pagina overzicht speciale vakjes)
 - Materiaal PDF (1 pagina pionnen/dobbelstenen, 3 pagina's gebeurteniskaarten, 4 pagina's met 2-delige kaarten)
 
-level: [1,2] # @TODO: check if multilevel products are even supported by template code!
+level: [1,2]
 language: "nl"
-categories: ["holidays", "sinterklaas"]
+categories: ["holidays"]
 player-count: 2-8
 age: 4
 # requirements: ""

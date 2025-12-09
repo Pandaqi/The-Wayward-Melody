@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "nl"
-categories: ["holidays", "sinterklaas"]
+categories: ["holidays"]
 player-count: 1-100
 age: 4
 # requirements: ""

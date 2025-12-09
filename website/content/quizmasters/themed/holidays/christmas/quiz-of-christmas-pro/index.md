@@ -3,7 +3,7 @@ type: "product"
 title: "Quiz of Christmas (Pro)"
 id: "quiz-of-christmas-pro"
 date: 2025-12-05
-price: 9.95
+price: 14.95
 image: ["quiz-of-christmas-pro-header.webp", "quiz-of-christmas-pro-1.webp", "quiz-of-christmas-pro-2.webp", "quiz-of-christmas-pro-3.webp", "quiz-of-christmas-pro-4.webp", "quiz-of-christmas-pro-5.webp"]
 file: "@TODO"
 spell: "christmas"
@@ -16,7 +16,7 @@ description: |
 
 contents:
 - Instructions PDF
-- Digital Quiz (open in any browser); @TODO questions
+- Digital Quiz (open in any browser); 70 questions
 - Special Physical Material (Advent Calendar); use once per player
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
@@ -53,15 +53,21 @@ duration: 120
 
 This is a fun **Christmas quiz** for **"experts"**! It's a great quiz when your players are mostly adults, or perhaps with young adults at university. It contains our hardest questions about Christmas.
 
-If you prefer something simpler for the whole family, check out our [Quiz of Christmas Family](/quizmasters/themed/holidays/christmas/quiz-of-christmas-family/). If you've already played that quiz last year and enjoyed it, then yes, this Pro version is a great upgrade to try this year! As opposed to the other Christmas quizzes, this one is longer and does not have interactive media (audio/video).
+If you prefer something simpler for the whole family, check out our [Quiz of Christmas Family](/quizmasters/themed/holidays/christmas/quiz-of-christmas-family/). If you've already played that quiz last year and enjoyed it, then yes, this Pro version is a great upgrade to try this year! As opposed to the other Christmas quizzes, this one is harder and does not have any interactive media (audio/video).
 
 Moreover, this quiz has a special trick up its sleeve: **all players get a little "advent calendar"**. Once in a while, questions allow you to eliminate one of the days. As the quiz continues, more and more days will be gone, which will give clues about what the right answers could be on other questions. Then, at the end, there's a high-scoring question about the only day on your calendar that is left untouched ...
 
 You can ignore this extra calendar or leave it out entirely. Don't worry! It's just some extra fun to make the quiz a more unique (team) puzzling adventure.
 
-It contains XX rounds, XX questions, as follows,
+It contains 7 rounds, 70 questions, as follows,
 
-* @TODO
+* Not So Common Knowledge
+* Merry Media
+* Who Is Santa Really?
+* Record Season
+* Advent of Angels
+* The Christ in Christmas
+* Christmas Around The World
 
 {{% remark %}}
 Je krijgt de quiz ook in het Nederlands! Kies simpelweg je taal voordat je begint. Veel Kerstgerelateerde dingen zijn natuurlijk in het Engels, maar we gaan ervan uit dat de doelgroep van deze quiz die taal goed genoeg beheerst om alles te begrijpen.

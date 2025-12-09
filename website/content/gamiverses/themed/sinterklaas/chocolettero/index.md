@@ -6,7 +6,7 @@ price: 9.95
 date: 2025-11-05
 image: ["chocolettero-header.webp", "chocolettero-1.webp", "chocolettero-2.webp", "chocolettero-3.webp"]
 file: "abf04fde-1675-4a36-b812-9d3ae2ce8142"
-spell: ["sinterklaas"]
+spell: "sinterklaas"
 charm: "board-game"
 description: | 
   Maak zo slim mogelijk woorden
@@ -20,7 +20,7 @@ contents:
 
 level: 2
 language: "nl"
-categories: ["holidays", "sinterklaas", "alphabet", "word-awareness"]
+categories: ["holidays", "alphabet", "word-awareness"]
 player-count: 2-6
 age: 6
 # requirements: ""
