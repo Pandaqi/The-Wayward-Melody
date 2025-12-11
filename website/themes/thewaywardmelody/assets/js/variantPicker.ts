@@ -1,3 +1,4 @@
+import { addSwipeListener, SwipeDirection } from "./gestures";
 import { convertTimezoneToShippingZone } from "./shippingZones";
 
 const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElement) =>
@@ -164,18 +165,28 @@ const activateCarousel = (carousel:HTMLElement, overlay:HTMLElement) =>
         });
     }
 
-    // make image clickable
+    // make image clickable + swipable
     const imageElements = Array.from(carousel.getElementsByClassName("image-carousel-image")) as HTMLImageElement[];
     for(const imageElement of imageElements)
     {
+        // if swiped, change carousel
+        const swipeCallback = (dir:SwipeDirection) => 
+        {
+            const dirIndex = [SwipeDirection.LEFT, SwipeDirection.UP].includes(dir) ? -1 : 1;
+            carouselButtonCallback(carousel, dirIndex);
+        }
+
         // if clicked, open enlarged version
-        imageElement.addEventListener("click", () => 
+        const clickCallback = () =>
         {
             overlay.style.display = "flex";
             const overlayImage = overlay.getElementsByTagName("img")[0] as HTMLImageElement;
             overlayImage.src = imageElement.src;
-        });
-        
+        }
+
+        // @NOTE: we handle click and swipe in one go ourselves (instead of a "click" event listener), 
+        // otherwise we get the default behavior for click fighting our custom behavior for swipe and it's an ugly mess
+        addSwipeListener(imageElement, swipeCallback, clickCallback);    
     }
 
     // attach all images to carousel changers

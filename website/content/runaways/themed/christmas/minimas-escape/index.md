@@ -5,7 +5,7 @@ id: "minimas-escape"
 date: 2025-12-05
 price: 4.95
 image: ["minimas-escape-header.webp", "minimas-escape-1.webp"]
-file: "@TODO"
+file: "20f2d267-c504-4ff7-bf10-fa02e82f8123"
 spell: "christmas"
 charm: "printable-escape-kit"
 description: | 
@@ -17,7 +17,8 @@ description: |
 contents:
 - Introduction page (explanation, simple example)
 - Solutions page
-- "10 puzzle sheets (small rectangles you could keep in your pocket)"
+- A PDF with 10 puzzle sheets (small rectangles you could keep in your pocket)
+- A folder with all puzzles as separate images, in case you want to use them/play in some other way than usual
 
 level: 2
 language: "en"
