@@ -9,8 +9,8 @@ file: "@TODO"
 spell: "my-unbounded-imagination"
 charm: "board-game"
 description: | 
-  One player picks and adjective like "strong"
-  Everyne else plays a noun like "elephant" to belong
+  One player picks an adjective like "strong"
+  Everyone else plays a noun like "elephant" to belong
   Make up a creative story about why your noun fits best
   So you score all the points and leave nothing for the rest!
 

@@ -12,7 +12,7 @@ description: |
   @TODO
 
 contents:
-- Introduction page (explanation,, setup, story)
+- Introduction page (explanation, setup, story)
 - Answers page (slightly obfuscated to prevent accidental cheating)
 - "@TODO Sheets with puzzles and general shared clues"
 

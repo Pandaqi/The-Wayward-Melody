@@ -36,7 +36,7 @@
     desc = "Ah! The sun is shining, the temperature is nice, and maybe you're already on your way to the beach. Browse our abundance of summer stories, games, puzzles, activities, and more to have a fun time!"
 
 [animals]
-    spell = "world-animal-day"
+    spell = "animals"
     dateStart = "09-20"
     dateEnd = "10-07"
     title = "World Animal Day"

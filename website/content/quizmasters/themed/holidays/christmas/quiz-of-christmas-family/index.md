@@ -5,7 +5,7 @@ id: "quiz-of-christmas-family"
 date: 2025-12-05
 price: 19.95
 image: ["quiz-of-christmas-family-header.webp", "quiz-of-christmas-family-1.webp", "quiz-of-christmas-family-2.webp", "quiz-of-christmas-family-3.webp", "quiz-of-christmas-family-4.webp", "quiz-of-christmas-family-5.webp", "quiz-of-christmas-family-6.webp", "quiz-of-christmas-family-7.webp"]
-file: "@TODO"
+file: "8c721ab8-e566-43bf-9f48-045c062be77c"
 spell: "christmas"
 charm: "trivia-kit"
 description: | 
@@ -17,7 +17,8 @@ description: |
 contents:
 - Instructions PDF
 - Digital Quiz (open in any browser); 70 questions
-- Special Physical Material (Santa Map); use once per player/team
+- Special Physical Material (Santa Map; color, inkfriendly, grayscale); use once per player/team
+- Original/Source File for Santa Map (an `.af` file to open/edit in the free Affinity software!)
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
 

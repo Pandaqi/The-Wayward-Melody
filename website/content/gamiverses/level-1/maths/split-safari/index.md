@@ -6,7 +6,7 @@ price: 16.95
 date: 2025-09-18
 image: ["split-safari-header.webp", "split-safari-1.webp", "split-safari-2.webp", "split-safari-3.webp", "split-safari-4.webp", "split-safari-5.webp", "split-safari-6.webp", "split-safari-7.webp", "split-safari-8.webp"]
 file: "cc6ed013-0bf7-403a-aceb-b468cab15928"
-spell: ["my-first-comparisons", "my-first-grouping", "recognition-and-discrimination", "my-first-directions"]
+spell: ["my-first-comparisons", "my-first-grouping", "recognition-and-discrimination", "my-first-directions", "animals"]
 charm: "board-game"
 description: | 
   Race through untamed nature and wilderness
