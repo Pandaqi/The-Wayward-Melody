@@ -53,7 +53,7 @@ interactive-media: true
 This is an **expert quiz** about **Halloween**! It contains a wide variety of questions about the holiday, its history, movies and stories about it, and more. This is our version of the quiz that has the hardest questions, as well as topics (or audio/video) that might not be suitable for the younger kids. It's not an "adult quiz" per se, but simply includes some scarier elements and a bigger focus on the horror aspect of Halloween.
 
 {{% remark %}}
-For a "family version" or "kids version", check out [Quiz of Halloween: Family](/quizmasters/themed/holidays/quiz-of-halloween-family/) and [Quiz of Halloween: Kids](/quizmasters/themed/holidays/quiz-of-halloween-kids/) instead!
+For a "family version" or "kids version", check out [Quiz of Halloween: Family](/quizmasters/themed/holidays/halloween/quiz-of-halloween-family/) and [Quiz of Halloween: Kids](/quizmasters/themed/holidays/halloween/quiz-of-halloween-kids/) instead!
 {{% /remark %}}
 
 It uses our custom quizzing system, which allows it to be highly interactive and to be played both digitally and physically. The questions are short, simple, and varied. Many of them include an image, audio, or video.
