@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "Monster On The Loose"
 id: "monster-on-the-loose"

@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "The Mathemagiswan"
 id: "the-mathemagiswan"

@@ -89,8 +89,6 @@ Additionally, _Quest for El Dorado_ simply has a "starting tile" and "finish til
 
 So, instead, I created separate "strips" of hexagons. Start strips and finish strips. You pick one of each and simply attach it at the front and back of the map. This means the map is truly completely different each time, and we don't have to compromise on space or fairness or anything else. It also simplifies the setup again because I don't need to explain which specific tile is the "finish tile that should be placed last" and so forth. (And it opens up opportunities for special actions/powers such as "move the finish strip to another spot" :p)
 
-@TODO: Screenshot of the OLD big tiles and small pawns?
-
 ### Creating Everything
 
 Now I just had to create the actual map tiles and cards, which meant deciding how often something appeared. (And what 2/3 biomes the "advanced" animals could cross.)

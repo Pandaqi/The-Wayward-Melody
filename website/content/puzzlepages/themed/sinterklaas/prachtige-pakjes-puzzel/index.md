@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "Prachtige Pakjespuzzel"
 id: "prachtige-pakjes-puzzel"

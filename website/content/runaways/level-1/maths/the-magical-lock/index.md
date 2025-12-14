@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "The Magical Lock"
 id: "the-magical-lock"

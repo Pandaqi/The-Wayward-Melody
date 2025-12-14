@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "Mini Mappers"
 id: "mini-mappers"

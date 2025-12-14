@@ -188,8 +188,6 @@ This was several days of pretty boring work, to be honest. Still much faster and
 
 Generation is always funny. The "reward" is delayed in this process. You work for days without having _anything_ to show for it. But once done, you press a button, the computer does the rest, and suddenly you have 4 finished games. 
 
-@TODO: IMAGE OF GENERATED MATERIAL?
-
 Fortunately, I was familiar with this from the 100s of Pandaqi games I made, so I just powered through and got it done.
 
 At the same time, I manually created the rules PDFs for all games. I basically explained the entire ruleset already, so these are really short and simple files.
@@ -299,8 +297,6 @@ This seemed a funny and creative way to illustrate the game. By combining it wit
 Then ... reality hit. How would I actually use those "mixed animals" on the cards? I couldn't find some layout that actually used the animals that wasn't needlessly convoluted/taxing on your printer. Whatever I tried, the cards were more minimalist, prettier and more functional to me with just a simple nature/jungle background and nothing else. Any other details made things messy; without that background the game looked incredibly sterile and boring.
 
 And so I went with that general template, and moved the "shuffled animals" to expansion cards. Their image only appears on special cards that you need for those upgrades/expansions. And because they _only_ appear there, those cards are easily differentiated from the cards you actually use to play the game, which is always nice.
-
-@TODO: IMAGE OF MARKETING/IMPROVED VISUAL STYLE?
 
 That's the beauty of _generated_ material. I could create/code this whole visual style _after the fact_, and simply press a button to generate my new PDF!
 

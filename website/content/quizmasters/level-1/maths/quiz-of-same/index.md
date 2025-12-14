@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "The Quiz of Same"
 id: "the-quiz-of-same"

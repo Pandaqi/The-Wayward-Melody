@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "The Warden of Awk"
 id: "the-warden-of-awk"

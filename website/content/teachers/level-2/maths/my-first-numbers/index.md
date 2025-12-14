@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "My First Numbers"
 id: "my-first-numbers"

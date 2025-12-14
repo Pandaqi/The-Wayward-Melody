@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "Pylgrim Mage (Level 1)"
 id: "pylgrim-mage-level-1"

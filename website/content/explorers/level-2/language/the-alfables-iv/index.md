@@ -1,4 +1,5 @@
 ---
+draft: true
 type: "product"
 title: "The Alfables IV"
 id: "the-alfables-iv"

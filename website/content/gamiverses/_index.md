@@ -98,9 +98,3 @@ We are purposely **not** like most video game companies these days, which force 
 {{% /double-view-item %}}
 
 {{% /double-view %}}
-
-<!---
-
-
-Check out all the **bonus material** for the "Fun Frontier" project! Unfamiliar with it? [Visit the website!](https://funfrontier.com) @TODO: Link. It contains all the necessary information, and a really nice design and categorization, to help you find **free educational board games** to play with your children. This webshop merely sells additional material, such as expansions or merchandise. (@TODO: This category might disappear in the future.)
---->
