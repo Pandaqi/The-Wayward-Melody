@@ -4,9 +4,9 @@ title: "Bauble Ball"
 id: "bauble-ball"
 price: 9.95
 date: 2025-12-10
-image: ["bauble-ball-header.webp", "bauble-ball-1.webp", "bauble-ball-2.webp", "bauble-ball-3.webp"]
-file: "@TODO"
-spell: "christmas"
+image: ["bauble-ball-header.webp", "bauble-ball-1.webp", "bauble-ball-2.webp", "bauble-ball-3.webp", "bauble-ball-4.webp", "bauble-ball-5.webp"]
+file: "a90e621e-3ce4-4d75-b603-7b4346e475f9"
+spell: ["christmas", "my-first-colors", "my-first-numbers", "my-first-letters"]
 charm: "board-game"
 description: | 
   An empty tree awaits your touch
@@ -56,7 +56,7 @@ There are many trees to pick, and many baubles to randomly distribute, which mak
 
 Moreover, the base game does **not rely on text or numbers**, allowing young kids to play too. Only the expansions add special baubles with _numbers_ and _letters_, allowing some practice with maths and language, if you want. They also add action baubles and the ability to play with _multiple trees_, which can support a higher number of players.
 
-Even better, this is a **simultaneous game**: people don't get turns, but instead act all at once! You secretly pick your baubles at the same time, then reveal and resolve together. This makes individual matches very quick and without downtime, satisfying even the most impatient of players.
+Even better, this is a **simultaneous game**: people don't get turns, but instead act all at once! You secretly pick your baubles at the same time, then reveal and resolve together. This makes individual games very quick and without downtime, satisfying even the most impatient of players.
 
 Of all our Christmas games, this is probably the most suitable entry game for any group of people. Not complicated, but also not childish. Short and simple, but still with clear strategy and a Christmas theme.
 
@@ -65,5 +65,5 @@ The game requires cutting out a good number of circular Christmas Baubles. That'
 {{% /remark %}}
 
 {{% remark %}}
-Although it's _technically_ possible to print this game in _grayscale_, we highly recommend **printing in color**. It makes it far easier to distinguish different baubles and immediately see whether moves are allowed (or how much they score). It also just makes the game prettier, which is often a deciding factor when convincing (young) kids to play ...
+This is one of our rare games that really **must be printed in color**. The bauble colors are such a crucial part of the game, and one of the "educational topics" of the game, that we realized it made no sense to support a grayscale/colorblind version too.
 {{% /remark %}}
