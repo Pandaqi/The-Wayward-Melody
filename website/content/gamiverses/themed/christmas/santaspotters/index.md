@@ -4,7 +4,7 @@ title: "Santaspotters"
 id: "santaspotters"
 price: 14.95
 date: 2025-12-10
-image: ["santaspotters-header.webp", "santaspotters-1.webp", "santaspotters-2.webp", "santaspotters-3.webp"]
+image: ["santaspotters-header.webp", "santaspotters-1.webp", "santaspotters-2.webp", "santaspotters-3.webp", "santaspotters-4.webp", "santaspotters-5.webp"]
 file: "49630e77-2df3-42aa-8fc8-a9c9ba120b4f"
 spell: "christmas"
 charm: "board-game"

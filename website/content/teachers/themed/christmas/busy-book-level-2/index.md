@@ -9,10 +9,15 @@ file: "@TODO"
 spell: "christmas"
 charm: "busy-book"
 description: | 
-  @TODO
+  A busy book for a busy season
+  Fun Christmas challenges, activities and more
+  For young kids certainly not a bore
+  Practice letters, numbers, creativity, logic, and reading
 
 contents:
-- "@TODO"
+- "Busy Book PDF (@TODO pages with a wide variety of Christmas-themed challenges: coloring pages, jigsaw puzzles, shape/color matching and sorting, pencil control, and more)"
+- Original/Source Files (`.af` files that you can open and edit in the free Affinity software!)
+- Prompt Cards PDF (32 flash cards with Christmas illustrations to be used for certain activities)
 
 level: 2
 language: "en"
@@ -51,4 +56,4 @@ About half of the pages require cutting out some material, and half do not. A la
 
 Because this book is for _Level 2_, it assumes children have at least a very basic understanding of numbers and letters. If their understanding is good enough, they can enjoy and understand this book completely on their own. Otherwise, a bit of help by a Guardian might be necessary. (For younger children, try the [Level 1 Busy Book](/teachers/themed/halloween/busy-book-level-1).)
 
-For actual _puzzles_ (e.g. sudoku, crosswords), as always, check out the Halloween materials in the Puzzlepages section.
+For actual _puzzles_ (e.g. sudoku, crosswords), as always, check out the Christmas materials in the Puzzlepages section.

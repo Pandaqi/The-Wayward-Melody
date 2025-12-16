@@ -1,6 +1,6 @@
 # @TODO: Need something more for January/February/March?
-[valentine]
-    spell = "valentine"
+[valentines-day]
+    spell = "valentines-day"
     dateStart = "02-04"
     dateEnd = "02-18"
     title = "Valentine's Day"
@@ -57,11 +57,18 @@
     title = "Sinterklaas (nl)"
     desc = "Het is weer die tijd van het jaar! Bekijk alle leuke Sinterklaasproducten in deze winkel en je zal vast iets vinden dat een kinderhart verblijdt."
 
-# @TODO: Split new year's eve into its own thing?
 [christmas]
     spell = "christmas"
     dateStart = "12-06"
-    dateEnd = "12-28"
+    dateEnd = "12-26"
     title = "Christmas"
     desc = "Christmas songs are everywhere. Santa Claus is coming to town. You can't go outside without wearing gloves and four layers of clothing. So why don't you browse our Christmas products and find something to keep yourself warm?"
+
+[new-ears-eve]
+    spell = "new-years-eve"
+    dateStart = "12-26"
+    dateEnd = "12-31"
+    title = "Christmas"
+    desc = "New Year, New You, New Experiences. Why not try some of our New Year's Eve quizzes, games, or other resources?"
+
 

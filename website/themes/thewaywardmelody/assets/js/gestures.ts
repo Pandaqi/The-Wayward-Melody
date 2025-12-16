@@ -8,10 +8,18 @@ export enum SwipeDirection
 
 export const getFirstPointer = (ev:TouchEvent|MouseEvent) =>
 {
-    const touches = (ev as TouchEvent).touches ?? [(ev as MouseEvent)];
+    // ugh browser support is stupid here, and supporting touch + mouse is stupid too,
+    // so just keep checking possible properties until we find the right one
+    let touches:TouchList|MouseEvent[] = (ev as TouchEvent).targetTouches; // TARGET TOUCHES = on this specific element (so empty on touchend)
+    if(!touches || touches.length <= 0) { touches = (ev as TouchEvent).changedTouches; } // CHANGED TOUCHES = self-explanatory
+    if(!touches || touches.length <= 0) { touches = (ev as TouchEvent).touches; } // TOUCHES = all currently in touch (so empty on touchend)
+    if(!touches || touches.length <= 0) { touches = [(ev as MouseEvent)]; } // If a mouse touch, just, well, use that mouse touch
+
     if(touches.length <= 0) { console.error("Event has no valid touches", ev); return null; }
+
     const firstTouch = touches[0];
     if(!firstTouch.clientX || !firstTouch.clientY) { console.error("Touch has no valid coordinates", firstTouch); return null; }
+
     return firstTouch;
 }
 

@@ -2,21 +2,26 @@
 type: "product"
 title: "Christmas Busy Book (Level 1)"
 id: "christmas-busy-book-lv1"
-price: 12.95
+price: 9.95
 date: 2025-12-05
-image: ["christmas-busy-book-lv1-header.webp", "christmas-busy-book-lv1-1.webp", "christmas-busy-book-lv1-2.webp", "christmas-busy-book-lv1-3.webp", "christmas-busy-book-lv1-4.webp", "christmas-busy-book-lv1-5.webp"]
-file: "@TODO"
+image: ["christmas-busy-book-lv1-header.webp", "christmas-busy-book-lv1-1.webp", "christmas-busy-book-lv1-2.webp", "christmas-busy-book-lv1-3.webp", "christmas-busy-book-lv1-4.webp"]
+file: "25fc85fb-52f5-4b15-803b-f54d785ee3a9"
 spell: "christmas"
 charm: "busy-book"
 description: | 
-  @TODO
+  A busy book for busy times
+  Fun Christmas challenges, activities and more
+  For the youngest kids certainly not a bore
+  Practice shapes, colors, matching, sorting and even rhymes
 
 contents:
-- "@TODO"
+- "Busy Book PDF (24 pages with a wide variety of Christmas-themed challenges: coloring pages, jigsaw puzzles, shape/color matching and sorting, pencil control, and more)"
+- Original/Source Files (`.af` files that you can open and edit in the free Affinity software!)
+- Prompt Cards PDF (32 flash cards with Christmas illustrations to be used for certain activities)
 
 level: 1
 language: "en"
-subject: ["Mathematics", "Language"]
+subject: ["Mathematics"]
 categories: ["holidays"]
 player-count: 1
 age: 3
