@@ -2,10 +2,10 @@
 type: "product"
 title: "Santaspotters"
 id: "santaspotters"
-price: 9.95
+price: 14.95
 date: 2025-12-10
 image: ["santaspotters-header.webp", "santaspotters-1.webp", "santaspotters-2.webp", "santaspotters-3.webp"]
-file: "@TODO"
+file: "49630e77-2df3-42aa-8fc8-a9c9ba120b4f"
 spell: "christmas"
 charm: "board-game"
 description: | 
@@ -16,7 +16,7 @@ description: |
 
 contents:
 - Rules PDF (4 pages; 1 front page, 1 base game, 1 expansions, 1 role overview)
-- Material PDFs (9 pages; 24 role cards, 70 play cards, 12 sleepy clocks)
+- Material PDFs (24 role cards, 70 play cards, 12 sleepy clocks)
 - Original/Source Files (`.af` files that you can open and edit in the free Affinity software!)
 
 level: 1

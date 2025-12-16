@@ -6,6 +6,15 @@ export enum SwipeDirection
     DOWN = "down"
 }
 
+export const getFirstPointer = (ev:TouchEvent|MouseEvent) =>
+{
+    const touches = (ev as TouchEvent).touches ?? [(ev as MouseEvent)];
+    if(touches.length <= 0) { console.error("Event has no valid touches", ev); return null; }
+    const firstTouch = touches[0];
+    if(!firstTouch.clientX || !firstTouch.clientY) { console.error("Touch has no valid coordinates", firstTouch); return null; }
+    return firstTouch;
+}
+
 export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callbackClick:Function) =>
 {
     let xDown = -1;
@@ -13,7 +22,7 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
 
     const handleTouchStart = (ev:TouchEvent|MouseEvent) =>
     {
-        const firstTouch = (ev instanceof TouchEvent) ? ev.touches[0] : (ev as MouseEvent);
+        const firstTouch = getFirstPointer(ev);
         xDown = firstTouch.clientX;
         yDown = firstTouch.clientY;
         ev.preventDefault();
@@ -25,7 +34,7 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
         const neverStarted = xDown < 0 || yDown < 0;
         if(neverStarted) { return true; }
 
-        const firstTouch = (ev instanceof TouchEvent) ? ev.touches[0] : (ev as MouseEvent);
+        const firstTouch = getFirstPointer(ev);
         const xUp = firstTouch.clientX;
         const yUp = firstTouch.clientY;
 
