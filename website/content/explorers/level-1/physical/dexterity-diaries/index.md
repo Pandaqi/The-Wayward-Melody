@@ -17,7 +17,7 @@ description: |
 contents:
 - 14 short stories exploring loads of fine motor skills to practice (cutting, folding, etc)
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
-- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any computer system should allow printing 2 pages at once on a single A4/Letter page.
 - Bingo Cards (for Apprentices to cross off things that appear as they listen to the story)
 
 level: 1

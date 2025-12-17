@@ -18,7 +18,7 @@ description: |
 contents:
 - 10 short stories exploring words and meaning for directions (left, right, etc)
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
-- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any computer system should allow printing 2 pages at once on a single A4/Letter page.
 - The original treasure map as a high resolution image. (For example, let Apprentices use a stone or button as a ship to move around the map.)
 
 level: 1

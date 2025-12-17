@@ -18,7 +18,7 @@ contents:
 - 13 spooky mysterious short stories where nothing is as it seems ...
 - And a bonus 14th story if you dare ...
 - The stories are included as a `.pdf` file (most suitable for printing) and `.epub` file (most suitable for ereaders).
-- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any computer system should allow printing 2 pages at once on a single A4/Letter page.
 - A recording of a spooky theme song composed for this project!
 
 level: 2

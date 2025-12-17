@@ -17,7 +17,7 @@ description: |
 
 contents:
 - The story as `.pdf` and `.epub` (@TODO XX pages)
-- The PDF has pages in "Half Letter" format (near A5; typical for books), but any system allows printing 2 pages at once on a single A4/Letter page.
+- The PDF has pages in "Half Letter" format (near A5; typical for books), but any computer system should allow printing 2 pages at once on a single A4/Letter page.
 
 level: 2
 language: "en"

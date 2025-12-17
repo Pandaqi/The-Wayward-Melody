@@ -6,6 +6,9 @@ export enum SwipeDirection
     DOWN = "down"
 }
 
+const DISABLE_VERTICAL_SWIPE = true;
+const DISABLE_HORIZONTAL_SWIPE = false;
+
 export const getFirstPointer = (ev:TouchEvent|MouseEvent) =>
 {
     // ugh browser support is stupid here, and supporting touch + mouse is stupid too,
@@ -59,29 +62,28 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
             callbackClick();
             return false; 
         }
-
-        ev.preventDefault();
-        ev.stopPropagation();
         
         const dominantDirectionIsX = Math.abs(xDiff) > Math.abs(yDiff);
-        if (dominantDirectionIsX) 
+        const dominantDirectionIsY = !dominantDirectionIsX;
+        if(dominantDirectionIsX) 
         {
-            if (xDiff > 0) {
-                callbackSwipe(SwipeDirection.RIGHT);
-                return false;
-            } else {
-                callbackSwipe(SwipeDirection.LEFT);
-                return false;
-            } 
+            if(DISABLE_HORIZONTAL_SWIPE) { return true; }
+            
+            ev.preventDefault();
+            ev.stopPropagation();
+            callbackSwipe(xDiff > 0 ? SwipeDirection.RIGHT : SwipeDirection.LEFT);
+            return false;
         }
 
-        if (yDiff > 0) {
-            callbackSwipe(SwipeDirection.DOWN);
-            return false;
-        } else { 
-            callbackSwipe(SwipeDirection.UP);
-            return false;
-        }        
+        if(dominantDirectionIsY)
+        {
+            if(DISABLE_VERTICAL_SWIPE) { return true; }
+
+            ev.preventDefault();
+            ev.stopPropagation();
+            callbackSwipe(yDiff > 0 ? SwipeDirection.DOWN : SwipeDirection.UP);
+            return false; 
+        }
     }
 
     node.addEventListener('touchstart', handleTouchStart, false);
