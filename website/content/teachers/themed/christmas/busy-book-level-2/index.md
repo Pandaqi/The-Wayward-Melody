@@ -2,10 +2,10 @@
 type: "product"
 title: "Christmas Busy Book (Level 2)"
 id: "christmas-busy-book-lv2"
-price: 12.95
+price: 13.95
 date: 2025-05-05
-image: ["christmas-busy-book-lv2-header.webp", "christmas-busy-book-lv2-1.webp", "christmas-busy-book-lv2-2.webp", "christmas-busy-book-lv2-3.webp", "christmas-busy-book-lv2-4.webp", "christmas-busy-book-lv2-5.webp"]
-file: "@TODO"
+image: ["christmas-busy-book-lv2-header.webp", "christmas-busy-book-lv2-1.webp", "christmas-busy-book-lv2-2.webp", "christmas-busy-book-lv2-3.webp", "christmas-busy-book-lv2-4.webp", "christmas-busy-book-lv2-5.webp", "christmas-busy-book-lv2-6.webp", "christmas-busy-book-lv2-7.webp", "christmas-busy-book-lv2-8.webp"]
+file: "4b360666-d991-418c-ac98-e3aa0cc38a30"
 spell: "christmas"
 charm: "busy-book"
 description: | 
@@ -15,13 +15,12 @@ description: |
   Practice letters, numbers, creativity, logic, and reading
 
 contents:
-- "Busy Book PDF (@TODO pages with a wide variety of Christmas-themed challenges: coloring pages, jigsaw puzzles, shape/color matching and sorting, pencil control, and more)"
+- "Busy Book PDF (32 pages with a wide variety of Christmas-themed challenges: trivia, riddles, math, patterns, spotting, sorting, stories/reading, activities, and more)"
 - Original/Source Files (`.af` files that you can open and edit in the free Affinity software!)
-- Prompt Cards PDF (32 flash cards with Christmas illustrations to be used for certain activities)
 
 level: 2
 language: "en"
-subject: ["Mathematics", "Language"]
+subject: ["Mathematics", "Language", "World", "Social"]
 categories: ["holidays"]
 player-count: 1
 age: 5
@@ -31,7 +30,7 @@ duration: 240
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
-color: true
+# color: false
 # mature: false
 textless: true
 parallel-play: true
@@ -54,6 +53,6 @@ This is a book of exercises and solo/group activities for the youngest children 
 
 About half of the pages require cutting out some material, and half do not. A large chunk of the busy book is educational, practicing core skills like counting, alphabet, logical problem solvoing, and more. As the name suggests, however, the _busy book_ is first and foremost meant as a fun and easy way to kill some time during the summer!
 
-Because this book is for _Level 2_, it assumes children have at least a very basic understanding of numbers and letters. If their understanding is good enough, they can enjoy and understand this book completely on their own. Otherwise, a bit of help by a Guardian might be necessary. (For younger children, try the [Level 1 Busy Book](/teachers/themed/halloween/busy-book-level-1).)
+Because this book is for _Level 2_, it assumes children have at least a very basic understanding of numbers and letters. If their understanding is good enough, they can enjoy and understand this book completely on their own. Otherwise, a bit of help by a Guardian might be necessary. (For younger children, try the [Level 1 Busy Book](/teachers/themed/christmas/busy-book-level-1).)
 
 For actual _puzzles_ (e.g. sudoku, crosswords), as always, check out the Christmas materials in the Puzzlepages section.

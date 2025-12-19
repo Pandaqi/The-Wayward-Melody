@@ -6,7 +6,7 @@ price: 8.95
 date: 2025-12-10
 image: ["not-done-yeti-header.webp", "not-done-yeti-1.webp", "not-done-yeti-2.webp", "not-done-yeti-3.webp"]
 file: "33646887-6a7a-4a12-932d-31ac0af029da"
-spell: "christmas"
+spell: ["christmas", "my-first-comparing", "my-first-numbers"]
 charm: "board-game"
 description: | 
   Skate your pawn across a frozen map
@@ -21,6 +21,7 @@ contents:
 
 level: 1
 language: ["en"]
+subject: ["Mathematics", "Physical"]
 player-count: 2-6
 age: 4
 # requirements: ""

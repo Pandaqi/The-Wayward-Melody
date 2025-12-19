@@ -36,7 +36,7 @@ color: true
 textless: true
 parallel-play: true
 # double-sided-required: false
-# guardian-required: false
+guardian-required: true
 # guardian-cant-play: false
 # paper-fixed: false
 # linear: false

@@ -6,6 +6,12 @@ export enum SwipeDirection
     DOWN = "down"
 }
 
+export enum SwipeInputType
+{
+    MOUSE = "mouse",
+    TOUCH = "touch"
+}
+
 const DISABLE_VERTICAL_SWIPE = true;
 const DISABLE_HORIZONTAL_SWIPE = false;
 
@@ -14,16 +20,17 @@ export const getFirstPointer = (ev:TouchEvent|MouseEvent) =>
     // ugh browser support is stupid here, and supporting touch + mouse is stupid too,
     // so just keep checking possible properties until we find the right one
     let touches:TouchList|MouseEvent[] = (ev as TouchEvent).targetTouches; // TARGET TOUCHES = on this specific element (so empty on touchend)
+    let type = SwipeInputType.TOUCH;
     if(!touches || touches.length <= 0) { touches = (ev as TouchEvent).changedTouches; } // CHANGED TOUCHES = self-explanatory
     if(!touches || touches.length <= 0) { touches = (ev as TouchEvent).touches; } // TOUCHES = all currently in touch (so empty on touchend)
-    if(!touches || touches.length <= 0) { touches = [(ev as MouseEvent)]; } // If a mouse touch, just, well, use that mouse touch
+    if(!touches || touches.length <= 0) { touches = [(ev as MouseEvent)]; type = SwipeInputType.MOUSE; } // If a mouse touch, just, well, use that mouse touch
 
     if(touches.length <= 0) { console.error("Event has no valid touches", ev); return null; }
 
     const firstTouch = touches[0];
     if(!firstTouch.clientX || !firstTouch.clientY) { console.error("Touch has no valid coordinates", firstTouch); return null; }
 
-    return firstTouch;
+    return { touch: firstTouch, type: type };
 }
 
 export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callbackClick:Function) =>
@@ -33,11 +40,19 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
 
     const handleTouchStart = (ev:TouchEvent|MouseEvent) =>
     {
-        const firstTouch = getFirstPointer(ev);
-        xDown = firstTouch.clientX;
-        yDown = firstTouch.clientY;
-        ev.preventDefault();
-        return false;
+        const { touch, type } = getFirstPointer(ev);
+        xDown = touch.clientX;
+        yDown = touch.clientY;
+
+        // mouse clicks automatically start dragging images
+        // so we want to disable that shit
+        if(type == SwipeInputType.MOUSE) 
+        {
+            ev.preventDefault();
+            return false;
+        }
+
+        return true;
     }
 
     const handleTouchEnd = (ev: TouchEvent | MouseEvent) => 
@@ -45,9 +60,9 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
         const neverStarted = xDown < 0 || yDown < 0;
         if(neverStarted) { return true; }
 
-        const firstTouch = getFirstPointer(ev);
-        const xUp = firstTouch.clientX;
-        const yUp = firstTouch.clientY;
+        const { touch, type } = getFirstPointer(ev);
+        const xUp = touch.clientX;
+        const yUp = touch.clientY;
 
         const xDiff = xDown - xUp;
         const yDiff = yDown - yUp;
@@ -56,7 +71,7 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
         yDown = -1;
 
         const distMoved = Math.abs(xDiff) + Math.abs(yDiff);
-        const MIN_DIST_NEEDED_FOR_SWIPE = 20
+        const MIN_DIST_NEEDED_FOR_SWIPE = 12
         if(distMoved < MIN_DIST_NEEDED_FOR_SWIPE)
         { 
             callbackClick();
@@ -84,6 +99,8 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
             callbackSwipe(yDiff > 0 ? SwipeDirection.DOWN : SwipeDirection.UP);
             return false; 
         }
+
+        return true;
     }
 
     node.addEventListener('touchstart', handleTouchStart, false);

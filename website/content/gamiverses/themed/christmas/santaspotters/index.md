@@ -21,6 +21,7 @@ contents:
 
 level: 1
 language: ["en"]
+subject: ["Social"]
 player-count: 4-12
 age: 6
 # requirements: ""

@@ -6,7 +6,7 @@ price: 14.95
 date: 2025-12-10
 image: ["the-santa-express-header.webp", "the-santa-express-1.webp", "the-santa-express-2.webp", "the-santa-express-3.webp"]
 file: "@TODO"
-spell: "christmas"
+spell: ["christmas", "my-first-colors"]
 charm: "board-game"
 description: | 
   Santa has his flying sleigh, nice, great
@@ -26,6 +26,7 @@ external:
 
 level: 1
 language: ["en"]
+subject: ["Physical"]
 player-count: 2-8
 age: 5
 # requirements: ""
