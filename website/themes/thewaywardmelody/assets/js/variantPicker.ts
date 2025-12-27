@@ -22,16 +22,17 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
     if(buttonsWithID.length >= 2) { console.error(`Too many buttons found with ID ${buttonID}`, buttonsWithID); return; }
 
     // display that button, disable all OTHER buttons
-    const button = buttonsWithID[0];
-    button.style.display = "block";
+    const buttonSelected = buttonsWithID[0];
+    buttonSelected.style.display = "block";
 
     const otherButtons = Array.from(buttonContainer.getElementsByClassName("snipcart-add-item")) as HTMLElement[];
     for(const otherButton of otherButtons)
     {
+        if(otherButton == buttonSelected) { continue; }
         otherButton.style.display = "none";
     }
 
-    const images = (button.dataset.itemImages ?? "").split("|");
+    const images = (buttonSelected.dataset.itemImages ?? "").split("|");
     const hasMultipleImages = images.length > 1;
     carousel.dataset.images = images.join("|");
     buttonsPrev.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");
@@ -42,7 +43,7 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
     // display some dynamic text
     // this is mostly relevant on physical goods to display their properties, shipping zones, etcetera
     const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone; // returns something like `Europe/Berlin`
-    const shippingZonesRaw = button.dataset.itemShippingZones ?? "";
+    const shippingZonesRaw = buttonSelected.dataset.itemShippingZones ?? "";
     const hasShippingZones = shippingZonesRaw != "";
     const texts:string[] = [];
     const textContainer = Array.from(carousel.getElementsByClassName("product-variant-dynamic-text"))[0] as HTMLElement;
@@ -63,23 +64,23 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
         shippingRemarkNode.classList.add("margin-s", "text-style-italic","font-size-s", "text-color-mid");
         shippingRemarkNode.innerHTML = `(Wrong? Don't worry! At checkout you can input your shipping address.)`;
 
-        if(button.dataset.itemWeight)
+        if(buttonSelected.dataset.itemWeight)
         {
-            const stringWeight = `Weight (g): ${button.dataset.itemWeight}`;
+            const stringWeight = `Weight (g): ${buttonSelected.dataset.itemWeight}`;
             texts.push(stringWeight);    
         }
 
-        if(button.dataset.itemWidth)
+        if(buttonSelected.dataset.itemWidth)
         {
-            const stringSize = `Size (cm): ${button.dataset.itemWidth} x ${button.dataset.itemHeight} x ${button.dataset.itemLength} (WxHxL)`
+            const stringSize = `Size (cm): ${buttonSelected.dataset.itemWidth} x ${buttonSelected.dataset.itemHeight} x ${buttonSelected.dataset.itemLength} (WxHxL)`
             texts.push(stringSize);
         }
 
-        const stringPlatform = `Platform: ${button.dataset.itemPlatform}`
+        const stringPlatform = `Platform: ${buttonSelected.dataset.itemPlatform}`
         texts.push(stringPlatform);
     }
 
-    const stringSku = `SKU: ${button.dataset.itemSku}`;
+    const stringSku = `SKU: ${buttonSelected.dataset.itemSku}`;
     texts.push(stringSku);
 
     const extraNode = document.createElement("div");
