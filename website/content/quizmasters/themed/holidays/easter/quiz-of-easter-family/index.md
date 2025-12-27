@@ -1,7 +1,7 @@
 ---
 type: "product"
-title: "The Quiz of Easter Family"
-id: "the-quiz-of-easter-family"
+title: "Quiz of Easter Family"
+id: "quiz-of-easter-family"
 date: 2025-03-01
 price: 8.95
 image: ["quiz-of-easter-family-header.webp", "quiz-of-easter-family-sc1.webp", "quiz-of-easter-family-sc2.webp", "quiz-of-easter-family-sc3.webp"]

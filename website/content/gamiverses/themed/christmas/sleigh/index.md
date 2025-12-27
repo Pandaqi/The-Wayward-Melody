@@ -4,8 +4,8 @@ title: "Sleigh"
 id: "sleigh"
 price: 4.95
 date: 2025-12-10
-image: ["sleigh-header.webp"]
-file: "@TODO"
+image: ["sleigh-header.webp", "sleigh-header-static.webp"]
+file: "ec3e26de-6896-49ae-a643-ea2a96009c43"
 spell: "christmas"
 charm: "one-button-game"
 description: | 
@@ -15,12 +15,12 @@ description: |
   Work together, fly over rooftops, and save Christmas Day!
 
 contents:
-- The game for Windows, Mac and Linux operating systems. Double-click to execute and play.
+- The game for Windows, Mac, Linux and Web/Browser. Double-click to execute and play.
 - A PDF file with extra information and explanation if needed (English only)
 
 level: 1
-language: ["nl", "en", "es", "fr", "de"]
-player-count: 1-6
+language: ["nl", "en", "es", "fr", "de", "it", "pt"]
+player-count: 1-8
 age: 4
 # requirements: ""
 # single-use: false
@@ -65,3 +65,7 @@ This game is great for having fun on Christmas. It's also a great educational to
 The default is 2D. You can change this---and many other things---in the Settings. 
 
 Have fun!
+
+{{% remark %}}
+You can play the game on ChromeOS through its Linux subsystem or by hosting the web version anywhere and simply going to that URL. If you need help with that, contact us!
+{{% /remark %}}

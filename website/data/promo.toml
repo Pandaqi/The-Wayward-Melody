@@ -30,10 +30,17 @@
 
 [summer]
     spell = "summer"
-    dateStart = "07-01"
-    dateEnd = "08-31"
+    dateStart = "06-25"
+    dateEnd = "07-31"
     title = "Summer (Holiday)"
     desc = "Ah! The sun is shining, the temperature is nice, and maybe you're already on your way to the beach. Browse our abundance of summer stories, games, puzzles, activities, and more to have a fun time!"
+
+[back-to-school]
+    spell = "back-to-school"
+    dateStart = "08-01"
+    dateEnd = "09-20"
+    title = "Back to School"
+    desc = "A new school year is starting. Let's make it your best one ever with our back-to-school stories, puzzles, games, worksheets, and more."
 
 [animals]
     spell = "animals"
@@ -68,7 +75,7 @@
     spell = "new-years-eve"
     dateStart = "12-26"
     dateEnd = "12-31"
-    title = "Christmas"
+    title = "New Year"
     desc = "New Year, New You, New Experiences. Why not try some of our New Year's Eve quizzes, games, or other resources?"
 
 

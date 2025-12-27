@@ -15,7 +15,7 @@
 <div class="maximize-width height-xxxs {{ $level_data.class }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
     <div class="font-size-s font-accent">LEVEL {{ $level_data.string }}</div>
 </div>
-<div class="image-carousel flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center">
+<div class="image-carousel flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center" data-carousel-index="0">
     <!--- Image on left/top --->
     <div class="maximize-width padding-xs position-relative hover_remove-child-rotations">
         {{ $rand_rot_1 := (sub math.Rand 0.5) | mul 8 }}
@@ -24,7 +24,9 @@
         <div class="rounded-s position-absolute padding-absolute-s bg-color-dark-x" style="z-index: -1; transform: rotate({{ $rand_rot_2 }}deg);"></div>
         <div class="padding-xxs">
             {{ $alt := printf "Product Image for %s" .Title }}
-            <img class="product-image image-carousel-image rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-carousel-index="0" data-pagefind-meta="image[src], image_alt[alt]">
+            <img class="product-image image-carousel-image rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]">
+            <audio class="product-image image-carousel-audio rounded-s block-align-center display-block maximize-width maximize-height hover_glow"></audio>
+            <video class="product-image image-carousel-video rounded-s block-align-center display-block maximize-width maximize-height hover_glow" controls="controls" loop="loop" muted="muted"></video>
             <div class="image-carousel-prev position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-left drop-shadow-xs">«</div>
             <div class="image-carousel-next position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-right drop-shadow-xs">»</div>
         </div>
@@ -112,7 +114,7 @@
     </div>
     {{ end }}
 
-    <!--- At the bottom is a TABLE miscellaneous details, always set in a dictionary on Params --->
+    <!--- At the bottom is a TABLE of miscellaneous details, always set in a dictionary on Params --->
     {{ $details := or .Params.details dict }}
     {{ $has_details := gt (len $details) 0 }}
     {{ if $has_details }}
@@ -129,6 +131,9 @@
 
     <!--- Also EXTERNAL resources/links/references --->
     {{ $external := or .Params.external slice }}
+    {{ if .Params.source }}
+        {{ $external = $external | append (dict "name" "Source Code" "url" .Params.source "desc" "The full source code and raw assets for this product, available for free and to use as you wish!") }}
+    {{ end }}
     {{ $has_external := gt (len $external) 0 }}
     {{ if $has_external }}
     <div data-pagefind-weight="1">

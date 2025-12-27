@@ -4,7 +4,7 @@ title: "Easter Puzzle Pack"
 id: "easter-puzzle-pack"
 date: 2025-03-01
 price: 9.95
-image: "puzzle-pack-header.webp"
+image: ["easter-puzzle-pack-header.webp", "easter-puzzle-pack-1.webp", "easter-puzzle-pack-2.webp", "easter-puzzle-pack-3.webp", "easter-puzzle-pack-4.webp", "easter-puzzle-pack-5.webp", "easter-puzzle-pack-6.webp"]
 file: "2fe72572-77b3-452d-a8d2-981b5dc4c43b"
 spell: "easter"
 charm: "puzzle-pack"

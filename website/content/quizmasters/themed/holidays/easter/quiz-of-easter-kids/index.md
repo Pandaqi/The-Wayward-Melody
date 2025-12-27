@@ -1,7 +1,7 @@
 ---
 type: "product"
-title: "The Quiz of Easter Kids"
-id: "the-quiz-of-easter-kids"
+title: "Quiz of Easter Kids"
+id: "quiz-of-easter-kids"
 date: 2025-03-01
 price: 7.95
 image: ["quiz-of-easter-kids-header.webp", "quiz-of-easter-kids-sc1.webp", "quiz-of-easter-kids-sc2.webp", "quiz-of-easter-kids-sc3.webp"]

@@ -106,6 +106,16 @@ A wizard is never late. He arrives precisely when he intends to.
 
 {{% /section-foldable %}}
 
+{{% section-foldable header="I did not receive an email with the download link!" %}}
+
+First, try the usual tips. Wait a little longer, double-check the email address you filled in, and check your "spam folder". Our emails are sent from the `@snipcart` domain, because that's the online store system we use.
+
+If none of that works, contact us with your account (email) and order placed. We will likely just send you the purchased digital files ourselves, no questions asked.
+
+_Why does this happen?_ It's incredibly rare for an order to completely fail. It always succeeds on our backend, meaning that, with your information, we can find the proof that you ordered this. So what happens? _Sending out the email_ (with the link/invoice) can be unreliable, unfortunately. This is out of our hands until we can switch to a more trustworthy mail server platform.
+
+{{% /section-foldable %}}
+
 ## Refunds & Returns
 
 {{% section-foldable header="What is your refund and return policy?" %}}

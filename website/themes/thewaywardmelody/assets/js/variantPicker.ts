@@ -5,15 +5,10 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
 {
     // hide everything first
     // @NOTE: we could do this by default in the HTML template itself, but that always feels like the worst solution, so trying to avoid that
-    const productImages = Array.from(carousel.getElementsByClassName("image-carousel-image")) as HTMLImageElement[];
-    for(const productImage of productImages)
-    {
-        const parentElement = productImage.parentElement as HTMLElement;
-        const buttonsPrev = Array.from(parentElement.getElementsByClassName("image-carousel-prev")) as HTMLElement[];
-        const buttonsNext = Array.from(parentElement.getElementsByClassName("image-carousel-next")) as HTMLElement[];
-        buttonsPrev.forEach((x) => x.style.display = "none");
-        buttonsNext.forEach((x) => x.style.display = "none");
-    }
+    const buttonsPrev = Array.from(carousel.getElementsByClassName("image-carousel-prev")) as HTMLElement[];
+    const buttonsNext = Array.from(carousel.getElementsByClassName("image-carousel-next")) as HTMLElement[];
+    buttonsPrev.forEach((x) => x.style.display = "none");
+    buttonsNext.forEach((x) => x.style.display = "none");
 
     // find the associated button
     const buttonContainers = Array.from(carousel.getElementsByClassName("product-variant-buttons")) as HTMLElement[];
@@ -27,29 +22,22 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
     if(buttonsWithID.length >= 2) { console.error(`Too many buttons found with ID ${buttonID}`, buttonsWithID); return; }
 
     // display that button, disable all OTHER buttons
+    const button = buttonsWithID[0];
+    button.style.display = "block";
+
     const otherButtons = Array.from(buttonContainer.getElementsByClassName("snipcart-add-item")) as HTMLElement[];
     for(const otherButton of otherButtons)
     {
         otherButton.style.display = "none";
     }
 
-    const button = buttonsWithID[0];
-    button.style.display = "block";
-    
-    // switch image(s) to variant, if possible
-    for(const productImage of productImages)
-    {
-        productImage.src = button.dataset.itemImage ?? "";
-        productImage.dataset.images = button.dataset.itemImages ?? "";
+    const images = (button.dataset.itemImages ?? "").split("|");
+    const hasMultipleImages = images.length > 1;
+    carousel.dataset.images = images.join("|");
+    buttonsPrev.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");
+    buttonsNext.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");
 
-        const hasMultipleImages = productImage.dataset.images.split("|").length > 1;
-        const parentElement = productImage.parentElement as HTMLElement;
-
-        const buttonsPrev = Array.from(parentElement.getElementsByClassName("image-carousel-prev")) as HTMLElement[];
-        const buttonsNext = Array.from(parentElement.getElementsByClassName("image-carousel-next")) as HTMLElement[];
-        buttonsPrev.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");
-        buttonsNext.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");
-    }
+    loadCarouselItemAtIndex(carousel);
 
     // display some dynamic text
     // this is mostly relevant on physical goods to display their properties, shipping zones, etcetera
@@ -100,25 +88,100 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
     extraNode.innerHTML = texts.join("&nbsp;&middot;&nbsp;");
 }
 
+const getCarouselImages = (carousel:HTMLElement) : string[] =>
+{
+    return (carousel.dataset.images ?? "").split("|");
+}
+
+const getCurrentCarouselItem = (carousel:HTMLElement) : string =>
+{
+    return getCarouselImages(carousel)[getCarouselIndex(carousel)];
+}
+
+const getCarouselIndex = (carousel:HTMLElement) : number =>
+{
+    return parseInt(carousel.dataset.carouselIndex ?? "0");
+}
+
+const getAllMediaNodes = (carousel:HTMLElement) : (HTMLImageElement|HTMLAudioElement|HTMLVideoElement)[] =>
+{
+    return Array.from(carousel.querySelectorAll(".image-carousel-image, .image-carousel-audio, .image-carousel-video"));
+}
+
+const getExtension = (path:string) : string =>
+{
+    const splitPath = path.split(".");
+    return splitPath[splitPath.length - 1];
+}
+
+const itemIsImage = (path:string) : boolean => 
+{
+    return ["png", "jpg", "jpeg", "webp", "gif", "avif", "jxl"].includes(getExtension(path));
+}
+
+const itemIsVideo = (path:string) : boolean => 
+{
+    return ["mp4", "ogg", "webm"].includes(getExtension(path));
+}
+
+const itemIsAudio = (path:string) : boolean => 
+{
+    return ["mp3", "ogg", "m4a", "flac", "aac", "wav"].includes(getExtension(path));
+}
+
+const loadCarouselItemAtIndex = (carousel:HTMLElement, idx:number = -1) =>
+{
+    if(idx == -1) { idx = getCarouselIndex(carousel); }
+    
+    // grab current thing
+    const item = getCurrentCarouselItem(carousel);
+
+    // hide all
+    const imageElements = Array.from(carousel.getElementsByClassName("image-carousel-image")) as HTMLImageElement[];
+    const audioElements = Array.from(carousel.getElementsByClassName("image-carousel-audio")) as HTMLAudioElement[];
+    const videoElements = Array.from(carousel.getElementsByClassName("image-carousel-video")) as HTMLVideoElement[];
+    const elements = [imageElements, audioElements, videoElements].flat();
+    for(const elem of elements)
+    {
+        elem.style.display = "none";
+        if(elem instanceof HTMLAudioElement || elem instanceof HTMLVideoElement) { elem.pause(); }
+    }
+
+    // load only the one(s) we need
+    if(itemIsImage(item))
+    {
+        imageElements.forEach((x) => { 
+            x.style.display = "block"; 
+            x.src = item; 
+        });
+    }
+
+    if(itemIsVideo(item) || itemIsAudio(item))
+    {
+        const list = itemIsVideo(item) ? videoElements : audioElements;
+        list.forEach((x) => { 
+            x.style.display = "block"; 
+            Array.from(x.getElementsByTagName("source")).forEach((x) => x.remove());
+            const source = document.createElement("source");
+            source.src = item;
+            x.appendChild(source);
+            x.load();
+            x.play();
+        });
+    }
+}
+
 const carouselButtonCallback = (carousel:HTMLElement, dc:number) =>
 {
-    // grab images to change
-    const imageElements = Array.from(carousel.getElementsByClassName("image-carousel-image")) as HTMLImageElement[];
-    for(const imageElement of imageElements)
-    {
-        // check what other images it could be
-        const images = imageElement.dataset.images.split("|");
-        const numImages = images.length;
-        
-        // move counter as needed
-        const curCounter = parseInt(imageElement.dataset.carouselIndex ?? "0");
-        const newCounter = (curCounter + numImages + dc) % numImages;
-        const newSource = images[newCounter];
-    
-        // update to new situation
-        imageElement.src = newSource;
-        imageElement.dataset.carouselIndex = newCounter.toString();
-    }
+    // move counter as needed
+    // @NOTE: the `carousel` is the main element with class `image-carousel` here
+    const numImages = getCarouselImages(carousel).length;
+    const curCounter = getCarouselIndex(carousel);
+    const newCounter = (curCounter + numImages + dc) % numImages;
+    carousel.dataset.carouselIndex = newCounter.toString();
+
+    // then load new situation
+    loadCarouselItemAtIndex(carousel);
 }
 
 const createFullscreenOverlay = () =>
@@ -165,10 +228,10 @@ const activateCarousel = (carousel:HTMLElement, overlay:HTMLElement) =>
         });
     }
 
-    // make image clickable + swipable
-    const imageElements = Array.from(carousel.getElementsByClassName("image-carousel-image")) as HTMLImageElement[];
-    for(const imageElement of imageElements)
+    const internalNodes = getAllMediaNodes(carousel);
+    for(const node of internalNodes)
     {
+        // make content clickable + swipable
         // if swiped, change carousel
         const swipeCallback = (dir:SwipeDirection) => 
         {
@@ -179,14 +242,16 @@ const activateCarousel = (carousel:HTMLElement, overlay:HTMLElement) =>
         // if clicked, open enlarged version
         const clickCallback = () =>
         {
+            if(!(node instanceof HTMLImageElement)) { return; }
             overlay.style.display = "flex";
             const overlayImage = overlay.getElementsByTagName("img")[0] as HTMLImageElement;
-            overlayImage.src = imageElement.src;
+            overlayImage.src = node.src;
+            return false;
         }
 
         // @NOTE: we handle click and swipe in one go ourselves (instead of a "click" event listener), 
         // otherwise we get the default behavior for click fighting our custom behavior for swipe and it's an ugly mess
-        addSwipeListener(imageElement, swipeCallback, clickCallback);    
+        addSwipeListener(node, swipeCallback, clickCallback);    
     }
 
     // attach all images to carousel changers

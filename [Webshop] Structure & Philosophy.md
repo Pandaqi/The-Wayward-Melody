@@ -65,6 +65,21 @@ Terms and Conditions Other Sources:
 
 
 
+## Email Stuff
+
+SendGrid is not a very reputable or trustworthy company, and I don't want to pay through the nose just for emails. As such, just use SnipCart's shared account until something better comes along. (And CloudFlare email forwarding for _incoming_ emails.)
+
+* https://medium.com/@jessfroholdtstopa/free-static-website-hosting-and-email-forwarding-or-how-i-cut-my-hosting-costs-by-100-8605c1ca6431
+* I think a simple ImprovMX or something is fine. If I ever send email back, I'll just use the gmail address that's been visible in many places for years anyway.
+* Or: https://www.mailersend.com/ (includes sending)
+* NO WAIT CLOUDFLARE EMAIL ROUTING ALREADY TAKES CARE OF THE SENDING IN. I just need a "verifiable email address" to make sure SnipCart invoices are sent out properly and not marked as spam. => **I basically had this figured out with SendGrid, which is incorporated into SnipCart, so just use that.**
+  * https://docs.snipcart.com/v3/dashboard/sendgrid-configuration#authenticate-your-email-domain-with-our-shared-sendgrid-account
+  * Though they have a Shared snipcart account, so I could just let it use that? **YES JUST LEAVE ON SHARED NOW, AND DELETE MY SENDGRID ACCOUNT, MAKE SURE IT WORKS**
+  * Cheapest Mail Provider: https://aws.amazon.com/ses/pricing/
+  * Also possible: https://serversmtp.com/
+  * Also possible: https://postmarkapp.com/pricing (from: https://www.reddit.com/r/webdev/comments/135hsys/what_are_some_good_alternatives_to_sendgrid_for/)
+  * MAYBE ONCE CLOUDFLARE HAS ITS OWN SERVICE, JUST USE THAT: https://blog.cloudflare.com/email-service/
+
 
 ## CHARMS
 
@@ -79,6 +94,7 @@ Terms and Conditions Other Sources:
 * [x] Lesson Material -> a guide for actually giving a lesson/lecture and teaching a specific topic from start to finish
 * [x] Busy Book -> book with educational challenges and problems for a kid to work out on their own
 * [x] Activity Aid -> an activity, or general material such as flash cards to be used however you desire
+* [ ] Handy Helper -> any sort of tool for creating your own stuff, like fonts to use, my pq-systems, software, guides, tutorials, etcetera
 
 ### Quizmasters
 
@@ -91,12 +107,14 @@ Terms and Conditions Other Sources:
 * [x] Logic Puzzle
 * [x] Puzzle Pack
 * (Physical Puzzle)
+* (Digital Puzzle => this would use my Rust puzzle generator stuff)
 
 ### Runaways
 
 * [x] Physical Escape Kit
 * [x] Digital Escape Kit
 * [x] Escape Calendar
+* (Pocket Escape Kit => like Minimas Escape and Countdown Code)
 * (Merchandise Escape Kit)
 
 ### Gamiverses

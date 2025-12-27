@@ -1,7 +1,7 @@
 ---
 type: "product"
-title: "The Quiz of Easter Eggspert"
-id: "the-quiz-of-easter-eggspert"
+title: "Quiz of Easter Eggspert"
+id: "quiz-of-easter-eggspert"
 date: 2025-03-01
 price: 9.95
 image: ["quiz-of-easter-pro-header.webp", "quiz-of-easter-pro-sc1.webp", "quiz-of-easter-pro-sc2.webp", "quiz-of-easter-pro-sc3.webp"]
