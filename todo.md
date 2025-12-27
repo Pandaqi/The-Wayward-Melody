@@ -1,16 +1,6 @@
 # To-Do
 
 
-
-# Specific Fixes
-
-
-
-## Systems To Build
-
-* **Gamiverses**: already did the conversion for the most part.
-* **Puzzlepages**: the system is like 50% done. Needs interface, interactiveness, bug fixes, cleaner API, etc
-
 ## Business
 
 * ONCE I HAVE THEWAYWARDMELODY.COM SETUP
@@ -22,6 +12,12 @@
 * Actually register webhooks => Add signature/secrets to server for Printify and Printful => TEST THIS SHIT
 * @TODO: Do I still need to make my own Snipcart notification when I update orders? (Getting stuff back from Print provider) Or does that happen automatically?
 * Any other sanity checks for ALL products in the HUGO/API system?
+
+## Connect Other Websites
+
+* FUTURE: Saga of Life gets links to actual books.
+* FUTURE: More varied/deep linking only becomes relevant once I create _merchandise_ for different existing projects.
+* FUTURE: Also export Windows/Mac/Linux versions of all those _Jam Games_. Now I only have Web version, but my laptop can't open the projects anymore!
 
 # Niceties/Future To-Do
 
