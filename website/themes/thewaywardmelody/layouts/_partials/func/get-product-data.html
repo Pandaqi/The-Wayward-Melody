@@ -45,8 +45,8 @@
 {{ $images_default := slice }}
 {{ range $k, $v := $images_default_raw }}
     {{ $is_absolute_url := or (eq (substr $v 0 1) "/") (eq (substr $v 0 4) "http") }}
-    {{ $url := cond $is_absolute_url $v (printf "%s/%s" $url $v) }}
-    {{ $images_default = $images_default | append $url }}
+    {{ $img_url := cond $is_absolute_url $v (printf "%s/%s" ($url | strings.TrimSuffix "/") $v) }}
+    {{ $images_default = $images_default | append $img_url }}
 {{ end }}
 {{ $image_default := $images_default }}
 {{ if reflect.IsSlice $image_default }}{{ $image_default = index $images_default 0 }}{{ end }}

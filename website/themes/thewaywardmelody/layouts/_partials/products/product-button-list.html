@@ -1,5 +1,6 @@
 {{ $data := partial "func/get-product-data" . }}
 {{ $dropdown_class := cond $data.single_button "display-none" "" }}
+{{ $available_for_purchase := gt (len $data.products) 0 }}
 <div class="margin-vertical-m">
     <div class="product-variants">
         <noscript><em>Oh no! Your browser has JavaScript disabled. This webshop needs it to function properly!</em></noscript>
@@ -10,6 +11,12 @@
                 <option value="{{ .sku }}" data-id="{{ .sku }}">{{ .name }}</option>
             {{ end }}
         </select>
+        <!--- In case it's not available yet --->
+        {{ if not $available_for_purchase }}
+        <div>
+            <p class="text-style-italic align-center text-weight-bold text-color-mid">This product is currently unavailable, out of stock, or coming soon!</p>
+        </div>
+        {{ end }}
         <!--- Any extra dynamic data --->
         <div class="product-variant-dynamic-text"></div>
         <!--- All possible buttons are already present, we just toggle them on/off --->

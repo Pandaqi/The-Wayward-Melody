@@ -1,7 +1,6 @@
 ---
 title: "Explorers"
 weight: 1
-banners: ["banner_art_media_1", "banner_art_media_2", "banner_art_media_3", "banner_art_media_4", "banner_art_media_5", "banner_art_media_6", "banner_art_media_7", "banner_art_media_8", "banner_art_media_9", "banner_art_media_10", "banner_art_media_11", "banner_art_media_12"]
 ---
 
 {{% double-view %}}

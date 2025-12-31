@@ -20,9 +20,10 @@
             {{- $page := . -}}
             {{- $faction_name := $page.Title | lower -}}
             {{- $should_show := or $show_all (not $page.Params.special) -}}
+            {{- $link_label := printf "Link to %s faction." $faction_name -}}
             {{- if $should_show -}}
             <li>
-                <a href="{{ $page.RelPermalink }}" class="theme-{{ $faction_name }} navigation-link">
+                <a href="{{ $page.RelPermalink }}" class="theme-{{ $faction_name }} navigation-link" aria-label="{{ $link_label }}" title="{{ $link_label }}">
                     <div class="faction-icon faction-icon-{{ $faction_name }} {{ $show_class }}"></div>
                     <span class="{{ $hide_class }}">{{ $page.Title }}</span>
                 </a>

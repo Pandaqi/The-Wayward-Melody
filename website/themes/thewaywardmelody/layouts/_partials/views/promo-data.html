@@ -16,6 +16,14 @@
         {{ $urls = $urls | append .RelPermalink }}
         {{ $first_image := cond (reflect.IsSlice .Params.image) (index .Params.image 0) .Params.image }}
         {{ $first_image_url := printf "%s/%s" (.RelPermalink | strings.TrimSuffix "/") $first_image }}
+        {{ $first_image_data := .Resources.Get $first_image }}
+        {{ if $first_image_data }}
+            {{ $file_too_big := partial "func/is-asset-too-big.html" $first_image_data }}
+            {{ if not $file_too_big }}
+                {{ $image_transformed := $first_image_data.Process "resize 250x" }}
+                {{ $first_image_url = $image_transformed.RelPermalink }}
+            {{ end }}
+        {{ end }}
         {{ $images = $images | append $first_image_url }}
         {{ $headings = $headings | append .Title }}
     {{ end }}

@@ -2,7 +2,6 @@
 title: "Magimerchants"
 weight: 9
 special: true
-banners: ["banner_merchandise_1", "banner_merchandise_2", "banner_merchandise_3", "banner_merchandise_4", "banner_merchandise_5", "banner_merchandise_6", "banner_merchandise_7", "banner_merchandise_8", "banner_merchandise_9", "banner_merchandise_10", "banner_merchandise_11"]
 ---
 
 {{% double-view %}}

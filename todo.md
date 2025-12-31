@@ -1,11 +1,7 @@
 # To-Do
 
 
-## Business
 
-* ONCE I HAVE THEWAYWARDMELODY.COM SETUP
-  * Change email address to no-reply@thewaywardmelody.com (in SendGrid), verify _that_ domain instead of RodePanda for Snipcart
-  * Update Mollie profile with correct domain name. Confirm the webshop is "done" and it should verify.
 
 ### Merchandise API
 
@@ -21,6 +17,8 @@
 
 # Niceties/Future To-Do
 
+* Replace AI headings with custom/something better.
+* Create **TEMPLATES** (for immediate copy+paste+edit) for PUZZLE PIECES (JIGSAW) and TARSIA and TIMELINE TASKS
 * The PROMO sections could look a little better and more fitting
 * The Section metadata overview is pretty useless anyway because it doesn't remember your _faction_ when clicking the button---it just goes for the raw term on all factions. Change it? Make it less important? Warn about this?
 * Make CURRICULUM/PHILOSOPHY page much nicer: graphics, an image for the whole "path through the factions"
@@ -45,12 +43,16 @@
 
 ## Design
 
-* Snipcart Theming => only colors are easy to change. I'd prefer having access to fonts and stuff too, but that's messy ...
 * Use the simple grain and doodles as a slight overlay/polishing on these headers, to make them actually manual and consistent in look.
 * Some nice doodling/"eye candy" work => something with DREAMCATCHERS and that LINE OF MUSIC NOTES through everything?
   * Just to stow away in some corner once---be SUBTLE---use that "dream catcher" and "melody line" motif!
   * Shop logo (name logo/banner in different dimensions, instead of icon + plain text we have now)
 
-## Business
+## Snipcart
 
-* Mollie => Get Zakelijke Rekening (ING seems best) to support iDEAL. => Is this really important if I'm selling internationally anyway? And with iDeal going away for WERO soon?
+* Snipcart Theming => only colors are easy to change. I'd prefer having access to fonts and stuff too, but that's messy ...
+* The file https://thewaywardmelody.com/css/logos/twwm_favicon_minimal.png is used in all email templates (mostly at bottom as sort of signature)
+  * The system allows doing a "fixed email signature" automatically below everything, but only in MARKDOWN.
+  * Currently I use ```<p style="text-align:center; margin-top: 32px;">
+            <img width="42" height="42" src="https://thewaywardmelody.com/css/logos/twwm_favicon_minimal.png" />
+        </p>``` which can't really be converted to Markdown?

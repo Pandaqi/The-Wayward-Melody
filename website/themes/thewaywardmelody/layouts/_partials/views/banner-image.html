@@ -1,10 +1,4 @@
-{{ $backup_section := .context.Site.GetPage "/info" }}
-{{ $is_section := .context.IsSection }}
-{{ $section_page := .context.FirstSection }}
-{{ if or (not $section_page) (not $section_page.Params.banners) }}
-    {{ $section_page = $backup_section }}
-{{ end }}
-{{ $section_name := $section_page.Title | lower }}
+{{ $section_name := .Section }}
 {{ $title := or .title .context.Title }}
 {{ $is_taxonomy := or (eq .context.Kind "taxonomy") (eq .context.Kind "term") }}
 {{ if $is_taxonomy }}{{ $title = "Search" }}{{ end }}
@@ -14,23 +8,21 @@
 {{ $default_image := or .context.Params.image $backup_image_placeholder }}
 {{ $images := slice }}
 {{ $random_banner_image := "" }}
-{{ with $section_page.Params.banners }}
-    {{ range . }}
-        {{ $image_url := printf "/%s/assets/%s.webp" $section_name . }}
-        {{ $images = $images | append $image_url }}
-    {{ end }}
+{{ range .context.Site.Params.banners }}
+    {{ $image_url := printf "/media/banners/%s.webp" . }}
+    {{ $images = $images | append $image_url }}
 {{ end }}
 {{ if eq (len $images) 0 }}{{ $images = slice $default_image }}{{ end }}
 {{ $images_string := delimit $images "|" }}
 {{ $src := index $images 0 }}
-{{ $alt := printf "Banner Image for Article: %s" $title }}
-{{ if $is_section }}{{ $alt = printf "Banner Image for Faction: %s" $title }}{{ end }}
+{{ $alt := "Banner image for page" }}
 {{ $class := or .class "" }}
+{{ $class_bg_position := (slice "background-top" "background-center" "background-bottom") | shuffle | first 1 }}
 {{ $fade_single_side := or .fade_single false }}
 {{ $display_image := or .display_image false }}
 {{ $gradient := cond $fade_single_side "linear-gradient(to bottom, transparent, var(--color-dark-xx))" "linear-gradient(to bottom, var(--color-dark-xx), transparent, var(--color-dark-xx))" }}
 {{ $style_string := printf "background-image:%s, url(%s);" $gradient $src }}
-<div class="banner-image maximize-height background-cover flex flex-center {{ $class }}" style="{{ $style_string | safeCSS }}" title="{{ $alt }}" data-images="{{ $images_string }}">
+<div class="banner-image maximize-height background-cover flex flex-center {{ $class_bg_position }} {{ $class }}" style="{{ $style_string | safeCSS }}" title="{{ $alt }}" data-images="{{ $images_string }}">
     <h1 class="font-size-xxl margin-none text-shadow drop-shadow-s">
         <div class="flex flex-center gap-s">
             {{ if $display_image }}

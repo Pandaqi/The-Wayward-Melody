@@ -1,7 +1,6 @@
 ---
 title: "Runaways"
 weight: 6
-banners: ["banner_escape_rooms_1", "banner_escape_rooms_2", "banner_escape_rooms_3", "banner_escape_rooms_4", "banner_escape_rooms_5", "banner_escape_rooms_6", "banner_escape_rooms_7", "banner_escape_rooms_8", "banner_escape_rooms_9", "banner_escape_rooms_10", "banner_escape_rooms_11", "banner_escape_rooms_12", "banner_escape_rooms_13"]
 ---
 
 {{% double-view %}}

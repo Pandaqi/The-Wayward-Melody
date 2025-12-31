@@ -1,7 +1,6 @@
 ---
 title: "Quizmasters"
 weight: 4
-banners: ["banner_trivia_1", "banner_trivia_2", "banner_trivia_3", "banner_trivia_4", "banner_trivia_5", "banner_trivia_6", "banner_trivia_7", "banner_trivia_8", "banner_trivia_9", "banner_trivia_10"]
 ---
 
 {{% double-view %}}

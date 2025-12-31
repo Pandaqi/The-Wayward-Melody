@@ -4,7 +4,7 @@ title: "One Paper Games Bundle"
 id: "one-paper-games-bundle-sneakpeek"
 date: 2020-09-05
 price: 6.95
-image: [paper_thieves.webp, epic_medics.webp, one_pizza_the_puzzle.webp, timely_transports_header.webp, unstable_universe.webp]
+image: [paper-thieves.webp, epic-medics.webp, one-pizza-the-puzzle.webp, timely-transports-header.webp, unstable-universe.webp]
 file: "77ef6303-42d8-46af-b423-876973d49f34"
 description: "All original notes, assets, illustrations and other work behind the first handful of One Paper Games."
 language: "en"
@@ -24,7 +24,7 @@ contents:
 
 ---
 
-This bundle contains all the source assets, notes and more or the first 5 [One Paper Games](https://pandaqi.com/boardgames/#one-paper-games). Click the link for the most recent list of OPGs, and to view/play the games (if possible).
+This bundle contains all the source assets, notes and more or the first 5 [One Paper Games](https://pandaqi.com/categories/one-paper-game/). Click the link for the most recent list of OPGs, and to view/play the games (if possible).
 
 We bundled these games because we _could_! We want to provide the best value possible with these Sneakpeeks, but many projects are just too large to bundle. These first 5 OPGs are much smaller in file size (and number of expansions/materials/versions) than later One Paper Games, and could thus be combined.
 

@@ -10,6 +10,9 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
     buttonsPrev.forEach((x) => x.style.display = "none");
     buttonsNext.forEach((x) => x.style.display = "none");
 
+    // find our first/default image to get a default value for images; if all checks below fail, we'd otherwise never set this right
+    carousel.dataset.images = (carousel.getElementsByTagName("img")[0] ?? { src: "https://picsum.photos/1920/432"}).src;
+
     // find the associated button
     const buttonContainers = Array.from(carousel.getElementsByClassName("product-variant-buttons")) as HTMLElement[];
     if(buttonContainers.length <= 0) { console.error("No button container found to show this variant!", buttonContainers); return; }
@@ -236,7 +239,7 @@ const activateCarousel = (carousel:HTMLElement, overlay:HTMLElement) =>
         // if swiped, change carousel
         const swipeCallback = (dir:SwipeDirection) => 
         {
-            const dirIndex = [SwipeDirection.LEFT, SwipeDirection.UP].includes(dir) ? -1 : 1;
+            const dirIndex = [SwipeDirection.LEFT, SwipeDirection.UP].includes(dir) ? +1 : -1;
             carouselButtonCallback(carousel, dirIndex);
         }
 

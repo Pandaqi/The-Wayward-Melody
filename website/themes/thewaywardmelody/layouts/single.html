@@ -25,8 +25,8 @@
         <div class="padding-xxs">
             {{ $alt := printf "Product Image for %s" .Title }}
             <img class="product-image image-carousel-image rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]">
-            <audio class="product-image image-carousel-audio rounded-s block-align-center display-block maximize-width maximize-height hover_glow"></audio>
-            <video class="product-image image-carousel-video rounded-s block-align-center display-block maximize-width maximize-height hover_glow" controls="controls" loop="loop" muted="muted"></video>
+            <audio class="product-image image-carousel-audio rounded-s block-align-center display-block maximize-width maximize-height hover_glow"  style="display:none;"></audio>
+            <video class="product-image image-carousel-video rounded-s block-align-center display-block maximize-width maximize-height hover_glow" controls="controls" loop="loop" muted="muted" style="display:none;"></video>
             <div class="image-carousel-prev position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-left drop-shadow-xs">«</div>
             <div class="image-carousel-next position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-right drop-shadow-xs">»</div>
         </div>
@@ -137,8 +137,8 @@
     {{ $has_external := gt (len $external) 0 }}
     {{ if $has_external }}
     <div data-pagefind-weight="1">
-        <h2>External Sources / References</h2>
-        <p>We try to share the love and improve education, not be greedy goblins, which is why we link to the work of other people that inspired us or is related to this product. Check out the list below and support them!</p>
+        <h2>External Enchantments</h2>
+        <p>We try to share the love and improve education, not be greedy goblins, which is why we <b>share source files</b> and <b>link related work of others</b> when possible. Check out the list below of what went into this project or what inspired it. If possible, support those people too!</p>
         <table>
             <thead><tr><td>Link</td><td>Explanation</td></tr></thead>
             {{ range $external }}

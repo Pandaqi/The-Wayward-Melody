@@ -5,12 +5,11 @@ id: "pumpkin-patrol-sneakpeek"
 date: 2025-10-28
 price: 4.95
 image: [pumpkin-patrol-header.webp]
-spell: "halloween"
+spell: ["halloween", "pandaqi-games"]
 file: "8e53555d-840f-4436-953d-924be42abc39"
 description: "All original notes, assets, illustrations and other work behind the game."
 language: "en"
 level: 1
-spell: "pandaqi-games"
 charm: "board-game"
 contents:
 - The `deliverables` folder contains the final rulebook and material PDFs for playing the game!

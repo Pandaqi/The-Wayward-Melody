@@ -26,11 +26,8 @@ details:
   akey: avalue
   akey2: avalue2
 
-
-level: 1
 language: "en"
 subject: "Mathematics"
-categories: []
 
 # player-count: 1-100
 # age: 3

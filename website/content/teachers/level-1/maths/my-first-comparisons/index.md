@@ -4,7 +4,7 @@ title: "My First Comparisons"
 id: "my-first-comparisons"
 date: 2025-06-26
 price: 9.95
-image: ["my-first-comparisons-header.webp", "my-first-comparisons-1.webp", "my-first-comparisons-2.webp", "my-first-comparisons-3.webp", "my-first-comparisons-4.webp", "my-first-comparisons-5.webp", "my-first-comparisons-6.webp"]
+image: ["my-first-comparisons-header.webp", "my-first-comparisons-1.webp", "my-first-comparisons-2.webp", "my-first-comparisons-3.webp", "my-first-comparisons-4.webp", "my-first-comparisons-5.webp"]
 file: "7e4ab588-64d9-4fdc-8594-496bbe907eac"
 spell: "my-first-comparisons"
 charm: "lesson-material"

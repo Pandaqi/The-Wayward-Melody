@@ -6,9 +6,9 @@
 {{ if $is_taxonomy }}{{ $section = "general" }}{{ end }}
 <body class="theme-{{ $section }} dark-mode background-texture">
     {{ partial "navigation/header" . }}
-    <section class="page margin-m">
+    <main class="page margin-m">
         {{ block "main" . }} {{ end }}
-    </section>
+    </main>
     {{ partial "navigation/footer" . }}
     {{ partialCached "foot" . }}
 </body>

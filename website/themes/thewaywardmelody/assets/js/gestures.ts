@@ -64,8 +64,8 @@ export const addSwipeListener = (node:HTMLElement, callbackSwipe:Function, callb
         const xUp = touch.clientX;
         const yUp = touch.clientY;
 
-        const xDiff = xDown - xUp;
-        const yDiff = yDown - yUp;
+        const xDiff = xUp - xDown;
+        const yDiff = yUp - yDown;
 
         xDown = -1;
         yDown = -1;

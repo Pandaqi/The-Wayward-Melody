@@ -6,8 +6,8 @@ export const loadDynamicPromotions = () =>
     let nodeSelected : HTMLDivElement;
     for(const node of nodes)
     {
-        const dateStart = Date.parse(currentYear + "-" + node.dataset.start);
-        const dateEnd = Date.parse(currentYear + "-" + node.dataset.end);
+        const dateStart = Date.parse(currentYear + "-" + node.dataset.start + "T00:00:00Z");
+        const dateEnd = Date.parse(currentYear + "-" + node.dataset.end + "T23:59:59Z");
         if(dateStart > currentDate) { continue; }
         if(dateEnd < currentDate) { continue; }
         nodeSelected = node;

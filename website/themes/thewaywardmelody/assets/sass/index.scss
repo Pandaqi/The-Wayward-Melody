@@ -258,6 +258,12 @@ $viewport-xl: 1280px;
     img {
         max-width: 100%;
         max-height: 100%;
+        height: auto;
+        width: 100%;
+    }
+
+    .img-width-auto {
+        width: auto;
     }
 
     // Markdown conversion styles
@@ -763,6 +769,10 @@ $viewport-xl: 1280px;
         font-style: italic;
     }
 
+    .text-weight-bold {
+        font-weight: bold;
+    }
+
     .align-center {
         text-align: center;
     }
@@ -999,7 +1009,18 @@ $viewport-xl: 1280px;
     // Background
     .background-cover {
         background-size: cover;
+    }
+
+    .background-top {
+        background-position: center top;
+    }
+
+    .background-center {
         background-position: center center;
+    }
+
+    .background-bottom {
+        background-position: center bottom;
     }
 
     .fade-to-bg {

@@ -1,0 +1,4 @@
+{{ $file_size_kb := (div (len .Content) 1000) }}
+<!--- My personal dev computer simply can't handle this processing, but production env should be fine > 512kb --->
+{{ $file_too_big := and hugo.IsDevelopment (gt $file_size_kb 512) }} 
+{{ return $file_too_big }}

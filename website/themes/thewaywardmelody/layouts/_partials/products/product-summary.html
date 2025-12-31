@@ -12,7 +12,40 @@
             </a>
         </div>
     </div>
-    <img class="position-relative margin-vertical-s shadow-border-s" loading="lazy" decoding="async" src="{{ $data.image }}" alt="Product Image for {{ .Params.title }}">
+    {{ $rel_image_url := replace $data.image .RelPermalink "" }}
+    {{ $img_data := .Resources.Get $rel_image_url }}
+    {{ $img_processed := false }}
+    {{ $img_url := $data.image }}
+    {{ if $img_data }}
+        {{ $file_too_big := partial "func/is-asset-too-big.html" $img_data }} 
+        {{ $img_url = $img_data.RelPermalink }}
+        {{ if not $file_too_big }}
+            {{ $img_data_small := $img_data.Process "resize 500x" }}
+            {{ $img_data_smallest := $img_data.Process "resize 250x" }}
+            {{ $img_processed = true }}
+            {{ $img_url = $img_data_small.RelPermalink }}
+            <!---  --->
+            <img class="position-relative margin-vertical-s shadow-border-s" 
+                srcset="{{ $img_data_smallest.RelPermalink }} {{ $img_data_smallest.Width -}}w, {{ $img_data_small.RelPermalink }} {{ $img_data_small.Width -}}w,  {{ $img_data.RelPermalink }} {{ $img_data.Width -}}w"
+                sizes="(width <= 500px) {{ $img_data_smallest.Width -}}px,
+                        (width <= 1500px) {{- $img_data_small.Width -}}px,
+                        {{- $img_data.Width -}}px"
+                loading="lazy" decoding="async" 
+                src="{{ $img_data_small.RelPermalink }}" 
+                alt="Product Image for {{ .Params.title }}"
+                width="{{ $img_data_small.Width }}" height="{{ $img_data_small.Height }}"
+                >
+        {{ end }}
+    {{ end }}
+    <!--- If processing fails for whatever reason, just display image with basic parameters --->
+    {{ if not $img_processed }}
+        <img class="position-relative margin-vertical-s shadow-border-s" 
+                loading="lazy" decoding="async" 
+                src="{{ $img_url }}" 
+                alt="Product Image for {{ .Params.title }}"
+                width="1080" height="825"
+                >
+    {{ end }}
     <h2 class="align-center" style="margin-bottom: 0;">{{ .Params.title }}</h2>
     <div class="flex flex-center font-size-s font-accent margin-none text-color-dark-xx" style="opacity: 0.35;">
         {{ partial "views/faction-icon" (dict "context" . "invert" true) }} 
@@ -20,7 +53,7 @@
         {{ partial "views/faction-icon" (dict "context" . "invert" true) }} 
     </div>
     <p class="preserve-whitespace text-style-italic align-center">{{ .Params.description | markdownify }}</p>
-    <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Visit Product Page</a>
+    <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Explore "{{ .Title }}"</a> <!--- Used to be just "Visit Product Page" for all, but Google said it's confusing for different links to have identical text --->
     {{ if gt (len $data.products) 0 }}
         {{ if $data.single_button }}
             {{ partial "products/product-button" (index $data.products 0) }}
