@@ -258,12 +258,11 @@ $viewport-xl: 1280px;
     img {
         max-width: 100%;
         max-height: 100%;
-        height: auto;
-        width: 100%;
     }
 
-    .img-width-auto {
-        width: auto;
+    .img-width-maximize {
+        height: auto;
+        width: 100%;
     }
 
     // Markdown conversion styles

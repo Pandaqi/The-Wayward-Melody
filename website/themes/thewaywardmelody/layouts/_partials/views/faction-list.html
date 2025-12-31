@@ -10,7 +10,7 @@
         {{ $faction_name := (.Title | urlize) }}
         {{ $img_url := printf "/media/factions/faction_%s.webp" $faction_name }}
         <li class="hover_popup"><a href="{{ .RelPermalink }}">
-            <img src="{{ $img_url }}" loading="lazy" decoding="async" width="{{ $image_size }}" height="{{ $image_size }}" alt="Faction icon for {{ $faction_name }}" title="Faction icon for {{ $faction_name }}" class="img-width-auto" />
+            <img src="{{ $img_url }}" loading="lazy" decoding="async" width="{{ $image_size }}" height="{{ $image_size }}" alt="Faction icon for {{ $faction_name }}" title="Faction icon for {{ $faction_name }}" />
         </a></li>
     {{ end }}
     </ul>

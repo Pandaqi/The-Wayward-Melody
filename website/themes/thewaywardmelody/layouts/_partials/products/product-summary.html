@@ -25,7 +25,7 @@
             {{ $img_processed = true }}
             {{ $img_url = $img_data_small.RelPermalink }}
             <!---  --->
-            <img class="position-relative margin-vertical-s shadow-border-s" 
+            <img class="position-relative margin-vertical-s shadow-border-s img-width-maximize" 
                 srcset="{{ $img_data_smallest.RelPermalink }} {{ $img_data_smallest.Width -}}w, {{ $img_data_small.RelPermalink }} {{ $img_data_small.Width -}}w,  {{ $img_data.RelPermalink }} {{ $img_data.Width -}}w"
                 sizes="(width <= 500px) {{ $img_data_smallest.Width -}}px,
                         (width <= 1500px) {{- $img_data_small.Width -}}px,
@@ -39,7 +39,7 @@
     {{ end }}
     <!--- If processing fails for whatever reason, just display image with basic parameters --->
     {{ if not $img_processed }}
-        <img class="position-relative margin-vertical-s shadow-border-s" 
+        <img class="position-relative margin-vertical-s shadow-border-s img-width-maximize" 
                 loading="lazy" decoding="async" 
                 src="{{ $img_url }}" 
                 alt="Product Image for {{ .Params.title }}"

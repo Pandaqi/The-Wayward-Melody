@@ -62,6 +62,9 @@ export const loadDynamicPromotions = () =>
         img.src = images[i];
         img.loading = "lazy";
         img.decoding = "async";
+        img.alt = "Main image for product " + headings[i];
+        img.width = 140;
+        img.height = 80;
     }
     
     const containers = Array.from(document.getElementsByClassName("promo-dynamic")) as HTMLDivElement[];

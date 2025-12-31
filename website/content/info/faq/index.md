@@ -108,7 +108,7 @@ A wizard is never late. He arrives precisely when he intends to.
 
 {{% section-foldable header="I did not receive an email with the download link!" %}}
 
-First, try the usual tips. Wait a little longer, double-check the email address you filled in, and check your "spam folder". Our emails are sent from the `@snipcart` domain, because that's the online store system we use.
+First, try the usual tips. Wait a little longer, double-check the email address you filled in, and check your "spam folder". Our emails are sent from `harmonize@thewaywardmelody.com`, but handled through the `snipcart` domain, because that's the online store system we use.
 
 If none of that works, contact us with your account (email) and order placed. We will likely just send you the purchased digital files ourselves, no questions asked.
 
