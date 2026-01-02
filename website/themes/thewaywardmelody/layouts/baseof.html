@@ -5,11 +5,11 @@
 {{ $is_taxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
 {{ if $is_taxonomy }}{{ $section = "general" }}{{ end }}
 <body class="theme-{{ $section }} dark-mode background-texture">
-    {{ partial "navigation/header" . }}
+    {{ partialCached "navigation/header" . }}
     <main class="page margin-m">
         {{ block "main" . }} {{ end }}
     </main>
-    {{ partial "navigation/footer" . }}
+    {{ partialCached "navigation/footer" . }}
     {{ partialCached "foot" . }}
 </body>
 </html>

@@ -4,7 +4,7 @@ title: "Santa's Toy Workshop"
 id: "santas-toy-workshop"
 price: 2.95
 date: 2025-12-10
-image: ["santas-toy-workshop-header.webp", "santas-toy-workshop-header-static.webp"]
+image: ["santas-toy-workshop-header-compressed.webp", "santas-toy-workshop-header-static.webp", "santas-toy-workshop-header.webp"]
 file: "35bb571c-d8c4-4fa4-93b1-566fb8a465c9"
 spell: "christmas"
 charm: "one-button-game"

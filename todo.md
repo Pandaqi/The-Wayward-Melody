@@ -15,6 +15,13 @@
 * FUTURE: More varied/deep linking only becomes relevant once I create _merchandise_ for different existing projects.
 * FUTURE: Also export Windows/Mac/Linux versions of all those _Jam Games_. Now I only have Web version, but my laptop can't open the projects anymore!
 
+## Optimizations
+
+* Add support for `.webm` videos (in both summaries and product pages) => snipcart still wants an image only for product, though, so maybe try to hold off this "feature" as long as possible?
+* Do we need TWO smaller versions (500px, 250px) of headers in summaries?
+* Can the banners be resized to smaller versions too?
+
+
 # Niceties/Future To-Do
 
 * Replace AI headings with custom/something better.
@@ -27,8 +34,7 @@
   * Make the overview page (`/info/library/`) look a bit more detailed and usable -> Show TYPE (update/wisdom/devlog) + DATE + bigger box per article?
   * (Possibly unique custom images for articles)
 * Add icons for the MAIN SUBJECTS (Language, Mathematics, Social, Physical, World, Other? -> Any minor things like Biology and Stuff can come later or are considered "minor topics"?)
-* Add "Dark Mode/Light Mode" icon + use at button in footer
-* CHECK look of Search on light mode
+* Add "Dark Mode/Light Mode" **icon** + use at button in footer
 * WEBSHOP JS FIX: If no buy button, the image carousel also doesn't show---only first header image. Is this bad?
 * HOME PAGE
   * The home page should look much more _open_ and _custom_ anyway. Custom shop logo, more space, more images, less AI-first-impression.
@@ -36,9 +42,8 @@
   * DISABLED IT COMPLETELY FOR NOW, as it doesn't work with Search, and it's just confusing as long as I haven't built a robust system myself ...
 * (Use Snipcart JavaScript SDK to get TAX RATE on-demand? So I can display prices INCLUDING tax for users? Very difficult ...)
 * Once we need it, support BRANDS.
-  * These get an extra `data` file with the description + images for that brand. (Feels cleaner than polluting the root with _another_ folder ... which we must then hide from the factions ...)
-  * Products can just set the `brand` metadata
-  * When searching into that taxonomy (term == brand), it simply reads that data file.
+  * Like `charms`, simply create files for each brand in `brands/<name>` and it should automatically match with taxonomy + give us brand data.
+  * And then products can just set the `brand` metadata
 * _Research_ if I can add chapter decorations to `.epub` files too. Maybe with a background image in the ebook_styles.css? (But that would also require including that image every time. OR do we make it a base64 URL/SVG that's embedded? => YES, EPUB SUPPORTS THAT)
 
 ## Design

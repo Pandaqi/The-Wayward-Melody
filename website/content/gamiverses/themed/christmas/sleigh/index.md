@@ -4,7 +4,7 @@ title: "Sleigh"
 id: "sleigh"
 price: 4.95
 date: 2025-12-10
-image: ["sleigh-header.webp", "sleigh-header-static.webp"]
+image: ["sleigh-header-compressed.webp", "sleigh-header-static.webp", "sleigh-header.webp"]
 file: "ec3e26de-6896-49ae-a643-ea2a96009c43"
 spell: "christmas"
 charm: "one-button-game"
