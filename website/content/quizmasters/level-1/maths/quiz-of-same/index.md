@@ -1,13 +1,12 @@
 ---
-draft: true
 type: "product"
 title: "The Quiz of Same"
 id: "the-quiz-of-same"
 date: 2025-04-26
 price: 4.95
-image: ""
-file: "@TODO"
-spell: ["recognition-and-discrimination"]
+image: ["quiz-of-same-header.webp", "quiz-of-same-1.webp", "quiz-of-same-2.webp", "quiz-of-same-3.webp"]
+file: "58fe9df6-843c-4208-b72a-dfef0e7eb0d4"
+spell: "recognition-and-discrimination"
 charm: "trivia-kit"
 description: | 
   The first step to any path of growth
@@ -52,7 +51,7 @@ guardian-required: true
 
 ---
 
-This is a **physical quiz** (not a digital quiz). This means that the child responds by tapping the right answer on the paper, or (roughly) marking it with a pen.
+This is a **physical quiz** (not a digital quiz). This means that the child responds by tapping the right answer on the paper, or (roughly) marking it with a pen, or simply shouting the response.
 
 This was chosen for two reasons.
 

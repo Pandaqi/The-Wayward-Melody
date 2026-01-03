@@ -1,13 +1,12 @@
 ---
-draft: true
 type: "product"
 title: "Zoo Shuffle"
 id: "zoo-shuffle"
 date: 2025-04-26
-price: 3.95
-image: ""
-file: "@TODO"
-spell: ["recognition-and-discrimination"]
+price: 5.95
+image: ["zoo-shuffle-header.webp", "zoo-shuffle-1.webp", "zoo-shuffle-2.webp", "zoo-shuffle-3.webp", "zoo-shuffle-4.webp", "zoo-shuffle-5.webp"]
+file: "35a1aac5-4ef6-43d1-a670-3cbef44d6c02"
+spell: "recognition-and-discrimination"
 charm: "educational-puzzle"
 description: | 
   The first step to any path of growth
@@ -18,6 +17,7 @@ description: |
 contents:
 - A sheet with animals to cut out (and use when solving the puzzles)
 - 20 puzzles of increasing difficulty (all playable by physically placing those animals)
+- The Answer Sheet
 
 level: 1
 language: "en"
@@ -35,4 +35,4 @@ This puzzle is a classic way to test and improve your abilities to recognize and
 
 The first few puzzles reinforce these rules and make you familiar with the idea. Then the difficulty slowly ramps up, until you're matching complicated patterns with ease.
 
-This version uses more realistic (or "complex") shapes for matching, namely the animals and their properties. It also requires that _all_ properties of a space are satisfied by an animal. For more abstract symbols, a different theme, and more freeform matching, try the [Parking Variant](/puzzlepages/level-1/parking-problems/) of this puzzle.
+This version uses more realistic (or "complex") shapes for matching, namely the animals and their properties. It also requires that _all_ properties of a space are satisfied by an animal. For more abstract symbols, a different theme, and more freeform matching, try the [Parking Variant](/puzzlepages/level-1/maths/parking-problems/) of this puzzle.

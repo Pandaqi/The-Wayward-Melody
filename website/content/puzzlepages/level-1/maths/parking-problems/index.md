@@ -1,13 +1,12 @@
 ---
-draft: true
 type: "product"
 title: "Parking Problems"
 id: "parking-problems"
 date: 2025-04-26
-price: 3.95
-image: ""
-file: "@TODO"
-spell: ["recognition-and-discrimination"]
+price: 4.95
+image: ["parking-problems-header.webp", "parking-problems-1.webp", "parking-problems-2.webp", "parking-problems-3.webp", "parking-problems-4.webp"]
+file: "81185452-a2cf-43e9-b373-fa5fef9ad4c8"
+spell: "recognition-and-discrimination"
 charm: "educational-puzzle"
 description: | 
   The first step to any path of growth
@@ -35,4 +34,4 @@ This puzzle is a classic way to test and improve your abilities to recognize and
 
 The first few puzzles reinforce these rules and make you familiar with the idea. Then the difficulty slowly ramps up, until you're matching complicated patterns with ease.
 
-This version uses mostly abstract symbols (such as basic shapes), and matching is pretty loose (as long as _one_ thing matches, the car can be in that space). For more realistic symbols, a different theme, and harder matching, try the [Zoo Variant](/puzzlepages/level-1/zoo-shuffle/) of this puzzle.
+This version uses mostly abstract symbols (such as basic shapes), and matching is pretty loose (as long as _one_ thing matches, the car can be in that space). For more realistic symbols, a different theme, and harder matching, try the [Zoo Variant](/puzzlepages/level-1/maths/zoo-shuffle/) of this puzzle.
