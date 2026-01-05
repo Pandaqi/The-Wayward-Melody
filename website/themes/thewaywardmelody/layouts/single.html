@@ -63,7 +63,7 @@
 {{ partial "views/banner-image" (dict "context" .) }}
 {{ end }}
 </header>
-<main class="text-reader margin-m limit-width-m block-align-center" data-pagefind-body>
+<article class="text-reader margin-m limit-width-m block-align-center" data-pagefind-body>
 
     {{ if not $is_product }}
         {{ partial "navigation/navigation-article" . }}
@@ -150,7 +150,7 @@
         </table>
     </div>
     {{ end }}
-</main>
+</article>
 
 <!--- Dynamic promo based on time of year --->
 {{ partialCached "views/promo-data.html" . }}
