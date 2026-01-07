@@ -23,6 +23,14 @@ How to get Gemini to make something at the right ratio/size: https://www.reddit.
 The custom dev domain (that I can't hide for now; there's no good way) is `the-wayward-melody-developer-environment.pages.dev` (used to be different, but then Google indexed it like crazy, so I had to take that away).
 
 
+## Google Merchant Center
+
+The website automatically generates a file at `index.csv` which is simply a table with all products and the relevant data. Google automatically checks that and inputs all those products.
+
+https://support.google.com/merchants/answer/7052112?hl=en-GB
+https://discourse.gohugo.io/t/a-simple-example-to-create-a-csv-file/52414/2
+https://discourse.gohugo.io/t/work-around-for-making-pages-from-data/13964/21
+https://discourse.gohugo.io/t/hugo-data-driven-ecommerce/24565/7
 
 
 ## Curriculum
