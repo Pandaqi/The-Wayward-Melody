@@ -1,12 +1,11 @@
 ---
-draft: true
 type: "product"
 title: "Fruity Finish"
 id: "fruity-finish"
 price: 6.95
 date: 2026-01-01
-image: ["fruity-finish-header.webp", "fruity-finish-1.webp", "fruity-finish-2.webp", "fruity-finish-3.webp", "fruity-finish-4.webp"]
-file: "@TODO"
+image: ["fruity-finish-header.webp", "fruity-finish-1.webp", "fruity-finish-2.webp", "fruity-finish-3.webp", "fruity-finish-4.webp", "fruity-finish-5.webp"]
+file: "b37b1a16-37e6-4f77-8622-14d7469c381a"
 spell: ["recognition-and-discrimination", "my-first-numbers"]
 charm: "board-game"
 description: | 
@@ -16,9 +15,14 @@ description: |
   And fly to the next tile with an icon that matches!
 
 contents:
-- Rulebook PDF (1 page base game, 2 pages with upgrades)
-- Material PDF (1 page with Fruit Bat pawns, 7 pages with Fruit Tiles)
+- Rulebook PDF (1 front page with information and story, 1 page base game, 2 pages with upgrades)
+- Material PDF (1 page with Fruit Bat pawns, 5 pages with Fruit Tiles)
 - The raw assets (illustrations, layout file, etc) for you to view/edit. (As `.af` files, which you can open with the free Affinity software.)
+
+external:
+  - name: "Hoot Owl Hoot!"
+    url: "https://boardgamegeek.com/boardgame/94483/hoot-owl-hoot"
+    desc: "It's basically the same core game. But its base game is slightly more complicated (so we wanted to simplify it) and it uses color exclusively (whereas we made it about specific icons instead)."
 
 level: 1
 language: "en"
