@@ -16,10 +16,11 @@ Of course, don't forget LAWS 0, 1, 2 and 3 described on the about page.
 
 ## Workflow
 
-The header size for all products is **(720,550)x1.5** so **(1080,825)**
+The header size for all products is **(720,550)x1.5** so **(1080,825)** => NAH THAT'S TOO BIG AND NOT NEEDED IN THE LONG RUN
 
 How to get Gemini to make something at the right ratio/size: https://www.reddit.com/r/GeminiAI/comments/1na4ugz/how_to_control_image_aspect_ratio_in_nano_banana/
 
+The custom dev domain (that I can't hide for now; there's no good way) is `the-wayward-melody-developer-environment.pages.dev` (used to be different, but then Google indexed it like crazy, so I had to take that away).
 
 
 
@@ -67,7 +68,7 @@ PROMPTS FOR HEADER IMAGE GENERATION:
 * @SOURCE: Tool used for upscaling => https://imggen.ai/tools/upscale-image
 
 <!--- DEBUGGING: This should only go on those OTHER websites --->
-{{ partial "products/product-list-external" (dict "context" . "urls" (slice "https://webshop-test.pages.dev/merchandise/test-item/")) }}
+{{ partial "products/product-list-external" (dict "context" . "urls" (slice "https://thewaywardmelody.com/merchandise/test-item/")) }}
 
 Terms and Conditions Other Sources:
 * https://jumpseller.com/learn/sample-terms-and-conditions/

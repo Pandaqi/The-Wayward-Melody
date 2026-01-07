@@ -119,11 +119,10 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   img {
     max-width: 100%;
     max-height: 100%;
+  }
+  .img-width-maximize {
     height: auto;
     width: 100%;
-  }
-  .img-width-auto {
-    width: auto;
   }
   .text-reader a {
     font-family: "Signika Negative";

@@ -1,0 +1,5 @@
+id,title,description,link,price,image_link
+{{ range (where .RegularPagesRecursive "Params.type" "eq" "product") }}
+{{- $img := cond (reflect.IsSlice .Params.image) (printf "%s%s" .Permalink (index .Params.image 0)) "" -}}
+"{{- .Params.id -}}","{{- .Title -}}","{{- replace (.Content | plainify | truncate 1000) "\n" " " -}}","{{- .Params.price }} EUR","{{- .Permalink }}",{{- $img }}
+{{ end -}}
