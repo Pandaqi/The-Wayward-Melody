@@ -1,0 +1,10 @@
+{{ $title := .Title }}
+{{ $is_taxonomy_page := eq .Kind "taxonomy" }}
+{{ $is_term_page := eq .Kind "term" }}
+{{ $is_metadata_page := or $is_taxonomy_page $is_term_page }}
+{{ if $is_metadata_page }}
+    {{ $key := .Data.Plural }}
+    {{ $data := partial "func/get-taxonomy-data.html" (dict "context" . "key" $key) }}
+    {{ $title = cond $is_taxonomy_page (printf "%s | Search" $data.key_readable) (printf "%s > %s | Search" $data.key_readable $data.value_readable) }}
+{{ end }}
+{{ return (printf "%s | %s" $title .Site.Title) }}

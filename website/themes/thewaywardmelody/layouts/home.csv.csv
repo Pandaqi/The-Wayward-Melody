@@ -1,5 +1,5 @@
-id,title,description,link,price,image_link
+id,title,description,link,price,image_link,availability
 {{ range (where .RegularPagesRecursive "Params.type" "eq" "product") }}
 {{- $img := cond (reflect.IsSlice .Params.image) (printf "%s%s" .Permalink (index .Params.image 0)) "" -}}
-"{{- .Params.id -}}","{{- .Title -}}","{{- replace (.Content | plainify | truncate 1000) "\n" " " -}}","{{- .Permalink }}","{{- .Params.price }} EUR",{{- $img }}
+"{{- .Params.id -}}","{{- .Title -}}","{{- replace (.Content | plainify | truncate 1000) "\n" " " -}}","{{- .Permalink }}","{{- .Params.price }} EUR","{{- $img -}}",in_stock
 {{ end -}}

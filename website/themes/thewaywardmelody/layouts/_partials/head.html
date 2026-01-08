@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://app.snipcart.com">
     <link rel="preconnect" href="https://cdn.snipcart.com">
     <!--- <link rel="stylesheet" type="text/css" href="https://cdn.snipcart.com/themes/v3.7.0/default/snipcart.css" /> --->
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <title>{{ partial "func/get-title.html" . }}</title>
     {{ $opts := dict "transpiler" "dartsass" "targetPath" "css/style.css" }}
     {{ with resources.Get "sass/index.scss" }}
         {{ $style := . | css.Sass $opts }}

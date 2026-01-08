@@ -1,23 +1,22 @@
 ---
-draft: true
 type: "product"
 title: "Snack Thief"
 id: "snack-thief"
-price: 9.95
+price: 7.95
 date: 2026-01-05
 image: ["snack-thief-header.webp", "snack-thief-1.webp", "snack-thief-2.webp", "snack-thief-3.webp", "snack-thief-4.webp", "snack-thief-5.webp"]
-file: "@TODO"
+file: "fd5428af-d661-4df3-b6de-48957d444442"
 spell: "recognition-and-discrimination"
 charm: "board-game"
 description: | 
   Complete your pies before time's up
   But don't go too fast; know when to stop
   Steal from your neighbors to help them out
-  Snack thieves required to match flavors without doubt
+  Snack thieves required, to match flavors without doubt
 
 contents:
-- Rulebook PDF (1 front page with information and story, 1 page base game, 1 pages with upgrades)
-- Material PDF (1 page with Fruit Bat pawns, 5 pages with Fruit Tiles)
+- Rulebook PDF (1 front page with information and story, 1 page base game, 2 pages with upgrades)
+- Material PDF (6 pages with large pie slices, 3 pages with small ones)
 - The raw assets (illustrations, layout file, etc) for you to view/edit. (As `.af` files, which you can open with the free Affinity software.)
 
 external:
@@ -28,12 +27,12 @@ external:
 level: 1
 language: "en"
 subject: ["Mathematics"]
-categories: []
+categories: ["food"]
 player-count: 2-6
 age: 4
 # requirements: ""
 # single-use: false
-duration: 20
+duration: 15
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -51,7 +50,7 @@ parallel-play: true
 # customizable: false
 # interactive-media: false
 multiplayer-mode: ["cooperative", "competitive"]
-activity-structure: "simultaneous"
+activity-structure: ["simultaneous", "turn-based"]
 # brand: ""
 
 ---

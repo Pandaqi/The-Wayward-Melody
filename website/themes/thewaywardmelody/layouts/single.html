@@ -88,7 +88,7 @@
     {{ $has_connections := gt (len $relevant_connections) 0 }}
     {{ if $has_connections }}
         {{ $relevant_connections = sort $relevant_connections ".Section" "asc" }}
-        <div data-pagefind-weight="1">
+        <nav data-pagefind-weight="1">
             <h2>Continue Exploring</h2>
             <p>Exhausted this resource? Below is a list of all resources (in this and other factions) around this same topic.</p>
             <ul>
@@ -96,7 +96,7 @@
                     <li>{{ partial "views/faction-icon" (dict "context" .) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
                 {{ end }}
             </ul>
-        </div>
+        </nav>
     {{ end }}
 
     <!--- Show a LIST of contents --->
