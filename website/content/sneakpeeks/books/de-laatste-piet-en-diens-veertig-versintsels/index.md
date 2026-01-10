@@ -1,7 +1,7 @@
 ---
 type: "product"
 title: "De laatste piet (en diens veertig versintsels)"
-id: "de-laaste-piet-sneakpeek"
+id: "de-laatste-piet-sneakpeek"
 date: 2023-03-17
 price: 9.95
 image: de-laatste-piet-header.webp

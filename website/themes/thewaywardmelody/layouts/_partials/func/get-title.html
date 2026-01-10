@@ -4,7 +4,8 @@
 {{ $is_metadata_page := or $is_taxonomy_page $is_term_page }}
 {{ if $is_metadata_page }}
     {{ $key := .Data.Plural }}
-    {{ $data := partial "func/get-taxonomy-data.html" (dict "context" . "key" $key) }}
+    {{ $value := .Title }}
+    {{ $data := partial "func/get-taxonomy-data.html" (dict "context" . "key" $key "value" $value) }}
     {{ $title = cond $is_taxonomy_page (printf "%s | Search" $data.key_readable) (printf "%s > %s | Search" $data.key_readable $data.value_readable) }}
 {{ end }}
 {{ return (printf "%s | %s" $title .Site.Title) }}
