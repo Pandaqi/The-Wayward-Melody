@@ -5,7 +5,7 @@ id: "chaos-cupcakes"
 price: 7.95
 date: 2026-01-05
 image: ["chaos-cupcakes-header.webp", "chaos-cupcakes-1.webp", "chaos-cupcakes-2.webp", "chaos-cupcakes-3.webp", "chaos-cupcakes-4.webp", "chaos-cupcakes-5.webp"]
-file: "@TODO"
+file: "161c9e81-ee77-493c-bed2-a73fda0e5b87"
 spell: ["recognition-and-discrimination", "my-first-comparing", "my-first-numbers", "my-first-letters"]
 charm: "board-game"
 description: | 
