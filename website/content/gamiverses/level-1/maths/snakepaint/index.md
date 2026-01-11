@@ -1,5 +1,4 @@
 ---
-draft: true
 type: "product"
 title: "Snakepaint"
 id: "snakepaint"
@@ -16,15 +15,15 @@ description: |
   A simple drawing to complete at last
 
 contents:
-- Rulebook PDF (1 front page with information and story, 1 page base game, 1 page upgrades)
-- Material PDF (XX pages with different maps to play on, YY pages with icon cards, ZZ pages with colored snake parts, AA pages with Figure Cards/Templates)
+- Rulebook PDF (1 front page with information and story, 1 page base game, 2 page upgrades)
+- Material PDF (4 pages with different maps to play on, 3 pages with icon cards, 1 page with colored snake parts, 2 pages with Figure Cards/Templates)
 - The raw assets (illustrations, layout file, etc) for you to view/edit. (As `.af` files, which you can open with the free Affinity software.)
 
 level: 1
 language: "en"
 subject: ["Mathematics", "Physical"]
 categories: ["animals"]
-player-count: 2-6
+player-count: 2-5
 age: 4
 # requirements: ""
 # single-use: false
@@ -35,7 +34,7 @@ duration: 20
 # color: false
 # mature: false
 textless: true
-# parallel-play: false
+parallel-play: true
 # double-sided-required: false
 # guardian-required: false
 # guardian-cant-play: false
@@ -67,6 +66,8 @@ But, of course, we've added ways to increase the challenge. Once kids are famili
 
 All combined, this game is a fun, fast, simple way to learn those core skills in a variety of ways. By working together on a slithering snake, you try to make its path match your Figure Card, while also using matching to actually tell the snake where to go. As such, the game is **textless** and **numberless**, such that young kids can play on their own and you don't need to have any knowledge of English.
 
+The snakes have a unique color, but also a unique shape/pattern design. As such, it's **not** required to print the material in color, although it does make the game look a lot prettier if you do!
+
 Have fun!
 
 {{% remark %}}
@@ -74,6 +75,6 @@ The final version of Snakepaint is quite different from the Snake video game we 
 {{% /remark %}}
 
 {{% remark %}}
-The snakes have a unique color, but also a unique shape/pattern design. As such, it's not required to print the material in color, although it does make the game look a lot prettier if you do!
+Because we went all out on the illustrations and design, the file to download is a bit larger than usual. Make sure you have space for it and a stable internet connection!
 {{% /remark %}}
 
