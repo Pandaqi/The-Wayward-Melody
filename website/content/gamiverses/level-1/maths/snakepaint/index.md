@@ -2,10 +2,10 @@
 type: "product"
 title: "Snakepaint"
 id: "snakepaint"
-price: 9.95
-date: 2026-01-05
+price: 8.95
+date: 2026-01-10
 image: ["snakepaint-header.webp", "snakepaint-1.webp", "snakepaint-2.webp", "snakepaint-3.webp", "snakepaint-4.webp", "snakepaint-5.webp"]
-file: "@TODO"
+file: "b4c9de27-3da3-4704-885a-00df5eac0ee1"
 spell: ["recognition-and-discrimination", "my-first-directions", "pencil-control", "my-first-numbers"]
 charm: "board-game"
 description: | 
@@ -73,8 +73,3 @@ Have fun!
 {{% remark %}}
 The final version of Snakepaint is quite different from the Snake video game we all know and love. We have two more game ideas planned that simulate Snake in different ways, but those are for Level 2 and Level 3 as they require counting and more advanced logic to play. We look forward to making those too!
 {{% /remark %}}
-
-{{% remark %}}
-Because we went all out on the illustrations and design, the file to download is a bit larger than usual. Make sure you have space for it and a stable internet connection!
-{{% /remark %}}
-

@@ -29,6 +29,11 @@
 <p>Because fun comes first, though, we sell products for all ages and situations, not just school or education. Have a look around!</p>
 </div>
 
+<!--- Latest Products --->
+{{ partial "views/banner-image" (dict "context" . "title" "Latest Spells" "class" "margin-top-xxxl") }}
+{{ $all_product_pages := (where .Site.Pages "Type" "product") }}
+{{ partial "products/product-list" (dict "context" . "paginator" (.Paginate $all_product_pages) "suppress_navigation" true) }}
+
 <!--- Main Categories --->
 {{ partial "views/banner-image" (dict "context" . "title" "Factions" "class" "margin-top-xxxl") }}
 {{ partial "views/faction-list" (dict "context" .) }}
@@ -56,11 +61,6 @@
 {{ partial "views/review" (dict "author" "Fitz" "stars" 4 "text" "Unique and creative works worth assassinating for.") }}
 {{ partial "views/review" (dict "author" "Percy Jackson" "stars" 5 "text" "After seeing Orpheus and Eurydice, I bought all the teaching resources and I haven't looked back!") }}
 </div>
-
-<!--- Latest Products --->
-{{ partial "views/banner-image" (dict "context" . "title" "Latest Spells" "class" "margin-top-xxxl") }}
-{{ $all_product_pages := (where .Site.Pages "Type" "product") }}
-{{ partial "products/product-list" (dict "context" . "paginator" (.Paginate $all_product_pages) "suppress_navigation" true) }}
 
 <!--- Dynamic promo based on time of year --->
 {{ partial "views/promo-data.html" . }}

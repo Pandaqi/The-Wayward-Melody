@@ -24,16 +24,15 @@
 
 # Niceties/Future To-Do
 
-* Replace AI headings with custom/something better.
+* Add a little marker like "Recommended" or "Tiamo's Pick" or whatever to games? So I can at least highlight/sticky a few big projects I think are most worthy of attention?
 * Create **TEMPLATES** (for immediate copy+paste+edit) for PUZZLE PIECES (JIGSAW) and TARSIA and TIMELINE TASKS
 * The PROMO sections could look a little better and more fitting
-* The Section metadata overview is pretty useless anyway because it doesn't remember your _faction_ when clicking the button---it just goes for the raw term on all factions. Change it? Make it less important? Warn about this?
 * Make CURRICULUM/PHILOSOPHY page much nicer: graphics, an image for the whole "path through the factions"
-* UPDATE AI BANNERS TO PRETTIER / CUSTOM ONES. (And a smaller selection of regular ones, but a much bigger selection of the shared info ones.)
+* UPDATE AI BANNERS TO PRETTIER / CUSTOM ONES.
 * LIBRARY
   * Make the overview page (`/info/library/`) look a bit more detailed and usable -> Show TYPE (update/wisdom/devlog) + DATE + bigger box per article?
   * (Possibly unique custom images for articles)
-* Add icons for the MAIN SUBJECTS (Language, Mathematics, Social, Physical, World, Other? -> Any minor things like Biology and Stuff can come later or are considered "minor topics"?)
+* Add icons for the MAIN SUBJECTS (Language, Mathematics, Social, Physical, World, Other? -> Any minor things like Biology and Stuff can come later or are considered "minor topics"?) => Also, do we need to **capitalize** these? It feels inconsistent with literally everything else on the website ...
 * Add "Dark Mode/Light Mode" **icon** + use at button in footer
 * WEBSHOP JS FIX: If no buy button, the image carousel also doesn't show---only first header image. Is this bad?
 * HOME PAGE
