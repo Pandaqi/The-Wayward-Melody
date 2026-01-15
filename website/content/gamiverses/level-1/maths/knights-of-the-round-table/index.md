@@ -1,12 +1,11 @@
 ---
-draft: true
 type: "product"
 title: "Knights of the Round Table"
 id: "knights-of-the-round-table"
 price: 13.95
 date: 2026-01-13
-image: ["knights-of-the-round-table-header.webp", "knights-of-the-round-table-1.webp", "knights-of-the-round-table-2.webp", "knights-of-the-round-table-3.webp", "knights-of-the-round-table-4.webp", "knights-of-the-round-table-5.webp"]
-file: "@TODO"
+image: ["knights-of-the-round-table-header.webp", "knights-of-the-round-table-1.webp", "knights-of-the-round-table-2.webp", "knights-of-the-round-table-3.webp", "knights-of-the-round-table-4.webp", "knights-of-the-round-table-5.webp", "knights-of-the-round-table-6.webp", "knights-of-the-round-table-7.webp"]
+file: "ace0dc1f-1acf-49ca-9bb2-8d65cdccd845"
 spell: ["recognition-and-discrimination", "my-first-comparing", "my-first-grouping", "my-first-numbers", "my-first-directions"]
 charm: "board-game"
 description: | 
@@ -17,7 +16,7 @@ description: |
 
 contents:
 - Rulebook PDF (1 front page with information and story, 4 pages with different versions increasing in difficulty)
-- Material PDF (6 pages with Round Tables + Extras, 1 page with Action Tokens, 3 pages with Knight Cones)
+- Material PDF (6 pages with Round Tables + Extras, 3 pages with Knight Cones, 1 page with Action Tokens, 1 page with Knight Role Cards)
 - The raw assets (illustrations, layout file, etc) for you to view/edit. (As `.af` files, which you can open with the free Affinity software.)
 
 level: 1
@@ -73,3 +72,7 @@ The first versions of the game are basically little **logic puzzles**, made phys
 We personally believe that this is one of the best games we've ever made. It's a nice marriage between something very physical and practical (that kids can see and touch and move), very simple thematic rules, and a deep puzzle that will challenge all the crucial Level 1 and Level 2 skills.
 
 Have fun!
+
+{{% remark %}}
+Because this is 4 games in one, and we put extra effort into all the knight illustrations and such, the file to download is a bit larger in size than usual. At least, compared to our other boardgames. Make sure you have a stable internet connection and enough space on your computer!
+{{% /remark %}}

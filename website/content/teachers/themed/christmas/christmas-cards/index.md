@@ -50,7 +50,7 @@ age: 3
 
 ---
 
-This is a bundel of "prompt cards" with a **Christmas theme**. You can use them for your own activities or projects, at home or in the classroom.
+This is a bundle of "prompt cards" with a **Christmas theme**. You can use them for your own activities or projects, at home or in the classroom.
 
 It contains **32 cards** with a unique illustration, any associated vocabulary, and a general category (e.g. so you can also play grouping or memory games with them). The document also contains card backs, but those are optional.
 

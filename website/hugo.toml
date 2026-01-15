@@ -1,6 +1,6 @@
 baseURL = "https://thewaywardmelody.com"
 languageCode = "en-us"
-title = "The Wayward Melody | Webshop of Magic"
+title = "The Wayward Melody | Online Store selling educational games, quizzes, books, puzzles, and more"
 theme = "thewaywardmelody"
 enableRobotsTXT = true # otherwise robots.txt will just fail and lead back to home page and that confuses search engines
 
