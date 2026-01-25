@@ -23,8 +23,7 @@ level: 1
 language: "en"
 subject: "Mathematics"
 categories: ["matching", "recognition", "discrimination"]
-# player-count: 1-100
-age: 3
+# age: 3
 # requirements: ""
 # single-use: false
 duration: 15

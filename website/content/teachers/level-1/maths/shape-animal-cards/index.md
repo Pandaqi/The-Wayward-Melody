@@ -22,7 +22,6 @@ level: 1
 language: "en"
 subject: "Mathematics"
 categories: ["shapes", "geometry"]
-player-count: 1-100
 age: 3
 # requirements: ""
 # single-use: false

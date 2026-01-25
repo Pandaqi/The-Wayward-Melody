@@ -20,8 +20,7 @@ level: 1
 language: "en"
 subject: "Language"
 categories: ["sound-awareness", "words", "syllables", "phonetic-awareness", "phonemes", "language-comprehension"]
-# player-count: 1-100
-# age: 3
+# # age: 3
 # requirements: ""
 # single-use: false
 # duration: 60

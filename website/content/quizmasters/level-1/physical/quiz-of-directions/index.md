@@ -24,7 +24,6 @@ level: 1
 language: ["en", "nl"]
 subject: "Physical"
 categories: ["directions", "2d-space"]
-player-count: 1-100
 age: 3
 # requirements: ""
 # single-use: false

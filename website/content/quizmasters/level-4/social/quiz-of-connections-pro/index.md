@@ -24,7 +24,6 @@ level: 4
 language: "en"
 subject: "Mathematics"
 categories: ["grouping", "association", "creativity"]
-player-count: 1-100
 age: 10
 # requirements: ""
 # single-use: false

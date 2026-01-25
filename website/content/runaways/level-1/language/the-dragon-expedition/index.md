@@ -22,7 +22,6 @@ level: 1
 language: "en"
 subject: "Language"
 categories: ["stories", "cause-and-effect"]
-player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false

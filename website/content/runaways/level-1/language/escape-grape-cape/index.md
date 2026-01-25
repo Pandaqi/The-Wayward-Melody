@@ -24,8 +24,7 @@ level: 1
 language: "en"
 subject: "Language"
 categories: ["rhyme", "alliteration"]
-# player-count: 1-100
-age: 4
+# age: 4
 # requirements: ""
 # single-use: false
 duration: 30

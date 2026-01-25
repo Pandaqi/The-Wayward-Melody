@@ -23,7 +23,6 @@ contents:
 level: 4
 language: "en"
 categories: ["holidays"]
-player-count: 1-100
 age: 10
 # requirements: ""
 # single-use: false

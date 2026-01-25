@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: ["nl", "en", "es", "fr", "de", "it", "pt"]
-player-count: 1-8
+player-count: [1,2,3,4,5,6,7,8]
 age: 4
 # requirements: ""
 # single-use: false

@@ -23,7 +23,7 @@ level: 1
 language: "en"
 subject: "Mathematics"
 categories: ["shapes"]
-player-count: 2-8
+player-count: [2,3,4,5,6,7,8]
 age: 4
 # requirements: ""
 # single-use: false

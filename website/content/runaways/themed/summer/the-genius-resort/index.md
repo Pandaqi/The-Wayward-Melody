@@ -25,7 +25,6 @@ contents:
 level: 2
 language: "en"
 categories: ["holidays"]
-player-count: 1-4
 age: 5
 # requirements: ""
 single-use: true

@@ -23,7 +23,7 @@ level: 1
 language: "en"
 subject: ["Mathematics", "Physical"]
 categories: ["knights"]
-player-count: 1-5
+player-count: [1,2,3,4,5]
 age: 4
 # requirements: ""
 # single-use: false

@@ -24,7 +24,6 @@ level: 1
 language: "en"
 subject: "Mathematics"
 categories: ["comparing", "sorting", "sequencing"]
-player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false

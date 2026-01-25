@@ -29,7 +29,7 @@ external:
 level: 2
 language: "en"
 categories: ["holidays", "counting", "money"]
-player-count: 2-6
+player-count: [2,3,4,5,6]
 age: 5
 # requirements: ""
 # single-use: false

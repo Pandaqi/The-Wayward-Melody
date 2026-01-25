@@ -25,7 +25,6 @@ level: 1
 language: ["en", "nl"]
 subject: "Physical"
 categories: ["fine-motor-skills"]
-player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false

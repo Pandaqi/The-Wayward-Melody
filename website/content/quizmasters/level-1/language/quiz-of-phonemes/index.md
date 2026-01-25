@@ -28,7 +28,6 @@ level: 1
 language: "en"
 subject: "Language"
 categories: ["phonemes"]
-player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false

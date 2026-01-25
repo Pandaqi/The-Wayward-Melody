@@ -22,7 +22,6 @@ contents:
 level: 1
 language: "en"
 subject: ["Language", "World"]
-player-count: 1-100
 age: 2
 # requirements: ""
 # single-use: false

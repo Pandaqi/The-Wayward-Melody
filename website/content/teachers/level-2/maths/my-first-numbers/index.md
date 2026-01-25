@@ -36,7 +36,6 @@ level: 2
 language: "en"
 subject: "Mathematics"
 categories: ["numbers", "counting"]
-player-count: 1-100
 age: 3
 # requirements: ""
 single-use: true

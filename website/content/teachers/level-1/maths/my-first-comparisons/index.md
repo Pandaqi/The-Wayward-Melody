@@ -38,7 +38,6 @@ level: 1
 language: "en"
 subject: "Mathematics"
 categories: ["comparing", "sequencing", "sorting"]
-player-count: 1-100
 age: 3
 # requirements: ""
 single-use: true

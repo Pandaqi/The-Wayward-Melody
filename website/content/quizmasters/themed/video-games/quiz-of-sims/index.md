@@ -23,7 +23,6 @@ contents:
 level: 2
 language: "en"
 categories: ["video-games", "the-sims"]
-player-count: 1-100
 age: 5
 # requirements: ""
 # single-use: false

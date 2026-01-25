@@ -21,7 +21,7 @@ contents:
 level: [1,2]
 language: "nl"
 categories: ["holidays"]
-player-count: 2-8
+player-count: [2,3,4,5,6,7,8]
 age: 4
 # requirements: ""
 # single-use: false

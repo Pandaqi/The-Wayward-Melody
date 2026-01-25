@@ -24,7 +24,6 @@ level: 1
 language: "en"
 subject: "Mathematics"
 categories: ["grouping"]
-player-count: 1-100
 age: 4
 # requirements: ""
 # single-use: false

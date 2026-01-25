@@ -29,7 +29,6 @@ details:
 language: "en"
 subject: "Mathematics"
 
-# player-count: 1-100
 # age: 3
 # requirements: ""
 # single-use: false

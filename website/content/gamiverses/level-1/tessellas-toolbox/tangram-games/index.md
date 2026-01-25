@@ -25,7 +25,7 @@ level: 1
 language: "en"
 subject: "Mathematics"
 categories: ["shapes", "tessellas-toolbox"]
-player-count: 2-6
+player-count: [2,3,4,5,6]
 age: 3
 # requirements: ""
 # single-use: false

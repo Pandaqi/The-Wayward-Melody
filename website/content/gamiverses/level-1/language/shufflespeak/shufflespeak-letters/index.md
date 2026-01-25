@@ -24,7 +24,7 @@ level: 2
 language: "en"
 subject: "Language"
 categories: ["letters"]
-player-count: 2-10
+player-count: [2,3,4,5,6,7,8,9,10]
 age: 5
 # requirements: ""
 # single-use: false

@@ -21,7 +21,7 @@ contents:
 level: 2
 language: "nl"
 categories: ["holidays", "alphabet", "word-awareness"]
-player-count: 2-6
+player-count: [2,3,4,5,6]
 age: 6
 # requirements: ""
 # single-use: false

@@ -24,7 +24,6 @@ level: 1
 language: "en"
 subject: "Language"
 categories: ["sound-awareness", "phonetic-awareness", "language-comprehension"]
-player-count: 1-100
 age: 3
 # requirements: ""
 # single-use: false

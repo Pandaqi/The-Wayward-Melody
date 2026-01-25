@@ -22,7 +22,6 @@ contents:
 level: 2
 language: "nl"
 categories: ["holidays"]
-player-count: 1-100
 age: 6
 # requirements: ""
 # single-use: false

@@ -23,7 +23,7 @@ level: 1
 language: "en"
 subject: "Language"
 categories: ["rhyme"]
-player-count: 2-5
+player-count: [2,3,4,5]
 age: 4
 # requirements: ""
 # single-use: false

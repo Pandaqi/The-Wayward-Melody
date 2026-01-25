@@ -20,7 +20,6 @@ contents:
 level: 1
 language: "en"
 subject: ["Language"]
-player-count: 1-100
 age: 3
 # requirements: ""
 # single-use: false

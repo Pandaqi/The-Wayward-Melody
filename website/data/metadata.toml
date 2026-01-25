@@ -77,7 +77,7 @@
 
 [player-count]
     name = "Player Count"
-    desc = "How many different people can join this activity; MINIMUM-MAXIMUM."
+    desc = "How many different people can join this activity. Most activities support a range of these, not just one specific number."
 
 [single-use]
     desc = "Whether the product is destroyed through usage, usually forcing you to print it again. By default, all our products ARE reusable."

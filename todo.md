@@ -13,16 +13,37 @@
 
 * FUTURE: Saga of Life gets links to actual books.
 * FUTURE: More varied/deep linking only becomes relevant once I create _merchandise_ for different existing projects.
-* FUTURE: Also export Windows/Mac/Linux versions of all those _Jam Games_. Now I only have Web version, but my laptop can't open the projects anymore!
+* FUTURE: Also export Windows/Mac/Linux versions of all those _Jam Games_. Now I only have Web version, but my laptop can't open the projects anymore! => At the same time, this is bloating the file sizes everywhere A LOT.
 
 ## Optimizations
 
-* Add support for `.webm` videos (in both summaries and product pages) => snipcart still wants an image only for product, though, so maybe try to hold off this "feature" as long as possible?
+* Add support for `.webm` videos (in both summaries and product pages) => snipcart still wants an image only for product, though, so maybe try to hold off this "feature" as long as possible? => Or we do something smart by selecting the first image (in `get-product-data`) for that specific Snipcart field
 * Do we need TWO smaller versions (500px, 250px) of headers in summaries?
 * Can the banners be resized to smaller versions too?
 
+## Story-Exporter
+
+Modify the system to allow adding/keeping **all my stories there**!
+
+* Then I don't have to _replace/clean-up_ the old one every time.
+* Then I can keep CSS/changes _per book_ in there.
+* And maybe, in the future, I can just publish that website and deliver all these stories for free.
+
+What would be required?
+
+* `static` stuff in a subfolder equal to book name. (It should then autmatically find these relatively linked files in `/bookname/filename.png`)
+* `data` needs such subfolders too, or MAYBE I can move it into page bundles and use a raw GetPage or something to grab it? (I want to keep the `metadata.yaml` file to just drag-and-drop into there with no modification.)
+* the `to-pdf` is just a page type I can apply to `bookname/index.md` pages, right?
+
 
 # Niceties/Future To-Do
+
+* Add an **"ai" or "100% human-created"** metadata tag or label. If not in the metadata section, then just a fixed thing that's written on product pages: _No AI (Artificial Intelligence) was used in the creation of this product._ Such a sentence could also be added to all my books on Amazon and such.
+
+* Increase the size of small metadata (comes before, comes after, etc) on MOBILE => otherwise those clickable links are just too small.
+  * Also, ensure summary boxes are full-width on mobile (now it depends on size of desc text/poem within)
+  * Also, maybe, _center_ that title below the small metadata on mobile?
+  * Also, maybe, _center_ the links in the footer on mobile?
 
 * Add a little marker like "Recommended" or "Tiamo's Pick" or whatever to games? So I can at least highlight/sticky a few big projects I think are most worthy of attention?
 * Create **TEMPLATES** (for immediate copy+paste+edit) for PUZZLE PIECES (JIGSAW) and TARSIA and TIMELINE TASKS

@@ -30,7 +30,7 @@ level: 2
 language: "en"
 subject: "Mathematics"
 categories: ["holidays", "deduction", "counting"]
-player-count: 2-5
+player-count: [2,3,4,5]
 age: 5
 # requirements: ""
 # single-use: false

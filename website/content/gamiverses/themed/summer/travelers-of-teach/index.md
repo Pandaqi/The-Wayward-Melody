@@ -31,7 +31,7 @@ external:
 level: 1
 language: "en"
 categories: ["holidays", "counting", "money", "color", "shape", "matching", "logic", "multiplication", "alphabet", "letters"]
-player-count: 2-6
+player-count: [2,3,4,5,6]
 age: 4
 # requirements: ""
 # single-use: false

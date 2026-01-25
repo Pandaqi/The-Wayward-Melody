@@ -27,7 +27,7 @@ external:
 level: 2
 language: "en"
 categories: ["holidays"]
-player-count: 2-7
+player-count: [2,3,4,5,6,7]
 age: 5
 # requirements: ""
 # single-use: false

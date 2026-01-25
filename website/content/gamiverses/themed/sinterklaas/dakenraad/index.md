@@ -21,7 +21,7 @@ contents:
 level: 2
 language: "nl"
 categories: ["holidays", "colors", "shapes", "counting"]
-player-count: 2-5
+player-count: [2,3,4,5]
 age: 6
 # requirements: ""
 # single-use: false
