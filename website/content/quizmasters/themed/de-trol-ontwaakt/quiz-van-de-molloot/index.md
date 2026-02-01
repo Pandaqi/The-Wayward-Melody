@@ -4,7 +4,7 @@ title: "Quiz van de Molloot"
 id: "quiz-van-de-molloot"
 date: 2026-01-26
 price: 14.95
-image: ["quiz-van-de-molloot-header.webp", "quiz-van-de-molloot-1.webp", "quiz-van-de-molloot-2.webp", "quiz-van-de-molloot-3.webp", "quiz-van-de-molloot-4.webp", "quiz-van-de-molloot-5.webp", "quiz-van-de-molloot-6.webp", "quiz-van-de-molloot-7.webp", "quiz-van-de-molloot-8.webp", "quiz-van-de-molloot-9.webp", "quiz-van-de-molloot-10.webp"]
+image: ["quiz-van-de-molloot-header.webp", "quiz-van-de-molloot-1.webp", "quiz-van-de-molloot-2.webp", "quiz-van-de-molloot-3.webp", "quiz-van-de-molloot-4.webp", "quiz-van-de-molloot-5.webp", "quiz-van-de-molloot-6.webp", "quiz-van-de-molloot-7.webp", "quiz-van-de-molloot-8.webp"]
 file: "ec9ddb60-aec5-40f3-876a-b5deb7e190f5"
 spell: "de-trol-ontwaakt"
 charm: "trivia-kit"
