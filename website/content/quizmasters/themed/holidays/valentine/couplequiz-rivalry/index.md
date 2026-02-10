@@ -2,18 +2,21 @@
 type: "product"
 title: "CoupleQuiz: Rivalry"
 id: "couplequiz-rivalry"
-date: 2026-02-11
+date: 2026-02-10
 price: 9.95
-image: ["couplequiz-rivalry-header.webp", "couplequiz-rivalry-1.webp", "couplequiz-rivalry-2.webp", "couplequiz-rivalry-3.webp", "couplequiz-rivalry-4.webp", "couplequiz-rivalry-5.webp", "couplequiz-rivalry-6.webp", "couplequiz-rivalry-7.webp"]
-file: "@TODO"
+image: ["couplequiz-rivalry-header.webp", "couplequiz-rivalry-1.webp", "couplequiz-rivalry-2.webp", "couplequiz-rivalry-3.webp", "couplequiz-rivalry-4.webp", "couplequiz-rivalry-5.webp", "couplequiz-rivalry-6.webp"]
+file: "be8c0668-4dd5-4c29-ae2e-1745cfe213eb"
 spell: "valentine"
 charm: "trivia-kit"
 description: | 
-  @TODO
+  An exciting quiz for couples or dates
+  To battle it out in many fun ways
+  Who is the funniest? Which of you is the best cook?
+  A CoupleQuiz gives your relationship an interesting new look
 
 contents:
 - Instructions PDF (if needed for clarification)
-- Digital Quiz (open in any browser); 80 questions
+- Digital Quiz (open in any browser); 75 questions
 - Printable Quiz PDF
 - Printable Answer Sheet + Forms PDF
 
@@ -23,7 +26,7 @@ categories: []
 age: 12
 # requirements: ""
 # single-use: false
-duration: 60
+duration: 90
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -46,17 +49,23 @@ duration: 60
 
 ---
 
-A **CoupleQuiz** is a special experience designed to experience as a couple (e.g. on a date night), or when playing with multiple couples. It works best with romantic couples (heterosexual), but can be enjoyed by people with any kind of relationship if needed.
+A **CoupleQuiz** is a special activity designed to experience as a couple (e.g. on a date night), or when playing with multiple couples. It works best with romantic couples, but can be enjoyed by people with any kind of relationship if needed.
 
-How does it work? This variant (_Rivalry_) pits partners against each other (or couples against other couples). It does so with hard-hitting questions about relationships, romance, differences between how men and women view things, and more.
+How does it work? This variant (_Rivalry_) pits partners against each other (or couples against other couples). 
 
-Simple. Fun. Nothing else needed. A great low-stakes way to spend time together and perhaps learn a thing or two. Get ready to have some assumptions challenged or casually show off how well you work together as a couple.
+* Who is the best cook? 
+* Who is the funniest? 
+* Who is the best with numbers?
+* Who is the most annoying sleeper?
+* And so forth!
 
-You can display the questions on a screen (using our digital quiz tool) or print out the physical version. There is no limit on the number of players and you can skip rounds that you don't like (or to save time). The rounds provided are,
+The quiz has no fixed answers, of course. You score points if you write down _the same thing_ as your partner!
 
-@TODO: ROUND LIST
+Simple. Fun. Nothing else needed. A great low-stakes way to spend time together and perhaps learn a thing or two.
 
-This quiz is "competitive" in a fun, light-hearted way that brings the best out of people. (Or, even better, just confirms you are equally wise in the ways of relationships and a perfect match for one another!) If you're more about keeping things collaborative and personal, try the [CoupleQuiz: Harmony](/quizmasters/themed/holiday/valentine/couplequiz-harmony/) instead.
+You can display the questions on a screen (using our digital quiz tool) or print out the physical version. It's best to give your answers physically, pen on paper, with something separating you so you don't cheat and take a peek at your partner's paper ;)
+
+We provide 6 rounds with ~12 questions each, but you're obviously not required to do all of them. Pick the ones you like the most, or the ones for which you have time, which is also very easy to do with our digital tool.
 
 Have fun!
 

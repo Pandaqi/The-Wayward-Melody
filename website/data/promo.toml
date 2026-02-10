@@ -1,6 +1,6 @@
 # @TODO: Need something more for January/February/March?
-[valentines-day]
-    spell = "valentines-day"
+[valentine]
+    spell = "valentine"
     dateStart = "02-04"
     dateEnd = "02-18"
     title = "Valentine's Day"

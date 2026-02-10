@@ -2,14 +2,17 @@
 type: "product"
 title: "CoupleQuiz: Harmony"
 id: "couplequiz-harmony"
-date: 2026-02-11
+date: 2026-02-10
 price: 9.95
 image: ["couplequiz-harmony-header.webp", "couplequiz-harmony-1.webp", "couplequiz-harmony-2.webp", "couplequiz-harmony-3.webp", "couplequiz-harmony-4.webp", "couplequiz-harmony-5.webp", "couplequiz-harmony-6.webp", "couplequiz-harmony-7.webp"]
-file: "@TODO"
+file: "51b933d4-9a6e-434e-bd25-66117b13d923"
 spell: "valentine"
 charm: "trivia-kit"
 description: | 
-  @TODO
+  A fun quiz for couples or dates
+  To see if you're on the same page
+  What's their greatest wish? Or their favorite book?
+  A CoupleQuiz gives your relationship a harmonious new look
 
 contents:
 - Instructions PDF (if needed for clarification)
@@ -23,7 +26,7 @@ categories: []
 age: 12
 # requirements: ""
 # single-use: false
-duration: 60
+duration: 90
 # difficulty: 1
 # setup: 1
 # prior-wisdom: false
@@ -46,7 +49,7 @@ duration: 60
 
 ---
 
-A **CoupleQuiz** is a special experience designed to experience as a couple (e.g. on a date night), or when playing with multiple couples. It works best with romantic couples (heterosexual), but can be enjoyed by people with any kind of relationship if needed.
+A **CoupleQuiz** is a special activity designed to experience as a couple (e.g. on a date night), or when playing with multiple couples. It works best with romantic couples, but can be enjoyed by people with any kind of relationship if needed.
 
 How does it work? This variant (_Harmony_) only asks the questions---**you provide the answers**! How?
 
@@ -58,7 +61,9 @@ Simple. Fun. Nothing else needed. A great low-stakes way to spend some time toge
 
 You can display the questions on a screen (using our digital quiz tool) or print out the physical version. It's best to give your answers physically, pen on paper, with something separating you so you don't cheat and take a peek at your partner's paper ;)
 
-As the name suggests, this quiz is about matching and being on the same page. If you're more of a competitive couple who likes to challenge one another, try the [CoupleQuiz: Rivalry](/quizmasters/themed/holiday/valentine/couplequiz-rivalry/) instead. It's an actual quiz with questions and answers all about relationships, love, men and women, and more.
+We provide 8 rounds with 10 questions each, but you're obviously not required to do all of them. Pick the ones you like the most, or the ones for which you have time, which is also very easy to do with our digital tool.
+
+As the name suggests, this quiz is about matching and being on the same page. If you're more of a competitive couple who likes to challenge one another, try the [CoupleQuiz: Rivalry](/quizmasters/themed/holiday/valentine/couplequiz-rivalry/) instead. It's about whom of you is the best/worst at specific things.
 
 Have fun!
 
