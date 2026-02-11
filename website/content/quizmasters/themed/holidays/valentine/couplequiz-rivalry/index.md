@@ -31,7 +31,7 @@ duration: 90
 # setup: 1
 # prior-wisdom: false
 # color: false
-# mature: false
+mature: true
 # textless: false
 # parallel-play: false
 # double-sided-required: false
@@ -59,7 +59,9 @@ How does it work? This variant (_Rivalry_) pits partners against each other (or 
 * Who is the most annoying sleeper?
 * And so forth!
 
-The quiz has no fixed answers, of course. You score points if you write down _the same thing_ as your partner!
+The quiz has no fixed answers, of course. You score points if you write down _the same thing_ as your partner! If you both agreed, without any communication, which of you is the best cook. 
+
+Yes, this means that, when playing as a couple (1 versus 1), you can't "score better" than your partner. Your final score simply represents how well you know one another. When playing against other couples, that's when the real rivalry starts and you can compare final scores.
 
 Simple. Fun. Nothing else needed. A great low-stakes way to spend time together and perhaps learn a thing or two.
 
@@ -70,7 +72,7 @@ We provide 6 rounds with ~12 questions each, but you're obviously not required t
 Have fun!
 
 {{% remark %}}
-Looking for a more general romance-related quiz for in a classroom or with the whole family? Then check our [Quiz of Valentine](/quizmasters/themed/holiday/valentine/quiz-of-valentine/)! You can also, of course, try any of our other quizzes for a more standard quiz night with your partner.
+Looking for a more general romance-related quiz for in a classroom or with the whole family? Then check our [Quiz of Valentine](/quizmasters/themed/holidays/valentine/quiz-of-valentine/)! You can also, of course, try any of our other quizzes for a more standard quiz night with your partner.
 {{% /remark %}}
 
 {{% remark %}}

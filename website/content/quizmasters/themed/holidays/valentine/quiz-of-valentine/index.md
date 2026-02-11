@@ -70,7 +70,7 @@ It contains **8 rounds with 10 questions each**. The rounds are independent, whi
 
 If used **educationally**, the rounds _Happy Holiday_, _Valentine Forever_, and _Love Around The World_ are your biggest friends. The other rounds are more focused on pop culture related to love and romance, than facts and figures about Valentine's Day itself. It's not really suitable for kids younger than ~7 as the quiz does _not_ have any easy questions like "What do we give each other on Valentine's Day?" or "What is the symbol for love?" ;)
 
-Looking for more quizzes for a **date (night)** or to play with **couples**? We've designed a special brand of quiz for that! Check out the [CoupleQuiz: Harmony](/quizmasters/themed/holidays/valentine/couplequiz-harmony/) or [CoupleQuiz: Rivalry](/quizmasters/themed/holidays/valentine/couplequiz-rivalry/). The first one is meant to be played _together_: you and your partner as a team, trying to match each other's answers. The second one is a fun _competition_: which of you gets the best overall score? (With questions about relationships and differences between men and women.)
+Looking for more quizzes for a **date (night)** or to play with **couples**? We've designed a special brand of quiz for that! Check out the [CoupleQuiz: Harmony](/quizmasters/themed/holidays/valentine/couplequiz-harmony/) or [CoupleQuiz: Rivalry](/quizmasters/themed/holidays/valentine/couplequiz-rivalry/). The first one is meant to be played _together_: you and your partner as a team, trying to match each other's answers. The second one is a fun _competition_: which of you is the better cook? The funniest? The best at driving?
 
 {{% remark %}}
 Je krijgt de quiz ook in het Nederlands! Kies simpelweg je taal voordat je begint.

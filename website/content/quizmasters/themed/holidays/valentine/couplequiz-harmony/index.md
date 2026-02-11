@@ -31,7 +31,7 @@ duration: 90
 # setup: 1
 # prior-wisdom: false
 # color: false
-# mature: false
+mature: true
 # textless: false
 # parallel-play: false
 # double-sided-required: false
@@ -63,12 +63,12 @@ You can display the questions on a screen (using our digital quiz tool) or print
 
 We provide 8 rounds with 10 questions each, but you're obviously not required to do all of them. Pick the ones you like the most, or the ones for which you have time, which is also very easy to do with our digital tool.
 
-As the name suggests, this quiz is about matching and being on the same page. If you're more of a competitive couple who likes to challenge one another, try the [CoupleQuiz: Rivalry](/quizmasters/themed/holiday/valentine/couplequiz-rivalry/) instead. It's about whom of you is the best/worst at specific things.
+As the name suggests, this quiz is about matching and being on the same page. If you're more of a competitive couple who likes to challenge one another, try the [CoupleQuiz: Rivalry](/quizmasters/themed/holidays/valentine/couplequiz-rivalry/) instead. It's about whom of you is the best/worst at specific things.
 
 Have fun!
 
 {{% remark %}}
-Looking for a more general romance-related quiz for in a classroom or with the whole family? Then check our [Quiz of Valentine](/quizmasters/themed/holiday/valentine/quiz-of-valentine/)! You can also, of course, try any of our other quizzes for a more standard quiz night with your partner.
+Looking for a more general romance-related quiz for in a classroom or with the whole family? Then check our [Quiz of Valentine](/quizmasters/themed/holidays/valentine/quiz-of-valentine/)! You can also, of course, try any of our other quizzes for a more standard quiz night with your partner.
 {{% /remark %}}
 
 {{% remark %}}
