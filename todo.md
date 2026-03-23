@@ -1,5 +1,7 @@
 # To-Do
 
+* Auto-insert a (summarized) "charm explanation" on product pages? Just a little bit in italics at the end saying _"This product is part of the One Button Games charm. OBGs are games where each player gets only a single button, making them as accessible and simple to teach as possible. You can play alone or with multiple players behind the very same screen or keyboard. You'll be surprised by all the educational gameplay that can be achieved with a single button!"_
+
 
 
 
@@ -20,20 +22,6 @@
 * Add support for `.webm` videos (in both summaries and product pages) => snipcart still wants an image only for product, though, so maybe try to hold off this "feature" as long as possible? => Or we do something smart by selecting the first image (in `get-product-data`) for that specific Snipcart field
 * Do we need TWO smaller versions (500px, 250px) of headers in summaries?
 * Can the banners be resized to smaller versions too?
-
-## Story-Exporter
-
-Modify the system to allow adding/keeping **all my stories there**!
-
-* Then I don't have to _replace/clean-up_ the old one every time.
-* Then I can keep CSS/changes _per book_ in there.
-* And maybe, in the future, I can just publish that website and deliver all these stories for free.
-
-What would be required?
-
-* `static` stuff in a subfolder equal to book name. (It should then autmatically find these relatively linked files in `/bookname/filename.png`)
-* `data` needs such subfolders too, or MAYBE I can move it into page bundles and use a raw GetPage or something to grab it? (I want to keep the `metadata.yaml` file to just drag-and-drop into there with no modification.)
-* the `to-pdf` is just a page type I can apply to `bookname/index.md` pages, right?
 
 
 # Niceties/Future To-Do

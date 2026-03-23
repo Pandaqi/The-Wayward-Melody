@@ -4,7 +4,7 @@ title: "The Noisy Tongues"
 id: "the-noisy-tongues"
 date: 2025-04-26
 price: 9.95
-image: ["the-noisy-tongues-cover.webp", "the-noisy-tongues-screenshot-1.webp", "the-noisy-tongues-screenshot-2.webp"]
+image: ["the-noisy-tongues-header.webp", "the-noisy-tongues-screenshot-1.webp", "the-noisy-tongues-screenshot-2.webp"]
 file: "5683eb4e-314e-4f7e-a281-58b18c4311d2"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phoneme-awareness", "my-first-letters"]
 charm: "novella-interactiva"
