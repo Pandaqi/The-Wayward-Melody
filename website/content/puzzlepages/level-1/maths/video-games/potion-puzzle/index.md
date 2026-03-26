@@ -1,12 +1,11 @@
 ---
-draft: true
 type: "product"
 title: "Potion Puzzle"
 id: "potion-puzzle"
 date: 2026-03-03
 price: 3.95
-image: ["potion-puzzle-header.webp", "potion-puzzle-1.webp", "potion-puzzle-2.webp", "potion-puzzle-3.webp", "potion-puzzle-4.webp"]
-file: "@TODO"
+image: ["potion-puzzle-header.webp", "potion-puzzle-video.webm", "potion-puzzle-1.webp", "potion-puzzle-2.webp", "potion-puzzle-3.webp"]
+file: "9cf0be2f-1c37-43a8-9414-3cc4f675a641"
 spell: ["my-first-colors", "my-first-shapes"]
 charm: "puzzle-game"
 description: | 
@@ -55,10 +54,10 @@ On the easiest difficulty,
 
 * You get a few potions, each one containing several different colors.
 * Each turn (or "move"), the game highlights one potion.
-* You **tap a vial** to move its top color to the highlighted potion.
+* You **tap another potion** to move its top color to the highlighted potion.
 * Keep making moves until each potion contains only the same color! (Example: all RED balls are inside the RED potion.)
 
-Of course, there's one intuitive rule about these potions that makes the puzzle possible: they can't overflow! You can't add more colors than fit inside of it! This means kids need to vaguely judge how many "colored balls" could be added to a potion, which is a prelude to actual counting.
+Of course, there's one intuitive rule about these potions that makes it a challenge: they can't overflow! You can't add more colors than fit inside of it! This means kids need to vaguely judge how many "colored balls" could be added to a potion, which is a prelude to actual counting.
 
 It contains **5 difficulty levels**. Later difficulties increase the number and size of potions, as well as the number of steps to complete it. The game also contains a **Shape Mode**. It's exactly the same puzzle, but now you're matching shapes instead of colors.
 

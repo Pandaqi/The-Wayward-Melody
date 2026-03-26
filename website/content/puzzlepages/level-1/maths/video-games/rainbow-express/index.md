@@ -1,13 +1,12 @@
 ---
-draft: true
 type: "product"
 title: "Rainbow Express"
 id: "rainbow-express"
 date: 2026-03-03
-price: 6.95
-image: ["rainbow-express-header.webp", "rainbow-express-1.webp", "rainbow-express-2.webp", "rainbow-express-3.webp", "rainbow-express-4.webp"]
-file: "@TODO"
-spell: "my-first-colors"
+price: 3.95
+image: ["rainbow-express-header.webp", "rainbow-express-video.webm", "rainbow-express-1.webp", "rainbow-express-2.webp", "rainbow-express-3.webp"]
+file: "bfd0616b-7e10-4868-bf5a-58d6b332de54"
+spell: ["my-first-colors", "my-first-shapes", "my-first-numbers", "my-first-letters"]
 charm: "puzzle-game"
 description: | 
   Toot toot, make way for the Rainbow Express
@@ -58,10 +57,15 @@ On the easiest difficulty,
 * Your car starts somewhere else.
 * **Tap the screen** to move the car in that direction, and try to get it home.
 
-It contains 5 difficulty levels. Later difficulties add ...
+It contains **5 difficulty levels**. Later difficulties add ...
 
 * Multiple cars (of different colors). So you need to recognize and match colors, as well as make sure their routes don't overlap.
-* Colored mail to pick up along the way. This usually means only one valid route is possible at all.
+* Colored stars to pick up along the way. This usually means only one valid route is possible at all.
 * Larger networks and longer routes, requiring more planning ahead.
+* Picking the right _order_ for driving the cars yourself (on highest difficulty).
 
-As expected, the game has no text, numbers, or complex actions. Just tap left/right/up/down from your current car to move it. Thanks to these clever rules, though, it is an actual puzzle that will challenge older kids and adults too (at higher difficulties).
+As expected, the game has no text, numbers, or complex actions. Just tap left/right/up/down from your current car to move it. Thanks to these clever rules, though, it is an actual puzzle that will challenge older kids and adults too (at higher difficulties)!
+
+In the settings you can turn on extra help such as audio cues or an extra grid overlay reinforcing where roads start and stop. Additionally, you can play **one of four modes: colors, shapes, numbers, and letters**.
+
+Have fun and keep learning!
