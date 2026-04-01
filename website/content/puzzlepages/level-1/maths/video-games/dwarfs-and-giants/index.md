@@ -1,16 +1,18 @@
 ---
-draft: true
 type: "product"
 title: "Dwarfs & Giants"
 id: "dwarfs-and-giants"
-date: 2026-03-03
+date: 2026-04-01
 price: 3.95
-image: ["dwarfs-and-giants-header.webp", "dwarfs-and-giants-1.webp", "dwarfs-and-giants-2.webp", "dwarfs-and-giants-3.webp", "dwarfs-and-giants-4.webp"]
-file: "@TODO"
+image: ["dwarfs-and-giants-header.webp", "dwarfs-and-giants-video.webm", "dwarfs-and-giants-1.webp", "dwarfs-and-giants-2.webp", "dwarfs-and-giants-3.webp", ]
+file: "dfa76ebb-c342-4442-b04f-c464849d95d4"
 spell: "my-first-comparing"
 charm: "puzzle-game"
 description: | 
-  @TODO
+  Click the smallest giant or dwarf
+  Compare sizes until all of them are gone
+  But don't forget the special powers of dwarf
+  They might become TOO small if you do something wrong
 
 contents:
 - The puzzle game for Windows, Mac, Linux, and Browsers.
@@ -56,6 +58,12 @@ On the easiest difficulty,
 
 An easy and effective way to teach anyone the idea of size differences and sequencing from small to large.
 
-But, as usual, our puzzle contains 5 difficulty levels! Later difficulties add simple rules that turn it into a more challenging and exciting puzzle. For example, if a dwarf and a giant are _exactly the same size_, then you must always tap the dwarf first.
+As usual, though, our puzzle contains 5 difficulty levels! Later difficulties add simple rules that turn it into a more challenging and exciting puzzle. For example, giants grow everyone around them, and nobody is allowed to become too big.
 
-As expected, the game has no text, numbers, or complex actions. Just tap the character you think is the smallest right now. Thanks to these clever rules, though, it is an actual puzzle that will challenge older kids and adults too (at higher difficulties).
+As expected, the game has no text, numbers, or complex actions. Just tap the character you think is the smallest right now. Thanks to these clever rules, though, it is an actual puzzle that will challenge older kids and adults too at the hardest difficulties.
+
+{{% remark %}}
+In the settings you can enable extra helpers to differentiate between dwarfs and giants. The tutorial can be turned off (both the narration and the image). You can also enable "number mode" to teach counting as well, as the numbers will directly correspond with the character's sizes (1, 2, 3, ...).
+{{% /remark %}}
+
+Have fun and keep learning!
