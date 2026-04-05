@@ -1,5 +1,6 @@
 ---
 title: "Trivia Kit"
+summary: "These are quiz experiences (like a pub quiz or trivia night) using our custom digital framework, allowing you to play on any device with a browser! Our framework allows a large variety of questions, answer types, rounds, interactive media, and other tricks to make the quiz as fun as possible. If desired, though, the entire experience can easily be printed and played completely physically too."
 ---
 
 {{% double-view %}}

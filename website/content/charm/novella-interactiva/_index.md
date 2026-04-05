@@ -1,5 +1,6 @@
 ---
 title: "Novella Interactive"
+summary: "These are interactive stories! You're not just reading or enjoying the story, you can actually make decisions or engage with it. This is ideal for keeping the interest of the youngest listeners and readers, and also allows stories and experiences that no regular book can offer."
 ---
 
 {{% double-view %}}

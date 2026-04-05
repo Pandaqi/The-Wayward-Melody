@@ -1,5 +1,6 @@
 ---
 title: "One Button Game"
+summary: "OBGs are games where each player gets only a single button, making them as accessible and simple to teach as possible. You can play alone or with multiple players behind the same screen. You'll be surprised by all the educational gameplay that can be achieved with a single button! Check out [How To Install Our Games](/info/library/wisdom/how-to-install-our-games/) for help."
 ---
 
 {{% double-view %}}

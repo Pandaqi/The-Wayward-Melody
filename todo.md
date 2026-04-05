@@ -1,8 +1,5 @@
 # To-Do
 
-* Auto-insert a (summarized) "charm explanation" on product pages? Just a little bit in italics at the end saying _"This product is part of the One Button Games charm. OBGs are games where each player gets only a single button, making them as accessible and simple to teach as possible. You can play alone or with multiple players behind the very same screen or keyboard. You'll be surprised by all the educational gameplay that can be achieved with a single button!"_
-
-
 
 
 ### Merchandise API
@@ -33,6 +30,7 @@
   * Also, maybe, _center_ that title below the small metadata on mobile?
   * Also, maybe, _center_ the links in the footer on mobile?
 
+* Add IMAGES to my helper pages with _Printing Tips_ and _How To Install Our Games_.
 * Add a little marker like "Recommended" or "Tiamo's Pick" or whatever to games? So I can at least highlight/sticky a few big projects I think are most worthy of attention?
 * Create **TEMPLATES** (for immediate copy+paste+edit) for PUZZLE PIECES (JIGSAW) and TARSIA and TIMELINE TASKS
 * The PROMO sections could look a little better and more fitting

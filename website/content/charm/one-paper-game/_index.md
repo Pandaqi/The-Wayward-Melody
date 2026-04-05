@@ -1,5 +1,6 @@
 ---
 title: "One Paper Game"
+summary: "OPGs are board games that you play by writing on paper. Some games allow using any blank paper. Most require printing a specific paper, such as a beautiful world map to play on. This makes the games incredibly simple to teach, play, carry with you, or multiply for use in a large group such as a classroom!"
 ---
 
 {{% double-view %}}

@@ -1,5 +1,6 @@
 ---
 title: "Classroom Game"
+summary: "Classroom Games are educational games meant to be played with a large group, over many days, weeks or even months. You might call them larger-than-life board games. They allow extremely immersive gameplay for large groups, centered on a topic like running your own company, and are ideal for classrooms or other repeated educational settings."
 ---
 
 {{% double-view %}}

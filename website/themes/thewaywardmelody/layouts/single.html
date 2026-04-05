@@ -74,6 +74,15 @@
     {{ .Content }}
     </div>
 
+    <!--- Default CHARM text/summary and link --->
+    {{ $charm_url := printf "/charm/%s" .Params.charm }}
+    {{ $charm_page := .GetPage $charm_url }}
+    {{ if and $charm_page $charm_page.Params.summary }}
+    <div class="text-style-italic">
+        <p>This product is part of the <a href="{{ $charm_page.RelPermalink }}">{{ $charm_page.Title }}</a> charm. {{ $charm_page.Params.summary | markdownify }}</p>
+    </div>
+    {{ end }}
+
     <!--- Show the CONNECTIONS to other products --->
     {{ $my_spells := or .Params.spell slice }}
     {{ if not (reflect.IsSlice $my_spells) }}{{ $my_spells = slice $my_spells }}{{ end }}

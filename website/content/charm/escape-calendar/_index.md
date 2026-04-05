@@ -1,5 +1,6 @@
 ---
 title: "Escape Calendar"
+summary: "Escape Calendars are puzzle experiences meant to be played over many weeks---like an Advent calendar with one puzzle each day. They are often bigger than your usual escape room, but also a bit easier so you can do the next one in 10 minutes every day."
 ---
 
 {{% double-view %}}

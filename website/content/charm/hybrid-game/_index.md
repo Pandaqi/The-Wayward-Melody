@@ -1,5 +1,6 @@
 ---
 title: "Hybrid Game"
+summary: "Hybrid Games are a mixture of board games and video games. They are usually played with physical material, like a board game. But some part of the game is ruled by a computer, usually a smartphone."
 ---
 
 {{% double-view %}}
@@ -7,8 +8,6 @@ title: "Hybrid Game"
 {{% double-view-item %}}
 
 Hybrid Games are a **mixture of board games and video games**. They are usually played with physical material, like a board game. But some part of the game is ruled by a computer, usually a smartphone.
-
-
 
 {{% /double-view-item %}}
 

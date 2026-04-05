@@ -1,5 +1,6 @@
 ---
 title: "Digital Escape Kit"
+summary: "These are escape rooms using our custom digital framework, allowing you to play on any device with a browser. They offer a large puzzle-solving activity for any number of players, without much setup needed because the computer handles everything for you. If desired, though, the entire experience can be printed and played (partially) physically too."
 ---
 
 {{% double-view %}}
