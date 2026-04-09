@@ -17,7 +17,7 @@
 ## Optimizations
 
 * Add support for `.webm` videos (in both summaries and product pages) => snipcart still wants an image only for product, though, so maybe try to hold off this "feature" as long as possible? => Or we do something smart by selecting the first image (in `get-product-data`) for that specific Snipcart field
-* Do we need TWO smaller versions (500px, 250px) of headers in summaries?
+* Do we NEED TWO smaller versions (500px, 250px) of headers in summaries?
 * Can the banners be resized to smaller versions too?
 
 
