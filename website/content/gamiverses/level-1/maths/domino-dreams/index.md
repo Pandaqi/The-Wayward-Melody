@@ -6,7 +6,7 @@ price: 8.95
 date: 2026-01-05
 image: ["domino-dreams-header.webp", "domino-dreams-1.webp", "domino-dreams-2.webp", "domino-dreams-3.webp", "domino-dreams-4.webp", "domino-dreams-5.webp"]
 file: "f48da8fc-57ae-4fa4-927b-433308e4de4e"
-spell: ["recognition-and-discrimination", "my-first-comparing", "my-first-colors", "my-first-shapes", "my-first-numbers", "my-first-letters"]
+spell: ["recognition-and-discrimination", "my-first-comparisons", "my-first-colors", "my-first-shapes", "my-first-numbers", "my-first-letters"]
 charm: "board-game"
 description: | 
   Place the dominoes so they match each side

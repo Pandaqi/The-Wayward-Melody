@@ -7,7 +7,7 @@ date: 2026-03-03
 price: 3.95
 image: ["chirpy-sorty-header.webp", "chirpy-sorty-video.webm", "chirpy-sorty-1.webp", "chirpy-sorty-2.webp"]
 file: "@TODO"
-spell: ["my-first-comparing", "my-first-grouping", "my-first-numbers"]
+spell: ["my-first-comparisons", "my-first-groups", "my-first-numbers"]
 charm: "puzzle-game"
 description: | 
   Happy birds are lounging on branches up high

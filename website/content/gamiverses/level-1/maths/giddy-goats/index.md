@@ -7,7 +7,7 @@ price: 4.95
 date: 2026-04-05
 image: ["giddy-goats-header.webp", "giddy-goats-video.webm", "giddy-goats-1.webp", "giddy-goats-2.webp", "giddy-goats-3.webp", "giddy-goats-4.webp"]
 file: "@TODO"
-spell: ["my-first-shapes", "my-first-comparing", "my-first-grouping"]
+spell: ["my-first-shapes", "my-first-comparisons", "my-first-groups"]
 charm: "one-button-game"
 description: | 
   With all the farm animals on the loose

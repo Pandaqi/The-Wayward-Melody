@@ -73,6 +73,8 @@ You can **customize the experience** through the numerous settings.
 
 We've made many [teaching resources](/teachers/level-1/language/phantasy-phonics/) and [quizzes](/quizmasters/level-1/language/quiz-of-phonemes/) for pre-readers before. We still desperately wanted to make **puzzles and games** too, as they are even more effective teaching tools. Especially when it comes to language and using _sound_. It's hard to make such a puzzle, though, when the player can't read or count yet. After lots of brainstorming, and trial and error, we landed upon this unique idea. And now we're proud to present what we believe is the only true phoneme puzzle game made so far!
 
+Of course, there are many different regional accents that pronounce English words in different ways. In this game we stuck to the standard, formal pronounciation. Whenever in doubt, we favor the British voicing; the narrator (upon completing a puzzle correctly) has a British accent too.
+
 The title _Phoneme Home_ is a pun on the phrase _Phoning Home_, matching the themes of space and sounds in the entire game.
 
 We hope this puzzle game helps your Apprentices learn all about different phonemes, learn some new words, and most of all have _fun_ solving these little challenges!
@@ -82,5 +84,5 @@ Because this game is so tightly related to the specific language used, this game
 {{% /remark %}}
 
 {{% remark %}}
-Because of the massive number of words, images, and sound files in this game, the download size is much larger than usual. Make sure you have some free disk space and a stable internet connection when downloading.
+Because of the massive number of words, images, and sound files in this game, the download size is much larger than usual. Make sure you have some free disk space and a stable internet connection when downloading. We also update the game from time to time to add even more content, because our shared library of images/sounds that we use for many games keeps growing over time.
 {{% /remark %}}

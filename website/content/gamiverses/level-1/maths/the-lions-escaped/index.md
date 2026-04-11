@@ -6,7 +6,7 @@ price: 6.95
 date: 2026-01-01
 image: ["the-lions-escaped-header.webp", "the-lions-escaped-1.webp", "the-lions-escaped-2.webp", "the-lions-escaped-3.webp", "the-lions-escaped-4.webp", "the-lions-escaped-5.webp"]
 file: "332786ea-6369-4843-bff9-bdf19d12d3d1"
-spell: ["recognition-and-discrimination", "my-first-comparing"]
+spell: ["recognition-and-discrimination", "my-first-comparisons"]
 charm: "board-game"
 description: | 
   All the lions in the zoo ran away

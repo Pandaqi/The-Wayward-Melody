@@ -7,7 +7,7 @@ price: 4.95
 date: 2026-04-04
 image: ["bee-bigger-header.webp", "bee-bigger-1.webp", "bee-bigger-2.webp", "bee-bigger-3.webp", "bee-bigger-4.webp"]
 file: "@TODO"
-spell: ["my-first-comparing"]
+spell: ["my-first-comparisons"]
 charm: "board-game"
 description: | 
   All players become a bee, moving all around

@@ -7,7 +7,7 @@ price: 4.95
 date: 2026-04-04
 image: ["candy-island-header.webp", "candy-island-1.webp", "candy-island-2.webp", "candy-island-3.webp", "candy-island-4.webp"]
 file: "@TODO"
-spell: ["my-first-comparing", "my-first-grouping", "my-first-directions"]
+spell: ["my-first-comparisons", "my-first-groups", "my-first-directions"]
 charm: "board-game"
 description: | 
   Come visit Candy Island, a row of tiles

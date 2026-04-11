@@ -6,7 +6,7 @@ price: 13.95
 date: 2026-01-13
 image: ["knights-of-the-round-table-header.webp", "knights-of-the-round-table-1.webp", "knights-of-the-round-table-2.webp", "knights-of-the-round-table-3.webp", "knights-of-the-round-table-4.webp", "knights-of-the-round-table-5.webp", "knights-of-the-round-table-6.webp", "knights-of-the-round-table-7.webp"]
 file: "ace0dc1f-1acf-49ca-9bb2-8d65cdccd845"
-spell: ["recognition-and-discrimination", "my-first-comparing", "my-first-grouping", "my-first-numbers", "my-first-directions", "arthurian-legends"]
+spell: ["recognition-and-discrimination", "my-first-comparisons", "my-first-groups", "my-first-numbers", "my-first-directions", "arthurian-legends"]
 charm: "board-game"
 description: | 
   King Arthur and his knights have arrived

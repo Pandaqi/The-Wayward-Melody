@@ -1,13 +1,12 @@
 ---
-draft: true
 type: "product"
 title: "Pancake Sort"
 id: "pancake-sort"
 price: 4.95
 date: 2026-04-04
-image: ["pancake-sort-header.webp", "pancake-sort-1.webp", "pancake-sort-2.webp", "pancake-sort-3.webp", "pancake-sort-4.webp"]
-file: "@TODO"
-spell: ["my-first-comparing"]
+image: ["pancake-sort-header.webp", "pancake-sort-1.webp", "pancake-sort-2.webp", "pancake-sort-3.webp", "pancake-sort-4.webp", "pancake-sort-5.webp"]
+file: "8f7f299d-f0e3-458a-9654-27514f571ca4"
+spell: ["my-first-comparisons"]
 charm: "board-game"
 description: | 
   Pancakes of all shapes and sizes come in
@@ -57,6 +56,8 @@ The group works together to get all pancakes onto a plate. But, as we all know, 
 
 The game has **simultaneous play**: nobody needs to wait their turn, you all act at the same time. The default mode is **cooperative** (working together, helping each other), but you can also play **competitive** (play against each other).
 
-The rules are incredibly simple and tactile. No material is needed beyond some plates and pancakes (in different sizes) to cut out.
+The rules are incredibly simple and tactile. The base game rules are only a **single page** (which is true for practically all of our games). No material is needed beyond some plates and pancakes (in different sizes) to cut out.
 
-Once players can handle the base game, you can move to the expansions. These introduce special pancakes, frying pans, and other fun methods to help you out, like ... flipping an entire plate of pancakes upside-down!
+Once players can handle the base game, you can move to the expansions. These introduce special pancakes, frying pans, and other fun methods to help you out, like ... flipping an entire plate of pancakes upside-down.
+
+Have fun and keep learning!
