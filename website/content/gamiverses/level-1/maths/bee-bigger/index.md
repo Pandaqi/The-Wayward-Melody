@@ -1,13 +1,12 @@
 ---
-draft: true
 type: "product"
 title: "Bee Bigger"
 id: "bee-bigger"
 price: 4.95
 date: 2026-04-04
 image: ["bee-bigger-header.webp", "bee-bigger-1.webp", "bee-bigger-2.webp", "bee-bigger-3.webp", "bee-bigger-4.webp"]
-file: "@TODO"
-spell: ["my-first-comparisons"]
+file: "a00a1b20-9d38-4480-91f7-ced9a213345e"
+spell: ["my-first-comparisons", "my-first-numbers"]
 charm: "board-game"
 description: | 
   All players become a bee, moving all around
@@ -17,14 +16,14 @@ description: |
 
 contents:
 - Rulebook PDF (1 front page, 1 page base game, 2 pages with variants/expansions)
-- Material PDF (5 standalone sets, one page each; 1 page miscellaneous expansion material)
+- Material PDF (1 page bee pawns and sun tile, 6 pages hexagon flower tiles)
 - The raw assets (illustrations, layout file, etc) for you to view/edit. (As `.af` files, which you can open with the free Affinity software.)
 
 level: 1
 language: "en"
 subject: ["Mathematics"]
 categories: []
-player-count: [1,2,3,4,5,6,7,8]
+player-count: [2,3,4,5]
 age: 3
 # requirements: ""
 # single-use: false
@@ -45,8 +44,8 @@ textless: true
 # outdoors: false
 # customizable: false
 # interactive-media: false
-multiplayer-mode: ["cooperative"]
-activity-structure: ["simultaneous"]
+multiplayer-mode: ["cooperative", "competitive"]
+activity-structure: ["simultaneous", "turn-based"]
 # brand: ""
 
 ---
@@ -66,5 +65,7 @@ So, what's the challenge?
 It's recommended to let the Guardian (parent/teacher) be the Queen Bee on your first few games. Their role isn't difficult, but it's still a special role and a crucial one for making the game work. Once players understand it, you can make any kid the Queen Bee. 
 
 You can also move to the _expansions_ then. They make the game harder by adding a _time limit_, by introducing some simple counting as you work towards a _high score_, and more.
+
+Like most of our games, the rulebook contains a page containing some fun facts about bees, as well as a "Guardian's Guide" with tips for how to apply this game for different purposes or playing groups.
 
 What a buzz!
