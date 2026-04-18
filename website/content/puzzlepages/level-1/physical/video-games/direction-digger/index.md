@@ -50,11 +50,22 @@ textless: true
 
 On the easiest difficulty,
 
-* You get a tiny map with your little digging machine somewhere.
-* Around the map are _arrows_. Tapping one will move the machine one space in that direction. 
+* You get a tiny map. Your cute little digging robot starts somewhere.
+* Around the map are **arrows**. Tapping one will move your machine one space in that direction. 
 * Your goal is to **collect all the gold** in the ground in the given number of moves!
 
-Because gameplay is just a single tap on an arrow, this puzzle is already playable by the youngest kids. The game has no other text, numbers, or complex actions. At the same time, every map is different and not all arrows are available, so you really need to puzzle to find the one path to grab everything.
+Because gameplay is just a **single tap on an arrow**, this puzzle is already playable by the youngest kids. The game has no other text, numbers, or complex actions. At the same time, every map is different and not all arrows are available, so you really need to puzzle to find the one path to grab everything.
 
-The puzzle contains 5 difficulty levels. Later difficulties add larger grids, larger solutions, and maybe some more special things to collect or find underground ...
+The puzzle contains 5 difficulty levels. Later difficulties add,
 
+* More directions
+* Larger grids with larger solutions
+* Arrows that you still need to unlock, or which destroy themselves after using them once
+* Blocks that force you to go around them or go through them multiple times
+* And maybe some more special things to collect or find underground ...
+
+This is probably our best all-round puzzle game for **directions**. The objective and rules are extremely simple, digging for gold/treasure is a generally appealing theme, and each move is nothing more than tapping one of the big arrows. Because these arrows are clearly visible, and you _hear_ the right word upon clicking it ("Left!"), they reinforce the educational content with every move. 
+
+{{% remark %}}
+Many other puzzle games in this topic ask the player to _swipe_ in a certain direction to move something. This can be harder for young kids to learn because they have to perform the entire movement themselves ("from scratch"). Tapping an existing arrow to move that way is often slightly simpler to understand.
+{{% /remark %}}
