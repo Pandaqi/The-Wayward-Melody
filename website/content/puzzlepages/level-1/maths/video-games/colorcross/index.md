@@ -41,7 +41,7 @@ textless: true
 # indoors: false
 # outdoors: false
 # customizable: false
-# interactive-media: false
+interactive-media: true
 # multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
 # activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
 # brand: ""

@@ -1,25 +1,27 @@
 ---
-draft: true
 type: "product"
 title: "Direction Digger"
 id: "direction-digger"
-date: 2026-03-03
-price: 3.95
-image: ["direction-digger-header.webp", "direction-digger-1.webp", "direction-digger-2.webp", "direction-digger-3.webp", "direction-digger-4.webp"]
-file: "@TODO"
-spell: "my-first-directions"
+date: 2026-04-15
+price: 4.95
+image: ["direction-digger-header.webp", "direction-digger-video.webm", "direction-digger-1.webp", "direction-digger-2.webp", "direction-digger-3.webp", "direction-digger-4.webp", "direction-digger-5.webp"]
+file: "6f2f91b6-7229-44d3-9bd1-0ecdb52eb349"
+spell: ["my-first-directions", "my-first-numbers"]
 charm: "puzzle-game"
 description: | 
-  @TODO
+  Move your digger left and right
+  In underground spaces tight, dark as night
+  Tap the arrows wisely to collect all the gold
+  But beware special cells like the freezing ice cold
 
 contents:
 - The puzzle game for Windows, Mac, Linux, and Browsers.
 
-level: 1
+level: [1,2]
 language: "en"
 subject: "Physical"
 categories: []
-player-count: 1
+player-count: [1,2,3,4,5,6]
 age: 4
 # requirements: ""
 # single-use: false
@@ -39,7 +41,7 @@ textless: true
 # indoors: false
 # outdoors: false
 # customizable: false
-# interactive-media: false
+interactive-media: true
 # multiplayer-mode: (cooperative, competitive, team-based, one-against-many, other)
 # activity-structure: (turn-based, simultaneous, real-time, seasonal, other)
 # brand: ""
@@ -55,6 +57,8 @@ On the easiest difficulty,
 * Your goal is to **collect all the gold** in the ground in the given number of moves!
 
 Because gameplay is just a **single tap on an arrow**, this puzzle is already playable by the youngest kids. The game has no other text, numbers, or complex actions. At the same time, every map is different and not all arrows are available, so you really need to puzzle to find the one path to grab everything.
+
+This is one of the rare puzzle games that allows **playing with multiple people**! In the settings you can pick how many digging machines it should place. You still click a single arrow each time, but now you need each player to figure out the path for their own machine, and to collaborate on helping each other when needed.
 
 The puzzle contains 5 difficulty levels. Later difficulties add,
 
