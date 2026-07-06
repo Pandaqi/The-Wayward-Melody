@@ -1,0 +1,58 @@
+{
+    "1":
+    {
+        "language": ["my-first-sounds", "word-awareness", "syllable-awareness", "rhyme-and-alliteration", "phoneme-awareness", "my-first-stories"],
+        "mathematics": ["recognition-and-discrimination", "my-first-colors", "my-first-shapes", "my-first-comparisons", "my-first-groups"],
+        "skills": ["my-first-directions", "my-first-gross-motor-skills", "my-first-fine-motor-skills", "pencil-control"],
+        "social": ["my-unbounded-imagination", "schedule-and-routine", "collaboration", "social-situations", "school-and-learning"]
+    },
+
+    "2":
+    {
+        "language": ["my-first-letters", "alphabet-order", "letter-casing", "vowels-and-consonants", "my-first-words", "my-first-writing", "my-first-decodable-stories"],
+        "mathematics": ["my-first-numbers", "my-first-addition", "place-value",  "my-first-measurements", "telling-time", "my-first-geometry", "my-first-subtraction"],
+        "science": ["my-first-patterns", "my-first-logic", "my-first-technology", "my-first-science", "my-first-physics", "my-first-adventures-in-space", "my-first-adventures-in-nature"],
+        "skills": ["my-amazing-memory", "my-first-anatomy", "my-first-household-chores"],
+        "social": ["my-first-opposites", "world-of-who-am-i", "home-and-upbringing", "effort-and-actions", "waste-and-littering"],
+        "world": ["culture-and-society", "my-first-money", "my-first-kingdom-to-rule", "my-first-journeys", "my-first-jobs", "my-first-adventures-in-traffic"]
+    },
+
+    "3":
+    {
+        "language": ["advanced-writing", "my-first-spelling", "my-first-punctuation", "vocabulary-and-automation", "my-first-word-types", "public-speaking"],
+        "mathematics": ["advanced-counting", "my-first-multiplication", "my-first-division", "calendar", "advanced-measurements", "my-first-fractions", "my-first-probability"],
+        "science": ["advanced-adventures-in-nature", "my-first-geography", "my-first-coding", "advanced-adventures-in-science", "light-and-sight", "music-and-sound"],
+        "skills": ["??specific skills/job prep from now on??", "the-game-developer-program"],
+        "social": ["focus-and-work", "groups-and-roleplay", "desires-and-preferences", "independence-and-individuality"],
+        "world": ["my-first-history", "my-first-economics"]
+    },
+
+    "4":
+    {
+        "language": ["my-first-grammar", "advanced-spelling", "advanced-word-types", "my-first-verbs", "my-first-tenses", "advanced-reading-and-writing", "language-exceptions", "my-first-foreign-language"],
+        "mathematics": ["roman-numerals", "advanced-fractions", "order-of-operations", "magical-measurements", "mental-calculation-strategies", "my-first-calculator", "advanced-geometry", "data-handling"],
+        "science": ["advanced-coding", "??specific topics from now on??"],
+        "skills": ["??specific skills/job prep from now on??"],
+        "social": ["bullying-and-discrimination", "sexuality-and-relationships", "mental-health"],
+        "world": ["??specific topics from now on??"]
+    },
+
+    "5":
+    {
+        "language": ["advanced-grammar", "advanced-stories", "sources-and-research", "context-and-intent (textual meta-analysis)"],
+        "mathematics": ["my-first-exponentials", "properties-of-shapes", "algebraic-thinking", "my-first-proportions", "my-first-negative-numbers", "my-first-expressions-and-variables", "my-first-equations-and-inequalities", "my-first-statistics", "grand-geometry"],
+        "science": ["??specific topics from now on??"],
+        "skills": ["??specific skills from now on??"],
+        "social": ["??specific topics from now on??"],
+        "world": ["??specific topics from now on??"]
+    },
+
+    "6":
+    {
+        "language": ["writing-style", "storytelling", "word-play", "expert-reading-and-writing"],
+        "mathematics": ["solving-equations", "advanced-grand-geometry", "my-first-algebra", "advanced-algebra", "probability-and-statistics", "precalculus", "calculus"],
+        "skills": [],
+        "social": [],
+        "world": []
+    }
+}
