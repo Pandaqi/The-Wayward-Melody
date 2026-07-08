@@ -23,7 +23,7 @@ contents:
 
 level: 1
 language: ["en", "nl"]
-subject: "Physical"
+subject: "skills"
 categories: ["drawing"]
 age: 4
 # requirements: ""

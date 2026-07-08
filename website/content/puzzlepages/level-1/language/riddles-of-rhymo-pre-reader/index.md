@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["rhyme"]
 player-count: 1
 age: 4

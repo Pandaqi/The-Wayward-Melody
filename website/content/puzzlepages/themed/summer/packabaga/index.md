@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["holidays", "spatial-reasoning", "shapes"]
 player-count: 1
 age: 3

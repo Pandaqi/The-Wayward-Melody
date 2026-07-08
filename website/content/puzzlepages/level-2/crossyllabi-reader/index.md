@@ -21,7 +21,7 @@ contents:
 
 level: 2
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["syllables"]
 
 ---

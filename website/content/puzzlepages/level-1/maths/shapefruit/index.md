@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["grouping", "physical", "shapes", "spatial-awareness"]
 player-count: 1
 age: 3

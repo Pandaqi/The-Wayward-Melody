@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["grouping", "pencil-control", "coloring"]
 player-count: 1
 age: 3

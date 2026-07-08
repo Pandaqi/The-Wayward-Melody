@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: ["Language", "World"]
+subject: ["language", "world"]
 age: 2
 # requirements: ""
 # single-use: false

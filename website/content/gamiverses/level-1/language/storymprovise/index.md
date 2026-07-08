@@ -19,7 +19,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["stories", "creativity"]
 player-count: [2,3,4,5,6,7,8,9,10]
 age: 4

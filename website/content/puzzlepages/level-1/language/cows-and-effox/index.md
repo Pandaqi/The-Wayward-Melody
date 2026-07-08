@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["stories", "cause-and-effect"]
 age: 4
 # requirements: ""

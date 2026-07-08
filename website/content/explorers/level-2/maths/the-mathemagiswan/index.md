@@ -23,7 +23,7 @@ contents:
 
 level: 2
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["numbers"]
 
 ---

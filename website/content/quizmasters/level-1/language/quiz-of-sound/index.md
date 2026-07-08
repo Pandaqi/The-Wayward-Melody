@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["sound-awareness", "phonetic-awareness", "language-comprehension"]
 age: 3
 # requirements: ""

@@ -25,7 +25,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["phonetic-awareness", "syllables"]
 age: 3
 # requirements: ""

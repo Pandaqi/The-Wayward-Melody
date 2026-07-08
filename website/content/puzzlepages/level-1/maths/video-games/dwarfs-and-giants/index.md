@@ -19,7 +19,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["sequencing"]
 player-count: 1
 age: 2

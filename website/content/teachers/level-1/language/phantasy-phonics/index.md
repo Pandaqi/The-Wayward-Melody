@@ -25,7 +25,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["phonemes"]
 age: 3
 # requirements: ""

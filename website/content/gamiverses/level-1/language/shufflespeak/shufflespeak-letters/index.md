@@ -22,7 +22,7 @@ contents:
 
 level: 2
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["letters"]
 player-count: [2,3,4,5,6,7,8,9,10]
 age: 5

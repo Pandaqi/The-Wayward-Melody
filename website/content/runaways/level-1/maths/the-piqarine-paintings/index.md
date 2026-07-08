@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["colors"]
 # age: 4
 # requirements: ""

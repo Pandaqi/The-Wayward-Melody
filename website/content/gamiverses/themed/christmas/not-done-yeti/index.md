@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: ["en"]
-subject: ["Mathematics", "Physical"]
+subject: ["mathematics", "skills"]
 player-count: [2,3,4,5,6]
 age: 4
 # requirements: ""

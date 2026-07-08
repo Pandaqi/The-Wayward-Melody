@@ -20,7 +20,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["rhyme", "alliteration"]
 player-count: 1
 age: 4

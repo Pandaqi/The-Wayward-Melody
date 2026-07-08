@@ -23,7 +23,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["shapes", "colors"]
 
 ---

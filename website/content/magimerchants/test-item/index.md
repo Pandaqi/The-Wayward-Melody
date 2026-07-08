@@ -27,7 +27,7 @@ details:
   akey2: avalue2
 
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 
 # age: 3
 # requirements: ""

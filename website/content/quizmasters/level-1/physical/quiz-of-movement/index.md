@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: ["en", "nl"]
-subject: "Physical"
+subject: "skills"
 categories: ["gross-motor-skills"]
 age: 4
 # requirements: ""

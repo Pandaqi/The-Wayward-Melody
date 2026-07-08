@@ -26,7 +26,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["alphabet", "letters", "spelling"]
 # brand: ""
 player-count: 1

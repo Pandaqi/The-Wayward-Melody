@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: ["Mathematics", "Physical"]
+subject: ["mathematics", "skills"]
 categories: ["knights"]
 player-count: [1,2,3,4,5]
 age: 4

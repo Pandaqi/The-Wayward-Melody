@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: "en"
-subject: ["Mathematics", "Physical"]
+subject: ["mathematics", "skills"]
 categories: ["shapes", "colors"]
 player-count: [2,3,4,5,6,7,8,9,10]
 age: 4

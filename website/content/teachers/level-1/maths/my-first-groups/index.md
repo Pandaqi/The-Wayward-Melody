@@ -35,7 +35,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["sorting", "grouping", "patterns", "categorization", "labeling", "tables"]
 age: 3
 # requirements: ""

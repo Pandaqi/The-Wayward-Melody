@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: ["en", "nl"]
-subject: "Physical"
+subject: "skills"
 categories: ["directions", "2d-space"]
 age: 3
 # requirements: ""

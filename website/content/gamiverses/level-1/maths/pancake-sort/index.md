@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: ["Mathematics"]
+subject: ["mathematics"]
 categories: []
 player-count: [1,2,3,4,5,6,7,8]
 age: 3

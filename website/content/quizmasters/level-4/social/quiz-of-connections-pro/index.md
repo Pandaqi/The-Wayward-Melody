@@ -22,7 +22,7 @@ contents:
 
 level: 4
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["grouping", "association", "creativity"]
 age: 10
 # requirements: ""

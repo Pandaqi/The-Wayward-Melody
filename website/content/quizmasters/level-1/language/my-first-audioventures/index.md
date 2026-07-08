@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["audioventures"]
 age: 4
 # requirements: ""

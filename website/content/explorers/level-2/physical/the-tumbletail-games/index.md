@@ -21,7 +21,7 @@ contents:
 
 level: 2
 language: "en"
-subject: "Physical"
+subject: "skills"
 categories: ["sports", "physical-games"]
 
 ---

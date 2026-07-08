@@ -1,58 +1,55 @@
 {
-    "1":
-    {
-        "language": ["my-first-sounds", "word-awareness", "syllable-awareness", "rhyme-and-alliteration", "phoneme-awareness", "my-first-stories"],
-        "mathematics": ["recognition-and-discrimination", "my-first-colors", "my-first-shapes", "my-first-comparisons", "my-first-groups"],
-        "skills": ["my-first-directions", "my-first-gross-motor-skills", "my-first-fine-motor-skills", "pencil-control"],
-        "social": ["my-unbounded-imagination", "schedule-and-routine", "collaboration", "social-situations", "school-and-learning"]
-    },
+    "levels": 
+    [
+        {
+            "language": ["my-first-sounds", "word-awareness", "syllable-awareness", "rhyme-and-alliteration", "phoneme-awareness", "my-first-stories"],
+            "mathematics": ["recognition-and-discrimination", "my-first-colors", "my-first-shapes", "my-first-comparisons", "my-first-groups"],
+            "skills": ["my-first-directions", "my-first-gross-motor-skills", "my-first-fine-motor-skills", "pencil-control"],
+            "social": ["my-unbounded-imagination", "schedule-and-routine", "collaboration", "social-situations", "school-and-learning"]
+        },
 
-    "2":
-    {
-        "language": ["my-first-letters", "alphabet-order", "letter-casing", "vowels-and-consonants", "my-first-words", "my-first-writing", "my-first-decodable-stories"],
-        "mathematics": ["my-first-numbers", "my-first-addition", "place-value",  "my-first-measurements", "telling-time", "my-first-geometry", "my-first-subtraction"],
-        "science": ["my-first-patterns", "my-first-logic", "my-first-technology", "my-first-science", "my-first-physics", "my-first-adventures-in-space", "my-first-adventures-in-nature"],
-        "skills": ["my-amazing-memory", "my-first-anatomy", "my-first-household-chores"],
-        "social": ["my-first-opposites", "world-of-who-am-i", "home-and-upbringing", "effort-and-actions", "waste-and-littering"],
-        "world": ["culture-and-society", "my-first-money", "my-first-kingdom-to-rule", "my-first-journeys", "my-first-jobs", "my-first-adventures-in-traffic"]
-    },
+        {
+            "language": ["my-first-letters", "alphabet-order", "letter-casing", "vowels-and-consonants", "my-first-words", "my-first-writing", "my-first-decodable-stories"],
+            "mathematics": ["my-first-numbers", "my-first-addition", "place-value",  "my-first-measurements", "telling-time", "my-first-geometry", "my-first-subtraction"],
+            "science": ["my-first-patterns", "my-first-logic", "my-first-technology", "my-first-science", "my-first-physics", "my-first-adventures-in-space", "my-first-adventures-in-nature"],
+            "skills": ["my-amazing-memory", "my-first-anatomy", "my-first-senses", "my-first-household-chores", "my-first-jobs"],
+            "social": ["my-first-opposites", "world-of-who-am-i", "home-and-upbringing", "effort-and-actions", "waste-and-littering"],
+            "world": ["culture-and-society", "my-first-money", "my-first-kingdom-to-rule", "my-first-journeys", "my-first-adventures-in-traffic"]
+        },
 
-    "3":
-    {
-        "language": ["advanced-writing", "my-first-spelling", "my-first-punctuation", "vocabulary-and-automation", "my-first-word-types", "public-speaking"],
-        "mathematics": ["advanced-counting", "my-first-multiplication", "my-first-division", "calendar", "advanced-measurements", "my-first-fractions", "my-first-probability"],
-        "science": ["advanced-adventures-in-nature", "my-first-geography", "my-first-coding", "advanced-adventures-in-science", "light-and-sight", "music-and-sound"],
-        "skills": ["??specific skills/job prep from now on??", "the-game-developer-program"],
-        "social": ["focus-and-work", "groups-and-roleplay", "desires-and-preferences", "independence-and-individuality"],
-        "world": ["my-first-history", "my-first-economics"]
-    },
+        {
+            "language": ["advanced-writing", "my-first-spelling", "my-first-punctuation", "vocabulary-and-automation", "my-first-word-types", "public-speaking"],
+            "mathematics": ["advanced-counting", "my-first-multiplication", "my-first-division", "calendar", "advanced-measurements", "my-first-fractions", "my-first-probability"],
+            "science": ["advanced-adventures-in-nature", "my-first-coding", "advanced-adventures-in-science", "light-and-sight", "music-and-sound", "touch-and-tickle", "smell-and-stink", "taste-and-food"],
+            "skills": ["the-firefighter-calling", "the-police-calling", "the-paramedic-calling", "the-farmer-calling", "the-veterinarian-calling", "the-baker-calling", "the-shopkeeper-calling", "the-entrepeneur-calling", "the-spy-calling", "the-builder-calling"],
+            "social": ["focus-and-work", "groups-and-roleplay", "desires-and-preferences", "independence-and-individuality"],
+            "world": ["my-first-history", "my-first-economics", "my-first-geography"]
+        },
 
-    "4":
-    {
-        "language": ["my-first-grammar", "advanced-spelling", "advanced-word-types", "my-first-verbs", "my-first-tenses", "advanced-reading-and-writing", "language-exceptions", "my-first-foreign-language"],
-        "mathematics": ["roman-numerals", "advanced-fractions", "order-of-operations", "magical-measurements", "mental-calculation-strategies", "my-first-calculator", "advanced-geometry", "data-handling"],
-        "science": ["advanced-coding", "??specific topics from now on??"],
-        "skills": ["??specific skills/job prep from now on??"],
-        "social": ["bullying-and-discrimination", "sexuality-and-relationships", "mental-health"],
-        "world": ["??specific topics from now on??"]
-    },
+        {
+            "language": ["my-first-grammar", "advanced-spelling", "advanced-word-types", "my-first-verbs", "my-first-tenses", "advanced-reading-and-writing", "language-exceptions", "my-first-foreign-language"],
+            "mathematics": ["roman-numerals", "advanced-fractions", "order-of-operations", "magical-measurements", "mental-calculation-strategies", "my-first-calculator", "advanced-geometry", "data-handling"],
+            "science": ["advanced-coding", "??specific topics from now on??"],
+            "skills": ["the-game-developer-calling", "the-president-calling", "the-cook-calling", "the-engineer-calling", "the-teacher-calling", "the-astronaut-calling", "the-detective-calling", "the-doctor-and-nurse-calling", "the-dentist-calling", "the-scientist-calling", "the-journalist-and-reporter-calling"],
+            "social": ["bullying-and-discrimination", "sexuality-and-relationships", "mental-health"],
+            "world": ["??specific topics from now on??"]
+        },
 
-    "5":
-    {
-        "language": ["advanced-grammar", "advanced-stories", "sources-and-research", "context-and-intent (textual meta-analysis)"],
-        "mathematics": ["my-first-exponentials", "properties-of-shapes", "algebraic-thinking", "my-first-proportions", "my-first-negative-numbers", "my-first-expressions-and-variables", "my-first-equations-and-inequalities", "my-first-statistics", "grand-geometry"],
-        "science": ["??specific topics from now on??"],
-        "skills": ["??specific skills from now on??"],
-        "social": ["??specific topics from now on??"],
-        "world": ["??specific topics from now on??"]
-    },
+        {
+            "language": ["advanced-grammar", "advanced-stories", "sources-and-research", "context-and-intent (textual meta-analysis)"],
+            "mathematics": ["my-first-exponentials", "properties-of-shapes", "algebraic-thinking", "my-first-proportions", "my-first-negative-numbers", "my-first-expressions-and-variables", "my-first-equations-and-inequalities", "my-first-statistics", "grand-geometry"],
+            "science": ["??specific topics from now on??"],
+            "skills": ["the-postal-worker-calling", "the-driver-calling", "the-pilot-calling", "the-electrician-calling", "the-plumber-calling", "the-mechanic-calling", "the-carpenter-calling", "the-librarian-calling", "the-park-ranger-calling", "the-architect-calling"],
+            "social": ["??specific topics from now on??"],
+            "world": ["??specific topics from now on??"]
+        },
 
-    "6":
-    {
-        "language": ["writing-style", "storytelling", "word-play", "expert-reading-and-writing"],
-        "mathematics": ["solving-equations", "advanced-grand-geometry", "my-first-algebra", "advanced-algebra", "probability-and-statistics", "precalculus", "calculus"],
-        "skills": [],
-        "social": [],
-        "world": []
-    }
+        {
+            "language": ["writing-style", "storytelling", "word-play", "expert-reading-and-writing"],
+            "mathematics": ["solving-equations", "advanced-grand-geometry", "my-first-algebra", "advanced-algebra", "probability-and-statistics", "precalculus", "calculus"],
+            "skills": ["the-pharmacist-calling", "the-visual-artist-calling", "the-fashion-designer-calling", "the-hairdresser-calling", "the-florist-calling", "the-gardener-calling", "the-fisher-calling", "the-zookeeper-calling", "the-writer-calling", "the-musician-calling", "the-filmmaker-calling", "the-inventor-calling", "the-paleontologist-calling", "the-ecologist-calling", "the-explorer-and-adventurer-calling", "the-judge-and-lawyer-calling", "the-accountant-calling", "the-designer-calling", "the-blacksmith-and-jeweler-calling", "the-lifeguard-calling", "the-recreation-manager-calling", "the-hacker-calling", "the-city-planner-calling", "the-marine-biologist-calling", "the-actor-calling", "the-tech-engineer-calling", "the-professional-athlete-calling"],
+            "social": [],
+            "world": []
+        }
+    ]
 }

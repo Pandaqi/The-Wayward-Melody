@@ -34,7 +34,7 @@ contents:
 
 level: 2
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["numbers", "counting"]
 age: 3
 # requirements: ""

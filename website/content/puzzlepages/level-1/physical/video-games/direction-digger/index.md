@@ -19,7 +19,7 @@ contents:
 
 level: [1,2]
 language: "en"
-subject: "Physical"
+subject: "skills"
 categories: []
 player-count: [1,2,3,4,5,6]
 age: 4

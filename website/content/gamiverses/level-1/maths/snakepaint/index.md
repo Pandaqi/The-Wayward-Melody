@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: ["Mathematics", "Physical"]
+subject: ["mathematics", "skills"]
 categories: ["animals"]
 player-count: [2,3,4,5]
 age: 4

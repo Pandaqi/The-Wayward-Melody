@@ -34,7 +34,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["rhyme", "alliteration", "tropes"]
 age: 3
 # requirements: ""

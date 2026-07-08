@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Physical"
+subject: "skills"
 categories: []
 age: 3
 # requirements: ""
@@ -49,7 +49,7 @@ guardian-required: true
 
 ---
 
-Humans are physical beings in a physical world. That's why physical concepts, such as where something is in space, are perhaps the most useful concepts to learn early on---and the most intuitive to kids too. That's why we have a "Physical" category at this store in the first place, and that's why we did our best to create a strong selection of products about _directions_.
+Humans are physical beings in a physical world. That's why physical concepts, such as where something is in space, are perhaps the most useful concepts to learn early on---and the most intuitive to kids too. That's why we have a "(Physical) Skills" category at this store in the first place, and that's why we did our best to create a strong selection of products about _directions_.
 
 This teaching resource _explains_ all the different ways to say something about space. What is left? What is right? What is "behind"? After explaining, it provides loads of challenges and fun exercises to practice and learn. Such as the "platformer puzzles" we invented, simulating moving a character in a video game, jumping left and right. Or a some simple physical activities you can do with a larger group, to get them both moving _and_ practicing physical directions.
 

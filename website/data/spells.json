@@ -3,6 +3,8 @@
 
     "my-first-sounds":
     {
+        "level": 1,
+        "subject": "language",
         "label": "My First Sounds",
         "text": "The first step towards learning any language.",
         "skills": ["Discriminate between different sounds.", "Learn common sounds (such as animals)", "Understand these sounds carry meaning and can refer to concepts (e.g. words)"]
@@ -10,6 +12,8 @@
 
     "word-awareness":
     {
+        "level": 1,
+        "subject": "language",
         "label": "Word Awareness",
         "text": "This step teaches Apprentices to cut a stream of sound into smaller bits so they can understand the meaning.",
         "skills": ["Understand that language is made of smaller bits called sentences.", "Understand that sentences are made of smaller bits called words.", "Words refer to one thing or one idea."]
@@ -17,6 +21,8 @@
 
     "syllable-awareness":
     {
+        "level": 1,
+        "subject": "language",
         "label": "Syllable Awareness",
         "text": "This step teaches Apprentices to cut words into even smaller parts. This is good, because smaller parts are easier to understand, memorize, and reuse.",
         "skills": ["Understand that words are made of smaller bits called syllables."]
@@ -24,6 +30,8 @@
 
     "rhyme-and-alliteration":
     {
+        "level": 1,
+        "subject": "language",
         "label": "Rhyme & Alliteration",
         "text": "The best way to learn something is to play around with it. And the best thing to play with as a pre-reader, is the idea of making words rhyme or alliterate.",
         "skills": ["Identify rhymes and create your own.", "Identify alliteration and create your own.", "Connect the idea of syllables/phonemes with rhymes/alliteration."]
@@ -31,6 +39,8 @@
 
     "phoneme-awareness":
     {
+        "level": 1,
+        "subject": "language",
         "label": "Phoneme Awareness",
         "text": "This step teaches Apprentices to cut syllables into their smallest parts: individual sounds called phonemes.",
         "skills": ["Understand that syllables are made of smaller bits called phonemes.", "Understand that phonemes are all the different sounds you can make with your mouth.", "Understand that you can create language by stitching the right phonemes together."]
@@ -38,6 +48,8 @@
 
     "my-first-stories":
     {
+        "level": 1,
+        "subject": "language",
         "label": "My First Stories",
         "text": "Simple stories are a great way to teach vocabulary to pre-readers. You can read stories to Apprentices, but most people will already invent their own stories from a young age. An added benefit is the fact that stories are fun and exciting, can include lots of other details about the world, and teach about cause and effect.",
         "skills": ["Understand what a story is.", "Understand cause and effect.", "Grow vocabulary to your first hundred common words."]
@@ -45,6 +57,8 @@
 
     "recognition-and-discrimination":
     {
+        "level": 1,
+        "subject": "mathematics",
         "label": "Recognition & Discrimination",
         "text": "A crucial first step to Mathematics and Logic is the ability to recognize things are the same or not. To discriminate between alike things.",
         "skills": ["Identify if two things are the same.", "Identify if two things are different.", "Recognize a concept as something you've seen before, even if it's in a slightly different environment."]
@@ -52,6 +66,8 @@
 
     "my-first-colors":
     {
+        "level": 1,
+        "subject": "mathematics",
         "label": "My First Colors",
         "text": "To learn mathematics, you need to be able to identify, compare, and group things. Colors are the easiest way to do this, because they're visual and all around you. Teaching about colors allows Apprentices to play games or do puzzles, as well as unlock their creativity by drawing.",
         "skills": ["Identify and name the 20 most common colors.", "Understand primary and secondary colors.", "Understand different color systems.", "Explore what happens when colors mix/blend."]
@@ -59,6 +75,8 @@
 
     "my-first-shapes":
     {
+        "level": 1,
+        "subject": "mathematics",
         "label": "My First Shapes",
         "text": "Just like colors, shapes provide an easy way to categorize the world around us and break it into smaller parts. This helps understand the world better: now you can explicitly ask your parents for the square thing, for example. It also enables teaching crucial skills such as grouping and combining later.",
         "skills": ["Identify and name the most common shapes.", "Understand that shapes are points and lines, and that this decides the shape's name.", "Explore what happens when you combine or cut shapes.", "Understand that different shapes evoke different emotions or have different purposes, and that real-life objects can be simplified to shapes."]
@@ -66,6 +84,8 @@
 
     "my-first-comparisons":
     {
+        "level": 1,
+        "subject": "mathematics",
         "label": "My First Comparisons",
         "text": "Earlier topics taught Apprentices to identify if things are the same or not. This topic takes the next step: HOW are they different? This also gently introduces the idea of sequencing: putting things in order based on ... something.",
         "skills": ["Understand what comparing means.", "Compare by height, size, brightness, rotation.", "Compare based on whether something HAS a certain property or not", "Learn the symbols for comparison (=, <, and >)", "Understand what sequencing (sorting/ordering) means.", "Identify first, middle, and last."]
@@ -73,6 +93,8 @@
 
     "my-first-groups":
     {
+        "level": 1,
+        "subject": "mathematics",
         "label": "My First Groups",
         "text": "Earlier topics taught you to compare objects and check if they match or not. This allows you to GROUP matching things together! This is the final step towards counting (in the next level). Because, well, counting is nothing more than adding things to the same 'group', and then attaching a number to that.",
         "skills": ["Understand what a group (or category) is.", "Group things that are the same (based on some property).", "Compare GROUPS against each other."]
@@ -80,6 +102,8 @@
 
     "my-first-directions":
     {
+        "level": 1,
+        "subject": "skills",
         "label": "My First Directions",
         "text": "We live in a physical world where everything has a certain place. It's pretty useful to learn the right words to tell people where things are or where they should go. This topic helps with that!",
         "skills": ["Understand directions: left and right.", "Understand directions: up and down (or top and bottom).", "Understand directions: front and back (or before and behind).", "Understand combining directions to get diagonals.", "Explore the idea of using directions to get a map or represent a physical space."]
@@ -87,6 +111,8 @@
 
     "my-first-gross-motor-skills":
     {
+        "level": 1,
+        "subject": "skills",
         "label": "My First Gross Motor Skills",
         "text": "Gross motor skills refers to large, general body movement. Jumping, running, swinging, etcetera. It's important to train these skills to make your body strong and flexible. Fortunately, there are many sports and activities you can do to help out.",
         "skills": ["Understand different types of movement: stamina, strength, coordination.", "Know at least one sport/activity you can do to train each type of movement.", "Explore the different body parts and types of motor skills they can exhibit."]
@@ -94,6 +120,8 @@
 
     "my-first-fine-motor-skills":
     {
+        "level": 1,
+        "subject": "skills",
         "label": "My First Fine Motor Skills",
         "text": "Fine motor skills refers to small, fine, detailed movements. Moving a toe, moving a finger, grabbing something small. These skills set us apart from other animals, which is why they are less natural and take longer to learn. A child must typically train them for several years before they can comfortably hold a pen.",
         "skills": ["Learn different types of fine motor skills: grabbing, folding, tapping, etcetera.", "Explore how you can use these skills to create things or solve problems."]
@@ -101,6 +129,8 @@
 
     "pencil-control":
     {
+        "level": 1,
+        "subject": "skills",
         "label": "Pencil Control",
         "text": "Earlier topics taught about fine motor skills and directions. Those two things naturally lead to a very crucial skill: pencil control. Being able to hold a pencil and accurately produce lines with it, which will allow you to write and draw in the future.",
         "skills": ["Understand different pencil grips and their pros and cons.", "Be able to comfortably use the most ideal pencil grip for writing.", "Practice drawing and tracing until your muscles are strong enough and it comes naturally."]
@@ -108,6 +138,8 @@
 
     "my-unbounded-imagination":
     {
+        "level": 1,
+        "subject": "social",
         "label": "My Unbounded Imagination",
         "text": "Everyone is born with an incredible curiosity and creativity. Strengthen it, encourage it, don't lose it. This topic is all about giving tools to be creative, to learn to associate and think freely, to confirm that imagination is a great thing. All learning starts with curiosity and fearlessness.",
         "skills": ["Explore different avenues of creative expression: drawing, music, play, stories, etcetera.", "Understand what imagination and association is, and strengthen these skills.", "Be exposed to different ways of thinking and feel safe being different."]
@@ -115,6 +147,8 @@
 
     "schedule-and-routine":
     {
+        "level": 1,
+        "subject": "social",
         "label": "Schedule & Routine",
         "text": "Daily life follows many patterns. Some are natural (day/night), some are imposed (eat breakfast->go to school). This topic helps (young) Apprentices understand these patterns and learn new routines, so they know what to expect (or what is expected of them) and feel safe. The idea of a schedule or roster will, of course, also be very helpful when someone starts going to school or has to hold a job.",
         "skills": ["Understand what a schedule or routine is.", "Be able to identify a routine: when it's (not) time to do something.", "Understand and execute the most important habits/actions of the routine.", "Understand simple global patterns in everyday life.", "Optional: be able to add their own elements to the day's schedule."]
@@ -122,6 +156,8 @@
 
     "collaboration":
     {
+        "level": 1,
+        "subject": "social",
         "label": "Collaboration",
         "text": "Most curriculae focus exclusively on individual growth and memorization. This is a shame, because almost everything in our society is a collaboration or requires listening to multiple voices. That's why the simple act of cooperation and collaboration has its own dedicated topics in our curriculum.",
         "skills": ["Be able to do an activity (such as a cooperative game) together with someone else.", "Work on something in teams or groups.", "Understand the difference between cooperative and competitive, and the pros and cons of each."]
@@ -129,6 +165,8 @@
 
     "social-situations":
     {
+        "level": 1,
+        "subject": "social",
         "label": "Social Situations",
         "text": "Life is full of unwritten rules, awkward situations, and uncertainty about what to do or what people want. This topic contains tools to experience social situations in a safe way and learn how to deal with them, as well as confirmation that it's okay to make mistakes or say the wrong thing. (The earlier topic strengthening cooperation and working together should already help a lot here.)",
         "skills": ["Understand the idea of (social) behavior.", "Understand that different people have different personalities, opinions, views from your own.", "Explore common social situations and how people generally act or respond in those."]
@@ -136,6 +174,8 @@
 
     "school-and-learning":
     {
+        "level": 1,
+        "subject": "social",
         "label": "School & Learning",
         "text": "To our surprise, most systems of education use methods that are terrible for actual learning, and they never teach kids how to learn effectively. Kids are thrust into school and expected to just figure it out. Which is a shame, because there are definitely ways to become better at learning and make it way more fun! These resources help prepare someone for school if needed (giving them tools to enjoy it more) as well as make all the effort put into learning actually worth your while.",
         "skills": ["Understand what school is and why it exists. (If applicable, understand that you'll be regularly going to school in the future.)", "Understand the idea of training; of learning something and getting better at it (and why).", "Explore different ways to get better and faster at learning new things: Do, Time, Reflect, Play."]
@@ -145,6 +185,8 @@
 
     "my-first-letters":
     {
+        "level": 2,
+        "subject": "language",
         "label": "My First Letters",
         "text": "Teaches all the letters of the alphabet! It connects the _phonemes_ taught in level 1 to their _lowercase letter shapes_. This is, of course, a massive and essential topic. That's why it's split into multiple parts, teaching only a small group of letters at once. It's also why there are a lot of different resources, from games to puzzles to stories, to allow approaching the topic from many different angles.",
         "skills": ["Know all lowercase letters of the alphabet.", "Identify the right phoneme connected to each letter of the alphabet."]
@@ -152,6 +194,8 @@
 
     "alphabet-order":
     {
+        "level": 2,
+        "subject": "language",
         "label": "Alphabet Order",
         "text": "This topic teaches the established order of the alphabet. This isn't just a silly thing you must memorize, it helps a lot with memorizing the letters and working with them. Our minds learn through association and it's much easier to memorize a letter (and its shape/sound) if you can slot it into a clear order. Knowing the order also enables us to create many more fun puzzles and escape rooms for Apprentices to enjoy ;)",
         "skills": ["Know the order of the letters of the alphabet.", "Know the letter sound of each letter.", "Explore the idea that the same letter can sound differently in different contexts."]
@@ -159,6 +203,8 @@
 
     "letter-casing":
     {
+        "level": 2,
+        "subject": "language",
         "label": "Letter Casing",
         "text": "After learning all the lowercase letters in previous topics, this one introduces their uppercase counterpart. It explains why we have different versions of the same letter and introduces some general rules about when to use which.",
         "skills": ["Know all uppercase letters of the alphabet.", "Connect all uppercase forms with their lowercase forms.", "Understand that these are different forms of the same letter for different purposes.", "Know that names and sentences start with an uppercase letter."]
@@ -166,6 +212,8 @@
 
     "vowels-and-consonants":
     {
+        "level": 2,
+        "subject": "language",
         "label": "Vowels & Consonants",
         "text": "This topic continues the idea that letters can have different properties or different sounds. It explains vowels and consonants, and the simplest (most common) rules about how to pronounce them. This allows Apprentices to sound out more words (correctly), even ones they've never seen before.",
         "skills": ["Understand what vowels and consonants are.", "Understand long versus short vowels (already known because phonics were taught first).", "Be able to read all CVC words.", "Understand the magical letter E (silent if at end after consonant)."]
@@ -173,6 +221,8 @@
 
     "my-first-words":
     {
+        "level": 2,
+        "subject": "language",
         "label": "My First Words",
         "text": "This topic aims to expand the vocabulary and provide a deeper intuition for how to form words. Earlier topics taught the letters of the alphabet and their sounds; this topic has Apprentices 'combining' these elements to form new words for the first time. For the most part, this comes down to simply experiencing all these new words, such as through stories or language puzzles.",
         "skills": ["Practice reading CCVC and CVCC words.", "Expand vocabulary to the 500 most common words.", "Understand that words can be manipulated; parts of words show up in other words with a similar meaning.", "Be able to 'write' by rearranging pre-made letter objects or cards."]
@@ -180,6 +230,8 @@
 
     "my-first-writing":
     {
+        "level": 2,
+        "subject": "language",
         "label": "My First Writing",
         "text": "Earlier topics taught the letters of the alphabet, your first words, and pencil control. This topic takes the next step and teaches you to _write_ something yourself.",
         "skills": ["Be able to write the uppercase form of each letter.", "Be able to write the lowercase form of each letter."]
@@ -187,6 +239,8 @@
 
     "my-first-decodable-stories":
     {
+        "level": 2,
+        "subject": "language",
         "label": "My First Decodable Stories",
         "text": "The first level of our curriculum taught about stories. At that stage, though, we assume the Apprentice is a pre-reader and the stories are read _to_ them (by a Guardian). In this topic, Apprentices are ready to read stories themselves. The word 'Decodable' means that the story was written explicitly so that students can _decode_ it. They don't have to guess, they don't need to be geniuses. If they diligently apply the things they've learned before, they can completely read and decode that story on their own, which is very rewarding.",
         "skills": ["Train the recognition of many sight words.", "Be able to read stories exclusively using familiar or sight words.", "Play with existing stories by writing."]
@@ -194,6 +248,8 @@
 
     "my-first-numbers":
     {
+        "level": 2,
+        "subject": "mathematics",
         "label": "My First Numbers",
         "text": "Teaches all the numbers and how to count! All Mathematics resources from the previous level prepared the Apprentice for this moment. It already taught how to group and compare and gave an intuition for counting. This topic makes it explicit. This is a massive and essential topic, of course, which is why it's filled to the brim with stories, puzzles, games, and other ways to play with this skill.",
         "skills": ["Understand the principles of counting", "Know all the numbers (0--9).", "Count up to 20.", "Count backwards from numbers <= 10."]
@@ -201,6 +257,8 @@
 
     "my-first-addition":
     {
+        "level": 2,
+        "subject": "mathematics",
         "label": "My First Addition",
         "text": "Now that apprentices know about numbers and counting, they're ready to combine numbers into new ones! This topic teaches adding low numbers. At this point, it's a mix of simply memorizing the outcome and gaining a deeper understanding.",
         "skills": ["Understand the principle of addition (using the idea of merging two groups into one).", "Know the symbol for addition (+).", "Be able to add two numbers together (up to 20).", "Understand that you can keep going to add any number of numbers."]
@@ -208,6 +266,8 @@
 
     "place-value":
     {
+        "level": 2,
+        "subject": "mathematics",
         "label": "Place Value",
         "text": "This topic helps Apprentices move from counting up to 10 to counting much higher. The concept of place value is crucial here. Some curriculae dance around it and teach it much later, which is understandable because it's a tough concept to teach. We think our resources (games, stories, puzzles) can overcome this obstacle more easily than a textbook example, which is why we placed this topic quite early.",
         "skills": ["Understand the concept of a digit.", "Understand that the position of a digit decides its value within the number.", "Understand the final number is acquired by adding the individual values together.", "Count up to 100."]
@@ -215,6 +275,8 @@
 
     "my-first-measurements":
     {
+        "level": 2,
+        "subject": "mathematics",
         "label": "My First Measurements",
         "text": "Measurements are great for reinforcing the basic maths skills of counting and addition. Once Apprentices know their numbers, they can start measuring all sorts of things around them and get practice all day every day. Additionally, it introduces vocabulary that allows someone to communicate much more clearly.",
         "skills": ["Understand the concept of measuring something.", "Be able to measure the size (length/width/height) of something.", "Use comparative words to measure and describe the relationship between two things (e.g. taller/shorter).", "Describe basic measurable properties of things, such as weight or speed."]
@@ -222,6 +284,8 @@
 
     "telling-time":
     {
+        "level": 2,
+        "subject": "mathematics",
         "label": "Telling Time",
         "text": "This topic teaches how to read and work with time. It starts by teaching the classic analog clock, then moves into explaining how to read variations (like digital clocks) too. Finally, we aim to give people an intuition for how long things take and how to talk about time.",
         "skills": ["Read an analog clock.", "Read a digital clock.", "Learn the words for different units/periods of time.", "Explore how long time feels and how much time different things take ('measuring time')."]
@@ -229,6 +293,8 @@
 
     "my-first-geometry":
     {
+        "level": 2,
+        "subject": "mathematics",
         "label": "My First Geometry",
         "text": "Level 1 contained a topic on basic shapes. This topic continues those lessons by adding the third dimension as another option, and viewing shapes in a shared environment (instead of just individual objects). This gives Apprentices vocabulary for describing what things look like or how they are positioned in a space. It also gives a practical way to practice Mathematical skills like counting and addition. For example, calculating the final size when you add two shapes together is a very visual and immediate example of using addition in real-life.",
         "skills": ["Understand the difference between 2D and 3D.", "Know the basic 3D shapes.", "Be able to compose simple shapes to form larger shapes.", "Be able to compare shapes (and their properties) in the same environment."]
@@ -236,16 +302,219 @@
 
     "my-first-subtraction":
     {
+        "level": 2,
+        "subject": "mathematics",
         "label": "My First Subtraction",
         "text": "Subtraction is a crucial mathematical skill to learn ... and it's also one of the hardest to teach. Some Apprentices get it immediately, some just can't wrap their head around it. That's why we left this topic for last (in Level 2 Mathematics). All the skills taught before, such as being able to tell time or measure things, can now be used to teach the magical process of subtraction with fun games, puzzles, and more.",
         "skills": ["Understand the concept of subtraction (using the idea of turning one group into two again).", "Know the symbol for subtraction (-)", "Be able to subtract two numbers (up to 20).", "Understand that you can keep going to subtract any number of numbers."]
     },
 
 
+    "my-first-patterns":
+    {
+        "level": 2,
+        "subject": "science",
+        "label": "My First Patterns",
+        "text": "Pattern recognition is one of the skills that allows humans to think complex thoughts and solve complex problems. That's why the very first topic in Science is about testing and strengthening this skill.",
+        "skills": ["Understand what patterns and rules are.", "Explore different patterns in the real world.", "Solve problems by spotting the pattern."]
+    },
+
+    "my-first-logic":
+    {
+        "level": 2,
+        "subject": "science",
+        "label": "My First Logic",
+        "text": "The previous topic taught about patterns. This topic takes the next step by showing how you can _combine_ patterns, logically, to solve even more problems. It lays a foundation for logical thinking and deduction, which automatically leads into programming/coding and scientific thinking later. Several level 1 topics, such as stories teaching about cause and effect, should make it easier for Apprentices to take this next step.",
+        "skills": ["Understand the rule of Logical AND.", "Understand the rule of Logical OR.", "Understand Logical Conditionals (IF-THEN).", "Explore induction, deduction, and abduction.", "Be able to apply simple logic rules to solve problems and draw new conclusions."]
+    },
+
+    "my-first-technology":
+    {
+        "level": 2,
+        "subject": "science",
+        "label": "My First Technology",
+        "text": "One of the main pillars of our curriculum is that we are _not_ blindly putting students behind screens all day and involving harmful technology. Our resources are mostly physical/analog, based on what actually works. Technology itself, however, is not bad and will only play a bigger and bigger role in our lives. This topic explores basic technological skills and concepts, as well as the harm that can come from it. (More specific technological skills, such as how to use a specific common device, will be part of the Skills subject.)",
+        "skills": ["Be able to use different input devices: keyboard, mouse, touchscreen.", "Understand basic computer concepts like accounts, programs, files, and folders.", "Understand that computers are purely logical: they will only do exactly as you tell them, no more no less.", "Be able to use at least one operating system.", "Understand the negative effects of too much screen time.", "Understand how to browse the internet safely."]
+    },
+
+    "my-first-science":
+    {
+        "level": 2,
+        "subject": "science",
+        "label": "My First Science",
+        "text": "This topic explains the purpose and general workings of science. It takes the concepts from earlier topics (about logical thinking) and uses them to show how this leads to new discoveries and allows you to prove something is true.",
+        "skills": ["Know the major fields of science.", "Understand the idea of proof and the scientific method.", "Be able to formulate and carry out extremely simple 'science experiments'.", "Practice applying logical thinking to real-life (science) problems."]
+    },
+
+    "my-first-physics":
+    {
+        "level": 2,
+        "subject": "science",
+        "label": "My First Physics",
+        "text": "We decided to move Physics to a very early spot in the curriculum, which might surprise some. We did this because physics is, well, all around us. Things falling down due to gravity; the fact you can't go through a wall. It's the most intuitive and immediate of the sciences to understand and play with, especially at a young age. At the same time, it helps explain why certain things are dangerous and thus keep Apprentices away from that danger.",
+        "skills": ["Know the meaning and purpose of Physics.", "Understand the concept of gravity.", "Understand the idea of mass, forces, and speed.", "Use knowledge of physics to understand what is safe and what is not safe.", "Have fun exploring physics properties such as different objects, materials, and ball bounces."]
+    },
+
+    "my-first-adventures-in-nature":
+    {
+        "level": 2,
+        "subject": "science",
+        "label": "My First Adventures In Nature",
+        "text": "Nature is all around us, all the time. It's the most important part of our world, for it gives us food and shelter. That's why we feel it's important to explore the value of nature as early as possible. This topic takes the most essential parts of Biology, usually only taught at/after high school, and moves them forward.",
+        "skills": ["Understand different types of weather.", "Understand climate: different types and how humans influence it.", "Understand how food is grown.", "Understand the importance of water and the water cycle.", "Know a large variety of foods and food types.", "Know a large variety of animals and plants."]
+    },
+
+    "my-first-adventures-in-space":
+    {
+        "level": 2,
+        "subject": "science",
+        "label": "My First Adventures In Space",
+        "text": "To be frank, the only reason this topic is part of Level 2 is because most kids _love_ the idea of space. The idea of exploring a galaxy, flying in a spaceship, finding magical new planets. The topic makes it easy to create lots of fun activities and games that naturally teach a lot about a variety of topics.",
+        "skills": ["Know the difference between plants, moons, stars, and other space-related objects.", "Know the planets of our solar system.", "Know the important properties of our planet Earth.", "Know the important properties of the Sun.", "Use space travel to explore practical applications of earlier topics such as physics, shapes, and climate."]
+    },
+
+
+    "my-amazing-memory":
+    {
+        "level": 2,
+        "subject": "skills",
+        "label": "My Amazing Memory",
+        "text": "Learning any skill starts with _memory_. You need a short-term memory to execute the skill and a long-term memory to be able to do it again in the future. This topic teaches how your magical memory works and how to optimize it, and provides a large variety of games and activities to train it.",
+        "skills": ["Know what memory and recall mean.", "Understand short-term memory.", "Understand long-term memory.", "Explore and train your memory in a variety of ways."]
+    },
+
+    "my-first-anatomy":
+    {
+        "level": 2,
+        "subject": "skills",
+        "label": "My First Anatomy",
+        "text": "When it comes to skills and learning new movements, it's pretty useful to know all the parts of the body. Their names, their function, what they can do and what they can't do. This topic is a gentle, practical introduction to anatomy and the human body in general.",
+        "skills": ["Understand (and be able to name) all the major parts of the body.", "Understand the different parts of a body: organs, bones, muscles, etcetera.", "Understand the strengths and weaknesses of each part (for safe usage).", "Explore and train your body further in a variety of playful ways."]
+    },
+
+    "my-first-senses":
+    {
+        "level": 2,
+        "subject": "skills",
+        "label": "My First Senses",
+        "text": "There are some skills most of us are born with. The ability to see, to hear, to taste, and more. This topic explores the all the senses and puts a name to them. @TODO: Might be fused with My First Anatomy?",
+        "skills": ["Know the five main senses: sight, hearing, touch, taste, smell.", "Know a variety of other senses (such as balance or temperature).", "Explore using those senses, their strengths and their limitations."]
+    },
+
+    "my-first-household-chores":
+    {
+        "level": 2,
+        "subject": "skills",
+        "label": "My First Household Chores",
+        "text": "We think the best place to start teaching (physical) skills is using common household chores. Apprentices will likely have seen their parents do them every day. They must be done anyway, and once they grow up, they'll need to do them completely on their own. At the same time, these tasks are often not very hard or challenging to learn, which makes them ideal. This topic contains some tools for getting Apprentices to pick up these chores.",
+        "skills": ["Know the different parts of the house.", "Know all the main chores to be done in a household.", "Explore the chores in a safe risk-free environment (using games, activities, etcetera).", "Train the fine motor skills and gross motor skills to be able to do these tasks at all."]
+    },
+
+    "my-first-jobs":
+    {
+        "level": 2,
+        "subject": "skills",
+        "label": "My First Jobs",
+        "text": "One main purpose of education is to prepare someone for entering the job market once they're an adult. The first step in this process is to simply let someone explore and experience a wide variety of possible jobs and what they entail, so they can figure out what they're good at and what they like. This resource makes a strong start with that; at later levels, we go into very specific jobs and simulate them with fun games and more.",
+        "skills": ["Understand what jobs and careers are, and why they exist.", "Know the fifty most common occupations.", "Experience a playful introduction to the different facets of any job: studying for it, applying, wearing the uniform (not) getting fired, etcetera."]
+    },
+
+    "my-first-opposites":
+    {
+        "level": 2,
+        "subject": "social",
+        "label": "My First Opposites",
+        "text": "This is a relatively small topic that teaches the vocabulary for how to describe properties. Is something bright or dark? Soft or hard? Is someone mean or nice? This is a necessary step for the next Social topics, where these properties are used to figure out your own personality and that of the people around you. It also simply allows you to communicate better in social situations, because you have the words/concepts to describe things accurately.",
+        "skills": ["Know a large variety of properties that you can use to describe things or people.", "Know the opposites of words (and when that's not applicable).", "Be able to label and group things or people based on a large variety of properties."]
+    },
+
+    "world-of-who-am-i":
+    {
+        "level": 2,
+        "subject": "social",
+        "label": "World of Who Am I",
+        "text": "Around this stage, Apprentices will start forming a personal identity. They start to favor certain things, they start to reflect on who they are. This resource provides helpful tools for that process.",
+        "skills": ["Practice reading, writing, and using your own name.", "Practice making decisions about what you do or don't like.", "Explore different properties about yourself: age, look, interests, personality, etcetera.", "Explore customization and self-expression."]
+    },
+
+    "home-and-upbringing":
+    {
+        "level": 2,
+        "subject": "social",
+        "label": "Home & Upbringing",
+        "text": "The previous topic helped Apprentices discover _themselves_; this topic lets them explore their relationship with their parents/family. Their most important, ever-present environment. It also introduces the idea that what they learn or experience there is not necessarily the truth or the only way to do things. It helps Apprentices think critically about their home environment, so they are shielded against bad influences, but can also appreciate the good influences. Because your home _is_ very important!",
+        "skills": ["Know the different family members/relationships and their names.", "Explore the idea of upbringing/parenting.", "Understand the importance of having a healthy, nurturing home environment.", "Understand that their current home, or their experiences there, are not necessarily truth or set in stone."]
+    },
+    
+    "effort-and-actions":
+    {
+        "level": 2,
+        "subject": "social",
+        "label": "Effort & Actions",
+        "text": "It doesn't matter how great your education is ... if Apprentices are not motivated to pay attention or do the work. In the end, everything starts and ends with motivation---with doing things and putting in the effort. That's why we wanted to add a topic early on about how motivation works in our brains and how to make the best of it. This topic talks about **neurodivergent** brains as well, mostly focused on ADHD, because those kids are exactly the ones to struggle with this the most.",
+        "skills": ["Understand the concepts of motivation, effort, discipline, habits, active and passive.", "Understand not everyone's brain works the same way; learn about the most common neurodiversions such as ADD and Autism.", "Understand what habits are great for motivation and which ones secretly destroy it.", "Understand the idea of the growth mind-set, of positive versus negative."]
+    },
+
+    "waste-and-littering":
+    {
+        "level": 2,
+        "subject": "social",
+        "label": "Waste & Littering",
+        "text": "As we progress to level 3, we're approaching the moment when Apprentices start to understand they're not alone in this world and should start to take others into account. The best way to introduce this, in our opinion, is to talk about waste and littering. Because waste is a very visible and tangible problem, but cleaning up is also something you often do for others instead of just yourself. This resource contains a wide variety of activities that teach this in a playful way (such as a game to clean up the plastic ocean).",
+        "skills": ["Understand the idea of littering and why it's bad.", "Understand the massive issues created regarding climate/ecosystems/health because of waste.", "Explore different ways to prevent waste or clean it up."]
+    },
+
+    "culture-and-society":
+    {
+        "level": 2,
+        "subject": "world",
+        "label": "Culture & Society",
+        "text": "Education often concerns itself solely with facts and objective rules. It misses the fact that 90% of what we do, or are _allowed_ to do, is governed by culture and societal norms. Furthermore, with increased migration and globalization, your culture will likely collide with a different one every single day. That's why we wanted the very first topic (of the World subject) to be about society.",
+        "skills": ["Understand the idea of culture, society, and the norms/traditions connected to them.", "Understand your own culture.", "Explore at least three other cultures around the world.", "Explore whether you agree with societal norms or not.", "Experience different cultures or societies through stories and roleplay in games."]
+    },
+
+    "my-first-money":
+    {
+        "level": 2,
+        "subject": "world",
+        "label": "My First Money",
+        "text": "Money, money, money. It's so funny---erm, important! We are baffled by the fact that most school curriculae do not teach about money or only as an aside in some related subjects. Money rules our world. One might say the entire purpose of education is to make sure you'll be able to earn enough money to survive when you grow up. That's why we made this a large and early topic in our curriculum. We explore what money is, why it exists, and provide ample activities to give Apprentices actual experience handling money (without any risk attached).",
+        "skills": ["Understand what money is and how/why it works.", "Understand the pros and cons ('dangers') of having and using money in certain ways.", "Understand common financial concepts like saving, selling, sales, and debt.", "Explore managing your own money, directly or indirectly.", "Know your country's currency and that other countries might use a different one."]
+    },
+
+    "my-first-kingdom-to-rule":
+    {
+        "level": 2,
+        "subject": "world",
+        "label": "My First Kingdom To Rule",
+        "text": "This topic introduces essential concepts like government, law, and systems of leadership in a fun way. By giving Apprentices their own fantasy kingdoms to manage, they can deeply understand everything that goes into running a country. They can experience what happens when you change certain things and why certain laws were probably invented. In a way, systems of governance are one of the most effective ways to teach about 'systems' in general.",
+        "skills": ["Understand what the government is.", "Understand what the law is, why it exists, and many examples.", "Know the system of government of your own country.", "Know the most important laws of your own country.", "Explore at least five other possible systems of governance.", "Explore and experience what it means to lead a society or run a kingdom."]
+    },
+
+    "my-first-journeys":
+    {
+        "level": 2,
+        "subject": "world",
+        "label": "My First Journeys",
+        "text": "This topic is a gentle precursor to full-blown geography. It explores the idea of maps, of finding a path from point A to point B, of where things are located in space. It's not that useful for Apprentices to start memorizing capital cities of the world yet; instead, this topic is about more deep and essential skills regarding space and movement in general. Because we focus on _journeys_, we're able to provide a large set of really fun games and activities to teach these skills.",
+        "skills": ["Know several important addresses (your own, other family, school, etc)", "Be able to recognize and read different kinds of maps.", "Know the main continents of Earth.", "Know your neighbor cities and countries.", "Be able to read and plot paths between different destinations."]
+    },
+
+    "my-first-adventures-in-traffic":
+    {
+        "level": 2,
+        "subject": "world",
+        "label": "My First Adventures In Traffic",
+        "text": "This topic used to be part of _My First Journeys_, but we split it off because it's so important. Being able to move through traffic _safely_ is important, especially for young kids. This topic focuses on traffic laws and safe behavior in general and the most common laws you'll find in most countries. It also includes resources that are specific to _one country_ to teach more specific traffic laws.",
+        "skills": ["Understand what traffic laws are and why they exist.", "Know the relevant traffic laws in your country (and that they might be different in other countries).", "Be able to navigate in your local area safely and independently."]
+    },
+
     "_LEVEL3": {},
 
     "my-first-spelling":
     {
+        "level": 3,
+        "subject": "language",
         "label": "My First Spelling",
         "text": "The Language topics in Level 2 taught Apprentices about the alphabet and how to read simple words that don't break any rules. This topic introduces the first few special cases that change how to write or pronounce words.",
         "skills": ["Understand the concept of spelling: how you write a word.", "Know how to write/pronounce the most common blends.", "Know how to write/pronounce the most common digraphs.", "Practice reading CCVCC words."]
@@ -256,6 +525,8 @@
 
     "advanced-spelling":
     {
+        "level": 4,
+        "subject": "language",
         "label": "Advanced Spelling",
         "text": "@TODO",
         "skills": ["Learn all the common vowel teams (two vowels combining to make one sound).", "Understand diphthongs.", "Understand R-controlled vowels.", "@TODO: Anything Else? Probably just all tiny exceptions now."]

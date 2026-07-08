@@ -23,7 +23,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["rhyme-and-alliteration"]
 age: 4
 # requirements: ""

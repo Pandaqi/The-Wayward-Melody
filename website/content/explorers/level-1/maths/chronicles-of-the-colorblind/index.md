@@ -24,7 +24,7 @@ contents:
 level: 1
 age: 5
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["colors", "emotions"]
 
 ---

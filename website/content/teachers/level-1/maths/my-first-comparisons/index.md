@@ -36,7 +36,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["comparing", "sequencing", "sorting"]
 age: 3
 # requirements: ""

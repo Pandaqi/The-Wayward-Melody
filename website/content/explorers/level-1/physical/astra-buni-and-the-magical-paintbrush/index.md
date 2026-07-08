@@ -22,7 +22,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Physical"
+subject: "skills"
 categories: ["pencil-control", "fine-motor-skills"]
 
 ---

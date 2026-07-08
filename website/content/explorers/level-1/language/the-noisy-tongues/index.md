@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Language"
+subject: "language"
 categories: ["sound-awareness", "words", "syllables", "phonetic-awareness", "phonemes", "language-comprehension"]
 
 ---

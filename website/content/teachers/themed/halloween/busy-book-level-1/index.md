@@ -17,7 +17,7 @@ contents:
 
 level: 1
 language: "en"
-subject: ["Mathematics", "Language"]
+subject: ["mathematics", "language"]
 categories: ["holidays"]
 player-count: 1
 age: 3

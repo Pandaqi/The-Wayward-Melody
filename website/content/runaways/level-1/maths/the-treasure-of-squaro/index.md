@@ -21,7 +21,7 @@ contents:
 
 level: 1
 language: "en"
-subject: "Mathematics"
+subject: "mathematics"
 categories: ["shapes"]
 # age: 4
 # requirements: ""
