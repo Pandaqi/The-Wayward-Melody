@@ -1,11 +1,13 @@
 {{ define "main" }}
 
 {{ $is_product := eq .Type "product" }}
+{{ $data_curriculum := dict }}
+
 <header data-pagefind-body>
 <!--- Products show an image left, description + tags right --->
 {{ if $is_product }}
 {{ $data := partial "func/get-product-data" . }}
-{{ $data_curriculum := partial "func/get-curriculum-data" . }}
+{{ $data_curriculum = partial "func/get-curriculum-data" . }}
 {{ $good_type_string := cond $data.physical "Physical" "Digital" }}
 {{ $root_section := .FirstSection }}
 {{ $sub_section := .CurrentSection }}
@@ -15,20 +17,40 @@
 <div class="maximize-width height-xxxs {{ $level_data.class }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
     <div class="font-size-s font-accent">LEVEL {{ $level_data.string }}</div>
 </div>
+<div style="position: absolute; left: 0; right: 0; top: 0; bottom: 0; background-image: linear-gradient(to bottom, transparent, var(--color-dark-xx)), url({{ $data.image }}); background-size: cover; background-position: center top; z-index: -1; opacity: 0.15;"></div>
 <div class="image-carousel flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center" data-carousel-index="0">
     <!--- Image on left/top --->
-    <div class="maximize-width padding-xs position-relative hover_remove-child-rotations">
-        {{ $rand_rot_1 := (sub math.Rand 0.5) | mul 8 }}
-        {{ $rand_rot_2 := (sub math.Rand 0.5) | mul 8 }}
-        <div class="rounded-s position-absolute padding-absolute-s bg-color-mid" style="z-index: -2; transform: rotate({{ $rand_rot_1 }}deg);"></div>
-        <div class="rounded-s position-absolute padding-absolute-s bg-color-dark-x" style="z-index: -1; transform: rotate({{ $rand_rot_2 }}deg);"></div>
-        <div class="padding-xxs">
-            {{ $alt := printf "Product Image for %s" .Title }}
-            <img class="product-image image-carousel-image rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]">
-            <audio class="product-image image-carousel-audio rounded-s block-align-center display-block maximize-width maximize-height hover_glow"  style="display:none;"></audio>
-            <video class="product-image image-carousel-video rounded-s block-align-center display-block maximize-width maximize-height hover_glow" controls="controls" loop="loop" muted="muted" style="display:none;"></video>
-            <div class="image-carousel-prev position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-left drop-shadow-xs">«</div>
-            <div class="image-carousel-next position-absolute flex flex-center font-heading font-size-xl text-color-light-xx opacity-half hover_opaque hover_pointer no-select anchor-center-right drop-shadow-xs">»</div>
+    <div class="maximize-width padding-xs no-select">
+        <div class="flex flex-center">
+
+            <div class="image-carousel-prev maximize-height flex flex-center font-heading text-color-light-xx opacity-half hover_opaque hover_pointer" style="width: 128px; font-size: 92px;">«</div>
+
+            <div class="padding-xxs position-relative hover_remove-child-rotations">
+                
+                {{ $rand_rot_1 := (sub math.Rand 0.5) | mul 8 }}
+                {{ $rand_rot_2 := (sub math.Rand 0.5) | mul 8 }}
+                <div class="rounded-s position-absolute padding-absolute-s bg-color-mid" style="z-index: -2; transform: rotate({{ $rand_rot_1 }}deg);"></div>
+                <div class="rounded-s position-absolute padding-absolute-s bg-color-dark-x" style="z-index: -1; transform: rotate({{ $rand_rot_2 }}deg);"></div>
+
+                {{ $alt := printf "Product Image for %s" .Title }}
+                <img class="product-image image-carousel-image rounded-s block-align-center display-block maximize-width maximize-height hover_glow" loading="lazy" decoding="async" src="{{ $data.image }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]">
+                <audio class="product-image image-carousel-audio rounded-s block-align-center display-block maximize-width maximize-height hover_glow"  style="display:none;"></audio>
+                <video class="product-image image-carousel-video rounded-s block-align-center display-block maximize-width maximize-height hover_glow" controls="controls" loop="loop" muted="muted" style="display:none;"></video>
+            </div>
+
+            <div class="image-carousel-next maximize-height flex flex-center font-heading text-color-light-xx opacity-half hover_opaque hover_pointer"  style="width: 128px; font-size: 92px;">»</div>
+        </div>
+
+        <div class="text-style-italic font-size-s align-center padding-xs">
+            Click arrows/swipe to scroll through all images. Click an image to enlarge it.
+        </div>
+
+        <div class="flex flex-center gap-s padding-xs">
+            <!--- @TODO: This is just debugging/seeing what it looks like now --->
+            {{ $images := index (index $data.products 0) "images" }}
+            {{ range $images }}
+                <img src="{{ . }}" style="height: 32px;">
+            {{ end }}
         </div>
     </div>
     <!--- Main title, description, buttons on right/bottom -->
@@ -42,122 +64,50 @@
             &middot; <span>Price: {{ $data.price }}</span>
             {{ if $data.physical }} &middot; <span>Ships to: {{ delimit $data.zones ", " }}</span>{{ end }}
             {{ if gt (len $data_curriculum.advances) 0 }}
-                &middot; <span><span>Comes After: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.advances }}</span></span>
+                &middot; <span><span>Earlier Resources: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.advances }}</span></span>
             {{ end }}
             {{ if gt (len $data_curriculum.shares) 0 }}
                 &middot; <span><span>Same Spell As: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.shares }}</span></span>
             {{ end }}
             {{ if gt (len $data_curriculum.precedes) 0 }}
-                &middot; <span><span>Comes Before: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.precedes }}</span></span>
+                &middot; <span><span>Later Resources: </span><span class="text-color-accent-contrast">{{ partial "views/link-list" $data_curriculum.precedes }}</span></span>
             {{ end }}
         </div>
         <h1 class="font-size-xl align-left margin-none" data-pagefind-meta="title">{{ .Title }}</h1>
+        {{ partial "products/product-tagline.html" . }}
         <p data-pagefind-weight="4" class="text-style-italic align-center preserve-whitespace">{{ .Params.description | markdownify }}</p>
         {{ partial "products/product-button-list" . }}
         {{ partial "views/metadata-navigation-single" . }}
     </div>
 </div>
-{{ end }}
 <!--- Other articles show a wide image at top and then just centered text below --->
-{{ if not $is_product }}
+{{ else }}
 {{ partial "views/banner-image" (dict "context" .) }}
 {{ end }}
 </header>
-<article class="text-reader margin-m limit-width-m block-align-center" data-pagefind-body>
+<article data-pagefind-body>
 
     {{ if not $is_product }}
+        <div class="text-reader margin-m limit-width-m block-align-center">
         {{ partial "navigation/navigation-article" . }}
         {{ partial "views/section-foldable" (dict "header" "Table of Contents" "inner" .TableOfContents) }}
+        <div data-pagefind-weight="3">
+            {{ .Content }}
+        </div>
+        </div>
     {{ end }}
 
-    <div data-pagefind-weight="3">
-    {{ .Content }}
-    </div>
-
-    <!--- Default CHARM text/summary and link --->
-    {{ $charm_url := printf "/charm/%s" .Params.charm }}
-    {{ $charm_page := .GetPage $charm_url }}
-    {{ if and $charm_page $charm_page.Params.summary }}
-    <div class="text-style-italic">
-        <p>This product is part of the <a href="{{ $charm_page.RelPermalink }}">{{ $charm_page.Title }}</a> charm. {{ $charm_page.Params.summary | markdownify }}</p>
-    </div>
-    {{ end }}
-
-    <!--- Show the CONNECTIONS to other products --->
-    {{ $my_spells := or .Params.spell slice }}
-    {{ if not (reflect.IsSlice $my_spells) }}{{ $my_spells = slice $my_spells }}{{ end }}
-    {{ $regular_pages := .Site.RegularPages }}
-    {{ $relevant_connections := slice }}
-    {{ range $spell := $my_spells }}
-        {{ $new_connections := union (where $regular_pages ".Params.spell" "intersect" (slice $spell)) (where $regular_pages ".Params.spell" "eq" $spell) }}
-        {{ $relevant_connections = $relevant_connections | append $new_connections }}
-    {{ end }}
-
-    {{ $relevant_connections = $relevant_connections | uniq }}
-    {{ $has_connections := gt (len $relevant_connections) 0 }}
-    {{ if $has_connections }}
-        {{ $relevant_connections = sort $relevant_connections ".Section" "asc" }}
-        <nav data-pagefind-weight="1">
-            <h2>Continue Exploring</h2>
-            <p>Exhausted this resource? Below is a list of all resources (in this and other factions) around this same topic.</p>
-            <ul>
-                {{ range $relevant_connections }}
-                    <li>{{ partial "views/faction-icon" (dict "context" .) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                {{ end }}
-            </ul>
-        </nav>
-    {{ end }}
-
-    <!--- Show a LIST of contents --->
-    {{ $contents := or .Params.contents slice }}
-    {{ $has_contents := gt (len $contents) 0 }}
-    {{ if $has_contents }}
-    <div data-pagefind-weight="2">
-        <h2>Product Contents</h2>
-        <p>Below is a summary of this product's contents. The actual product might have even more inside, but never less.</p>
-        <ul>
-            {{ range $contents }}
-                <li>{{ . | markdownify }}</li>
-            {{ end }}
-        </ul>
-    </div>
-    {{ end }}
-
-    <!--- At the bottom is a TABLE of miscellaneous details, always set in a dictionary on Params --->
-    {{ $details := or .Params.details dict }}
-    {{ $has_details := gt (len $details) 0 }}
-    {{ if $has_details }}
-    <div data-pagefind-weight="1">
-        <h2>Fine Details</h2>
-        <table>
-            <thead><tr><td>Spell Type</td><td>Meaning</td></tr></thead>
-            {{ range $k,$v := $details }}
-                <tr><td>{{ $k }}</td><td>{{ $v | markdownify }}</td></tr>
-            {{ end }}
-        </table>
-    </div>
-    {{ end }}
-
-    <!--- Also EXTERNAL resources/links/references --->
-    {{ $external := or .Params.external slice }}
-    {{ if .Params.source }}
-        {{ $external = $external | append (dict "name" "Source Code" "url" .Params.source "desc" "The full source code and raw assets for this product, available for free and to use as you wish!") }}
-    {{ end }}
-    {{ $has_external := gt (len $external) 0 }}
-    {{ if $has_external }}
-    <div data-pagefind-weight="1">
-        <h2>External Enchantments</h2>
-        <p>We try to share the love and improve education, not be greedy goblins, which is why we <b>share source files</b> and <b>link related work of others</b> when possible. Check out the list below of what went into this project or what inspired it. If possible, support those people too!</p>
-        <table>
-            <thead><tr><td>Link</td><td>Explanation</td></tr></thead>
-            {{ range $external }}
-                {{ $name := or .name "Unnamed" }}
-                {{ $url := or .url "#" }}
-                {{ $desc := or .desc "No description provided." }}
-                <tr><td><a href="{{ $url }}">{{ $name }}</a></td><td>{{ $desc | markdownify }}</td></tr>
-            {{ end }}
-        </table>
-    </div>
+    {{ if $is_product }}
+        <div class="double-view gap-xl" style="margin-top: 3.5em; max-width: 920px; align-items: start;">
+            <div class="double-view-item text-reader">
+                <h2 class="margin-s">Description</h2>
+                {{ .Content }}
+            </div>
+            <div class="double-view-item" style="max-width: 256px;">
+                <h2 class="margin-s heading-decorations">Details</h2>
+                {{ partial "products/product-details.html" . }}
+            </div>
+        </div>
     {{ end }}
 </article>
 

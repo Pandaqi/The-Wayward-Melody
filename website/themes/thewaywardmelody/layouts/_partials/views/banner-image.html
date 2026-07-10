@@ -1,8 +1,7 @@
 {{ $section_name := .Section }}
 {{ $title := or .title .context.Title }}
 {{ $is_taxonomy := or (eq .context.Kind "taxonomy") (eq .context.Kind "term") }}
-{{ if $is_taxonomy }}{{ $title = "Search" }}{{ end }}
-{{ if eq .context.Data.Plural "charm" }}{{ $title = .context.Title }}{{ end }}
+{{ if and $is_taxonomy (not .title) }}{{ $title = "Search" }}{{ end }}
 <div class="height-ml">
 {{ $backup_image_placeholder := "https://picsum.photos/1920/432" }}
 {{ $default_image := or .context.Params.image $backup_image_placeholder }}

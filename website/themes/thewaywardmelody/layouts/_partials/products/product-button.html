@@ -6,9 +6,11 @@
 {{ $shipping_zones := delimit .shipping "|" }}
 {{ $size := split (or .size "") "|" }}
 {{ $images := delimit .images "|" }}
+{{ $size_class := "button-size-m" }}
+{{ if .largesize }}{{ $size_class = "button-size-l" }}{{ end }}
 <div>
     <button id="{{ .sku }}"
-        class="snipcart-add-item button button-size-m border-image-m border-image-black bg-color-accent-contrast" 
+        class="snipcart-add-item button {{ $size_class }} border-image-m border-image-black bg-color-accent-contrast" 
         data-pagefind-filter="price[data-item-price], platform[data-item-platform], shipping[data-item-shipping-zones]" 
         data-pagefind-meta="price[data-item-price], platform[data-item-platform], shipping[data-item-shipping-zones]"
         data-item-id="{{ .sku }}" data-item-name="{{ .name }}"

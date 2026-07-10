@@ -1,0 +1,8 @@
+{{ $all_pages := .context.Site.RegularPages }}
+{{ $output := slice }}
+{{ range .spells }}
+    {{ $pages := union (where $all_pages "Params.spell" "eq" .) (where $all_pages "Params.spell" "intersect" (slice .)) }}
+    {{ $output = $output | append $pages }}
+{{ end }}
+{{ $output = $output | uniq }}
+{{ return $output }}

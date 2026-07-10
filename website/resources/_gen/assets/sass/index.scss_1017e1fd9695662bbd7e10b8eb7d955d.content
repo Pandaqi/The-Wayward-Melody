@@ -119,6 +119,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   img {
     max-width: 100%;
     max-height: 100%;
+    height: auto;
   }
   .img-width-maximize {
     height: auto;
@@ -193,6 +194,91 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .style-markdown-links-inverted a:hover {
     color: var(--color-dark-xx);
+  }
+  .double-view {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 1rem;
+    max-width: 1280px;
+    margin: auto;
+  }
+  @media all and (max-width: 640px) {
+    .double-view {
+      flex-wrap: wrap;
+    }
+  }
+  .double-view-item {
+    width: 100%;
+  }
+  .section-foldable {
+    margin-top: 0.66rem;
+    margin-bottom: 0.66rem;
+  }
+  .section-foldable[data-folded=true] .section-foldable-header::after {
+    content: "▾";
+  }
+  .section-foldable[data-folded=false] .section-foldable-header::after {
+    content: "▴";
+  }
+  .section-foldable .section-foldable-header {
+    background-color: var(--color-dark-x);
+    padding: 0.66rem;
+    border-radius: 0.66rem;
+    position: relative;
+  }
+  .section-foldable .section-foldable-header::after {
+    font-size: 1.5em;
+    position: absolute;
+    top: 0.2em;
+    right: 0.1em;
+  }
+  .section-foldable .section-foldable-header:hover {
+    cursor: pointer;
+    filter: brightness(130%);
+  }
+  .section-foldable .section-foldable-header h3 {
+    margin: 0;
+    font-family: "Signika Negative";
+    font-weight: bold;
+  }
+  .section-foldable .section-foldable-content {
+    padding: 0.66rem;
+    border-radius: 0.4rem;
+  }
+  .section-foldable .section-foldable-content p:first-child {
+    margin-top: 0;
+  }
+  .section-foldable .section-foldable-content p:last-child {
+    margin-bottom: 0;
+  }
+  .section-foldable .section-foldable-content a {
+    font-family: "Signika Negative";
+    font-weight: bold;
+    text-decoration: underline;
+    color: var(--color-accent);
+    transition: color 0.2s, background-color 0.2s, filter 0.2s, transform 0.2s;
+  }
+  .section-foldable .section-foldable-content a:hover {
+    color: var(--color-accent-contrast);
+    font-style: italic;
+  }
+  .link-button {
+    background-color: var(--color-dark-x);
+    padding: 0.66rem;
+    border-radius: 0.66rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    display: block;
+    width: 100%;
+    font-family: "Signika Negative";
+    font-weight: bold;
+    text-align: center;
+  }
+  .link-button:hover {
+    filter: brightness(130%);
   }
   .theme-runaways.dark-mode {
     --color-light-xx: oklch(90% 0.02 0);
@@ -442,6 +528,12 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     padding: 0.66rem;
     margin: 0.66rem 0;
   }
+  .button-size-l {
+    font-size: 1rem;
+    border-radius: 0.66rem;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
   .block-column-and-center {
     margin: 1rem;
     max-width: 640px;
@@ -499,6 +591,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .font-size-xxl {
     font-size: 5rem;
+  }
+  .font-size-xxxl {
+    font-size: 8rem;
   }
   .text-style-italic {
     font-style: italic;
@@ -574,6 +669,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .text-color-dark-xx {
     color: var(--color-dark-xx);
   }
+  .text-color-dark-x {
+    color: var(--color-dark-x);
+  }
   .text-color-mid {
     color: var(--color-mid);
   }
@@ -638,6 +736,12 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .gap-m {
     gap: 1rem;
+  }
+  .gap-l {
+    gap: 2rem;
+  }
+  .gap-xl {
+    gap: 3.33rem;
   }
   .height-xxxs {
     height: 1rem;
@@ -802,6 +906,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .block-align-center {
     margin: auto;
+  }
+  .list-reduced-offset {
+    padding-left: 1em;
   }
   .remove-list-styling {
     margin: 0;
@@ -1023,7 +1130,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     background-position-x: -6em;
     background-position-y: -1em;
   }
-  .metadata-icon-guardian {
+  .metadata-icon-guardian-required {
     background-image: url(/css/icons.svg);
     background-position-x: -7em;
     background-position-y: -1em;

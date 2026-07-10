@@ -1,0 +1,31 @@
+<!--- Gather data about our spell --->
+{{ $spell_id := .spell }}
+{{ $data_spell := index .context.Site.Data.spells $spell_id }}
+{{ $output := "" }}
+
+<!--- If we HAVE data, use it to find the previous/next --->
+{{ if $data_spell }}
+    {{ $level := sub (int $data_spell.level) 1 }}
+    {{ $subject := $data_spell.subject }}
+    {{ $data_levels := .context.Site.Data.curriculum.levels }}
+    {{ $max_level := sub (len $data_levels) 1 }}
+
+    <!--- First try prev/next in same list --->
+    {{ $spell_list := index (index $data_levels $level) $subject }}
+    {{ $index := partial "func/get-index-of.html" (dict "list" $spell_list "element" $spell_id) }}
+    {{ $max_index := sub (len $spell_list) 1 }}
+    {{ if (lt $index $max_level) }}
+        {{ $output = index $spell_list (add $index 1) }}
+    {{ end }}
+
+    <!--- If not possible, try going backwards/forwards a level --->
+    {{ if and (not $output) (lt $level $max_level) }}
+        {{ $spell_list = index (index $data_levels (add $level 1)) $subject }}
+        {{ if and $spell_list (gt (len $spell_list) 0) }}
+            {{ $output = index ($spell_list | first 1) 0 }} <!--- the index 0 here is just to destructure slice into the single element inside --->
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+<!--- Return our final result at the end; gohugo partials can't have multiple return statements unfortunately --->
+{{ return $output }}

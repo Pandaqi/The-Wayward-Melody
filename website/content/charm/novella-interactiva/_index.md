@@ -1,5 +1,5 @@
 ---
-title: "Novella Interactive"
+title: "Novella Interactiva"
 summary: "These are interactive stories! You're not just reading or enjoying the story, you can actually make decisions or engage with it. This is ideal for keeping the interest of the youngest listeners and readers, and also allows stories and experiences that no regular book can offer."
 ---
 
@@ -7,7 +7,7 @@ summary: "These are interactive stories! You're not just reading or enjoying the
 
 {{% double-view-item %}}
 
-A Novella Interactive is an **interactive story**. It means the story is _not_ a single text meant to be read from start to finish. 
+A Novella Interactiva is an **interactive story**. It means the story is _not_ a single text meant to be read from start to finish. 
 
 Maybe the story is read _to_ children and regularly asks you to **pause and ask a question**. Or maybe it's a **"choice story"**, where you must skip to a different page number depending on the choices you make while reading. Or maybe it's something even more, turning a book into half a game.
 

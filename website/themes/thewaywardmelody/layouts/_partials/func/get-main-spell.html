@@ -1,0 +1,6 @@
+{{ $my_spells := or .Params.spell slice }}
+{{ if not (reflect.IsSlice $my_spells) }}{{ $my_spells = slice $my_spells }}{{ end }}
+{{ $has_spells := gt (len $my_spells) 0 }}
+{{ $first_spell := "" }}
+{{ if $has_spells }}{{ $first_spell = index $my_spells 0 }}{{ end }}
+{{ return $first_spell }}

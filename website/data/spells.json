@@ -520,6 +520,343 @@
         "skills": ["Understand the concept of spelling: how you write a word.", "Know how to write/pronounce the most common blends.", "Know how to write/pronounce the most common digraphs.", "Practice reading CCVCC words."]
     },
 
+    "my-first-punctuation":
+    {
+        "level": 3,
+        "subject": "language",
+        "label": "My First Punctuation",
+        "text": "This topic teaches how to read and write the basic punctuation symbols.",
+        "skills": ["Understand and use question marks (`?`).", "Understand and use exclamation marks (`!`)", "Understand and use periods (`.`).", "Understand and use commas (`,`).", "Understand and use quotes (`\"`)."]
+    },
+
+    "advanced-writing":
+    {
+        "level": 3,
+        "subject": "language",
+        "label": "Advanced Writing",
+        "text": "The Language topics in Level 2 taught Apprentices how to write all the different letters. By now they should have some experience writing individual words, but not much beyond that. This topic takes the next step ",
+        "skills": ["Practice writing full sentences.", "Practice writing longer texts of at most one paragraph.", "Practice writing different kinds of texts: birthday card, message, question, story, etc."]
+    },
+
+    "vocabulary-and-automation":
+    {
+        "level": 3,
+        "subject": "language",
+        "label": "Vocabulary & Automation",
+        "text": "By now, Apprentices should have all the tools for writing and reading. Which means it's all about practice, practice, practice now. Read a lot and write a lot, to grow vocabulary and become faster and more comfortable. Part of this comes down to simply reading a lot of stories, and part of it is about providing fun language challenges through puzzles and games.",
+        "skills": ["Read at least 25 decodable stories on your own.", "Grow your vocabulary to 2,000 words.", "Practice writing and reading accurately and at speed, in different contexts or environments."]
+    },
+
+    "my-first-word-types":
+    {
+        "level": 3,
+        "subject": "language",
+        "label": "My First Word Types",
+        "text": "Apprentices should have a reasonable vocabulary by now, but all of those words will mean the same thing to them. At this stage, they'll often put things in the wrong order or tense. That's why this topic introduces the idea of different word types and their purpose in a sentence.",
+        "skills": ["Know what nouns are.", "Know what verbs are.", "Know what adjective are.", "Know what adverbs are.", "Explore the different parts of a sentence: subject, object, and verb.", "Explore the correct order for word types."]
+    },
+
+    "clear-communication":
+    {
+        "level": 3,
+        "subject": "language",
+        "label": "Clear Communication",
+        "text": "Language isn't merely about knowing the words and the rules. Its bigger purpose is to _communicate_, and even if you follow all the rules, your communication can still be terrible! This topic explores different ways to prevent miscommunication. It guides Apprentices to the realization that you can say the same thing in many different ways and that you should pick the way that is most likely to be understood by others. Of course, we teach this using fun games and silly stories about such mishaps in communication.",
+        "skills": ["Understand what miscommunication or bad communication is, and why it matters.", "Explore tips and techniques to clean up your language for clearer communication."]
+    },
+
+    "advanced-counting":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "Advanced Counting",
+        "text": "All Mathematics resources in the previous level taught the basics of counting, but it stopped at reasonably low numbers (<100). This topic is therefore about going _further_ (100s, 1000s, etc) and _automating_ this process (so you can quickly and accurately do these calculations). As always, this requires both a bit of 'boring repetition' (solving similar exercises over and over) as well as 'creative challenges' (games, puzzles, and more that test if you can apply a deep understanding to new situations).",
+        "skills": ["Be able to count up to 1000 (forwards and backwards)", "Be able to solve simple equations with numbers <1000.", "Know several tricks for quick mental calculation or estimating results."]
+    },
+
+    "my-first-multiplication":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "My First Multiplication",
+        "text": "This topic teaches the important mathematical operation called _multiplying_. It requires finishing most Level 2 Mathematics topics, because multiplication is best explained through the lens of repeated addition and bigger numbers.",
+        "skills": ["Understand multiplication: adding a number to itself over and over.", "Know the symbol(s) for multiplication (x, *, &middot;)", "Be able to multiply numbers <10.", "Be able to solve multiplication equations with numbers <10."]
+    },
+
+    "my-first-division":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "My First Division",
+        "text": "This topic teaches the important mathematical operation called _division_. It's probably the hardest Mathematical concept to explain, because it's so unnatural (and has so many exceptions). It's one of the reasons why our resources have always used the idea of _groups_ to teach mathematical concepts, as that allows easy practical examples. Still, we made sure to create plenty puzzles, games, and other resources to approach this difficult concept from all angles.",
+        "skills": ["Understand division: if you wanted to turn a group into many smaller groups, how many would you get?", "Know the symbol(s) for division (/, ÷)", "Be able to divide numbers (<10) with an integer result.", "Be able to divide numbers (<100) with an integer result.", "Explore the fact that division isn't always perfect and can have a remainder."]
+    },
+
+    "calendar":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "Calendar",
+        "text": "This topic teaches how the calendar (used in most countries in the world) works. It's basically the next step in Telling Time after reading the clock. This topic is in Level 3, instead of Level 2, because the calendar has many high numbers (365 days, 52 weeks a year, etc) and Apprentices should now be ready for those.",
+        "skills": ["Know the months and seasons of the year.", "Understand days and weeks.", "Memorize the number of days in each month.", "Explore different calendars in different times/cultures and the reasons why."]
+    },
+
+    "advanced-measurements":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "Advanced Measurements",
+        "text": "Now that Apprentices can multiply and subdivide, we can measure using smaller units. For example, measure the size of the table in terms of the size of your hand, but also actual _standardized units_ (e.g. centimeters).",
+        "skills": ["Know how to measure something in terms of another unit.", "Understand why standardized units exist and what problems they solve.", "Understand and work with the standardized units for size.", "Understand and work with the standardized units for weight.", "Understand and work with the standardized units for temperature.", "Be able to measure and name more advanced properties of basic shapes.", "First introduction to data/statistics: be able to answer basic questions about measurements you did; e.g. which of the objects measured was the biggest?"]
+    },
+
+    "my-first-fractions":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "My First Fractions",
+        "text": "This topic requires that Apprentices are familiar with division first. In that topic, we introduced the idea of 'imperfect divisions' with remainders or that don't result in a nice integer. By introducing fractions, we now have a way to still write down the result of those imperfect divisions at all times. The common way to teach this is by using practical examples like pie slices---which is why we provide lots of games and puzzles that do the same thing!",
+        "skills": ["Understand what a fraction is and what each part represents.", "Be able to write a division/equation as a fraction.", "Be able to solve imperfect divisions by writing the remainder as fraction behind it.", "Learn the basic rules about adding/multiplying fractions.", "Be able to manipulate a fraction so that those basic rules apply.", "Optional: Explore the idea that fractions can be written down in other ways, such as decimal numbers or percentages."]
+    },
+
+    "my-first-probability":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "My First Probability",
+        "text": "Probability is honestly the most complicated and unnatural topic from Mathematics to understand. Calculating the _chance_ of something happening, and then using that idea of _an event that maybe happens_ for further calculation, is just very hard for us. At the same time, it's incredibly important because it's a very practical application for all these mathematics we've been teaching. If you know probability, you can make more informed choices, calculate risks, win games, know NOT to gamble or play the lottery, and so forth. This topic therefore introduces probability in the most practical and intuitive way possible, without going into any scary details. As always, playing games (with randomness) is the best way to make it fun and intuitive.",
+        "skills": ["Understand the idea of a probability: a fraction/decimal/percentage between 0 and 1 that says how likely it is something happens.", "Explore the (estimated) probability of common events: flip a coin, throw a die, rain falling, etcetera.", "In very simple contexts with perfect information, be able to calculate the probability.", "Explore practical usages of probability, including calculating averages or expected outcomes."]
+    },
+
+    "advanced-adventures-in-nature":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "Advanced Adventures in Nature",
+        "text": "Level 2 of our curriculum introduced the general systems of nature that Apprentices will experience every day, such as weather and animals. This topic goes into more detail on all of those aspects.",
+        "skills": ["Understand the meaning of living, dead, or inanimate.",  "Know all the major types of animals and their properties: birds, fishes, mammals, reptiles, and amphibians.", "Understand several other organism categorizations, such as vertibrates and invertibrates.", "Know the major climates and biomes of the world.", "Understand the basic rules of nature, such as the food chain and survival of the fittest.", "@TODO: Anything else?"]
+    },
+
+    "my-first-coding":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "My First Coding",
+        "text": "In modern society, coding/programming is a skill required by a large number of jobs, and otherwise it's always a bonus if you can do it. Not only that, learning to program means learning to think logically and problem solve logically. A large part of getting good at programming is _not_ about the computer or the words you type, but about _logic_. That's why previous topics in this subject already taught about simple logical rules. In this topic, we will apply those rules directly and write programs for computers to execute. _For as long as possible, we try to NOT involve the computer yet._",
+        "skills": ["Understand the meaning of different logical functions: AND, OR, NOT, IF-THEN.", "Be able to create 'algorithms': a series of logical steps to solve a problem.", "Be able to translate such an algorithm into code on the computer.", "Be able to 'debug' logic mistakes in your work.", "Explore the fact that there are different ways to solve the same problem, and that you can translate your algorithm to different programming languages.", "Explore more advanced programming concepts like LOOPS and FUNCTIONS."]
+    },
+
+    "advanced-adventures-in-science":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "Advanced Adventures in Science",
+        "text": "Level 2 of our curriculum introduced the general idea of science, through the scientific method and logical thinking. This topic goes into more detail on all these topics. (After this one, our curriculum actually starts to dive into specific STEM topics.)",
+        "skills": ["Know the biggest scientists and their inventions", "Explore at least ten big scientific breakthroughs and _how_ they were discovered.", "Be able to invent and carry out your own science experiment."]
+    },
+
+    "light-and-sight":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "Light & Sight",
+        "text": "This topic uses our sense of _Sight_ to explore more advanced scientific ideas. Why can we see anything at all? What is light and how does it work? (The final five topics in Level 3 Science all use one of the five main senses as the entry point, to make science as practical and immediate as possible.)",
+        "skills": ["Understand how light works.", "Understand how our eyes work.", "Understand how lenses and cameras work.", "Explore the consequences of these ideas, such as light taking minutes to travel from the sun to your eyes."]
+    },
+
+    "music-and-sound":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "Music & Sound",
+        "text": "This topic uses our sense of _Hearing_ to explore more advanced scientific ideas. Why can we hear anything at all? What are sound waves? (The final five topics in Level 3 Science all use one of the five main senses as the entry point, to make science as practical and immediate as possible.)",
+        "skills": ["Understand that sound is made of sound waves.", "Understand how our ears work.", "Understand what determines volume and pitch.", "Understand how singing and (the most common) musical instruments work.", "Explore the consequences of these ideas, such as the flash of thunder arriving earlier than the booming sound."]
+    },
+
+    "touch-and-tickle":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "Touch & Tickle",
+        "text": "This topic uses our sense of _Touch_ to explore more advanced scientific ideas. Why can we touch anything at all? Why do some things feel different? (The final five topics in Level 3 Science all use one of the five main senses as the entry point, to make science as practical and immediate as possible.)",
+        "skills": ["Understand the different states of matter: liquid, solid, gas.", "Understand how our skin/touch works.", "Understand nerves, stimuli, signals, and more.", "Explore the consequences of these ideas, such as habituation (getting used to a certain touch so you don't feel it as much anymore)."]
+    },
+
+    "smell-and-stink":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "Smell & Stink",
+        "text": "This topic uses our sense of _Smell_ to explore more advanced scientific ideas. Why can we smell anything at all? Why do some things smell awful? (The final five topics in Level 3 Science all use one of the five main senses as the entry point, to make science as practical and immediate as possible.)",
+        "skills": ["Understand how smell works (particles in air).", "Understand how our nose and smell receptors work.", "Know different kinds of smells, danger smells, and more.", "Explore the consequences of these ideas, such as poisonous gasses being especially dangerous if they're odorless."]
+    },
+
+    "taste-and-food":
+    {
+        "level": 3,
+        "subject": "science",
+        "label": "Taste & Food",
+        "text": "This topic uses our sense of _Taste_ to explore more advanced scientific ideas. Why can we taste anything at all? Why do people have different tastes? (The final five topics in Level 3 Science all use one of the five main senses as the entry point, to make science as practical and immediate as possible.)",
+        "skills": ["Understand how taste works: receptors on tongue.", "Know the five major tastes (and why that theory is not really correct).", "Know a variety of different foods; explore what they taste like, their nutritional value, and other properties.", "Explore the consequences of these ideas, such as food tasting differently if you can't smell it."]
+    },
+
+
+    "the-firefighter-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Firefighter Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about Firefighters.",
+        "skills": ["Understand what the job of a Firefighter entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-police-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Police Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about Police.",
+        "skills": ["Understand what the job of the Police entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-paramedic-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Paramedic Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Paramedic ( = first responder to emergencies, rides in ambulance).",
+        "skills": ["Understand what the job of a Paramedic entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-farmer-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Farmer Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Farmer.",
+        "skills": ["Understand what the job of a Farmer entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-veterinarian-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Veterinarian Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Veterinarian ( = 'pet doctor').",
+        "skills": ["Understand what the job of a Veterinarian entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-baker-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Baker Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Baker. (We chose this specific job because being able to prepare and sell food is a pretty crucial job in any society, bread is one of our first food inventions, and bakers in general have a nice and accessible image to kids.)",
+        "skills": ["Understand what the job of a Baker entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-shopkeeper-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Shopkeeper Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Shopkeeper. Apprentices will play games running their own shop (of whatever type they desire), experiencing the need to balance income and expenses, or keep enough stock, or do marketing.",
+        "skills": ["Understand what the job of a Shopkeeper entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-entrepeneur-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Entrepeneur Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being an Entrepeneur. For the purpose of this topic, it means you start your own company and/or are the leader of a company. As expected, the topic explores the idea of having to attract and pay coworkers, of growing your company, and so forth.",
+        "skills": ["Understand what the job of an Entrepeneur entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-spy-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Spy Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Spy. This is obviously not a likely or very important job, compared to something like a Farmer or Firefighter. But we added it because it's something exciting that kids love _and_ it provides ample opportunity to teach crucial skills.",
+        "skills": ["Understand what the job of a Spy entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-builder-calling":
+    {
+        "level": 3,
+        "subject": "mathematics",
+        "label": "The Builder Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Builder. Someone who constructs buildings or other important objects, used as a catch-all term for a large set of more specific jobs (like carpenter, engineer, etcetera). Those specific jobs will get their own topic later.",
+        "skills": ["Understand what the job of a Builder entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+
+
+    "focus-and-work":
+    {
+        "level": 3,
+        "subject": "social",
+        "label": "Focus & Work",
+        "text": "This topic creates habits to maintain focus and discipline. It's all part of a path towards Apprentices being able to work hard for what they want, and work independently. It also explores the typical requirements of any job or work you might have to do later in life.",
+        "skills": ["Learn about different habits that help or hurt focus and discipline.", "Be able to pick your own projects/goals, and work independently, for at least 30 minutes each day.", "Explore the idea of contracts, deadlines, expectations, and similar."]
+    },
+
+    "groups-and-roleplay":
+    {
+        "level": 3,
+        "subject": "social",
+        "label": "Groups & Roleplay",
+        "text": "Our curriculum gives a lot of time to social skills and collaboration in general, thanks to our focus on games and activities. We still wanted to include a single topic that is _fully_ focused on this. It's about self-confidence in big groups, but also about being able to look outside yourself and understand the perspective of those around you.",
+        "skills": ["Explore the idea of different groups and the different behavior people portray / is expected of them in each.", "Learn to step in other people's shoes through roleplaying, stories, and other simulations.", "Learn to access your emotions and act."]
+    },
+
+    "desires-and-preferences":
+    {
+        "level": 3,
+        "subject": "social",
+        "label": "Desires & Preferences",
+        "text": "Around this stage, Apprentices will quickly develop unique characters. They'll refuse to do certain things and stop listening to parents, and instead pick their own preferences or boundaries. This topic helps explore these feelings and ideas, and make this transition as painless as possible.",
+        "skills": ["Understand the idea of desires, preferences, wishes, and boundaries.", "Explore being able to communicate what you do and do not want.", "Practice being able to discuss and compromise on the different desires in a larger group.", "Explore standing up for yourself and setting/reading social or personal boundaries."]
+    },
+
+    "independence-and-individuality":
+    {
+        "level": 3,
+        "subject": "social",
+        "label": "Independence & Individuality",
+        "text": "@TODO: Should this not just be merged with Desires & Preferences?",
+        "skills": []
+    },
+
+    "my-first-history":
+    {
+        "level": 3,
+        "subject": "world",
+        "label": "My First History",
+        "text": "You might be surprised to see the very first history topic so 'late' in the curriculum. Why? History is important, but not _more_ important than being able to read or count. Major historic events are already sneakily taught through the games and stories in other topics. And finally, history is only useful if it's about understanding systems and events, _not_ just memorizing dates or names. Now that we're at Level 3, we can actually create proper games and stories to discover history in a fun and effective way.",
+        "skills": ["Understand what history and prehistory means.", "Understand why it's important: everything that happens now is the result of what happened before.", "Know the broad strokes of history: the major periods and what they mean.", "Understand the transition points between historic periods and what caused them."]
+    },
+
+    "my-first-economics":
+    {
+        "level": 3,
+        "subject": "world",
+        "label": "My First Economics",
+        "text": "Level 2 of our curriculum already taught about _money_ in a general and personal way. This topic takes it one step further by talking about money in a bigger system: a company, a bank, a government, the world! It introduces several basic ideas of economics and money flow that even young kids will have experienced already and can be interested in at this point.",
+        "skills": ["Understand the meaning of Economics.", "Understand the major parts of money flow: salaries, taxes, rent, etc.", "Explore maintaining an economy through simulations (such as games); see all the parts involved and the consequences of financial actions in a bigger system."]
+    },
+
+    "my-first-geography":
+    {
+        "level": 3,
+        "subject": "world",
+        "label": "My First Geography",
+        "text": "Level 2 of our curriculum already taught about local geography: know your own address, be able to read simple maps, etcetera. This topic takes it one step further and talks about the global Geography, which also includes Topography.",
+        "skills": ["Know the main continents of Earth.", "Know the main oceans of Earth.", "Know at least fifty countries and their capital.", "Understand the general geopolitical situation in your country and neighbor countries.", "Understand that countries can be subdivided further (into regions, provinces, etcetera).", "Know the differences between cities and towns, as well as different parts of a city."]
+    },
+
+
 
     "_LEVEL4": {},
 

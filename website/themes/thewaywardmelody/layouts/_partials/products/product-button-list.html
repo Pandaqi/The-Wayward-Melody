@@ -22,7 +22,9 @@
         <!--- All possible buttons are already present, we just toggle them on/off --->
         <div class="product-variant-buttons">
             {{ range $data.products }}
-                {{ partial "products/product-button.html" . }}
+                {{ $product_data := . }}
+                {{ $product_data = merge $product_data (dict "largesize" true) }}
+                {{ partial "products/product-button.html" $product_data }}
             {{ end }}
         </div>
     </div>

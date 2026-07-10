@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ $context := . }}
+{{ $data := .Site.Data }}
+{{ $all_pages := .Site.RegularPages }}
+{{ $levels := $data.curriculum.levels }}
+{{ range $index, $subjects := $levels }}
+  {{ $level_num := add $index 1 }}
+  <h2 id="level-{{ $level_num }}-overview">Level {{ $level_num }}</h2>
+  <div class="flex flex-center flex-wrap text-reader">
+    {{ range $key, $topics := $subjects }}
+    <section>
+    <h3>{{ $key | humanize }}</h3>
+    <ul>
+      {{ range $topics }}
+        {{ $topic := . }}
+        {{ $topic_data := index $data.spells $topic }}
+        {{ $pages := partial "func/get-all-with-spell.html" (dict "context" $context "spell" $topic) }}
+        {{ $num_pages := (len $pages) }}
+        {{ $something_to_show := and (gt $num_pages 0) $topic_data }}
+        {{ if $something_to_show }}
+        <li><a href="/spell/{{ $topic }}" title="{{ $topic_data.text | markdownify }}">{{ $topic_data.label }} ({{ $num_pages }})</a></li>
+        {{ else }}
+        <li><em>{{ $topic }}</em></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    </section>
+    {{ end }}
+  </div>
+{{ end }}
+
+{{ end }}

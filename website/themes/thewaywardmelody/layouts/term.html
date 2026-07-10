@@ -1,20 +1,94 @@
 {{ define "main" }}
+
+{{ $key := .Data.Plural }}
+{{ $value := .Data.Term }}
+{{ $is_level := eq $key "level" }}
+{{ $is_spell := eq $key "spell" }}
+{{ $spell_data := dict }}
+{{ $is_subject := eq $key "subject" }}
+
+{{ $title := .Title }}
+{{ if $is_spell }}
+    {{ $spell_data = index $.Site.Data.spells $value }}
+    {{ $title = $spell_data.label }}
+{{ end }}
+
 <header>
-{{ partial "views/banner-image" (dict "context" .) }}
+{{ partial "views/banner-image" (dict "context" . "title" $title) }}
 </header>
 
 <div>
 {{ .Content }}
 </div>
+
+<!--- Spells have a proper overview page of the topic, listing resources by faction --->
+{{ if $is_spell }}
+
+{{ $all_pages := partial "func/get-all-with-spell.html" (dict "context" . "spell" $value) }}
+<main>
+    <p class="align-center">Interested in teaching the topic <strong>&ldquo;{{ $spell_data.label }}&rdquo;</strong>? You'll find all resources and learning objectives here.</p>
+    <div class="double-view" style="align-items: start;">
+        <div class="double-view-item">
+            <h2 class="heading-decorations">Description</h2>
+            <p>{{ $spell_data.text | markdownify }}</p>
+        </div>
+        <div class="double-view-item">
+            <h2 class="heading-decorations">Objectives</h2>
+            <p>The learning objectives in this topic are defined as follows.</p>
+            <ul>
+                {{ range $spell_data.skills }}
+                <li>{{ . | markdownify }}</li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+    <div class="text-reader margin-m limit-width-m block-align-center">
+        <h2>Curriculum</h2>
+        <p>Click here to <a href="/info/curriculum/">go back to the curriculum</a>.</p>
+    </div>
+</main>
+
+<header>
+{{ partial "views/banner-image" (dict "context" . "title" "Teaching Resources") }}
+</header>
+
+{{ range $index, $faction := $.Site.Data.curriculum.factions }}
+    {{ $pages := where $all_pages "Section" "eq" $faction }}
+    {{ $num_pages := len $pages }}
+    {{ $no_pages := eq (len $pages) 0 }}
+
+    <h2><a href="/{{ $faction }}/">{{ $faction | humanize }} ({{ $num_pages }})</a></h2>
     
+    {{ if $no_pages }}
+        <p class="text-style-italic align-center">No resources of this type within this topic (yet) :(</p>
+    {{ end }}
+
+    <ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m flex-equal-size">
+        {{ range $pages }}
+            <li>{{ partial "products/product-summary" . }}</li>
+        {{ end }}
+    </ul>
+{{ end }}
+
+{{ end }}
+
+<!--- Everything else gets the standard Taxonomy Term page --->
+{{ if not $is_spell }}
+
 <main class="text-reader margin-m limit-width-m block-align-center">
-    {{ $key := .Data.Plural }}
-    {{ $value := .Title }}
+
     {{ $data := partial "func/get-taxonomy-data" (dict "context" . "key" $key "value" $value) }}
     <p>You searched for all products with property <span class="metadata-icon {{ $data.icon }}"></span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b> set to <b>&ldquo;{{ $data.value_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ partial "func/de-capitalize" . }}</em>){{ end }}</p>
-    {{ if eq $key "level" }}
+    {{ if $is_level }}
         <p>See <a href="/info/curriculum">Curriculum</a> for how to map our levels to the general curriculae of the major systems of education around the world.</p>
     {{ end }}
+    {{ if $is_subject }}
+        <p>See <a href="/info/curriculum">Curriculum</a> for how each subject is structured and the topics inside of them.</p>
+    {{ end }}
+    
 </main>
+
 {{ partial "products/product-list" (dict "context" . ) }}
+
+{{ end }}
 {{ end }}

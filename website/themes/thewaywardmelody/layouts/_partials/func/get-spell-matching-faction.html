@@ -1,0 +1,9 @@
+{{ $faction := .context.Section }}
+{{ $spell := .spell }}
+{{ $all_pages := partial "func/get-all-with-spell.html" (dict "context" .context "spell" $spell) }}
+{{ $matching_pages := where $all_pages "Section" "eq" $faction }}
+{{ $url := printf "/spell/%s" $spell }}
+{{ if gt (len $matching_pages) 0 }}
+    {{ $url = (index $matching_pages 0).RelPermalink }}
+{{ end }}
+{{ return $url }}

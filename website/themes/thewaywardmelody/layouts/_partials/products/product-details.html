@@ -1,0 +1,191 @@
+{{ $data_curriculum := partial "func/get-curriculum-data" . }}
+{{ $params := .Params }}
+
+<!--- Show a LIST of contents --->
+{{ $contents := or $params.contents slice }}
+{{ $has_contents := gt (len $contents) 0 }}
+{{ if $has_contents }}
+<div data-pagefind-weight="2">
+    <div class="section-foldable" data-folded="false">
+        <div class="section-foldable-header"><h3>Product Contents</h3></div>
+        <div class="section-foldable-content font-size-s">
+            <ul class="list-reduced-offset">
+                {{ range $contents }}
+                    <li>{{ . | markdownify }}</li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<!--- Extra attention given to LANGUAGES (as that's basically the most important first factor people will look for) --->
+{{ $languages := or .Params.language (slice "en") }}
+{{ if not (reflect.IsSlice $languages) }}{{ $languages = slice $languages }}{{ end }}
+{{ $is_multilang := gt (len $languages) 1 }}
+{{ if $is_multilang }}
+<div data-pagefind-weight="3">
+    <div class="section-foldable" data-folded="false">
+        <div class="section-foldable-header"><h3>Languages Supported</h3></div>
+        <div class="section-foldable-content font-size-s">
+            <p>This resource supports multiple languages:</p>
+            <ul class="list-reduced-offset">
+                {{ range $languages }}
+                    <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+
+<!--- A TABLE of miscellaneous details, always set in a dictionary on Params --->
+{{ $details := or $params.details dict }}
+{{ $important_metadata := slice "language" "age" "duration" "player-count" "subject" "textless" "color" "multiplayer-mode" "activity-structure" "interactive-media" "level" "categories" }}
+{{ range $key := $important_metadata }}
+    {{ $page_metadata := index $params $key }}
+    {{ if $page_metadata }}
+        {{ if reflect.IsSlice $page_metadata }}
+            {{ $page_metadata = delimit $page_metadata ", " }}
+        {{ end }}
+        {{ $details = $details | merge (dict $key $page_metadata) }}
+    {{ end }}
+{{ end }}
+{{ $has_details := gt (len $details) 0 }}
+{{ if $has_details }}
+<div data-pagefind-weight="1">
+    <div class="section-foldable" data-folded="false">
+        <div class="section-foldable-header"><h3>Fine Details</h3></div>
+        <div class="section-foldable-content font-size-s">
+            <table>
+                <thead><tr><td>Detail</td><td>Value</td></tr></thead>
+                {{ range $k,$v := $details }}
+                    {{ $title := "" }}
+                    {{ $metadata_details := index $.Site.Data.metadata $k }}
+                    {{ if $metadata_details }}
+                        {{ $title = index $metadata_details "desc" }}
+                        {{ $k = or (index $metadata_details "name") ($k | humanize) }}
+                    {{ end }}
+                    <tr title="{{ $title }}"><td><b>{{ $k }}</b></td><td>{{ $v | markdownify }}</td></tr>
+                {{ end }}
+            </table>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+
+<!--- Explanation of FACTION and the system of nudging people towards later factions --->
+{{ $same_spell_pages := $data_curriculum.shares }}
+{{ $has_connections := gt (len $same_spell_pages) 0 }}
+{{ $section := .Section }}
+<div data-pagefind-weight="2">
+    <div class="align-center">
+        <img src="/media/factions/faction_{{ $section }}.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for {{ $section }}" title="Faction icon for {{ $section }}">
+    </div>
+    <div class="section-foldable" data-folded="false">
+        <div class="section-foldable-header"><h3>Faction: {{ $section | humanize }}</h3></div>
+        <div class="section-foldable-content font-size-s">
+            <p>This resource is part of the <a href="/{{ $section }}/">{{ $section | humanize }}</a> Faction.<p>
+            <p>But that's just <em>one</em> way to teach and explore its topic(s)!<p>
+            <p>You can always move to a <strong>different Faction</strong> to find a more effective way to teach the same topic.</p>
+            <p><strong>Played a quiz? Try a game! Played a game? Try an escape room! And so on.</strong></p>
+
+            {{ if $has_connections }}
+            <p>For example,</p>
+            <nav data-pagefind-weight="1">
+                <ul class="list-reduced-offset">
+                    {{ range $same_spell_pages }}
+                        <li>{{ partial "views/faction-icon" (dict "context" .) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+
+<!--- Default CHARM text/summary and link --->
+{{ $charm_url := printf "/charm/%s" .Params.charm }}
+{{ $charm_page := .GetPage $charm_url }}
+{{ if and $charm_page $charm_page.Params.summary }}
+<div data-pagefind-weight="2">
+    <div class="align-center">
+        <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for explorers" title="Faction icon for explorers">
+    </div>
+    <div class="section-foldable" data-folded="false">
+        <div class="section-foldable-header"><h3>Charm: {{ $charm_page.Title }}</h3></div>
+        <div class="section-foldable-content font-size-s">
+            <p>This product is part of the <a href="{{ $charm_page.RelPermalink }}">{{ $charm_page.Title }}</a> charm.</p>
+            <p>Visit its main page to learn more about what that means. Below is a summary:</p>
+            <div class="text-style-italic">{{ $charm_page.Params.summary | markdownify }}</div>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+
+<!--- Explanation of SUBJECT being taught + place in curriculum --->
+{{ $spell := $data_curriculum.same_spell }}
+{{ $spell_data := index .Site.Data.spells $spell }}
+{{ $has_multiple_spells := gt (len $data_curriculum.same_spells) 1 }}
+{{ if $spell_data }}
+<div data-pagefind-weight="3">
+    <div class="align-center">
+        <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for explorers" title="Faction icon for explorers">
+    </div>
+    <div class="section-foldable" data-folded="false">
+        <div class="section-foldable-header"><h3>Spell: {{ $spell_data.label }}</h3></div>
+        <div class="section-foldable-content font-size-s">
+            <p>This resource is part of the <a href="/spell/{{ $spell }}">{{ $spell_data.label }}</a> subject (or "spell").</p>
+            <p class="text-style-italic">{{ $spell_data.text | markdownify }}</p>
+            {{ if $has_multiple_spells }}
+                <p>This resource also covers other topics. To keep things simple, the curriculum always considers the first topic listed to be the most important.</p>
+            {{ end }}
+            <p>Use the buttons below to navigate to the previous or next topic in the curriculum.</p>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+{{ $prev_spell := $data_curriculum.previous_spell }}
+{{ if $prev_spell }}
+    {{ $prev_spell_data := index .Site.Data.spells $prev_spell }}
+    {{ $url := partial "func/get-spell-matching-faction.html" (dict "context" . "spell" $prev_spell) }}
+    <a href="{{ $url }}" class="link-button">« {{ $prev_spell_data.label }}</a>
+{{ end }}
+
+{{ $next_spell := $data_curriculum.next_spell }}
+{{ if $next_spell }}
+    {{ $next_spell_data := index .Site.Data.spells $next_spell }}
+    {{ $url := partial "func/get-spell-matching-faction.html" (dict "context" . "spell" $next_spell) }}
+    <a href="{{ $url }}" class="link-button">{{ $next_spell_data.label }} »</a>
+{{ end }}
+
+<!--- Also EXTERNAL resources/links/references --->
+{{ $external := or .Params.external slice }}
+{{ if .Params.source }}
+    {{ $external = $external | append (dict "name" "Source Code" "url" .Params.source "desc" "The full source code and raw assets for this product, available for free and to use as you wish!") }}
+{{ end }}
+{{ $has_external := gt (len $external) 0 }}
+{{ if $has_external }}
+<div data-pagefind-weight="1">
+    <div class="section-foldable" data-folded="false">
+        <div class="section-foldable-header"><h3>External Enchantments</h3></div>
+        <div class="section-foldable-content font-size-s">
+            <p>We try to share the love and improve education, not be greedy goblins. That's why we <b>share source files</b> and <b>link related work of others</b> when possible. Check out the list below of what went into this project or what inspired it. If possible, support those people too!</p>
+            <table>
+                <thead><tr><td>Link</td><td>Explanation</td></tr></thead>
+                {{ range $external }}
+                    {{ $name := or .name "Unnamed" }}
+                    {{ $url := or .url "#" }}
+                    {{ $desc := or .desc "No description provided." }}
+                    <tr><td><a href="{{ $url }}">{{ $name }}</a></td><td>{{ $desc | markdownify }}</td></tr>
+                {{ end }}
+            </table>
+        </div>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,9 @@
+{{ $index := -1 }}
+{{ $element_to_match := .element }}
+{{ range $counter, $element := .list }}
+    {{ if eq $element $element_to_match }}
+        {{ $index = $counter }}
+        {{ break }}
+    {{ end }}
+{{ end }}
+{{ return $index }}

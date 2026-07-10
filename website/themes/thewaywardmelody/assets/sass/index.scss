@@ -127,6 +127,23 @@ $viewport-xl: 1280px;
     }
 }
 
+@mixin style-markdown-links-mixin
+{
+    a 
+    {
+        font-family: $font-family-accent;
+        font-weight: bold;
+        text-decoration: underline;
+        color: var(--color-accent);
+        @include transition-m;
+
+        &:hover {
+            color: var(--color-accent-contrast);
+            font-style: italic;
+        }
+    }
+}
+
 @mixin heading-decorations
 {
     &::before, &::after 
@@ -326,19 +343,7 @@ $viewport-xl: 1280px;
 
     .style-markdown-links, .style-markdown-links-inverted
     {
-        a 
-        {
-            font-family: $font-family-accent;
-            font-weight: bold;
-            text-decoration: underline;
-            color: var(--color-accent);
-            @include transition-m;
-
-            &:hover {
-                color: var(--color-accent-contrast);
-                font-style: italic;
-            }
-        }
+        @include style-markdown-links-mixin;
     }
 
     .style-markdown-links-inverted
@@ -349,6 +354,109 @@ $viewport-xl: 1280px;
                 color: var(--color-dark-xx);
             }
         }
+    }
+
+    .double-view
+    {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        gap: $size-m;
+        max-width: $viewport-xl;
+        margin: auto;
+
+        @media all and (max-width: $viewport-m)
+        {
+            flex-wrap: wrap;
+        }
+    }
+
+    .double-view-item
+    {
+        width: 100%;
+    }
+
+    .section-foldable
+    {
+        margin-top: $size-s;
+        margin-bottom: $size-s;
+
+        &[data-folded="true"]
+        {
+            .section-foldable-header::after {
+                content: "▾";
+            }
+        }
+
+        &[data-folded="false"]
+        {
+            .section-foldable-header::after {
+                content: "▴";
+            }
+        }
+
+        .section-foldable-header
+        {
+            background-color: var(--color-dark-x);
+            padding: $size-s;
+            border-radius: $size-s;
+            position: relative;
+
+            &::after {
+                font-size: 1.5em;
+                position: absolute;
+                top: 0.2em;
+                right: 0.1em;
+            }
+
+            &:hover 
+            {
+                cursor: pointer;
+                filter: brightness(130%);
+            }
+
+            h3 {
+                margin: 0;
+                font-family: $font-family-accent;
+                font-weight: bold;
+                //text-shadow: text-shadow-dark todo
+            }
+        }
+
+        .section-foldable-content
+        {
+            padding: $size-s;
+            border-radius: $size-xs;
+
+            p:first-child { margin-top: 0; }
+            p:last-child { margin-bottom: 0; }
+
+            @include style-markdown-links-mixin;
+
+            //color-links-inverted @TODO
+        }
+    }
+
+    .link-button
+    {
+        background-color: var(--color-dark-x);
+        padding: 0.66rem;
+        border-radius: 0.66rem;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        display: block;
+        width: 100%;
+        font-family: $font-family-accent;
+        font-weight: bold;
+        text-align: center;
+
+        &:hover
+        {
+            filter: brightness(130%);
+        }
+        
     }
 
     // Color Schemes
@@ -677,6 +785,13 @@ $viewport-xl: 1280px;
         padding: $size-s;
         margin: $size-s 0;
     }
+
+    .button-size-l {
+        font-size: $size-m;
+        border-radius: $size-s;
+        padding: $size-m;
+        margin: $size-m 0;
+    }
     
     // Common center aligning, width reducing block
     .block-column-and-center
@@ -765,6 +880,10 @@ $viewport-xl: 1280px;
         font-size: $size-xxl;
     }
 
+    .font-size-xxxl {
+        font-size: $size-xxxl;
+    }
+
     .text-style-italic {
         font-style: italic;
     }
@@ -847,6 +966,10 @@ $viewport-xl: 1280px;
 
     .text-color-dark-xx {
         color: var(--color-dark-xx);
+    }
+
+    .text-color-dark-x {
+        color: var(--color-dark-x);
     }
 
     .text-color-mid {
@@ -935,6 +1058,14 @@ $viewport-xl: 1280px;
 
     .gap-m {
         gap: $size-m;
+    }
+
+    .gap-l {
+        gap: $size-l;
+    }
+    
+    .gap-xl {
+        gap: $size-xl;
     }
 
     .height-xxxs
@@ -1161,6 +1292,11 @@ $viewport-xl: 1280px;
     }
 
     // Paragraphs & Lists
+    .list-reduced-offset
+    {
+        padding-left: 1em;
+    }
+
     .remove-list-styling
     {
         & {

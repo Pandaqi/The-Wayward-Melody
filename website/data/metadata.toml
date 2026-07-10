@@ -83,7 +83,7 @@
     desc = "Whether the product is destroyed through usage, usually forcing you to print it again. By default, all our products ARE reusable."
 
 [level]
-    desc = "The general grade or skill needed to enjoy this material."
+    desc = "The general level needed to enjoy this material. (Check our curriculum to see how this relates to grade or age.)"
 
 [search]
     desc = "The general search function for this website."
