@@ -1,5 +1,6 @@
 ---
 title: "Lesson Material"
+summary: "Lesson Material refers to anything you can directly use in a classroom or when homeschooling. They are a guide for Guardians so they know what to do/teach, as well as the textbook or initial explanation of a skill/topic for Apprentices.\n\nThis charm represents the base product of our curriculum and the type of resource you'd use in a typical school setting."
 ---
 
 {{% double-view %}}

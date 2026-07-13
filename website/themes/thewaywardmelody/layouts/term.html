@@ -10,7 +10,9 @@
 {{ $title := .Title }}
 {{ if $is_spell }}
     {{ $spell_data = index $.Site.Data.spells $value }}
-    {{ $title = $spell_data.label }}
+    {{ if $spell_data }}
+        {{ $title = $spell_data.label }}
+    {{ end }}
 {{ end }}
 
 <header>
@@ -25,26 +27,31 @@
 {{ if $is_spell }}
 
 {{ $all_pages := partial "func/get-all-with-spell.html" (dict "context" . "spell" $value) }}
+
 <main>
-    <p class="align-center">Interested in teaching the topic <strong>&ldquo;{{ $spell_data.label }}&rdquo;</strong>? You'll find all resources and learning objectives here.</p>
+    <p class="align-center block-column-and-center text-reader">Interested in teaching the topic <strong>&ldquo;{{ $title }}&rdquo;</strong>? You'll find all resources and learning objectives here. Or <a href="/info/curriculum/#{{ $value }}">go back to the curriculum</a>.</p>
     <div class="double-view" style="align-items: start;">
         <div class="double-view-item">
             <h2 class="heading-decorations">Description</h2>
-            <p>{{ $spell_data.text | markdownify }}</p>
+            {{ if $spell_data }}
+                <p>{{ $spell_data.text | markdownify }}</p>
+            {{ else }}
+                <p class="text-style-italic">This topic has no custom description.</p>
+            {{ end }}
         </div>
         <div class="double-view-item">
             <h2 class="heading-decorations">Objectives</h2>
-            <p>The learning objectives in this topic are defined as follows.</p>
-            <ul>
-                {{ range $spell_data.skills }}
-                <li>{{ . | markdownify }}</li>
-                {{ end }}
-            </ul>
+            {{ if $spell_data }}
+                <p>The learning objectives in this topic are defined as follows.</p>
+                <ul>
+                    {{ range $spell_data.skills }}
+                    <li>{{ . | markdownify }}</li>
+                    {{ end }}
+                </ul>
+            {{ else }}
+                <p class="text-style-italic">This topic has no learning objectives set.</p>
+            {{ end }}
         </div>
-    </div>
-    <div class="text-reader margin-m limit-width-m block-align-center">
-        <h2>Curriculum</h2>
-        <p>Click here to <a href="/info/curriculum/">go back to the curriculum</a>.</p>
     </div>
 </main>
 

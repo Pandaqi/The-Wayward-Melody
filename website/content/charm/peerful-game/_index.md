@@ -1,5 +1,6 @@
 ---
 title: "Peerful Game"
+summary: "Peerful Games are video games where people play using their phones (think Jackbox Games). The game itself can be started on any device (with a large screen) in a browser.\n\nMost people have a phone nowadays. This kind of setup allows giving every player their own 'controller' for free, which allows plenty of very creative yet accessible games."
 ---
 
 {{% double-view %}}

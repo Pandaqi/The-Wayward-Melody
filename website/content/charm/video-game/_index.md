@@ -1,6 +1,6 @@
 ---
 title: "Video Game"
-summary: "These are digital games that require practicing a skill or learning about a topic to get better and progress. Most are single player---to be played alone---but some are multiplayer and should be played together. Check out [How To Install Our Games](/info/library/wisdom/how-to-install-our-games/) for help."
+summary: "These are digital games that require practicing a skill or learning about a topic to get better and progress. Most are single player---to be played alone---but some are multiplayer and should be played together.\n\nCheck out [One Button Games](/charm/one-button-games/) for video games explicitly made to play as a group. Check out [How To Install Our Games](/info/library/wisdom/how-to-install-our-games/) for help."
 ---
 
 {{% double-view %}}

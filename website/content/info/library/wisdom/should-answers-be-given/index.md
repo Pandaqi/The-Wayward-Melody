@@ -8,7 +8,7 @@ Without answers, you might have tried to solve that equation for 30 minutes. But
 
 I have thought about this a lot over the years. And I've experienced many different perspectives from teachers and students alike. I write this article because I finally have a firm answer. 
 
-I just explained my professors who were obsessed with asking questions and never giving answers. In high school, though, I had the opposite experience. One of our math teachers---the best I ever had---had personally worked out _all exercises in our entire math program_ and put them online in nice PDFs on his personal website. Even other schools in the region used that. Everyone had _all the answers_, including how to get there.
+I just explained that my professors who were obsessed with asking questions and never giving answers. In high school, though, I had the opposite experience. One of our math teachers---the best I ever had---had personally worked out _all exercises in our entire math program_ and put them online in nice PDFs on his personal website. Even other schools in the region used that. Everyone had _all the answers_, including how to get there.
 
 Did it ruin everyone's grades? Did everyone stop doing homework? Did everyone just mess around and do nothing in math class for years? 
 

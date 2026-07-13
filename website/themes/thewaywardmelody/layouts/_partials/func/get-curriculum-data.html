@@ -16,7 +16,7 @@
     {{ $previous_spell_pages = partial "func/get-all-with-spell.html" (dict "context" . "spell" $previous_spell) }}
 {{ end }}
 
-{{ $next_spell_pages := slic }}
+{{ $next_spell_pages := slice }}
 {{ $next_spell := "" }}
 {{ if $first_spell }}
     {{ $next_spell = partial "func/get-next-spell.html" (dict "context" . "spell" $first_spell) }}

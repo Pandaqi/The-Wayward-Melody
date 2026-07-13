@@ -6,7 +6,7 @@ price: 8.95
 date: 2025-02-18
 image: ["tangram-games-header.webp", "tangram-games-1.webp", "tangram-games-2.webp", "tangram-games-3.webp"]
 file: "@TODO"
-spell: ["tessellas-toolbox", "my-first-shapes"]
+spell: ["my-first-shapes", "tessellas-toolbox"]
 charm: "board-game"
 description: | 
   Did you love solving our Tangram puzzles?

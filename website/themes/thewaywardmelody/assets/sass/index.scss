@@ -272,6 +272,32 @@ $viewport-xl: 1280px;
         display: block;
     }
 
+    input
+    {
+        display: block;
+        padding: $size-s;
+        font-family: $font-family-body;
+        border-radius: $size-s;
+        border: none;
+    }
+
+    input[type="text"]
+    {
+        width: 100%;
+    }
+
+    input[type="submit"]
+    {
+        background-color: var(--color-light-x);
+        color: var(--color-dark-xx);
+
+        &:hover {
+            background-color: var(--color-dark-x);
+            color: var(--color-light-xx);
+            cursor: pointer;
+        }
+    }
+
     img {
         max-width: 100%;
         max-height: 100%;
@@ -376,6 +402,29 @@ $viewport-xl: 1280px;
     .double-view-item
     {
         width: 100%;
+    }
+
+    .checkout-header
+    {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: $size-s;
+        background-color: var(--color-dark-x);
+        border-radius: $size-xs;
+        font-family: $font-family-heading;
+
+        @media all and (max-width: $viewport-m)
+        {
+            position: relative;
+            right: auto;
+            top: auto;
+            border-radius: 0;
+
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: space-evenly;
+        }
     }
 
     .section-foldable
@@ -793,13 +842,7 @@ $viewport-xl: 1280px;
         margin: $size-m 0;
     }
     
-    // Common center aligning, width reducing block
-    .block-column-and-center
-    {
-        margin: $size-m;
-        max-width: $viewport-m;
-        margin: auto;
-    }
+
 
     // Fixed Table Layout
     table 
@@ -888,6 +931,10 @@ $viewport-xl: 1280px;
         font-style: italic;
     }
 
+    .text-uppercase {
+        text-transform: uppercase;
+    }
+
     .text-weight-bold {
         font-weight: bold;
     }
@@ -964,6 +1011,10 @@ $viewport-xl: 1280px;
         color: var(--color-light-xx);
     }
 
+    .text-color-light-x {
+        color: var(--color-light-x);
+    }
+
     .text-color-dark-xx {
         color: var(--color-dark-xx);
     }
@@ -1018,6 +1069,10 @@ $viewport-xl: 1280px;
         padding: $size-m;
     }
 
+    .padding-xl {
+        padding: $size-xl;
+    }
+
     .margin-none {
         margin: 0;
     }
@@ -1028,6 +1083,14 @@ $viewport-xl: 1280px;
 
     .margin-m {
         margin: $size-m;
+    }
+
+    .margin-l {
+        margin: $size-l;
+    }
+
+    .margin-xl {
+        margin: $size-xl;
     }
 
     .margin-vertical-s {
@@ -1135,6 +1198,15 @@ $viewport-xl: 1280px;
 
     .limit-width-xl {
         max-width: $viewport-xl;
+    }
+
+    // Common center aligning, width reducing block
+    .block-column-and-center
+    {
+        margin: $size-m;
+        max-width: $viewport-m;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     // Background
@@ -1307,6 +1379,13 @@ $viewport-xl: 1280px;
             li {
                 list-style-type: none;
             }
+        }
+    }
+
+    ul.list-items-spaced {
+        li {
+            margin-top: 1em;
+            margin-bottom: 1em;
         }
     }
 

@@ -1,5 +1,6 @@
 ---
 title: "Activity Aid"
+summary: "Activity Aids are tools to organize specific group activities or help create your own activities. In general, an activity is more loosely defined than a game, perhaps without objective or clear rules."
 ---
 
 {{% double-view %}}

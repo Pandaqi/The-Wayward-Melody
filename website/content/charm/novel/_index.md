@@ -1,5 +1,6 @@
 ---
 title: "Novel"
+summary: "Novels are written stories. We provide them in both digital format (ideal for ereaders) and physical format (ideal for printing).\n\nMany of our stories can be bought in bookstores or rented from libraries too. Most of them center around an educational topic and explore that in tense and exciting ways."
 ---
 
 {{% double-view %}}

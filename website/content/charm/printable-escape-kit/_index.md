@@ -1,5 +1,6 @@
 ---
 title: "Printable Escape Kit"
+summary: "Printable Escape Kits are escape room experiences meant to be printed (and thus played physically, offline).\n\nEscape Rooms are a combination of puzzles and mysteries that you try to solve as a group, so you can \"escape\" before time runs out. Because every puzzle presents a revelation or new information, they are great educational tools."
 ---
 
 {{% double-view %}}

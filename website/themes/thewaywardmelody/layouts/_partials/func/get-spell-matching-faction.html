@@ -2,8 +2,19 @@
 {{ $spell := .spell }}
 {{ $all_pages := partial "func/get-all-with-spell.html" (dict "context" .context "spell" $spell) }}
 {{ $matching_pages := where $all_pages "Section" "eq" $faction }}
+{{ $matching_pages = $matching_pages | shuffl }}
 {{ $url := printf "/spell/%s" $spell }}
 {{ if gt (len $matching_pages) 0 }}
-    {{ $url = (index $matching_pages 0).RelPermalink }}
+    {{ $selected_page := index $matching_pages 0 }}
+<!--- This is merely to prevent selecting OURSELVES; if so, select the next one, or abort --->
+    {{ if eq $selected_page .context }}
+        {{ $selected_page = "" }}
+        {{ if gt (len $matching_pages) 1 }}
+            {{ $selected_page = index $matching_pages 1 }}
+        {{ end }}
+    {{ end }}
+    {{ if $selected_page }}
+        {{ $url = $selected_page.RelPermalink }}
+    {{ end }}
 {{ end }}
 {{ return $url }}

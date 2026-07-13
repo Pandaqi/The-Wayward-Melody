@@ -111,6 +111,8 @@
     {{ end }}
 </article>
 
+{{ partial "navigation/curriculum-navigation-block.html" . }}
+
 <!--- Dynamic promo based on time of year --->
 {{ partialCached "views/promo-data.html" . }}
 

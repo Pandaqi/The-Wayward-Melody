@@ -1,5 +1,6 @@
 ---
 title: "Board Game"
+summary: "Board Games are simply physical games (as opposed to video games). They could be played using cards, without a board, with players physically moving around, anything.\n\nOur board games follow the rule that your first game should only require a single page of setup + rules. Most of them are cooperative multiplayer experiences."
 ---
 
 {{% double-view %}}

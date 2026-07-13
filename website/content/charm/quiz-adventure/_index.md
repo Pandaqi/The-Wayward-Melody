@@ -1,5 +1,6 @@
 ---
 title: "Quiz Adventure"
+summary: "Quiz Adventures are quiz experiences that blur the lines between quiz and activity/game. They're interactive, they might have rules, they might have physical material, they might have an exciting story that helps you discover the answers."
 ---
 
 {{% double-view %}}

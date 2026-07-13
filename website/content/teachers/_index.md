@@ -60,15 +60,17 @@ You don't need a special license or permission for anything. You bought the expe
 
 {{% /section-foldable %}}
 
-{{% section-foldable header="Who are you and why do you create these?" %}}
+{{% section-foldable header="Why would I use these?" %}}
 
-As stated at my other educational projects, I've been a huge fan of _learning_ since I was born. When I was just 7 years old, I was already researching how humans actually learn, reading studies about our brain, memory, problem solving, creativity, and more. (That's how I could teach myself all the skills needed for developing this webshop, for example!)
+We've always been huge fans of _learning_. Unfortunately, **our educational systems fall short**. They do the exact _opposite_ of what science suggests. They don't teach the practical skills people actually need to be an adult. They ruin learning until every kid believes being smart is supposed to be stupid, hard, and not for them.
 
-Unfortunately, **to say our educational systems fall short would be a massive understatement**. They do the exact _opposite_ of what science suggests. They ruin learning until every kid believes being smart is supposed to be stupid, hard, and not for them.
+We create these materials based on our understanding of how learning actually works. How to make it fun and effective. How to actually achieve something, without treating children like obedient little workers. Hopefully these educational materials and activities can enlighten and satisfy many children---and adults!---around the world.
 
-I create these materials based on my understanding of how learning actually works. How to make it fun and effective. How to actually achieve something, without treating children like obedient little workers. Hopefully these educational materials and activities can enlighten and satisfy many children---or adults!---around the world.
+At the same time, we understand that **teachers have to follow the rules**! All resources in this category were made explicitly to slot into the existing curriculum. To be helpful tools on top of what your school requires from you, or helpful tools to a homeschooling parent who feels overwhelmed.
 
-And I hope that, after you've found these materials and used them, you might be encouraged to try materials from the _next_ Faction. Try a Quiz instead. A puzzle. An educational game. The products in Teachers are a stepping stone, a first introduction, guiding you towards the places where learning actually happens.
+Most of all, we hope that, after you've found these materials and used them, you're encouraged to try materials from the _next_ Faction. Try a quiz instead. A puzzle. An educational game. The products in Teachers are a stepping stone, a first introduction, guiding you towards the places where learning actually happens.
+
+Rome wasn't build in a day. Schools are like massive oil tankers that take a while to turn. The resources in this Faction align as much with the _current_ curriculae/systems as possible.
 
 {{% /section-foldable %}}
 

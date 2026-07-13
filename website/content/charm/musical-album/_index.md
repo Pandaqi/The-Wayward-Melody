@@ -1,5 +1,6 @@
 ---
 title: "Musical Album"
+summary: "Musical Albums are collections of songs. You receive the raw files to listen to and use however you wish."
 ---
 
 {{% double-view %}}

@@ -63,15 +63,17 @@ Obviously, by the time this little boy became an adult, I had no funds and no in
 
 This webshop is the result of all that. A nice and cozy home for some of my _paid_ work. I feel somewhat comfortable giving these things a price tag, while keeping everything else I make as free and accessible as before.
 
+This online store has grown into a massive project that aims to reinvent the entire curriculum. Tiamo started it, but he's not the only reason it exists anymore ;)
+
 ## The Shared Universe
 
-Want to see my other websites? They're all completely free and accessible, without so much as a single advertisement, as promised.
+Want to see our other websites? They're all completely free and accessible, without so much as a single advertisement, as promised.
 
 * [Pandaqi Games](https://pandaqi.com) => over 200 free board games and video games of professional quality. Also contains a blog that explains the process of making each one, spilling the secrets.
-* [Pandaqi Tutorials](https://pandaqi.com/tutorials/) => over 500 free high-quality tutorials teaching some of the skills I am using every day, from programming, to designing, to productivity and mental health.
+* [Pandaqi Tutorials](https://pandaqi.com/tutorials/) => over 500 free high-quality tutorials teaching some of the skills we're using every day, from programming, to designing, to productivity and mental health.
 * [The Saga of Life](https://thesagaoflife.com) => a massive website with interconnected short stories (both English and Dutch). Gets updated each year. Completely free to access, designed for _reading_ and _enjoying the stories_.
-* [Tiamo Pastoor](https://tiamopastoor.com) => my author/writing website with links and updates to all my books, as well as my _personal_ blog.
-* [El Troubadour](https://eltroubadour.com) => my music website, containing lyrics/chords for my songs, and links + background information for all my streamable albums.
-* [Rode Panda](https://rodepanda.com) => my portfolio that connects everything I ever made in a way that's easy to navigate.
+* [Tiamo Pastoor](https://tiamopastoor.com) => Tiamo's author/writing website with links and updates to all my books, as well as his _personal_ blog.
+* [El Troubadour](https://eltroubadour.com) => Tiamo's music website, containing lyrics/chords for my songs, and links + background information for all my streamable albums.
+* [Rode Panda](https://rodepanda.com) => Tiamo's portfolio that connects everything I ever made in a way that's easy to navigate.
 
 Now go forth and make life magical!

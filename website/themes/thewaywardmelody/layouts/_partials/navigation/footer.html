@@ -1,52 +1,79 @@
-<footer class="bg-color-dark-x text-color-light-xx padding-s font-size-m background-texture">
-    <div class="flex flex-wrap-below-m gap-s limit-width-l block-align-center">
-        <!--- Tiny more personal bit about the website --->
-        <nav class="maximize-width limit-width-m">
-            <h3 class="align-left">The Wayward Melody</h3>
-            <p class="font-size-s text-style-italic text-color-accent">Once upon a time, a boy created many works of art. Activities that bring you joy, activities that make you smart. He opened a webshop to sell them all. When asked to play, will you answer the call?</p>
-            <p class="font-size-s">Hi, I'm <a class="underline" href="/info/about/">Tiamo Pastoor</a>, the wizard behind this wayward webcoin world. I've been creating (educational) stories, games, music, activities, and tutorials for 15+ years. This store presents all my spells and charms attached to (hopefully) a fair price tag, a nice design, and a consistent curriculum to follow. <a class="underline" href="/info/philosophy/">Read our magical philosophy!</a></p>
-        </nav>
+<footer>
+    <section class="bg-color-dark-x text-color-light-xx padding-xl background-texture">
+        {{ partial "navigation/search-block.html" . }}
+    </section>
 
-        <!--- All major categories to visit --->
-        <nav class="maximize-width limit-width-m">
-            <h3 class="align-left">Products</h3>
-            {{ partial "navigation/faction-list.html" (dict "context" . "show_all" true "responsive" false "show_home" false "class" "flex-vertical-list" ) }}
-        </nav>
-
-        <!--- Details about policy, shipping, etcetera --->
-        <nav class="maximize-width limit-width-m">
-            <h3 class="align-left">Search & Store</h3>
-            <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
-                <li><a href="#" title="Go to Cart" class="snipcart-checkout navigation-link"><div class="metadata-icon metadata-icon-cart"></div>Go to Cart</a></li>
-                <li><a href="#" title="Create/Visit Account" class="snipcart-customer-signin navigation-link"><div class="metadata-icon metadata-icon-account"></div>Go to Account</a></li>
-                <li><a href="/info/search/" class="navigation-link"><div class="metadata-icon metadata-icon-search"></div>Search</a></li>
-                <li><a href="#" class="navigation-link button-light-mode">Switch to Light Mode</a></li>
+    <!--- Some nice oneliners and general affirmations to clients --->
+    <section class="padding-xl">
+        <h2 class="heading-decorations margin-none">We're magic!</h2>
+        <div class="block-column-and-center">
+            <p class="align-center text-style-italic">Ever dreamed of education that's done entirely through play? Dreamed of education that doesn't tear kids down but actually builds them up? A curriculum away from screens or textbooks, and with a higher focus on practical and social skills? Then we share the same dream!</p>
+            <ul class="remove-list-styling text-weight-bold list-items-spaced">
+                <li>✅ Make learning magical and playful again, for everyone involved.</li>
+                <li>✅ Pay once, use forever. No restrictions, surprises, or dark magic sales tactics.</li>
+                <li>✅ Education based on what's fun and what works&mdash;because those are the same thing.</li>
+                <li>✅ Healthy and natural: social activities, limited screens, lots of exercise.</li>
+                <li>✅ Independent and principled: no ads, no agenda, no waste, no privacy issues, no nonsense.</li>
+                <li>✅ No account or subscription required. Most resources are digital and available immediately.</li>
             </ul>
-        </nav>
+        </div>
+    </section>
 
-        <nav class="maximize-width limit-width-m">
-            <h3 class="align-left">Fine Details</h3>
-            <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
-                <li><a href="/info/library/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Library</a></li>
-                <li><a href="/info/about/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>About</a></li>
-                <li><a href="/info/philosophy/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Philosophy</a></li>
-                <li><a href="/info/curriculum/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Curriculum</a></li>
-                <li><a href="/info/contact/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Contact</a></li>
-                <li><a href="/info/faq/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>FAQ</a></li>
-                <li><a href="/info/privacy-policy/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Privacy Policy</a></li>
-                <li><a href="/info/terms-and-conditions/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Terms & Conditions</a></li>
-                
-            </ul>
-        </nav>
-    </div>
+    <section class="bg-color-dark-x text-color-light-xx padding-xl background-texture">
+        <h2 class="heading-decorations margin-none">Footnotes</h2>
+        <div class="flex flex-wrap-below-m gap-s limit-width-l block-align-center">
+            <!--- Tiny more personal bit about the website --->
+            <nav class="maximize-width limit-width-m">
+                <h3 class="align-left heading-decorations">The Wayward Melody</h3>
+                <p class="text-style-italic text-color-accent">Once upon a time, a boy made many works of art. Activities that bring you joy, activities that make you smart. He opened a store to sell them all. When asked to play, will you answer the call?</p>
+                <p>What started as the dream of one person has grown into this massive online store innovating education. Join us on this adventure!</p>
+                <!--- <p>Hi, I'm <a class="underline" href="/info/about/">Tiamo Pastoor</a>, the wizard behind this wayward webcoin world. I've been creating (educational) stories, games, music, activities, and tutorials for 15+ years. This store presents all my spells and charms attached to (hopefully) a fair price tag, a nice design, and a consistent curriculum to follow. <a class="underline" href="/info/philosophy/">Read our magical philosophy!</a></p> --->
+            </nav>
+
+            <nav class="maximize-width limit-width-m">
+            <h3 class="align-left heading-decorations">A Wizard's Favorites</h3>
+                <p>You can read <strong>all</strong> our articles in the <a class="underline" href="/info/library">Library</a>.</p>
+                @TODO
+            </nav>
+
+            <!--- Details about policy, shipping, etcetera --->
+            <nav class="maximize-width limit-width-m">
+                <h3 class="align-left heading-decorations">Search & Store</h3>
+                <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
+                    <li><a href="#" title="Go to Cart" class="snipcart-checkout navigation-link"><div class="metadata-icon metadata-icon-cart"></div>Go to Cart</a></li>
+                    <li><a href="#" title="Create/Visit Account" class="snipcart-customer-signin navigation-link"><div class="metadata-icon metadata-icon-account"></div>Go to Account</a></li>
+                    <li><a href="/info/search/" class="navigation-link"><div class="metadata-icon metadata-icon-search"></div>Search</a></li>
+                    <li><a href="#" class="navigation-link button-light-mode">Switch to Light Mode</a></li>
+                </ul>
+            </nav>
+
+            <nav class="maximize-width limit-width-m">
+                <h3 class="align-left heading-decorations">Fine Details</h3>
+                <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
+                    <li><a href="/info/about/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>About</a></li>
+                    <li><a href="/info/philosophy/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Philosophy</a></li>
+                    <li><a href="/info/contact/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Contact</a></li>
+                    <li><a href="/info/faq/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>FAQ</a></li>
+                    <li><a href="/info/privacy-policy/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Privacy Policy</a></li>
+                    <li><a href="/info/terms-and-conditions/" class="navigation-link"><div class="faction-icon faction-icon-info"></div>Terms & Conditions</a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </section>
+
+    <section class="padding-xl">
+        {{ partial "navigation/quick-links-block.html" . }}
+    </section>
 
     <div class="align-center padding-s margin-m font-size-s text-style-italic">
-        <b>Rode Panda (Tiamo Pastoor)</b> 2025&mdash;{{ now.Year }} &middot; 
+        <b>Rode Panda</b> 2025&mdash;{{ now.Year }} &middot; 
         All rights reserved© &middot;
         <a class="underline hover_brighten" href="/info/about">About</a> &middot;
-        <a class="underline hover_brighten" href="https://rodepanda.com">The Wayward Portfolio</a> &middot;
         <a class="underline hover_brighten" href="https://pandaqi.com">The Wayward Game Studio</a> &middot;
         <a class="underline hover_brighten" href="https://tiamopastoor.com">The Wayward Storyteller</a> &middot;
         <a class="underline hover_brighten" href="https://eltroubadour.com">Actual Wayward Melodies</a>        
     </div>
+
+    
 </footer>

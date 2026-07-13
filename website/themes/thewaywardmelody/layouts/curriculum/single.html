@@ -21,7 +21,7 @@
         {{ $num_pages := (len $pages) }}
         {{ $something_to_show := and (gt $num_pages 0) $topic_data }}
         {{ if $something_to_show }}
-        <li><a href="/spell/{{ $topic }}" title="{{ $topic_data.text | markdownify }}">{{ $topic_data.label }} ({{ $num_pages }})</a></li>
+        <li><a href="/spell/{{ $topic }}" id="{{ $topic }}" title="{{ $topic_data.text | markdownify }}">{{ $topic_data.label }} ({{ $num_pages }})</a></li>
         {{ else }}
         <li><em>{{ $topic }}</em></li>
         {{ end }}

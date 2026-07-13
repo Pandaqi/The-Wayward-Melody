@@ -1,0 +1,19 @@
+{{ $current_spell := or .Params.spell "" }}
+{{ $is_spell_overview := eq .Data.Plural "spell" }}
+{{ if $is_spell_overview }}{{ $current_spell = .Data.Term}}{{ end }}
+{{ $prev_spell := "" }}
+{{ $prev_spell_url := "" }}
+{{ $next_spell := "" }}
+{{ $next_spell_url := "" }}
+{{ if $current_spell }}
+    {{ if reflect.IsSlice $current_spell }} 
+        {{ $current_spell = index $current_spell 0 }}
+    {{ end }}
+
+    {{ $prev_spell = partial "func/get-previous-spell.html" (dict "context" . "spell" $current_spell) }}
+    {{ $prev_spell_url = partial "func/get-spell-matching-faction.html" (dict "context" . "spell" $prev_spell) }}
+
+    {{ $next_spell = partial "func/get-next-spell.html" (dict "context" . "spell" $current_spell) }}
+    {{ $next_spell_url = partial "func/get-spell-matching-faction.html" (dict "context" . "spell" $next_spell) }}
+{{ end }}
+{{ return dict "previous_url" $prev_spell_url "previous" $prev_spell "current" $current_spell "next" $next_spell "next_url" $next_spell_url }}

@@ -1,29 +1,58 @@
-<header class="bg-color-dark-x text-color-light-xx font-heading padding-s font-size-m background-texture">
+<header>
     <nav>
         <!-- @NOTE: These class names MUST be present for Snipcart to recognize this as the "open cart" button --->
-        <div class="position-absolute anchor-top-right padding-s bg-color-dark-x rounded-xs">
+        <div class="checkout-header">
             <a href="#" title="Go To Checkout" class="snipcart-checkout">
                 <div class="metadata-icon metadata-icon-cart"></div>
                 <span class="snipcart-total-price"></span>
                 (<span class="snipcart-items-count"></span> Items)
-            </a><br>
-            <a href="#" class="snipcart-customer-signin" title="Create/Visit Account">
-                <div class="metadata-icon metadata-icon-account"></div>
-                <span>Account</span>
             </a>
         </div>
-    <nav>
-
-    <!--- Main (clickable) logo and name --->
-    {{ if .IsHome }}
-    <nav>
-        <a href="{{ .Site.BaseURL }}" id="header-logo" class="flex flex-center margin-s height-xs gap-s" aria-label="Store Logo (link to homepage)" title="Store Logo (link to homepage)">
-            <img src="/css/logos/twwm_favicon_minimal.png" style="filter:invert()" alt="Store Logo (The Wayward Melody)" width="64" height="64">
-            <h1 class="hide-m">The Wayward Melody</h1>
-        </a>
     </nav>
-    {{ end }}
 
-    <!--- All major categories to visit --->
-    {{ partial "navigation/faction-list.html" (dict "context" . "show_all" false "responsive" true "show_home" true) }}
+    <div class="bg-color-dark-x text-color-light-xx font-heading padding-s font-size-m background-texture">
+        <!--- Main (clickable) logo and name --->
+        {{ if .IsHome }}
+        <nav>
+            <a href="{{ .Site.BaseURL }}" id="header-logo" class="flex flex-center margin-s height-xs gap-s" aria-label="Store Logo (link to homepage)" title="Store Logo (link to homepage)">
+                <img src="/css/logos/twwm_favicon_minimal.png" style="filter:invert()" alt="Store Logo (The Wayward Melody)" width="64" height="64">
+                <h1 class="hide-m">The Wayward Melody</h1>
+            </a>
+        </nav>
+        {{ end }}
+
+        <!--- All major categories to visit --->
+        {{ partial "navigation/faction-list.html" (dict "context" . "show_all" false "responsive" true "show_home" false) }}
+    </div>
+
+    <div class="bg-color-dark-xx text-color-light-x padding-s background-texture font-accent font-size-s">
+        <!--- Special pages quick links --->
+        {{ $curriculum_data := partial "func/get-curriculum-navigation-data.html" . }}
+        <nav class="flex flex-wrap" style="justify-content: space-evenly;">
+            {{ if $curriculum_data.current }}
+                {{ $spell_data := index .Site.Data.spells $curriculum_data.previous }}
+                {{ if $spell_data }}
+                    <a href="{{ $curriculum_data.previous_url }}" class="hover_underline">« {{ $spell_data.label }}</a>
+                {{ else }}
+                    <div class="text-style-italic">No Previous Topic :(</div>
+                {{ end }}
+            {{ end }}
+            <ul class="remove-list-styling flex flex-wrap flex-center gap-m margin-m">
+                <li><a href="/" class="hover_underline">Home</a></li>
+                <li><a href="/info/free-resources/" class="hover_underline">Free Resources</a></li>
+                <li><a href="/info/the-helpful-hat/" class="hover_underline">Help! What should I choose?</a></li>
+                <li><a href="/info/search/" class="hover_underline">Search</a></li>
+                <li><a href="/info/curriculum/" class="hover_underline">Full Curriculum</a></li>
+                <li><a href="#" class="snipcart-checkout hover_underline">Shopping Cart</a></li>
+            </ul>
+            {{ if $curriculum_data.current }}
+                {{ $spell_data := index .Site.Data.spells $curriculum_data.next }}
+                {{ if $spell_data }}
+                    <a href="{{ $curriculum_data.next_url }}" class="hover_underline">{{ $spell_data.label }} »</a>
+                {{ else }}
+                    <div class="text-style-italic">No Next Topic :(</div>
+                {{ end }}
+            {{ end }}
+        </nav>
+    </div>
 </header>

@@ -70,15 +70,15 @@ There are plenty exceptions to this, of course. Some games just do not work with
 
 {{% section-foldable header="Are games really that educational?" %}}
 
-I have always loved _learning_, but hated _education_. I've researched how people actually _learn_ all my life, literally since I was a boy, and came away with a few certain conclusions. One of them is that **playing games = learning**. Absolutely. No questions about it. Moving on. (I have actually written countless articles on this if you want details, both on this website, my Pandaqi blog, and my personal blog.)
+We love _learning_ ... which is why we hate _school_. We've researched how people actually _learn_ and concluded that **playing games = learning**. Absolutely. No questions about it. Moving on. (We've actually written countless articles on this if you want details!)
 
-I wrote educational _stories_, such as [The Saga of Life](https://thesagaoflife.com). I wrote literal educational tutorials/courses on [Pandaqi Tutorials](https://pandaqi.com/tutorials/). 
+We wrote educational _stories_, such as [The Saga of Life](https://thesagaoflife.com). We wrote literal educational tutorials/courses at [Pandaqi Tutorials](https://pandaqi.com/tutorials/). 
 
-With every project I did, however, every study I read, everything I experienced, I kept coming back to the holy grail of learning. Reading is inefficient and often not fun. Sitting in class and letting the teacher waffle on about something is _incredibly_ inefficient. All the things I tried, all the things schools are doing, simply paled in comparison to the **effectiveness and pleasure of well-designed board games**. 
+With every project we did, however, every study we read, everything we experienced, we kept coming back to the holy grail of learning. Reading a textbook is inefficient and not fun. Sitting in class and listening to a teacher is _incredibly_ inefficient. All the things we tried, all the things schools are doing, simply paled in comparison to the **effectiveness and pleasure of well-designed board games**. 
 
-And so I started developing an entire **curriculum of board games**. Literally a school curriculum where every important topic or skill is handled through a board game.
+And so we started developing an entire **curriculum of board games**. Literally a school curriculum where every important topic or skill is handled through a board game.
 
-This project became known as **"Explorers of the Fun Frontier"**. I had intended to launch it as its own website, but plans change, this online store was created, and it seamlessly slotted into it. You might still find traces of the words "fun frontier" in my writing ;)
+This project became known as **"Explorers of the Fun Frontier"**. We had intended to launch it as its own website, but plans change, this online store was created, and it seamlessly slotted into it. You might still find traces of the words "fun frontier" in our writing ;)
 
 Download these games, print them, play them with your children or pupils. Watch them have fun while _actually_ learning.
 

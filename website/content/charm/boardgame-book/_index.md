@@ -1,5 +1,6 @@
 ---
 title: "Boardgame Book"
+summary: "Boardgame Books are bundles where every page is a different board game to play. It's similar to a puzzle book or busy book, but simply focused on games you play together with others (instead of a solo activity)."
 ---
 
 {{% double-view %}}

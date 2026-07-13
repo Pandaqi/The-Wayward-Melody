@@ -1,5 +1,6 @@
 ---
 title: "Puzzle Pack"
+summary: "Puzzle Packs are bundles filled with many different puzzles around the same theme. They're similar to Busy Books or Boardgame Books, but focused on solo puzzles.\n\nMost of them have a difficulty curve (easiest to hardest) and try their hardest to present a wide variety of different puzzle types."
 ---
 
 {{% double-view %}}

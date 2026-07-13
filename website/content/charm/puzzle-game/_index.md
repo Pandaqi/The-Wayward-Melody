@@ -1,6 +1,6 @@
 ---
 title: "Puzzle Game"
-summary: "These are digital games that offer fun little challenges for Apprentices to solve, letting them explore and practice a topic all on their own. Most games do not require reading, counting, or computer skills (unless they specifically teach those things), and always offer endless puzzles at five different difficulty levels. Check out [How To Install Our Games](/info/library/wisdom/how-to-install-our-games/) for help."
+summary: "These are digital games that offer fun little challenges for Apprentices to solve, letting them explore and practice a topic all on their own. Most games do not require reading, counting, or computer skills (unless they specifically teach those things), and always offer endless puzzles at five different difficulty levels.\n\nCheck out [How To Install Our Games](/info/library/wisdom/how-to-install-our-games/) for help."
 ---
 
 {{% double-view %}}

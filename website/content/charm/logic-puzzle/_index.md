@@ -1,5 +1,6 @@
 ---
 title: "Logic Puzzle"
+summary: "Logic Puzzles are little toys to challenge your mind and strengthen your (creative) problem solving skills. Famous examples of such puzzles are Sudokus or Crosswords, but our resources show you can take it much further."
 ---
 
 {{% double-view %}}

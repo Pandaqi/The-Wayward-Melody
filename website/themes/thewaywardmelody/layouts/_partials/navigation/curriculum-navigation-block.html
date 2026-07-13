@@ -1,0 +1,60 @@
+{{ $curriculum_data := partial "func/get-curriculum-navigation-data.html" . }}
+{{ $spell_data_current := "" }}
+{{ if $curriculum_data }}
+    {{ $spell_data_current = index .Site.Data.spells $curriculum_data.current }}
+{{ end }}
+{{ if $spell_data_current }}
+    <div style="margin-top: 4em; margin-bottom: 4em;">
+        <h2 class="heading-decorations">Ready for the next step?</h2>
+        <!--- INFO/CURRENT --->
+        <div class="limit-width-m align-center block-column-and-center text-reader">
+            <p>The Spell (or "educational topic") of this product is <a href="/spell/{{ $curriculum_data.current }}">{{ $spell_data_current.label }}</a>.</p>
+            <p>Use the buttons to <strong>navigate to the next or previous Spell</strong>. It selects a product of the same type if possible. Otherwise it brings you to the overview page.</p>
+            <p>Or visit the <a href="/info/curriculum/">Full Curriculum</a> overview.</p>
+        </div>
+
+        <nav class="flex flex-wrap flex-center">
+            <ul class="remove-list-styling flex flex-center gap-m margin-m">
+                <!--- PREVIOUS --->
+                {{ if $curriculum_data.current }}
+                    {{ $spell_data := index .Site.Data.spells $curriculum_data.previous }}
+                    {{ if $spell_data }}
+                        <li><a href="{{ $curriculum_data.previous_url }}" class="link-button">« {{ $spell_data.label }}</a></li>
+                    {{ else }}
+                        <li><div class="text-style-italic">No Previous Topic :(</div></li>
+                    {{ end }}
+                {{ end }}
+
+                <!--- NEXT --->
+                {{ if $curriculum_data.current }}
+                    {{ $spell_data := index .Site.Data.spells $curriculum_data.next }}
+                    {{ if $spell_data }}
+                        <li><a href="{{ $curriculum_data.next_url }}" class="link-button">{{ $spell_data.label }} »</a></li>
+                    {{ else }}
+                        <li><div class="text-style-italic">No Next Topic :(</div></li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+{{ end }}
+
+<div style="margin-top: 4em; margin-bottom: 4em;">
+    <h2 class="heading-decorations">Try another approach?</h2>
+    <div class="limit-width-m align-center block-column-and-center text-reader">
+        <p>The Faction (or "product type") of this product is <a href="/{{ .Section }}">{{ .Section | humanize }}</a>.</p>
+        <p>This approach might work for some Apprentices but not for others! That's why we recommend <strong>exploring each topic in a variety of ways</strong>.</p>
+        <p>Maybe a (different) game works better? Or a quiz, story, or escape room? Below are some random suggestions.</p>
+    </div>
+    <nav>
+        {{ $pages := partial "func/get-all-with-spell.html" (dict "context" . "spell" $curriculum_data.current) }}
+        {{ $pages = $pages | shuffle | first 5 }}
+        <nav class="flex flex-wrap flex-center">
+            <ul class="remove-list-styling flex flex-center flex-wrap gap-m margin-m">
+                {{ range $pages }}
+                    <li><a href="{{ .RelPermalink }}" class="link-button">{{ .Title }}</a></li>
+                {{ end}}
+            </ul>
+        </nav>
+    </nav>
+</div>

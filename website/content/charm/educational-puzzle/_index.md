@@ -1,5 +1,6 @@
 ---
 title: "Educational Puzzle"
+summary: "Educational Puzzles are logic puzzles meant to build and strengthen specific skills. They are physical puzzles that must be played with pen and paper or by moving physical pieces.\n\nFamous examples of such puzzles are Sudokus or Crosswords, but our resources show you can take it much further."
 ---
 
 {{% double-view %}}

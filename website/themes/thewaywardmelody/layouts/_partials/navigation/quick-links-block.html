@@ -1,0 +1,45 @@
+<h2 class="heading-decorations margin-none">Curriculum</h2>
+<p class="block-column-and-center text-reader">Below are quick links to the different types of products and educational topics. You can also <a href="/info/curriculum/">check out the full curriculum</a>.</p>
+<div class="flex flex-wrap-below-m gap-s limit-width-l block-align-center">
+    <!--- FACTIONS --->
+    <nav class="maximize-width limit-width-m">
+        <h3 class="align-left heading-decorations">Factions</h3>
+        {{ partial "navigation/faction-list.html" (dict "context" . "show_all" true "responsive" false "show_home" false "class" "flex-vertical-list" ) }}
+    </nav>
+
+    <!--- CHARMS --->
+    <nav class="maximize-width limit-width-m">
+        <h3 class="align-left heading-decorations">Charms</h3>
+        <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
+            {{ $all_pages := index .Site.Taxonomies "charm" }}
+            {{ range $key, $pages := $all_pages }}
+                {{ $url := printf "/charm/%s/" $key }}
+                {{ $page := $.Site.GetPage $url }}
+                <li><a href="{{ $url }}" class="navigation-link">{{ $page.Title }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+
+    <!--- SUBJECTS --->
+    <nav class="maximize-width limit-width-m">
+        <h3 class="align-left heading-decorations">Subjects</h3>
+        <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
+            {{ $all_pages := index .Site.Taxonomies "subject" }}
+            {{ range $key, $pages := $all_pages }}
+                <li><a href="/subject/{{ $key }}" class="navigation-link">{{ $key | humanize }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+    
+    <!--- TOPICS --->
+    <nav class="maximize-width limit-width-m">
+        <h3 class="align-left heading-decorations">Popular Topics</h3>
+        {{ $list := slice "my-first-numbers" "my-first-letters" "my-first-colors" "my-first-shapes" "phoneme-awareness" "my-first-comparisons" "my-first-groups" "my-first-directions" "pencil-control" "my-unbounded-imagination" }}
+        <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
+            {{ range $topic := $list }}
+                {{ $data := index $.Site.Data.spells $topic }}
+                <li><a href="/spell/{{ $topic }}" class="navigation-link">{{ $data.label }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+</div>

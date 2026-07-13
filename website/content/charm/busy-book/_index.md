@@ -1,5 +1,6 @@
 ---
 title: "Busy Books"
+summary: "Busy books are bundles of exercises, challenges, and solo activities around a certain topic or theme. They can be used to simply fill some time on a lazy summer day, or they can be used to actively test something you taught before."
 ---
 
 {{% double-view %}}
