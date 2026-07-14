@@ -3,8 +3,9 @@
 {{ $key := .Data.Plural }}
 {{ $value := .Data.Term }}
 {{ $is_level := eq $key "level" }}
+{{ $level_data := dict }}
 {{ $is_spell := eq $key "spell" }}
-{{ $spell_data := dict }}
+{{ $spell_data := dic }}
 {{ $is_subject := eq $key "subject" }}
 
 {{ $title := .Title }}
@@ -12,6 +13,14 @@
     {{ $spell_data = index $.Site.Data.spells $value }}
     {{ if $spell_data }}
         {{ $title = $spell_data.label }}
+    {{ end }}
+{{ end }}
+
+{{ if $is_level }}
+    {{ $level_index := (int $value) }}
+    {{ $level_data = index $.Site.Data.levels.levels $level_index }}
+    {{ if $level_data }}
+        {{ $title = printf "%s. %s" (string $level_index) $level_data.label }}
     {{ end }}
 {{ end }}
 
@@ -82,13 +91,31 @@
 <!--- Everything else gets the standard Taxonomy Term page --->
 {{ if not $is_spell }}
 
+{{ if $is_level }}
+<p class="align-center block-column-and-center text-reader">Check the <strong>details</strong> to see how our levels map to the curriculae of major systems of education around the world. Check the <a href="/info/curriculum">Curriculum</a> for <strong>all levels</strong>.</p>
+
+<div class="double-view" style="align-items: start;">
+    <div class="double-view-item">
+        <h2 class="heading-decorations">Details</h2>
+        <ul>
+            <li><b>Ages (Average):</b> {{ $level_data.ages | markdownify }}</li>
+            {{ range $key, $value := $level_data.curriculae }}
+                <li><b>{{ $key }}</b>: {{ $value | markdownify }}</li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="double-view-item">
+        <h2 class="heading-decorations">Description</h2>
+        <p>{{ $level_data.text | markdownify }}</p>
+    </div>
+</div>  
+{{ end }}
+
 <main class="text-reader margin-m limit-width-m block-align-center">
 
     {{ $data := partial "func/get-taxonomy-data" (dict "context" . "key" $key "value" $value) }}
     <p>You searched for all products with property <span class="metadata-icon {{ $data.icon }}"></span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b> set to <b>&ldquo;{{ $data.value_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ partial "func/de-capitalize" . }}</em>){{ end }}</p>
-    {{ if $is_level }}
-        <p>See <a href="/info/curriculum">Curriculum</a> for how to map our levels to the general curriculae of the major systems of education around the world.</p>
-    {{ end }}
+
     {{ if $is_subject }}
         <p>See <a href="/info/curriculum">Curriculum</a> for how each subject is structured and the topics inside of them.</p>
     {{ end }}

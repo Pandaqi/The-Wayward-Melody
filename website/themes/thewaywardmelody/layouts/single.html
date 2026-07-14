@@ -111,7 +111,9 @@
     {{ end }}
 </article>
 
-{{ partial "navigation/curriculum-navigation-block.html" . }}
+{{ if $is_product }}
+    {{ partial "navigation/curriculum-navigation-block.html" . }}
+{{ end }}
 
 <!--- Dynamic promo based on time of year --->
 {{ partialCached "views/promo-data.html" . }}

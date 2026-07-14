@@ -1,0 +1,78 @@
+{
+    "levels":
+    [
+        {},
+        {
+            "label": "First Steps",
+            "text": "Ah! The Apprentice's first steps in this wonderful world. This level lays the foundation for all the core skills you will learn soon. More importantly, though, it should encourage everyone to play and experiment.",
+            "ages": "Up to ~4 years old",
+            "curriculae":
+            {
+                "UK": "Nursery / EYFS",
+                "USA": "Preschool",
+                "AU": "Kindergarten / Preschool / Foundation",
+                "NL": "Nursery / Preschool / Daycare"
+            }
+        },
+        {
+            "label": "Amateur Apprentice",
+            "text": "This level mainly focuses on the two foundational skills that make all the others possible: reading/writing and counting. Even when the topics get hard, remember why we do this. The question should always be \"how can I help them learn?\" instead of \"how can I force them to do what school wants them to do?\"",
+            "ages": "4 to 6 years old",
+            "curriculae":
+            {
+                "UK": "Lower Key Stage 1 (Reception, Year 1)",
+                "USA": "Preschool, Kindergarten",
+                "AU": "Stage 1",
+                "NL": "Group 1--2"
+            }
+        },
+        {
+            "label": "Spell Seeker",
+            "text": "This level is about _automating_ the core skills of language and mathematics. Additionally, Apprentices are old enough now to consider the world around them. That's why this level focuses on _using_ those core skills in understanding and exploring nature, history, science, and more.",
+            "ages": "6 to 8 years old",
+            "curriculae":
+            {
+                "UK": "Upper Key Stage 1",
+                "USA": "Grade 1--2 (Elementary School -> Intermediate School)",
+                "AU": "Stage 2",
+                "NL": "Group 3--4"
+            }
+        },
+        {
+            "label": "Wonderful Wizard",
+            "text": "At this level, the foundational skills (language/mathematics/logic) should have been mastered. This allows branching out into more and more diverse topics. Most of all, this level can start to specifically prepare Apprentices for life as an adult, through teaching practical skills and exploring different jobs.",
+            "ages": "8 to 10 years old",
+            "curriculae":
+            {
+                "UK": "Lower Key Stage 2 (Year 3--4; Elementary School -> Middle School)",
+                "USA": "Grade 3--4 (Intermediate School -> Middle School)",
+                "AU": "Stage 3 (Primary -> Secondary)",
+                "NL": "Group 5--6"
+            }
+        },
+        {
+            "label": "Magical Master",
+            "text": "At this stage, Apprentices will likely take an interest in things outside school. They'll have personality, favorites, ideal career paths, a rebellious stage as a teenager ;) Our curriculum focuses on letting them grow and explore all these things while staying fun and practical.",
+            "ages": "10 to 12 years old",
+            "curriculae":
+            {
+                "UK": "Upper Key Stage 2 (Year 5--6; Middle School -> High School)",
+                "USA": "Grade 5--6 (Middle School -> High School)",
+                "AU": "Stage 4",
+                "NL": "Group 7--8 (Primary School -> High School)"
+            }
+        },
+        {
+            "label": "Arcane Legend",
+            "text": "At this point, we there are no foundational skills left that one can argue _everyone_ should have. As such, education becomes more branched out and individual. Because Apprentices can read now, they are able to explore and learn _anything_. That's why everything from this point onwards is a single level, very optional, but always growing.",
+            "ages": "From 13 years old until forever",
+            "curriculae":
+            {
+                "UK": "Key Stage 3 (Year 7--9), Key Stage 4 (Year 10--11)",
+                "USA": "Grade 7--12",
+                "AU": "Stage 5(+) (Secondary -> Senior)",
+                "NL": "Grade 1--6"
+            }
+        }
+    ]
+}

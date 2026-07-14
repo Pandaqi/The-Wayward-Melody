@@ -2,7 +2,7 @@
 {{ $spell := .spell }}
 {{ $all_pages := partial "func/get-all-with-spell.html" (dict "context" .context "spell" $spell) }}
 {{ $matching_pages := where $all_pages "Section" "eq" $faction }}
-{{ $matching_pages = $matching_pages | shuffl }}
+{{ $matching_pages = $matching_pages | shuffle }}
 {{ $url := printf "/spell/%s" $spell }}
 {{ if gt (len $matching_pages) 0 }}
     {{ $selected_page := index $matching_pages 0 }}

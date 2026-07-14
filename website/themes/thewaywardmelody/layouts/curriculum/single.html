@@ -8,7 +8,9 @@
 {{ $levels := $data.curriculum.levels }}
 {{ range $index, $subjects := $levels }}
   {{ $level_num := add $index 1 }}
-  <h2 id="level-{{ $level_num }}-overview">Level {{ $level_num }}</h2>
+  {{ $level_data := index $.Site.Data.levels.levels $level_num }}
+  <h2 id="level-{{ $level_num }}-overview" style="margin-top: 4em;">{{ $level_num }}. {{ $level_data.label }}</h2>
+  <p class="block-column-and-center text-reader">{{ $level_data.text | markdownify }}</p>
   <div class="flex flex-center flex-wrap text-reader">
     {{ range $key, $topics := $subjects }}
     <section>
