@@ -3,7 +3,7 @@ type: "product"
 title: "Hold My Bear"
 id: "hold-my-bear-sneakpeek"
 date: 2025-06-25
-price: 4.95
+price: 9.95
 image: [hold_my_bear_header.webp]
 file: "a10e0349-69ce-40df-bbdb-b5ed7f922ce7"
 description: "All original notes, assets, illustrations and other work behind the game."

@@ -3,7 +3,8 @@ type: "product"
 title: "Potion Puzzle"
 id: "potion-puzzle"
 date: 2026-03-03
-price: 3.95
+price: 0
+free: true
 image: ["potion-puzzle-header.webp", "potion-puzzle-video.webm", "potion-puzzle-1.webp", "potion-puzzle-2.webp", "potion-puzzle-3.webp"]
 file: "9cf0be2f-1c37-43a8-9414-3cc4f675a641"
 spell: ["my-first-colors", "my-first-shapes"]

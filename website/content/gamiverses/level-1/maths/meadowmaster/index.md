@@ -3,7 +3,7 @@ draft: true
 type: "product"
 title: "Meadowmaster"
 id: "meadowmaster"
-price: 4.95
+price: 9.95
 date: 2026-04-10
 image: ["meadowmaster-header.webp", "meadowmaster-1.webp", "meadowmaster-2.webp", "meadowmaster-3.webp", "meadowmaster-4.webp"]
 file: "@TODO"

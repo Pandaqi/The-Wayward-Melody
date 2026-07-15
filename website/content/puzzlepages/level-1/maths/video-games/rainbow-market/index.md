@@ -3,7 +3,8 @@ type: "product"
 title: "Rainbow Market"
 id: "rainbow-market"
 date: 2026-03-03
-price: 1.95
+price: 0
+free: true
 image: ["rainbow-market-header.webp", "rainbow-market-video.webm", "rainbow-market-1.webp", "rainbow-market-2.webp"]
 file: "6b182e73-36da-4f65-baef-a6350f267c97"
 spell: "my-first-colors"

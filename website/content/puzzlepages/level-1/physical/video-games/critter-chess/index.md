@@ -3,7 +3,7 @@ type: "product"
 title: "Critter Chess"
 id: "critter-chess"
 date: 2026-04-20
-price: 4.95
+price: 9.95
 image: ["critter-chess-header.webp", "critter-chess-video.webm", "critter-chess-1.webp", "critter-chess-2.webp", "critter-chess-3.webp", "critter-chess-4.webp", "critter-chess-5.webp"]
 file: "6436500e-96f7-4746-85ce-ee55b6624457"
 spell: "my-first-directions"

@@ -3,7 +3,8 @@ type: "product"
 title: "The Waterfall Games"
 id: "waterfall-games-sneakpeek"
 date: 2025-08-26
-price: 4.95
+price: 0
+free: true
 image: [waterfall_header.webp]
 file: "f4223364-7b8c-4fa7-94ca-06c976b7a777"
 description: "All original notes, assets, illustrations and other work behind the game."

@@ -5,7 +5,7 @@
 {{ $is_level := eq $key "level" }}
 {{ $level_data := dict }}
 {{ $is_spell := eq $key "spell" }}
-{{ $spell_data := dic }}
+{{ $spell_data := dict }}
 {{ $is_subject := eq $key "subject" }}
 
 {{ $title := .Title }}
@@ -38,7 +38,7 @@
 {{ $all_pages := partial "func/get-all-with-spell.html" (dict "context" . "spell" $value) }}
 
 <main>
-    <p class="align-center block-column-and-center text-reader">Interested in teaching the topic <strong>&ldquo;{{ $title }}&rdquo;</strong>? You'll find all resources and learning objectives here. Or <a href="/info/curriculum/#{{ $value }}">go back to the curriculum</a>.</p>
+    <p class="align-center block-column-and-center text-reader">Interested in teaching <strong>&ldquo;{{ $title }}&rdquo;</strong>? Find all resources and learning objectives here. <strong>Overwhelmed?</strong> Use <a href="/info/the-helpful-hat/#your-lesson-plan?query={{ $spell_data.label }}">The Helpful Hat</a> to select which resources to use. <strong>Wrong topic?</strong> Return to the <a href="/info/curriculum/#{{ $value }}">Curriculum</a>.</p>
     <div class="double-view" style="align-items: start;">
         <div class="double-view-item">
             <h2 class="heading-decorations">Description</h2>

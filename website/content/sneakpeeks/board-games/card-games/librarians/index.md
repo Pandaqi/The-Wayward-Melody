@@ -3,7 +3,7 @@ type: "product"
 title: "Librarians"
 id: "librarians-sneakpeek"
 date: 2025-01-12
-price: 4.95
+price: 9.95
 image: [librarians_header.webp]
 file: "f01b5a00-3f0a-4309-9ec8-ed80c8f34168"
 description: "All original notes, assets, illustrations and other work behind the game."

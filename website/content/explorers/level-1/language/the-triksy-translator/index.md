@@ -3,7 +3,9 @@ type: "product"
 title: "The Triksy Translator"
 id: "the-triksy-translator"
 date: 2025-04-26
-price: 9.95
+price: 0
+free: true
+demo: true
 image: ["the-triksy-translator-header.webp", "the-triksy-translator-1.webp", "the-triksy-translator-2.webp", "the-triksy-translator-3.webp", "the-triksy-translator-4.webp", "the-triksy-translator-5.webp", "the-triksy-translator-6.webp"]
 file: "a131d1d0-4193-4406-9bb3-36da3a486448"
 spell: "phoneme-awareness"

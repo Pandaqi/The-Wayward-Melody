@@ -3,7 +3,8 @@ type: "product"
 title: "Totems of Tag"
 id: "game-totems-of-tag"
 date: 2023-06-06
-price: 1.95
+price: 0
+free: true
 image: [totems-of-tag-header.webp, totems-of-tag-1.webp, totems-of-tag-2.webp, totems-of-tag-3.webp, totems-of-tag-4.webp, totems-of-tag-5.webp, totems-of-tag-6.webp, totems-of-tag-7.webp]
 file: "597ff400-5c9e-4065-aa7d-9d32011e522e"
 description: "It's dodgeball for 2-4 players, but without any of those pesky rules!"

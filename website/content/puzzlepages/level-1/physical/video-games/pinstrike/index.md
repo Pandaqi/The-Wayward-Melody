@@ -5,6 +5,7 @@ id: "pinstrike"
 date: 2026-04-15
 free: true
 price: 0.00
+demo: true
 image: ["pinstrike-header.webp", "pinstrike-video.webm", "pinstrike-1.webp", "pinstrike-2.webp", "pinstrike-3.webp", "pinstrike-4.webp"]
 file: "bc3760ac-322b-4011-99e2-4ff3bd53ddb4"
 spell: ["my-first-directions", "my-first-numbers"]

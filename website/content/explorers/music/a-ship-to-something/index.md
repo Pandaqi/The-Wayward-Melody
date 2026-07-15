@@ -3,7 +3,7 @@ type: "product"
 title: "A Ship To Something"
 id: "a-ship-to-something-album"
 date: 2023-06-06
-price: 4.95
+price: 9.95
 image: a-ship-to-something-header.webp
 file: "3c35347a-b820-47ec-ba6f-8a7a335ab806"
 description: "The high-quality music files and original notes/demos for this album."

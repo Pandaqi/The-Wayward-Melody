@@ -2,7 +2,7 @@
 type: "product"
 title: "Pancake Sort"
 id: "pancake-sort"
-price: 4.95
+price: 9.95
 date: 2026-04-04
 image: ["pancake-sort-header.webp", "pancake-sort-1.webp", "pancake-sort-2.webp", "pancake-sort-3.webp", "pancake-sort-4.webp", "pancake-sort-5.webp"]
 file: "8f7f299d-f0e3-458a-9654-27514f571ca4"

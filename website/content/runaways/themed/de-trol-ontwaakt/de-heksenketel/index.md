@@ -3,7 +3,7 @@ type: "product"
 title: "Heksenketel Feestpakket"
 id: "heksenketel-feestpakket"
 date: 2026-02-07
-price: 24.95
+price: 34.95
 image: ["de-heksenketel-header.webp", "de-heksenketel-1.webp", "de-heksenketel-2.webp", "de-heksenketel-3.webp", "de-heksenketel-4.webp", "de-heksenketel-5.webp", "de-heksenketel-6.webp", "de-heksenketel-7.webp", "de-heksenketel-8.webp", "de-heksenketel-9.webp"]
 file: "41f65a09-5287-47a1-a1a0-2536f2f29091"
 spell: "de-trol-ontwaakt"
@@ -52,7 +52,7 @@ activity-structure: other # (turn-based, simultaneous, real-time, seasonal, othe
 
 **De Heksenketel** is een feest- of activiteitenpakket geïnspireerd door het bekende programma _"Wie is de Mol?"_. Gebruik dit pakket voor een (kinder)feest, groepsuitje, of in de klas, voor een paar spannende en actieve uren.
 
-Het pakket bevat 10 mogelijke opdrachten, waarvan maar 3 verplicht zijn vanwege de unieke structuur van het spel. Alles is omgeven door een Heksen- en Magiërsthema, zowel qua uiterlijk als qua inhoud van de opdrachten. In tegenstelling tot bijvoorbeeld [De Papierproef](/teachers/themed/de-trol-ontwaakt/de-papierproef/) moeten spelers voor dit pakket zeker kunnen lezen en rekenen. Het is geschikt voor iets oudere kinderen en natuurlijk alle leeftijden daarboven.
+Het pakket bevat 10 mogelijke opdrachten, waarvan maar 3 verplicht zijn vanwege de unieke structuur van het spel. Alles is omgeven door een Heksen- en Magiërsthema, zowel qua uiterlijk als qua inhoud van de opdrachten. In tegenstelling tot bijvoorbeeld [De Papierproef](/runaways/themed/de-trol-ontwaakt/de-papierproef/) moeten spelers voor dit pakket zeker kunnen lezen en rekenen. Het is geschikt voor iets oudere kinderen en natuurlijk alle leeftijden daarboven.
 
 Wat is er bijzonder aan dit pakket?
 

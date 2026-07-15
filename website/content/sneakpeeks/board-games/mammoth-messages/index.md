@@ -3,7 +3,8 @@ type: "product"
 title: "Mammoth Messages"
 id: "mammoth-messages-sneakpeek"
 date: 2024-03-26
-price: 3.95
+price: 0
+free: true
 image: [mammoth_messages_header.webp]
 file: "234c8110-08d1-4bc5-b8a7-e857ee8ec5d0"
 description: "All original notes, assets, illustrations and other work behind the game."

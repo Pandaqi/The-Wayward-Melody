@@ -3,7 +3,8 @@ type: "product"
 title: "Quiz of Easter Kids"
 id: "quiz-of-easter-kids"
 date: 2025-03-01
-price: 7.95
+price: 0
+free: true
 image: ["quiz-of-easter-kids-header.webp", "quiz-of-easter-kids-sc1.webp", "quiz-of-easter-kids-sc2.webp", "quiz-of-easter-kids-sc3.webp"]
 file: "2867131d-7562-4922-857c-b7240026e75b"
 spell: "easter"

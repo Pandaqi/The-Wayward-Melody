@@ -3,7 +3,7 @@ type: "product"
 title: "Fiddlefoo"
 id: "fiddlefoo-sneakpeek"
 date: 2024-05-26
-price: 2.95
+price: 7.95
 image: [fiddlefoo-header.webp]
 file: "633496a6-f80a-4baf-afd9-e0091a1f5e20"
 description: "All original notes, assets, illustrations and other work behind the game."

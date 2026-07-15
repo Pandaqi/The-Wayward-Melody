@@ -46,7 +46,7 @@ If you are a **teacher**, you can look up the subject you want to teach and see 
 
 If you are a **parent** (or otherwise a tutor outside of the system), you can use this curriculum as a reference about what to teach and when. (It's overwhelming to homeschool and figure it out all by yourself!) That said, you have the freedom to click around and do things in a different order.
 
-Once you've picked a subject to teach, you can also use our **Magical Teaching Hat** to generate a lesson plan for you. It will pick a selection of resources from that topic and bundle them for you. You merely need to click the button and then follow the plan; no need for more steps or hard decisions to make.
+Once you've picked a subject to teach, you can also use our [Magical Helpful Hat](/info/the-helpful-hat/) to generate a lesson plan for you. It will pick a selection of resources from that topic and bundle them for you. You merely need to click the button and then follow the plan; no need for more steps or hard decisions to make.
 
 {{% /section-foldable %}}
 

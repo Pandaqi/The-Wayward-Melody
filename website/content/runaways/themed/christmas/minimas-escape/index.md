@@ -3,7 +3,7 @@ type: "product"
 title: "Minimas Escape"
 id: "minimas-escape"
 date: 2025-12-05
-price: 4.95
+price: 7.95
 image: ["minimas-escape-header.webp", "minimas-escape-1.webp"]
 file: "20f2d267-c504-4ff7-bf10-fa02e82f8123"
 spell: "christmas"

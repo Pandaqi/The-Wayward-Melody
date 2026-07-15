@@ -7,11 +7,13 @@ weight: 6
 
 {{% double-view-item %}}
 
-Check out our **escape kits**! These are also sometimes called "escape rooms" or "puzzle experiences".
+This Faction contains **group activities** (that are not necessarily a game).
+
+Most of the products are **escape kits**! Hence the name _Runaways_. These are also sometimes called "escape rooms" or "puzzle experiences".
 
 Download a PDF, cut a few pages, and you can already play. All you need is a _printer_, _paper_, _scissors_, and a bunch of _Wizards of Wisdom_ to solve all the puzzles.
 
-Or maybe you're more interested in our digital escape kits. Those don't even need printing; they just need one device. Browse the Runaways and find an experience that interests you!
+Or maybe you're more interested in our _digital_ escape kits. Those don't even need printing; they just need one device. Browse the Runaways and find an experience that interests you!
 
 {{< metadata-navigation >}}
 
@@ -26,6 +28,8 @@ Below are the common Charms (_types of products_) you'll find in this Faction. V
 * [Printable Escape Kit](/charm/printable-escape-kit/)
 * [Digital Escape Kit](/charm/digital-escape-kit/)
 * [Escape Calendar](/charm/escape-calendar/)
+* [Activity Aid](/charm/activity-aid/)
+<!--- * [Activity Aid](/charm/murder-mystery/) --->
 <!--- * [Merchandise Escape Kit](/charm/merchandise-escape-kit/) --->
 
 {{% /section-foldable %}}

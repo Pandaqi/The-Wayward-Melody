@@ -1,6 +1,17 @@
 {{ $data_curriculum := partial "func/get-curriculum-data" . }}
 {{ $params := .Params }}
 
+<div>
+    <ul class="remove-list-styling font-size-s">
+        <li>✔️ Pay once, use forever, however.</li>
+        <li>✔️ No hidden costs or data tracking.</li>
+        <li>✔️ No sign-up required.</li>
+        <li>✔️ No difficult licenses or restrictions.</li>
+        <li>✔️ Instantly arrives in your inbox. (Check spam folder!)</li>
+        <li>✔️ Fun and effective!</li>
+    </ul>
+</div>
+
 <!--- Show a LIST of contents --->
 {{ $contents := or $params.contents slice }}
 {{ $has_contents := gt (len $contents) 0 }}
@@ -31,7 +42,9 @@
             <p>This resource supports multiple languages:</p>
             <ul class="list-reduced-offset">
                 {{ range $languages }}
-                    <li>{{ . }}</li>
+                    {{ $language_code := . }}
+                    {{ $language_name := index $.Site.Data.languages $language_code }}
+                    <li>{{ $language_name }} (<code>{{ . }}</code>)</li>
                 {{ end }}
             </ul>
         </div>
@@ -75,6 +88,29 @@
 </div>
 {{ end }}
 
+<!--- Explanation of major SUBJECT(s) --->
+{{ $first_subject := index (partial "func/get-subject.html" .) "single" }}
+{{ if $first_subject }}
+    {{ $subject_url := printf "/subject/%s/" $first_subject }}
+    {{ $subject_page := .Site.GetPage $subject_url }}
+    {{ if $subject_page }}
+        <div data-pagefind-weight="1">
+            <!--- @TODO: Unique icon for subject --->
+            <div class="align-center">
+                <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for {{ $first_subject }}" title="Faction icon for {{ $first_subject }}">
+            </div>
+            <div class="section-foldable" data-folded="false">
+                <div class="section-foldable-header"><h3>Subject: {{ $first_subject | humanize }}</h3></div>
+                <div class="section-foldable-content font-size-s">
+                    
+                    <p>The curriculum is split into six main subjects that align with your typical school subjects.</p>
+                    <p>This resource is part of the <a href="{{ $subject_url }}">{{ $first_subject | humanize }}</a> subject. Below is a summary:</p>
+                    <p class="text-style-italic">{{ $subject_page.Params.summary | markdownify }}</p>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+{{ end }}
 
 <!--- Explanation of FACTION and the system of nudging people towards later factions --->
 {{ $same_spell_pages := $data_curriculum.shares }}
@@ -112,6 +148,7 @@
 {{ $charm_page := .GetPage $charm_url }}
 {{ if and $charm_page $charm_page.Params.summary }}
 <div data-pagefind-weight="2">
+    <!--- @TODO: Unique icon for charm --->
     <div class="align-center">
         <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for explorers" title="Faction icon for explorers">
     </div>
@@ -127,19 +164,16 @@
 {{ end }}
 
 
-<!--- Explanation of SUBJECT being taught + place in curriculum --->
+<!--- Explanation of TOPIC being taught + place in curriculum --->
 {{ $spell := $data_curriculum.same_spell }}
 {{ $spell_data := index .Site.Data.spells $spell }}
 {{ $has_multiple_spells := gt (len $data_curriculum.same_spells) 1 }}
 {{ if $spell_data }}
 <div data-pagefind-weight="3">
-    <div class="align-center">
-        <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for explorers" title="Faction icon for explorers">
-    </div>
     <div class="section-foldable" data-folded="false">
         <div class="section-foldable-header"><h3>Spell: {{ $spell_data.label }}</h3></div>
         <div class="section-foldable-content font-size-s">
-            <p>This resource is part of the <a href="/spell/{{ $spell }}">{{ $spell_data.label }}</a> subject (or "spell").</p>
+            <p>This resource is part of the <a href="/spell/{{ $spell }}">{{ $spell_data.label }}</a> topic (or "spell").</p>
             <p class="text-style-italic">{{ $spell_data.text | markdownify }}</p>
             {{ if $has_multiple_spells }}
                 <p>This resource also covers other topics. To keep things simple, the curriculum always considers the first topic listed to be the most important.</p>

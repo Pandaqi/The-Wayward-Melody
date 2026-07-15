@@ -2,7 +2,9 @@
 type: "product"
 title: "Pizza Piles"
 id: "pizza-piles"
-price: 4.95
+price: 0
+free: true
+demo: true
 date: 2026-04-04
 image: ["pizza-piles-header.webp", "pizza-piles-1.webp", "pizza-piles-2.webp", "pizza-piles-3.webp", "pizza-piles-4.webp", "pizza-piles-5.webp"]
 file: "6cfeb1c4-4dd4-4873-a5f6-523ec34b7ccc"

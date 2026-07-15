@@ -3,7 +3,7 @@ type: "product"
 title: "Magnetmen"
 id: "magnetmen-sneakpeek"
 date: 2025-01-26
-price: 3.95
+price: 7.95
 image: [magnetmen_header.webp]
 file: "a7253b35-9881-43aa-afe8-fc3ed4aa47b6"
 description: "All original notes, assets, illustrations and other work behind the game."

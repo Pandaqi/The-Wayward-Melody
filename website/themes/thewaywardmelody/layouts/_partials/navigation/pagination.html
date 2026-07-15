@@ -3,8 +3,8 @@
 {{ $has_next := $paginator.HasNext }}
 {{ $something_to_show := or $has_prev $has_next }}
 {{ if $something_to_show }}
-<nav class="pagination">
-	<h2>Navigation</h2>
+<nav class="pagination padding-xl">
+	<h2 class="heading-decorations">Navigation</h2>
 	<ul class="flex flex-center flex-wrap remove-list-styling font-heading gap-s margin-s">
 		{{ if $has_prev }}
 			<li><a class="pagination-item-first navigation-link" href="{{ $paginator.First.URL }}"><span>First Page</span></a></li>

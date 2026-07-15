@@ -1,0 +1,22 @@
+{{ $charm_url := printf "/charm/%s" .Params.charm }}
+{{ $charm_page := .GetPage $charm_url }}
+
+{{ $first_spell := partial "func/get-main-spell.html" . }}
+{{ $spell_data := index .Site.Data.spells $first_spell }}
+
+{{ $type := "A (printable)" }}
+{{ if (index .Params "interactive-media") }}
+    {{ $type = "An interactive" }}
+{{ end }}
+{{ if .Params.physical }}
+    {{ $type = "A (physical)" }}
+{{ end }}
+
+{{ $tagline := "" }}
+{{ if $charm_page }}
+    {{ $tagline = printf "%s %s tagged &ldquo;%s&rdquo;" $type $charm_page.Title $first_spell }}
+{{ end }}
+{{ if and $charm_page $spell_data }}
+    {{ $tagline = printf "%s %s exploring &ldquo;%s&rdquo;" $type $charm_page.Title $spell_data.label }}
+{{ end }}
+{{ return $tagline }}

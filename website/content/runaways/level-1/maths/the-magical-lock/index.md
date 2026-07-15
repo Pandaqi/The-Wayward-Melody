@@ -3,7 +3,7 @@ type: "product"
 title: "The Magical Lock"
 id: "the-magical-lock"
 date: 2025-04-26
-price: 3.95
+price: 7.95
 image: ["the-magical-lock-header.webp", "the-magical-lock-1.webp", "the-magical-lock-2.webp", "the-magical-lock-3.webp", "the-magical-lock-4.webp"]
 file: "253a0feb-a0b6-4ecf-9821-66793df3c45c"
 spell: "recognition-and-discrimination"

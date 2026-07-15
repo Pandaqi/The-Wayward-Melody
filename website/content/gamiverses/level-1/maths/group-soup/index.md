@@ -3,7 +3,7 @@ draft: true
 type: "product"
 title: "Group Soup"
 id: "group-soup"
-price: 4.95
+price: 9.95
 date: 2026-04-10
 image: ["group-soup-header.webp", "group-soup-1.webp", "group-soup-2.webp", "group-soup-3.webp", "group-soup-4.webp"]
 file: "@TODO"

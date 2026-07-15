@@ -2,7 +2,9 @@
 type: "product"
 title: "Sleigh"
 id: "sleigh"
-price: 4.95
+price: 0
+free: true
+demo: true
 date: 2025-12-10
 image: ["sleigh-header-compressed.webp", "sleigh-header-static.webp", "sleigh-header.webp"]
 file: "ec3e26de-6896-49ae-a643-ea2a96009c43"

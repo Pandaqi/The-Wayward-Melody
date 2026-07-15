@@ -3,6 +3,7 @@ type: "product"
 title: "Christmas Prompt Cards"
 id: "christmas-prompt-cards"
 price: 0.00
+demo: true
 free: true
 date: 2025-12-05
 image: ["christmas-prompt-cards-1.webp", "christmas-prompt-cards-2.webp"]

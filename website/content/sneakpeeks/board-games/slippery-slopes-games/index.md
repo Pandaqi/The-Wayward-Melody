@@ -3,7 +3,7 @@ type: "product"
 title: "Slippery Slopes Games"
 id: "slippery-slopes-sneakpeek"
 date: 2024-04-25
-price: 2.95
+price: 9.95
 image: [slippery_slopes_header.webp]
 file: "e0749486-fe28-43d8-81c9-144be499c4e5"
 description: "All original notes, assets, illustrations and other work behind the game."

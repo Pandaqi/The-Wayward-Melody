@@ -1,5 +1,6 @@
 ---
 title: "World"
+summary: "This subject teaches about all the wonderful parts of our world. This comes down to any topic that's not Language or Science/Mathematics: History, Money & Economics, Geography, and so forth."
 ---
 
 {{% double-view %}}

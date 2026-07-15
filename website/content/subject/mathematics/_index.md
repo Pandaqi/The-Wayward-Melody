@@ -1,5 +1,6 @@
 ---
 title: "Mathematics"
+summary: "This subject teaches Mathematics from first principles to calculus. Level 1 explores the basic skills needed before you do any counting or see any numbers (such as grouping and comparing objects). Level 2(+) can then introduce numbers, counting, addition, multiplication, and more."
 ---
 
 {{% double-view %}}

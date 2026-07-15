@@ -3,7 +3,8 @@ type: "product"
 title: "Carving Pumpkins & Dwarfing Dumplings"
 id: "game-carving-pumpkins-and-dwarfing-dumplings"
 date: 2023-06-06
-price: 1.95
+price: 0
+free: true
 image: [carving-pumpkins-and-dwarfing-dumplings-header.webp, carving-pumpkins-and-dwarfing-dumplings-1.webm, carving-pumpkins-and-dwarfing-dumplings-2.webm, carving-pumpkins-and-dwarfing-dumplings-3.webm, carving-pumpkins-and-dwarfing-dumplings-4.webm, carving-pumpkins-and-dwarfing-dumplings-5.webm, carving-pumpkins-and-dwarfing-dumplings-6.webm, carving-pumpkins-and-dwarfing-dumplings-7.webm, carving-pumpkins-and-dwarfing-dumplings-8.webm, carving-pumpkins-and-dwarfing-dumplings-9.webm]
 file: "70de386a-2f07-4d19-aac9-746f9bba2748"
 description: "A party game for 2-8 players about slicing your friends into smaller pieces, or preventing a huge dumpling from meeting the same fate."

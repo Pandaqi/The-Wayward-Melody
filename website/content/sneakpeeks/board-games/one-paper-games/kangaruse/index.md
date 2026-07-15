@@ -3,7 +3,7 @@ type: "product"
 title: "Kangaruse"
 id: "kangaruse-sneakpeek"
 date: 2024-03-25
-price: 4.95
+price: 9.95
 image: [kangaruse_header.webp]
 file: "75a0c34b-65cb-45fb-b871-78340fc15074"
 description: "All original notes, assets, illustrations and other work behind the game."

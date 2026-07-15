@@ -3,7 +3,7 @@ type: "product"
 title: "I Wish You Good Hug"
 id: "game-i-wish-you-good-hug"
 date: 2023-06-06
-price: 1.95
+price: 9.95
 image: [i-wish-you-good-hug-header.webp, i-wish-you-good-hug-1.webp, i-wish-you-good-hug-2.webp, i-wish-you-good-hug-3.webp, i-wish-you-good-hug-4.webp, i-wish-you-good-hug-5.webp, i-wish-you-good-hug-6.webp]
 file: "922bc5d5-cd50-403d-bd07-edbf9657de11"
 description: "1-4 players try to deliver teddy bears to a warm bed ... whatever it takes."

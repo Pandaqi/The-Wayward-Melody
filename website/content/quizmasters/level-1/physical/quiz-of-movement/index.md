@@ -3,7 +3,9 @@ type: "product"
 title: "Quiz of Movement"
 id: "quiz-of-movement"
 date: 2025-10-26
-price: 9.95
+price: 0
+free: true
+demo: true
 image: ["quiz-of-movement-header.webp", "quiz-of-movement-1.webp", "quiz-of-movement-2.webp", "quiz-of-movement-3.webp", "quiz-of-movement-4.webp", "quiz-of-movement-5.webp", "quiz-of-movement-6.webp"]
 file: "a6f4b849-8a8e-4e87-b2ba-df7f1c932ef8"
 spell: "my-first-gross-motor-skills"

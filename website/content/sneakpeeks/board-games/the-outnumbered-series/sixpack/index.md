@@ -3,7 +3,8 @@ type: "product"
 title: "Sixpack"
 id: "sixpack-sneakpeek"
 date: 2024-05-26
-price: 4.95
+price: 0
+free: true
 image: [sixpack-header.webp]
 file: "ffc030b8-5991-4a45-92ca-b11a4f5877b6"
 description: "All original notes, assets, illustrations and other work behind the game."

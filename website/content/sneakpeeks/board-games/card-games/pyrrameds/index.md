@@ -3,7 +3,7 @@ type: "product"
 title: "Pyrrameds"
 id: "pyrrameds-sneakpeek"
 date: 2024-05-26
-price: 2.95
+price: 7.95
 image: [pyrrameds-header.webp]
 file: "798378ca-1284-43f8-92ce-304b1107c7b3"
 description: "All original notes, assets, illustrations and other work behind the game."

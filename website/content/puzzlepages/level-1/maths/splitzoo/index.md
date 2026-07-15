@@ -3,7 +3,9 @@ type: "product"
 title: "Splitzoo"
 id: "splitzoo"
 date: 2025-09-26
-price: 9.95
+price: 0
+free: true
+demo: true
 image: ["splitzoo-header.webp", "splitzoo-1.webp", "splitzoo-2.webp", "splitzoo-3.webp", "splitzoo-4.webp", "splitzoo-5.webp", "splitzoo-6.webp"]
 file: "d21eb483-e471-4a46-a786-8b35c4ec2635"
 spell: "my-first-groups"

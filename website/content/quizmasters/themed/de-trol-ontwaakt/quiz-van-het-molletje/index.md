@@ -3,7 +3,8 @@ type: "product"
 title: "Quiz van het Molletje"
 id: "quiz-van-het-molletje"
 date: 2026-01-26
-price: 7.95
+price: 0
+free: true
 image: ["quiz-van-het-molletje-header.webp", "quiz-van-het-molletje-1.webp", "quiz-van-het-molletje-2.webp", "quiz-van-het-molletje-3.webp", "quiz-van-het-molletje-4.webp", "quiz-van-het-molletje-5.webp"]
 file: "fff4a59a-f49d-45ae-b946-6c90687b6f4f"
 spell: "de-trol-ontwaakt"

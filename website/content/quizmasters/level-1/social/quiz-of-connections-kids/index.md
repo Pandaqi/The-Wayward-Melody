@@ -3,7 +3,8 @@ type: "product"
 title: "Quiz of Connections (Kids)"
 id: "quiz-of-connections-kids"
 date: 2025-09-26
-price: 9.95
+price: 0
+free: true
 image: ["quiz-of-connections-kids-header.webp", "quiz-of-connections-kids-1.webp", "quiz-of-connections-kids-2.webp", "quiz-of-connections-kids-3.webp", "quiz-of-connections-kids-4.webp", "quiz-of-connections-kids-5.webp"]
 file: "73f345d2-5597-4182-8f07-f157a49e372c"
 spell: "my-unbounded-imagination"

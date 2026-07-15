@@ -3,7 +3,7 @@ type: "product"
 title: "Don't Give Me Up"
 id: "dont-give-me-up-album"
 date: 2023-06-06
-price: 4.95
+price: 9.95
 image: dont-give-me-up-header.webp
 file: "a6ca3c20-cf33-4170-96f2-ae8af04a69cc"
 description: "The high-quality music files and original notes/demos for this album."

@@ -3,7 +3,8 @@ type: "product"
 title: "Druids in the Dark"
 id: "game-druids-in-the-dark"
 date: 2024-06-06
-price: 1.95
+price: 0
+free: true
 image: [druids-in-the-dark-header.webp, druids-in-the-dark-1.webp, druids-in-the-dark-2.webp, druids-in-the-dark-3.webp, druids-in-the-dark-4.webp, druids-in-the-dark-5.webp, druids-in-the-dark-6.webp]
 file: "64ba6435-4820-4d8f-9229-c9b539efb5d7"
 description: "Run a potion shop covered in shadows, where one misstep is fatal."

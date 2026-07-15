@@ -2,7 +2,9 @@
 type: "product"
 title: "Easter Boardgame Book"
 id: "easter-boardgame-book"
-price: 9.95
+price: 0
+free: true
+demo: true
 date: 2025-02-18
 image: ["boardgame-book-header.webp", "boardgame-book-1.webp", "boardgame-book-2.webp", "boardgame-book-3.webp", "boardgame-book-4.webp"]
 file: "9dcb3eb7-e9fb-400a-a26c-2e9dbe14beef"

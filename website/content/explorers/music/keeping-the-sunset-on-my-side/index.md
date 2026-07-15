@@ -3,7 +3,7 @@ type: "product"
 title: "Keeping the Sunset on my Side"
 id: "keeping-the-sunset-on-my-side-album"
 date: 2023-06-06
-price: 4.95
+price: 9.95
 image: keeping-the-sunset-on-my-side-header.webp
 file: "e72c3696-f552-4f38-aafb-92cc2e0dd0d1"
 description: "The high-quality music files and original notes/demos for this album."

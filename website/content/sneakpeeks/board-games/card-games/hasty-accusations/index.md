@@ -3,7 +3,7 @@ type: "product"
 title: "Hasty Accusations"
 id: "hasty-accusations-sneakpeek"
 date: 2025-12-25
-price: 3.95
+price: 7.95
 image: [hasty_accusations_header.webp]
 file: "9563f6cb-b68b-4f7c-8e0c-d8aed0557f41"
 description: "All original notes, assets, illustrations and other work behind the game."

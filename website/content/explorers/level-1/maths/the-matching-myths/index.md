@@ -3,7 +3,7 @@ type: "product"
 title: "The Matching Myths"
 id: "the-matching-myths"
 date: 2025-04-26
-price: 4.95
+price: 9.95
 image: ["the-matching-myths-header.webp", "the-matching-myths-1.webp", "the-matching-myths-2.webp", "the-matching-myths-3.webp", "the-matching-myths-4.webp"]
 file: "bfd81b47-de47-46ef-aefe-f52c72d5fcf3"
 spell: "recognition-and-discrimination"

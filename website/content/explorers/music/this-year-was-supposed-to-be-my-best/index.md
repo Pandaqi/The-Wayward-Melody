@@ -3,7 +3,7 @@ type: "product"
 title: "This Year Was Supposed To Be My Best"
 id: "this-year-was-supposed-to-be-my-best-album"
 date: 2023-06-06
-price: 4.95
+price: 9.95
 image: this-year-was-supposed-to-be-my-best-header.webp
 file: "364f7c40-e6c6-467b-832d-2f03cd998b82"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."

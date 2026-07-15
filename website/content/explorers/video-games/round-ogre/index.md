@@ -3,7 +3,7 @@ type: "product"
 title: "Round Ogre"
 id: "game-round-ogre"
 date: 2023-06-06
-price: 1.95
+price: 9.95
 image: [round-ogre-header.webp, round-ogre-1.webm, round-ogre-2.webm, round-ogre-3.webm, round-ogre-4.webm, round-ogre-5.webm]
 file: "96ec7822-aace-4cc2-9669-be1dd1b22875"
 description: "A puzzler about an Ogre who wants to see everything with her round eyes. The sort-of sequel to Square Ogre. "

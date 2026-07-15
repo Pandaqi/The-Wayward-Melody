@@ -4,7 +4,7 @@ type: "product"
 title: "Chirpy Sorty"
 id: "chirpy-sorty"
 date: 2026-03-03
-price: 3.95
+price: 9.95
 image: ["chirpy-sorty-header.webp", "chirpy-sorty-video.webm", "chirpy-sorty-1.webp", "chirpy-sorty-2.webp"]
 file: "@TODO"
 spell: ["my-first-comparisons", "my-first-groups", "my-first-numbers"]

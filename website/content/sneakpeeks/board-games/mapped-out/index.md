@@ -3,7 +3,7 @@ type: "product"
 title: "Mapped Out"
 id: "mapped-out-sneakpeek"
 date: 2024-05-26
-price: 4.95
+price: 9.95
 image: [mapped-out-header.webp]
 file: "d920db14-459d-436b-a305-514181d6ecbc"
 description: "All original notes, assets, illustrations and other work behind the game."

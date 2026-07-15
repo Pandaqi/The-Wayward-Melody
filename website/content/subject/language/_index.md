@@ -1,5 +1,6 @@
 ---
 title: "Language"
+summary: "This subject teaches the English language! From an Apprentice's first utterances to being able to read any book and write their own stories."
 ---
 
 {{% double-view %}}

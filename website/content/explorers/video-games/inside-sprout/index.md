@@ -3,7 +3,8 @@ type: "product"
 title: "Inside Sprout"
 id: "game-inside-sprout"
 date: 2024-06-06
-price: 1.95
+price: 0
+free: true
 image: [inside-sprout-header.webp, inside-sprout-1.webp, inside-sprout-2.webp, inside-sprout-3.webp, inside-sprout-4.webp, inside-sprout-5.webp]
 file: "beaa92f9-68a0-4a53-af00-03853690010d"
 description: "Defend your treeheart by distracting animals with the right flowers."

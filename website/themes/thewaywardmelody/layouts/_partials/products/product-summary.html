@@ -2,20 +2,30 @@
 <div id="product-{{ .Params.id }}" 
     class="product-summary bg-color-light-xx text-color-dark-xx padding-m rounded-m limit-width-s maximize-height position-relative"
     data-section="{{ .Section }}">
+
+    <!--- Experimented with showing faction icon faded behind it: <div style="position: absolute; background-image: linear-gradient(to top, transparent, var(--color-light-xx)), url(/media/factions/faction_{{ .Section }}.webp); left: 0; right: 0; bottom: 0; height: 312px; background-size: cover; opacity: 0.12;"></div> --->
+    
+    <!--- Basic metadata at top --->
     {{ $level_data := partial "func/get-level.html" $data.level }}
+    {{ $subject_data := partial "func/get-subject.html" . }}
     <div class="position-absolute anchor-top-right maximize-width height-xs {{ $level_data.class }}">
-        <div class="font-size-s font-accent align-center padding-xs">
-            <a href="{{ $level_data.url }}" class="flex flex-center">
+        <div class="flex flex-center font-size-s font-accent align-center padding-xs" style="justify-content: space-evenly;">
+            <a href="{{ $subject_data.url }}" class="hover_underline">{{ $subject_data.single | upper }}</a>
+            <a href="{{ $level_data.url }}" class="flex flex-center hover_underline">
                 <div class="metadata-icon metadata-icon-level metadata-icon-black blend-overlay"></div>
                 <span>LEVEL {{ $level_data.string }}</span>
                 <div class="metadata-icon metadata-icon-level metadata-icon-black blend-overlay"></div>
             </a>
+            <a href="/{{ .Section }}/" class="hover_underline">{{ .Section | upper }}</a>
         </div>
     </div>
+
+    <!--- Clickable Product Image --->
     {{ $rel_image_url := replace $data.image .RelPermalink "" }}
     {{ $img_data := .Resources.Get $rel_image_url }}
     {{ $img_processed := false }}
     {{ $img_url := $data.image }}
+    <a href="{{ .RelPermalink }}">
     {{ if $img_data }}
         {{ $file_too_big := partial "func/is-asset-too-big.html" $img_data }} 
         {{ $img_url = $img_data.RelPermalink }}
@@ -46,14 +56,25 @@
                 width="1080" height="825"
                 >
     {{ end }}
-    <h2 class="align-center" style="margin-bottom: 0;">{{ .Params.title }}</h2>
-    <div class="flex flex-center font-size-s font-accent margin-none text-color-dark-xx" style="opacity: 0.35;">
-        {{ partial "views/faction-icon" (dict "context" . "invert" true) }} 
-        <span><a href="{{ .CurrentSection.RelPermalink }}" class="hover_underline">{{ .Section | upper }}</a></span>
-        {{ partial "views/faction-icon" (dict "context" . "invert" true) }} 
+    </a>
+
+    <!--- Title, tagline, description --->
+    <h2 class="align-center" style="margin-bottom: 0; margin-top: 0.4em;">{{ .Params.title }}</h2>
+    <div class="flex flex-center font-size-s font-accent text-color-dark-xx align-center" style="opacity: 0.5; margin-top: 0.66em; line-height: 1.25em;"> 
+        {{ $tagline := partial "func/get-tagline.html" . }}
+        {{ if $tagline }}
+            <span style="text-transform: uppercase;">{{ $tagline | safeHTML }}</span>
+        {{ else }}
+            {{ partial "views/faction-icon" (dict "context" . "invert" true) }}
+            <span><a href="{{ .CurrentSection.RelPermalink }}" class="hover_underline">{{ .Section | upper }}</a></span>
+            {{ partial "views/faction-icon" (dict "context" . "invert" true) }} 
+        {{ end }}
     </div>
     <p class="preserve-whitespace text-style-italic align-center">{{ .Params.description | markdownify }}</p>
-    <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Explore "{{ .Title }}"</a> <!--- Used to be just "Visit Product Page" for all, but Google said it's confusing for different links to have identical text --->
+
+    <!--- Buttons --->
+    <!--- Used to be just "Visit Product Page" for all, but Google said it's confusing for different links to have identical text --->
+    <a href="{{ .Permalink }}" class="button button-size-m border-image-m border-image-black">Explore "{{ .Title }}"</a>
     {{ if gt (len $data.products) 0 }}
         {{ if $data.single_button }}
             {{ partial "products/product-button" (index $data.products 0) }}
@@ -62,5 +83,13 @@
         {{ end }}
     {{ else }}
         <div class="text-style-italic font-size-s align-center">(Currently unavailable and/or coming soon.)</div>
+    {{ end }}
+    
+    <!--- Optional languages display --->
+    {{ $languages := or .Params.language "en" }}
+    {{ if not (reflect.IsSlice $languages) }}{{ $languages = slice $languages }}{{ end }}
+    {{ $is_multilang := gt (len $languages) 1 }}
+    {{ if $is_multilang }}
+        <div class="text-uppercase font-size-s font-accent text-color-dark-xx align-center">Languages: {{ delimit $languages " | " }}</div>
     {{ end }}
 </div>

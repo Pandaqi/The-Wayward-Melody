@@ -2,7 +2,8 @@
 type: "product"
 title: "Finding Van Gogh"
 id: "finding-van-gogh"
-price: 4.95
+price: 0
+free: true
 date: 2026-04-04
 image: ["finding-van-gogh-header.webp", "finding-van-gogh-1.webp", "finding-van-gogh-2.webp", "finding-van-gogh-3.webp", "finding-van-gogh-4.webp"]
 file: "72085d05-d318-4a33-a1a8-125f4059118f"

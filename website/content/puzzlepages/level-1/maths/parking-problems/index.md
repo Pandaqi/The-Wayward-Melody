@@ -3,7 +3,7 @@ type: "product"
 title: "Parking Problems"
 id: "parking-problems"
 date: 2025-04-26
-price: 4.95
+price: 9.95
 image: ["parking-problems-header.webp", "parking-problems-1.webp", "parking-problems-2.webp", "parking-problems-3.webp", "parking-problems-4.webp"]
 file: "81185452-a2cf-43e9-b373-fa5fef9ad4c8"
 spell: "recognition-and-discrimination"

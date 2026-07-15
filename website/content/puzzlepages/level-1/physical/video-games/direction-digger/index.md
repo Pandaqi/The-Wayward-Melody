@@ -3,7 +3,7 @@ type: "product"
 title: "Direction Digger"
 id: "direction-digger"
 date: 2026-04-15
-price: 4.95
+price: 9.95
 image: ["direction-digger-header.webp", "direction-digger-video.webm", "direction-digger-1.webp", "direction-digger-2.webp", "direction-digger-3.webp", "direction-digger-4.webp", "direction-digger-5.webp"]
 file: "6f2f91b6-7229-44d3-9bd1-0ecdb52eb349"
 spell: ["my-first-directions", "my-first-numbers"]

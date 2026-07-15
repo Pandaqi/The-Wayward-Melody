@@ -3,7 +3,7 @@ type: "product"
 title: "Zwarte Plaag Feestpakket"
 id: "zwarte-plaag-feestpakket"
 date: 2026-02-13
-price: 24.95
+price: 34.95
 image: ["de-zwarte-plaag-header.webp", "de-zwarte-plaag-1.webp", "de-zwarte-plaag-2.webp", "de-zwarte-plaag-3.webp", "de-zwarte-plaag-4.webp", "de-zwarte-plaag-5.webp", "de-zwarte-plaag-6.webp", "de-zwarte-plaag-7.webp", "de-zwarte-plaag-8.webp", "de-zwarte-plaag-9.webp"]
 file: "fe28a0e9-f351-4cbd-bd72-22d45c7236fa"
 spell: "de-trol-ontwaakt"

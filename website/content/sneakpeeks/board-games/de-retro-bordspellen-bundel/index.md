@@ -3,7 +3,8 @@ type: "product"
 title: "De Retro Bordspellen Bundel"
 id: "de-retro-bordspellen-bundel-sneakpeek"
 date: 2018-09-05
-price: 4.95
+price: 0
+free: true
 image: [swerving_shots_header.webp, levensweg_verbeterd.webp, scheve_schapenschutters.webp, animal_bandit_header.webp]
 file: "99b60f2e-fa17-4c48-9567-4721e51c61b5"
 description: "Een collectie van Tiamo's allereerste pogingen tot het maken van bordspellen."

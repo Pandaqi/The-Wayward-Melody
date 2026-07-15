@@ -3,7 +3,7 @@ type: "product"
 title: "Death By Digits"
 id: "death-by-digits-sneakpeek"
 date: 2024-05-26
-price: 2.95
+price: 7.95
 image: [death-by-digits-header.webp]
 file: "ce12e503-ba19-48e6-949d-aef03435f0d1"
 description: "All original notes, assets, illustrations and other work behind the game."

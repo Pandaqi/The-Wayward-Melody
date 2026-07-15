@@ -3,7 +3,7 @@ type: "product"
 title: "Into My Arms"
 id: "game-into-my-arms"
 date: 2023-06-06
-price: 1.95
+price: 7.95
 image: [into-my-arms-header.webp, into-my-arms-video.webm, into-my-arms-1.webp, into-my-arms-2.webp, into-my-arms-3.webp, into-my-arms-4.webp, into-my-arms-5.webp, into-my-arms-6.webp, into-my-arms-7.webp]
 file: "67029264-432a-4ca8-8add-3ec3a9867512"
 description: "A 1-2 player puzzle game about love, faith and a witch who might be the hero of the story."

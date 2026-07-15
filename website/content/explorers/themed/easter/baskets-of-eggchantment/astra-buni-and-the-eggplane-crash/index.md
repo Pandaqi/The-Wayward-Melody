@@ -4,7 +4,7 @@ type: "product"
 title: "Astra Buni & The Eggplane Crash"
 id: "eggchantment-the-eggplane-crash"
 date: 2025-03-01
-price: 4.95
+price: 9.95
 image: "astra-buni-and-the-eggplane-crash-header.webp"
 file: "@TODO"
 spell: "baskets-of-eggchantment"

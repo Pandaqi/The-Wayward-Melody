@@ -1,5 +1,6 @@
 ---
 title: "Skills"
+summary: "This subject teaches practical and physical skills. It starts with core skills like pencil control or doing the dishes, then moves into preparing for specific jobs and tasks later on."
 ---
 
 {{% double-view %}}

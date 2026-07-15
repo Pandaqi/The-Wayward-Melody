@@ -3,7 +3,7 @@ type: "product"
 title: "The Pirate Games"
 id: "the-pirate-games-sneakpeek"
 date: 2022-07-25
-price: 3.95
+price: 9.95
 image: [pirate_drawingbeard_header.webp, pirate_riddlebeard_header.webp]
 file: "ff21460a-63e9-477c-a696-85ea26b0f7e3"
 description: "All original notes, assets, illustrations and other work behind the game."

@@ -1,0 +1,11 @@
+{{ $subjects := or .Params.subject slice }}
+{{ if not (reflect.IsSlice $subjects) }}{{ $subjects = slice $subjects }}{{ end }}
+{{ $first_subject := "miscellaneous" }}
+{{ $url := "#" }}
+{{ if gt (len $subjects) 0 }}
+    {{ $first_subject = index $subjects 0 }}
+    {{ $url = printf "/subject/%s/" $first_subject }}
+{{ else }}
+    {{ $subjects = slice $first_subject }}
+{{ end }}
+{{ return (dict "url" $url "single" $first_subject "all" $subjects) }}

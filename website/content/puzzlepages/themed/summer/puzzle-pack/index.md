@@ -3,7 +3,9 @@ type: "product"
 title: "Summer Puzzle Pack"
 id: "summer-puzzle-pack"
 date: 2025-05-05
-price: 14.95
+price: 0
+free: true
+demo: true
 image: ["summer-puzzlepack-header.webp", "summer-puzzlepack-1.webp", "summer-puzzlepack-2.webp", "summer-puzzlepack-3.webp", "summer-puzzlepack-4.webp", "summer-puzzlepack-5.webp"]
 file: "ba1a2204-2cf2-4f91-80d2-63243a46df60"
 spell: "summer-holiday"

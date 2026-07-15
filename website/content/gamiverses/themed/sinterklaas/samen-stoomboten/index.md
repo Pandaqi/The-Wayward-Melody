@@ -2,7 +2,8 @@
 type: "product"
 title: "Samen Stoomboten"
 id: "samen-stoomboten"
-price: 2.95
+price: 0
+free: true
 date: 2025-11-05
 image: ["samen-stoomboten-header-compressed.webp", "samen-stoomboten-header.webp"]
 file: "f3746a90-1aea-4be0-a77e-895755eea288"

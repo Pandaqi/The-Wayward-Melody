@@ -3,7 +3,8 @@ type: "product"
 title: "Pumpkin Patrol"
 id: "pumpkin-patrol-sneakpeek"
 date: 2025-10-28
-price: 4.95
+price: 0
+free: true
 image: [pumpkin-patrol-header.webp]
 spell: ["halloween", "pandaqi-games"]
 file: "8e53555d-840f-4436-953d-924be42abc39"

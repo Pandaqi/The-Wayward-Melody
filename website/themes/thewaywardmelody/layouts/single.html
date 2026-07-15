@@ -15,9 +15,12 @@
 <!--- Support multilevels too with a (+) behind -->
 {{ $level_data := partial "func/get-level.html" $data.level }}
 <div class="maximize-width height-xxxs {{ $level_data.class }} position-relative move-to-back flex flex-center" style="margin-top:-1em;">
-    <div class="font-size-s font-accent">LEVEL {{ $level_data.string }}</div>
+    {{ $level_string := printf "level %s" $level_data.string }}
+    {{ $subjects := index (partial "func/get-subject.html" .) "all" }}
+    <div class="font-size-s font-accent text-uppercase">{{ $level_string }} | {{ delimit $subjects " | " }} | {{ .Section }} | {{ $data_curriculum.same_spell }}</div>
 </div>
-<div style="position: absolute; left: 0; right: 0; top: 0; bottom: 0; background-image: linear-gradient(to bottom, transparent, var(--color-dark-xx)), url({{ $data.image }}); background-size: cover; background-position: center top; z-index: -1; opacity: 0.15;"></div>
+<!--- Faded background image (using first image of product) --->
+<div style="position: absolute; left: 0; right: 0; top: 0; bottom: 0; background-image: linear-gradient(to bottom, transparent, var(--color-dark-xx)), url({{ $data.image }}); background-size: cover; background-position: center top; z-index: -1; opacity: 0.12;"></div>
 <div class="image-carousel flex flex-wrap-below-m flex-center gap-m limit-width-xl block-align-center" data-carousel-index="0">
     <!--- Image on left/top --->
     <div class="maximize-width padding-xs no-select">
@@ -87,6 +90,7 @@
 </header>
 <article data-pagefind-body>
 
+    <!--- Non products just show their (text) content + TableOfContents and that's that --->
     {{ if not $is_product }}
         <div class="text-reader margin-m limit-width-m block-align-center">
         {{ partial "navigation/navigation-article" . }}
@@ -97,13 +101,17 @@
         </div>
     {{ end }}
 
+    <!--- Products show their description but also a sidebar with loads of details --->
     {{ if $is_product }}
-        <div class="double-view gap-xl" style="margin-top: 3.5em; max-width: 920px; align-items: start;">
+        <div class="double-view gap-xxxl padding-m" style="margin-top: 3.5em; align-items: start;">
             <div class="double-view-item text-reader">
                 <h2 class="margin-s">Description</h2>
-                {{ .Content }}
+                <div>
+                    {{ .Conten }}
+                </div>
+                
             </div>
-            <div class="double-view-item" style="max-width: 256px;">
+            <div class="double-view-item" style="max-width: 320px;">
                 <h2 class="margin-s heading-decorations">Details</h2>
                 {{ partial "products/product-details.html" . }}
             </div>
@@ -111,6 +119,7 @@
     {{ end }}
 </article>
 
+<!--- Nudging customers to next/prev in curriculum or other product in same faction --->
 {{ if $is_product }}
     {{ partial "navigation/curriculum-navigation-block.html" . }}
 {{ end }}

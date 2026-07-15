@@ -3,7 +3,8 @@ type: "product"
 title: "Crossyllabi (Pre-Reader)"
 id: "crossyllabi-pre-reader"
 date: 2025-04-26
-price: 4.95
+price: 0
+free: true
 image: ["crossyllabi-pre-reader-header.webp", "crossyllabi-pre-reader-screenshot-0.webp", "crossyllabi-pre-reader-screenshot-1.webp", "crossyllabi-pre-reader-screenshot-2.webp"]
 file: "7fe69d06-66ce-4846-9edc-c08f9196b1a3"
 spell: ["syllable-awareness"]

@@ -771,6 +771,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
+  .margin-top-xl {
+    margin-top: 3.33rem;
+  }
   .margin-top-xxxl {
     margin-top: 8rem;
   }
@@ -791,6 +794,12 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .gap-xl {
     gap: 3.33rem;
+  }
+  .gap-xxl {
+    gap: 5rem;
+  }
+  .gap-xxxl {
+    gap: 8rem;
   }
   .height-xxxs {
     height: 1rem;

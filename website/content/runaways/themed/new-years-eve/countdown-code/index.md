@@ -3,7 +3,9 @@ type: "product"
 title: "Countdown Code"
 id: "countdown-code"
 date: 2025-05-05
-price: 4.95
+price: 0
+free: true
+demo: true
 image: ["countdown-code-header.webp", "countdown-code-1.webp"]
 file: "8398af53-fe1e-4651-a518-916ea20c1b1a"
 spell: "new-years-eve"

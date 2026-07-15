@@ -3,7 +3,8 @@ type: "product"
 title: "Naivigation Original"
 id: "naivigation-original-sneakpeek"
 date: 2019-03-03
-price: 3.95
+price: 0
+free: true
 image: [naivigation_original_header.webp]
 file: "e85d11e5-ea29-478b-b668-7ae9dc14c912"
 description: "All original notes, assets, illustrations and other work behind the game."

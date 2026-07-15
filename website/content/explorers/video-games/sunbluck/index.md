@@ -3,7 +3,8 @@ type: "product"
 title: "Sunbluck"
 id: "game-sunbluck"
 date: 2024-06-06
-price: 2.95
+price: 0
+free: true
 image: [sunbluck-header.webp, sunbluck-1.webp, sunbluck-2.webp, sunbluck-3.webp, sunbluck-4.webp]
 file: "ac9066e5-9dbd-4764-97f5-c8ba3c99259d"
 description: "Throw shade at your beach tourists to prevent them getting sunburned."

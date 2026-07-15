@@ -3,7 +3,8 @@ type: "product"
 title: "Less is Store"
 id: "game-less-is-store"
 date: 2023-06-06
-price: 1.95
+price: 0
+free: true
 image: [less-is-store-header.webp, less-is-store-1.webp, less-is-store-2.webp, less-is-store-3.webp, less-is-store-4.webp]
 file: "945bdbc3-1081-4090-8369-26416df5622c"
 description: "People are buying too many products. You don't like it."

@@ -3,7 +3,7 @@ type: "product"
 title: "Photomone Games"
 id: "photomone-games-sneakpeek"
 date: 2023-07-20
-price: 3.95
+price: 9.95
 image: [photomone_header.webp, photomone_antsassins_header.webp, photomone_digital_antists_header.webp]
 file: "9314d0ad-b721-4a64-a1e0-1ecec2cfb479"
 description: "All original notes, assets, illustrations and other work behind the game."

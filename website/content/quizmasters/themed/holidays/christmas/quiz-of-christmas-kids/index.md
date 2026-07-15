@@ -3,7 +3,8 @@ type: "product"
 title: "Quiz of Christmas (Kids)"
 id: "quiz-of-christmas-kids"
 date: 2025-12-05
-price: 9.95
+price: 0
+free: true
 image: ["quiz-of-christmas-kids-header.webp", "quiz-of-christmas-kids-1.webp", "quiz-of-christmas-kids-2.webp", "quiz-of-christmas-kids-3.webp", "quiz-of-christmas-kids-4.webp", "quiz-of-christmas-kids-5.webp", "quiz-of-christmas-kids-6.webp"]
 file: "47cdf336-b50c-446e-899e-0eac763f5554"
 spell: "christmas"

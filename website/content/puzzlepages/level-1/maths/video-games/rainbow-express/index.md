@@ -3,7 +3,7 @@ type: "product"
 title: "Rainbow Express"
 id: "rainbow-express"
 date: 2026-03-03
-price: 3.95
+price: 9.95
 image: ["rainbow-express-header.webp", "rainbow-express-video.webm", "rainbow-express-1.webp", "rainbow-express-2.webp", "rainbow-express-3.webp"]
 file: "bfd0616b-7e10-4868-bf5a-58d6b332de54"
 spell: ["my-first-colors", "my-first-shapes", "my-first-numbers", "my-first-letters"]

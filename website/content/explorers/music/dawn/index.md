@@ -3,7 +3,8 @@ type: "product"
 title: "Dawn"
 id: "dawn-album"
 date: 2023-06-06
-price: 4.95
+price: 0
+free: true
 image: dawn-header.webp
 file: "bab29f93-05f6-464f-8c85-94d1a1a993f9"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."

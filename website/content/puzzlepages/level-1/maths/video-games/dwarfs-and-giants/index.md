@@ -3,7 +3,7 @@ type: "product"
 title: "Dwarfs & Giants"
 id: "dwarfs-and-giants"
 date: 2026-04-01
-price: 3.95
+price: 7.95
 image: ["dwarfs-and-giants-header.webp", "dwarfs-and-giants-video.webm", "dwarfs-and-giants-1.webp", "dwarfs-and-giants-2.webp", "dwarfs-and-giants-3.webp", ]
 file: "dfa76ebb-c342-4442-b04f-c464849d95d4"
 spell: "my-first-comparisons"

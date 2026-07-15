@@ -3,7 +3,7 @@ type: "product"
 title: "Split the Foody"
 id: "split-the-foody-sneakpeek"
 date: 2024-05-26
-price: 2.95
+price: 7.95
 image: [split_the_foody_header.webp]
 file: "b47e87e7-304b-424c-ba72-2419c065a69e"
 description: "All original notes, assets, illustrations and other work behind the game."

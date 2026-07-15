@@ -39,13 +39,10 @@
 * LIBRARY
   * Make the overview page (`/info/library/`) look a bit more detailed and usable -> Show TYPE (update/wisdom/devlog) + DATE + bigger box per article?
   * (Possibly unique custom images for articles)
-* Add icons for the MAIN SUBJECTS (Language, Mathematics, Social, Physical, World, Other? -> Any minor things like Biology and Stuff can come later or are considered "minor topics"?) => Also, do we need to **capitalize** these? It feels inconsistent with literally everything else on the website ...
 * Add "Dark Mode/Light Mode" **icon** + use at button in footer
 * WEBSHOP JS FIX: If no buy button, the image carousel also doesn't show---only first header image. Is this bad?
 * HOME PAGE
   * The home page should look much more _open_ and _custom_ anyway. Custom shop logo, more space, more images, less AI-first-impression.
-* Use Metadata Nav Query Parameters for more stuff? + Find a way to allow pagination on _that_ too
-  * DISABLED IT COMPLETELY FOR NOW, as it doesn't work with Search, and it's just confusing as long as I haven't built a robust system myself ...
 * (Use Snipcart JavaScript SDK to get TAX RATE on-demand? So I can display prices INCLUDING tax for users? Very difficult ...)
 * Once we need it, support BRANDS.
   * Like `charms`, simply create files for each brand in `brands/<name>` and it should automatically match with taxonomy + give us brand data.

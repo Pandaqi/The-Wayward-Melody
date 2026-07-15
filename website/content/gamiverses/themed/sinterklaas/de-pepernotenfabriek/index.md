@@ -2,7 +2,8 @@
 type: "product"
 title: "De Pepernotenfabriek"
 id: "de-pepernotenfabriek"
-price: 3.95
+price: 0
+free: true
 date: 2025-11-30
 image: ["de-pepernotenfabriek-compressed.webp", "de-pepernotenfabriek-header.webp"]
 file: "36684f91-ec95-4531-86c5-3351e346b9ad"

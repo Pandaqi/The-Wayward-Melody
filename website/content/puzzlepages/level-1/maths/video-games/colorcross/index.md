@@ -3,7 +3,8 @@ type: "product"
 title: "Colorcross"
 id: "colorcross"
 date: 2026-03-03
-price: 3.95
+price: 0
+free: true
 image: ["colorcross-header.webp", "colorcross-video.webm", "colorcross-1.webp", "colorcross-2.webp"]
 file: "9ae3ae1f-5847-4a41-a50f-6521a6bd3dd7"
 spell: "my-first-colors"

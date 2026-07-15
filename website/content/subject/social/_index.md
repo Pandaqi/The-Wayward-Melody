@@ -1,5 +1,6 @@
 ---
 title: "Social"
+summary: "This subject teaches about social skills and humanity in general. It's about self-reflection, such as figuring out who you are, but also social skills, empathy, emotions, and psychology."
 ---
 
 {{% double-view %}}

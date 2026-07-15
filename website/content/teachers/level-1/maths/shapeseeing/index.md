@@ -3,7 +3,8 @@ type: "product"
 title: "Shapeseeing"
 id: "shapeseeing"
 date: 2025-04-26
-price: 4.95
+price: 0
+free: true
 image: ["shapeseeing-header.webp", "shapeseeing-1.webp", "shapeseeing-2.webp"]
 file: "65ff815d-edf3-481f-95c9-91d7ca7ca72a"
 spell: "my-first-shapes"

@@ -1103,6 +1103,10 @@ $viewport-xl: 1280px;
         margin-bottom: $size-m;
     }
 
+    .margin-top-xl {
+        margin-top: $size-xl;
+    }
+
     .margin-top-xxxl {
         margin-top: $size-xxxl;
     }
@@ -1129,6 +1133,14 @@ $viewport-xl: 1280px;
     
     .gap-xl {
         gap: $size-xl;
+    }
+
+    .gap-xxl {
+        gap: $size-xxl;
+    }
+
+    .gap-xxxl {
+        gap: $size-xxxl;
     }
 
     .height-xxxs

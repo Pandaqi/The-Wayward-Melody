@@ -3,7 +3,7 @@ type: "product"
 title: "Wondering Witches"
 id: "wondering-witches-sneakpeek"
 date: 2020-04-28
-price: 3.95
+price: 7.95
 image: [wondering_witches_header.webp]
 file: "e4091358-b33e-49f3-9f3b-ce577c286e12"
 description: "All original notes, assets, illustrations and other work behind the game."

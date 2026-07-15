@@ -3,7 +3,8 @@ type: "product"
 title: "The Silent Wall"
 id: "the-silent-wall"
 date: 2025-04-26
-price: 9.95
+price: 0
+free: true
 image: ["the-silent-wall-header.webp", "the-silent-wall-screenshot-1.webp", "the-silent-wall-screenshot-2.webp"]
 file: "174292b2-1e0c-4f31-b6cb-a9ef22bda0f1"
 spell: ["my-first-sounds", "word-awareness", "syllable-awareness", "phoneme-awareness", "my-first-letters"]

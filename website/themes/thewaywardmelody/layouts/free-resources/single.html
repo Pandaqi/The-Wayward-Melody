@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ $pages_product := where .Site.RegularPages "Type" "eq" "product" }}
+
+<section>
+    <h2 id="demo-products" class="heading-decorations margin-top-xxxl">Demo Products</h2>
+    <p class="text-reader block-column-and-center">The products below were explicitly designed to be a "demo" or "trial" version. Our goal is to have one such product per Charm ( = product type). Use them to <strong>try out</strong> our work and see if you like it!</p>
+    {{ $pages_demo := where $pages_product "Params.demo" "eq" true }}
+    <ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m flex-equal-size">
+        {{ range $pages_demo }}
+            <li>{{ partial "products/product-summary" . }}</li>
+        {{ end }}
+    </ul>
+</section>
+
+<section>
+    <h2 id="store-products" class="heading-decorations margin-top-xxxl">Store Products</h2>
+    <p class="text-reader block-column-and-center">This is a random selection of products that can be added to your cart for free!</p>
+    {{ $pages_free := where $pages_product "Params.free" "eq" true }}
+    {{ $pages_free_selection := $pages_free | shuffle | first 21 }}
+    <ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m flex-equal-size">
+        {{ range $pages_free_selection }}
+            <li>{{ partial "products/product-summary" . }}</li>
+        {{ end }}
+    </ul>
+</section>
+
+<section class="text-reader block-column-and-center">
+    <h2 id="direct-links" class="heading-decorations margin-top-xxxl">Direct Links</h2>
+    <p>The links below directly lead to files hosted on a server. This means you don't need to add them to the cart and "buy" them, you can just immediately download them. (Some might be hosted on a different server than the store; these represent older work from before the store was launched.)</p>
+    <ul>
+        <li>SHORT STORY (SciFi): <a href="/free-resources-hosted/i-shall-erase-you.docx">I Shall Erase You</a></li>
+        <li>SHORT STORY (Fantasy): <a href="/free-resources-hosted/a-second-life.pdf">A Second Life</a></li>
+        <li>ONE PAPER GAME: <a href="/free-resources-hosted/kangaruse-board-1.pdf">Kangaruse 1</a></li>
+        <li>ONE PAPER GAME: <a href="/free-resources-hosted/kangaruse-board-2.pdf">Kangaruse 2</a></li>
+        <li>BOARD GAME (Math): <a href="https://drive.google.com/drive/folders/1tB1Lfp1zUNvR8ARU9d1quTG3EGq9H5fv">Death By Digits</a></li>
+        <li>BOARD GAME (Language): <a href="https://drive.google.com/drive/folders/1oXsEhIbOgYbdzvjnbK0XVSkOymGM8KxX">Librarians</a></li>
+        <li>WEB GAME (Play in browser): <a href="https://pandaqi.itch.io/boltcorpse-and-sons">Boltcorpse & Sons</a></li>
+        <li>WEB GAME (Play in browser): <a href="https://pandaqi.itch.io/sunbluck">Sunbluck</a></li>
+        <!--- @TODO: This needs a better and more curated list --->
+    </ul>
+</section>
+
+<section class="text-reader block-column-and-center">
+    <h2 id="external-resources" class="heading-decorations margin-top-xxxl">External Resources</h2>
+    <p>The team behind The Wayward Melody maintains several large <em>completely free</em> websites that you might like.</p>
+    <ul>
+        <li><a href="https://pandaqi.com">Pandaqi Games</a>: free board games and video games, for all ages.</li>
+        <li><a href="https://pandaqi.com/tutorials/">Pandaqi Tutorials</a>: free high-quality tutorials (text + image + interactive examples) on many topics.</li>
+        <li><a href="https://pandaqi.com/blog/">Pandaqi Blog</a>: contains the devlogs (or "developer diaries") for loads of projects, giving insight and nuggets of wisdom.</li>
+        <li><a href="https://thesagaoflife.com">The Saga Of Life</a>: free fantasy short stories all set within the same universe, for all ages.</li>
+        <li><a href="https://tiamopastoor.com">Tiamo Pastoor</a>: the author website of Tiamo Pastoor, which is another place where you can buy his books and read the diaries/progress on them.</li>
+    </ul>
+    <p>Additionally, we want to shout out other free resources by people unrelated to us.</p>
+    <ul>
+        <li><a href="https://khanacademy.org">Khan Academy</a>: just a great resource for learning, mostly focused on maths.</li>
+        <li><a href="https://duolingo.com">Duolingo</a>: the famous app/website for learning languages.</li>
+        <li><a href="https://splashlearn.com">SplashLearn</a>: a curriculum of digital games, it's completely free for <em>teachers</em>.</li>
+    </ul>
+</section>
+
+{{ $pages_paid := where $pages_product "Params.free" "ne" true }}
+<section>
+    <h2 id="sorted-by-price" class="heading-decorations margin-top-xxxl">Sorted By Price</h2>
+    <p class="text-reader block-column-and-center">Below is a list of paid resources, from cheapest to most expensive. This gives an indication as to what resources will become free next. The store currently contains <strong>{{ len $pages_free }} free products</strong> and <strong>{{ len $pages_paid }} paid products</strong>.</p>
+    {{ $pages_sorted := sort $pages_paid ".Params.price" "asc" }}
+    {{ $pages_sorted = $pages_sorted | first 21 }}
+    <ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-m flex-equal-size">
+        {{ range $pages_sorted }}
+            <li>{{ partial "products/product-summary" . }}</li>
+        {{ end }}
+    </ul>
+</section>
+
+{{ end }}

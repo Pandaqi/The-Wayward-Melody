@@ -3,7 +3,7 @@ type: "product"
 title: "I Bid You Not"
 id: "i-bid-you-not-sneakpeek"
 date: 2024-05-26
-price: 2.95
+price: 7.95
 image: [i-bid-you-not-header.webp]
 file: "5e00daf9-1ddd-47cb-876a-6e7d99731271"
 description: "All original notes, assets, illustrations and other work behind the game."

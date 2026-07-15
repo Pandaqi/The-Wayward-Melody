@@ -3,7 +3,7 @@ type: "product"
 title: "A Recipe for Disaster"
 id: "game-a-recipe-for-disaster"
 date: 2023-06-06
-price: 1.95
+price: 9.95
 image: [a-recipe-for-disaster-header.webp, a-recipe-for-disaster-4.webp, a-recipe-for-disaster-5.webp, a-recipe-for-disaster-6.webp, a-recipe-for-disaster-1.webp, a-recipe-for-disaster-2.webp, a-recipe-for-disaster-3.webp, a-recipe-for-disaster-7.webp, a-recipe-for-disaster-8.webp, a-recipe-for-disaster-9.webp]
 file: "3910d8ea-b1b9-4389-bacc-ec20c46607ef"
 description: "Baking breads by throwing hats. Chaotic co-op game for 1-4 players trying to run a bakery."

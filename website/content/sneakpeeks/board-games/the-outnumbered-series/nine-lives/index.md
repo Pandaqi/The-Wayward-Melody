@@ -3,7 +3,7 @@ type: "product"
 title: "Nine Lives"
 id: "nine-lives-sneakpeek"
 date: 2024-05-26
-price: 6.95
+price: 9.95
 image: [nine-lives-header.webp]
 file: "40451912-28ea-4519-ac94-8f4f1d5c7700"
 description: "All original notes, assets, illustrations and other work behind the game."

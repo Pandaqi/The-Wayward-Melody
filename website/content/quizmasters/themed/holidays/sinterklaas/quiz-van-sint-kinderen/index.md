@@ -3,7 +3,8 @@ type: "product"
 title: "Quiz van Sint: Kinderen"
 id: "quiz-van-sint-kinderen"
 date: 2025-11-11
-price: 9.95
+price: 0
+free: true
 image: ["quiz-van-sint-kinderen-header.webp", "quiz-van-sint-kinderen-1.webp", "quiz-van-sint-kinderen-2.webp", "quiz-van-sint-kinderen-3.webp", "quiz-van-sint-kinderen-4.webp", "quiz-van-sint-kinderen-5.webp", "quiz-van-sint-kinderen-6.webp"]
 file: "9400c3a4-bac6-4398-aeac-1770995d22d5"
 spell: "sinterklaas"

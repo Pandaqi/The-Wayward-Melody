@@ -3,7 +3,8 @@ type: "product"
 title: "Finside Out"
 id: "game-finside-out"
 date: 2024-06-06
-price: 1.95
+price: 0
+free: true
 image: [finside-out-header.webp, finside-out-1.webp, finside-out-2.webp, finside-out-3.webp, finside-out-4.webp, finside-out-5.webp, finside-out-6.webp]
 file: "7797febf-cbde-4ad8-a218-217bc93bc1c7"
 description: "Race your canoe through the raging rapids while escaping your friends or piranhas."

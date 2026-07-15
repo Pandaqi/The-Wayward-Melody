@@ -3,7 +3,7 @@ draft: true
 type: "product"
 title: "That's Not A Tree"
 id: "thats-not-a-tree"
-price: 4.95
+price: 9.95
 date: 2026-04-10
 image: ["thats-not-a-tree-header.webp", "thats-not-a-tree-1.webp", "thats-not-a-tree-2.webp", "thats-not-a-tree-3.webp", "thats-not-a-tree-4.webp"]
 file: "@TODO"

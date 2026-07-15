@@ -3,7 +3,8 @@ type: "product"
 title: "Finger Food"
 id: "finger-food-sneakpeek"
 date: 2024-01-25
-price: 3.95
+price: 0
+free: true
 image: [finger_food_header.webp]
 file: "195b0cd0-ce91-4dc1-815e-cfc03e268079"
 description: "All original notes, assets, illustrations and other work behind the game."

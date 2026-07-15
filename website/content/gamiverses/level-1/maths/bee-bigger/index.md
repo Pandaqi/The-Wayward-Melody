@@ -2,7 +2,7 @@
 type: "product"
 title: "Bee Bigger"
 id: "bee-bigger"
-price: 4.95
+price: 9.95
 date: 2026-04-04
 image: ["bee-bigger-header.webp", "bee-bigger-1.webp", "bee-bigger-2.webp", "bee-bigger-3.webp", "bee-bigger-4.webp"]
 file: "a00a1b20-9d38-4480-91f7-ced9a213345e"

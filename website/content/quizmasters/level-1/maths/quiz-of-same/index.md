@@ -3,7 +3,8 @@ type: "product"
 title: "Quiz of Same"
 id: "quiz-of-same"
 date: 2025-04-26
-price: 4.95
+price: 0
+free: true
 image: ["quiz-of-same-header.webp", "quiz-of-same-1.webp", "quiz-of-same-2.webp", "quiz-of-same-3.webp"]
 file: "58fe9df6-843c-4208-b72a-dfef0e7eb0d4"
 spell: "recognition-and-discrimination"

@@ -3,7 +3,7 @@ type: "product"
 title: "Square Ogre"
 id: "game-square-ogre"
 date: 2023-06-06
-price: 1.95
+price: 9.95
 image: [square-ogre-header.webp, square-ogre-1.webm, square-ogre-2.webm, square-ogre-3.webm]
 file: "ae50e75e-6b94-439a-b480-0fb61effc526"
 description: "Help Ogre improve his eyesight and leave his cave across 500 puzzles."

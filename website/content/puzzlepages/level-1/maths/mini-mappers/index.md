@@ -3,7 +3,8 @@ type: "product"
 title: "Mini Mappers"
 id: "mini-mappers"
 date: 2025-04-26
-price: 4.95
+price: 0
+free: true
 image: ["mini-mappers-header.webp", "mini-mappers-1.webp", "mini-mappers-2.webp", "mini-mappers-3.webp", "mini-mappers-4.webp"]
 file: "2ec2e5b7-4358-4a67-ba28-d361c0b676a6"
 spell: "recognition-and-discrimination"

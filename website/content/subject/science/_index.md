@@ -1,5 +1,6 @@
 ---
 title: "Science"
+summary: "This subject teaches the usual STEM fields: Biology, Chemistry, Physics, Engineering. It also includes a high focus on logical thinking, problem solving, and programming/technology."
 ---
 
 {{% double-view %}}

@@ -3,7 +3,9 @@ type: "product"
 title: "Composition in F Minor"
 id: "composition-in-f-minor-album"
 date: 2023-06-06
-price: 7.95
+price: 0
+free: true
+demo: true
 image: composition-in-f-minor-header.webp
 file: "258a1bb6-82ca-4da0-a383-71416bffd948"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."

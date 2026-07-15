@@ -3,7 +3,7 @@ type: "product"
 title: "Papierproef Feestpakket"
 id: "papierproef-feestpakket"
 date: 2026-01-30
-price: 24.95
+price: 29.95
 image: ["de-papierproef-header.webp", "de-papierproef-1.webp", "de-papierproef-2.webp", "de-papierproef-3.webp", "de-papierproef-4.webp", "de-papierproef-5.webp", "de-papierproef-6.webp", "de-papierproef-7.webp", "de-papierproef-8.webp"]
 file: "e2300864-1a2b-4216-b6fa-dffe91d6a267"
 spell: "de-trol-ontwaakt"

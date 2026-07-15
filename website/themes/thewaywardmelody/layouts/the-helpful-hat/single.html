@@ -1,0 +1,135 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ $spell_library := dict }}
+
+<section class="text-reader block-column-and-center">
+    <p>Unsure where to start? Unsure which resources to pick when exploring a topic? No problem! The Helpful Hat is here to help!</p>
+    <p>Type into the box below to find your topic. The website will randomly select a varied bundle of teaching resources for you.</p>
+    <p>They are listed in the "recommended order": moving from the first Faction (mostly stories) to the last (mostly games).</p>
+
+    <!--- Create the actual input element (typable dropdown list) --->
+    <input type="text" list="spell-selector-datalist" id="spell-selector-input" />
+    <datalist id="spell-selector-datalist">
+        {{ range $spell, $pages := .Site.Taxonomies.spell }}
+            {{ $spell_data := index $.Site.Data.spells $spell }}
+            {{ if $spell_data }}
+                {{ $spell_library = $spell_library | merge (dict $spell_data.label $pages) }}
+                <option value="{{ $spell_data.label }}">{{ $spell_data.label }}</option>
+            {{ end }}
+        {{ end }}
+    </datalist>
+
+    <h2 class="heading-decorations" id="your-lesson-plan">Your Lesson Plan</h2>
+    <div id="spell-selector-results" style="margin-bottom: 4em;">
+        <em>No valid topic selected yet ...</em>
+    </div>
+</section>
+
+<!--- Place cached metadata into HTML so JavaScript can use it --->
+{{ range $key, $pages := $spell_library }}
+    <div data-title="{{ $key }}" class="spell-data-cached" style="display:none;">
+        {{ range $pages }}
+            <div class="spell-data-page-cached" data-url="{{ .RelPermalink }}" data-faction="{{ .Section }}">{{ .Title }}</div>
+        {{ end }}
+    </div>
+{{ end }}
+
+<!--- Make input element interactive + save HTML data in proper object --->
+<script>
+    const refreshSuggestedProducts = (spell) => 
+    {
+        const ul = document.createElement("ol");
+        const pages = spellLibrary[spell];
+
+        const pagesSelected = [];
+        for(let i = 0; i < factionOrder.length; i++)
+        {
+            pagesSelected[i] = null;
+        }
+
+        for(const page of pages)
+        {
+            if(pagesSelected[page.index] != null) { continue; }
+            pagesSelected[page.index] = page;
+        }
+
+        for(const page of pagesSelected)
+        {
+            if(page == null) { continue; }
+
+            const li = document.createElement("li");
+            ul.appendChild(li);
+            li.innerHTML = page.faction + " | ";
+
+            const a = document.createElement("a");
+            li.appendChild(a);
+            a.target = "blank";
+            a.href = page.url;
+            a.innerHTML = page.title;
+        }
+
+        const outputNode = document.getElementById("spell-selector-results");
+        outputNode.innerHTML = "";
+        outputNode.appendChild(ul);
+    }
+
+    const isValidDatalistValue = (idDataList, inputValue) => 
+    {
+        const cssQuery = `#${idDataList} option[value="${inputValue}"]`;
+        const option = document.querySelector(cssQuery);
+        if (option != null) 
+        {
+            return option.value.length > 0;
+        }
+        return false;
+    }
+
+    const urlString = window.location.href;
+    const paramString = urlString.split('?')[1];
+    const queryString = new URLSearchParams(paramString);
+    let searchQuery = null;
+    for (let pair of queryString.entries()) 
+    {
+        if(pair[0] != "query") { continue; }
+        searchQuery = pair[1];
+        break;
+    }
+
+    const factionOrder = ["explorers", "teachers", "quizmasters", "puzzlepages", "runaways", "gamiverses"]
+
+    const spellLibrary = {};
+    const spellDataCached = document.getElementsByClassName("spell-data-cached");
+    for(const spellData of spellDataCached)
+    {
+        const spellName = spellData.dataset.title;
+        const spellPages = spellData.getElementsByClassName("spell-data-page-cached");
+        const spellProperties = [];
+        for(const spellPage of spellPages)
+        {
+            spellProperties.push({
+                url: spellPage.dataset.url,
+                title: spellPage.innerHTML,
+                faction: spellPage.dataset.faction,
+                index: factionOrder.indexOf(spellPage.dataset.faction)
+            });
+        }
+        spellLibrary[spellName] = spellProperties;
+    }
+
+    const inputElement = document.getElementById("spell-selector-input");
+    inputElement.addEventListener("input", (ev) => {
+        const value = inputElement.value;
+        if(!isValidDatalistValue("spell-selector-datalist", value)) { return; }
+        refreshSuggestedProducts(value);
+    });
+
+    if(searchQuery)
+    {
+        inputElement.value = searchQuery;
+        inputElement.dispatchEvent(new Event('input', { bubbles:true })); 
+    }
+</script>
+
+{{ end }}

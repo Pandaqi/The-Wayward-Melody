@@ -3,7 +3,7 @@ type: "product"
 title: "Bidding Blocks"
 id: "bidding-blocks-sneakpeek"
 date: 2024-05-26
-price: 2.95
+price: 7.95
 image: [bidding-blocks-header.webp]
 file: "9495143b-c592-45fd-9300-a2313526c7f2"
 description: "All original notes, assets, illustrations and other work behind the game."

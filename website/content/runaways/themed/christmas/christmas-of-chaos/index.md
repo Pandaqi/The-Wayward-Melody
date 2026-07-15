@@ -4,7 +4,7 @@ type: "product"
 title: "Christmas of Chaos"
 id: "christmas-of-chaos"
 date: 2025-12-05
-price: 4.95
+price: 19.95
 image: ["christmas-of-chaos-header.webp", "christmas-of-chaos-1.webp"]
 file: "@TODO"
 spell: "christmas"

@@ -3,7 +3,8 @@ type: "product"
 title: "Dusk"
 id: "dusk-album"
 date: 2023-06-06
-price: 4.95
+price: 0
+free: true
 image: dusk-header.webp
 file: "cb69336c-3295-4eeb-95b0-811913bd08db"
 description: "The high-quality music files, original tracks/effects/project files, and notes/demos for this album."

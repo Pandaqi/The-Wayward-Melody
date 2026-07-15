@@ -3,7 +3,9 @@ type: "product"
 title: "One Paper Games Bundle"
 id: "one-paper-games-bundle-sneakpeek"
 date: 2020-09-05
-price: 6.95
+price: 0
+free: true
+demo: true
 image: [paper-thieves.webp, epic-medics.webp, one-pizza-the-puzzle.webp, timely-transports-header.webp, unstable-universe.webp]
 file: "77ef6303-42d8-46af-b423-876973d49f34"
 description: "All original notes, assets, illustrations and other work behind the first handful of One Paper Games."

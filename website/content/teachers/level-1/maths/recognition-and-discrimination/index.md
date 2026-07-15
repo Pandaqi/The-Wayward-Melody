@@ -3,7 +3,9 @@ type: "product"
 title: "Recognition & Discrimination"
 id: "recognition-and-discrimination"
 date: 2025-04-26
-price: 5.95
+price: 0
+free: true
+demo: true
 image: ["recognition-and-discrimination-header.webp", "recognition-and-discrimination-1.webp", "recognition-and-discrimination-2.webp", "recognition-and-discrimination-3.webp"]
 file: "8d74d9a9-6f5d-492b-b5f9-1e2457ea86de"
 spell: "recognition-and-discrimination"

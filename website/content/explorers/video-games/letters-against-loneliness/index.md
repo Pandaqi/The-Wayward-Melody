@@ -3,7 +3,7 @@ type: "product"
 title: "Letters Against Loneliness"
 id: "game-letters-against-loneliness"
 date: 2023-06-06
-price: 1.95
+price: 7.95
 image: [letters-against-loneliness-header.webp, letters-against-loneliness-video.webm, letters-against-loneliness-1.webp, letters-against-loneliness-2.webp, letters-against-loneliness-3.webp, letters-against-loneliness-4.webp, letters-against-loneliness-5.webp, letters-against-loneliness-6.webp, letters-against-loneliness-7.webp, letters-against-loneliness-8.webp]
 file: "2952156b-72b4-40ce-8844-6c392ce337ca"
 description: "Place post offices to send letters to the people. A simple puzzle to bring people together."

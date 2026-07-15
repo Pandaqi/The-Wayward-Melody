@@ -2,7 +2,7 @@
 type: "product"
 title: "Flipfire Bakery"
 id: "flipfire-bakery"
-price: 4.95
+price: 9.95
 date: 2026-04-04
 image: ["flipfire-bakery-header.webp", "flipfire-bakery-1.webp", "flipfire-bakery-2.webp", "flipfire-bakery-3.webp", "flipfire-bakery-4.webp"]
 file: "d7c8c9b6-6da8-4dad-a9cc-90a2120bacfe"

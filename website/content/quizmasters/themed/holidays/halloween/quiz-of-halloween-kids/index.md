@@ -3,7 +3,9 @@ type: "product"
 title: "Quiz of Halloween (Kids)"
 id: "quiz-of-halloween-kids"
 date: 2025-09-26
-price: 9.95
+price: 0
+free: true
+demo: true
 image: ["quiz-of-halloween-kids-header.webp", "quiz-of-halloween-kids-1.webp", "quiz-of-halloween-kids-2.webp", "quiz-of-halloween-kids-3.webp", "quiz-of-halloween-kids-4.webp", "quiz-of-halloween-kids-5.webp"]
 file: "2123e050-4322-497b-b638-f3bb7d4b8df2"
 spell: "halloween"
