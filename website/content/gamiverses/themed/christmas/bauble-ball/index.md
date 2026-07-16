@@ -6,7 +6,7 @@ price: 9.95
 date: 2025-12-10
 image: ["bauble-ball-header.webp", "bauble-ball-1.webp", "bauble-ball-2.webp", "bauble-ball-3.webp", "bauble-ball-4.webp", "bauble-ball-6.webp", "bauble-ball-5.webp"]
 file: "a90e621e-3ce4-4d75-b603-7b4346e475f9"
-spell: ["christmas", "my-first-colors", "my-first-numbers", "my-first-letters"]
+spell: ["my-first-colors", "my-first-numbers", "my-first-letters", "christmas"]
 charm: "board-game"
 description: | 
   An empty tree awaits your touch

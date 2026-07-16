@@ -36,9 +36,14 @@
 {{ if $is_spell }}
 
 {{ $all_pages := partial "func/get-all-with-spell.html" (dict "context" . "spell" $value) }}
-
+{{ $title_product_list := "Teaching Resources" }}
 <main>
-    <p class="align-center block-column-and-center text-reader">Interested in teaching <strong>&ldquo;{{ $title }}&rdquo;</strong>? Find all resources and learning objectives here. <strong>Overwhelmed?</strong> Use <a href="/info/the-helpful-hat/#your-lesson-plan?query={{ $spell_data.label }}">The Helpful Hat</a> to select which resources to use. <strong>Wrong topic?</strong> Return to the <a href="/info/curriculum/#{{ $value }}">Curriculum</a>.</p>
+    {{ if $spell_data }}
+        <p class="align-center block-column-and-center text-reader">Interested in teaching <strong>&ldquo;{{ $title }}&rdquo;</strong>? Find all resources and learning objectives here. <strong>Overwhelmed?</strong> Use <a href="/info/the-helpful-hat/#your-lesson-plan?query={{ $spell_data.label }}">The Helpful Hat</a> to select which resources to use. <strong>Wrong topic?</strong> Return to the <a href="/info/curriculum/#{{ $value }}">Curriculum</a>.</p>
+    {{ else }}
+        {{ $title_product_list = "Resources" }}
+        <p class="align-center block-column-and-center text-reader">Looking to explore the topic of <strong>&ldquo;{{ $title }}&rdquo;</strong>? This page shows an overview of all possible products, categorized by type!</p>
+    {{ end }}
     <div class="double-view" style="align-items: start;">
         <div class="double-view-item">
             <h2 class="heading-decorations">Description</h2>
@@ -65,7 +70,7 @@
 </main>
 
 <header>
-{{ partial "views/banner-image" (dict "context" . "title" "Teaching Resources") }}
+{{ partial "views/banner-image" (dict "context" . "title" $title_product_list) }}
 </header>
 
 {{ range $index, $faction := $.Site.Data.curriculum.factions }}

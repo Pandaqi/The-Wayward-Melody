@@ -5,6 +5,7 @@
 {{ $is_taxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
 {{ if $is_taxonomy }}{{ $section = "general" }}{{ end }}
 <body class="theme-{{ $section }} dark-mode background-texture">
+    {{ partial "snipcart.html" . }}
     {{ partial "navigation/header" . }}
     <main class="page margin-m">
         {{ block "main" . }} {{ end }}

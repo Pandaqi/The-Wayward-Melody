@@ -214,6 +214,13 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .style-markdown-links-inverted a:hover {
     color: var(--color-dark-xx);
   }
+  .block-textured-background {
+    background-color: var(--color-dark-x);
+    color: var(--color-light-xx);
+    padding: 3.33rem;
+    background-image: url(/css/bg_texture.webp);
+    background-blend-mode: overlay;
+  }
   .double-view {
     display: flex;
     flex-wrap: nowrap;
@@ -247,6 +254,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
       right: auto;
       top: auto;
       border-radius: 0;
+      font-size: 1.5em;
       display: flex;
       flex-wrap: nowrap;
       justify-content: space-evenly;
@@ -303,6 +311,12 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   .section-foldable .section-foldable-content a:hover {
     color: var(--color-accent-contrast);
     font-style: italic;
+  }
+  .section-foldable .section-foldable-content a {
+    color: var(--color-mid);
+  }
+  .section-foldable .section-foldable-content a:hover {
+    color: var(--color-dark-xx);
   }
   .link-button {
     background-color: var(--color-dark-x);
@@ -788,6 +802,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .gap-m {
     gap: 1rem;
+  }
+  .gap-horizontal-m {
+    column-gap: 1rem;
   }
   .gap-l {
     gap: 2rem;
@@ -1331,6 +1348,10 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     }
     .font-size-xxl {
       font-size: 3.33rem;
+    }
+    .margin-vertical-m-below-m {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
     }
   }
   @media all and (max-width: 380px) {

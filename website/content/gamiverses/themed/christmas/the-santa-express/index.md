@@ -7,7 +7,7 @@ price: 14.95
 date: 2025-12-10
 image: ["the-santa-express-header.webp", "the-santa-express-1.webp", "the-santa-express-2.webp", "the-santa-express-3.webp"]
 file: "@TODO"
-spell: ["christmas", "my-first-colors"]
+spell: ["my-first-colors", "christmas"]
 charm: "board-game"
 description: | 
   Santa has his flying sleigh, nice, great

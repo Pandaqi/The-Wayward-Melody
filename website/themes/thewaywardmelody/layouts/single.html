@@ -48,12 +48,8 @@
             Click arrows/swipe to scroll through all images. Click an image to enlarge it.
         </div>
 
-        <div class="flex flex-center gap-s padding-xs">
-            <!--- @TODO: This is just debugging/seeing what it looks like now --->
-            {{ $images := index (index $data.products 0) "images" }}
-            {{ range $images }}
-                <img src="{{ . }}" style="height: 32px;">
-            {{ end }}
+        <div class="image-carousel-thumbnails-container" style="overflow-x: auto;">
+            <div class="image-carousel-thumbnails flex flex-center gap-s padding-xs" style="min-width: max-content;"></div>
         </div>
     </div>
     <!--- Main title, description, buttons on right/bottom -->

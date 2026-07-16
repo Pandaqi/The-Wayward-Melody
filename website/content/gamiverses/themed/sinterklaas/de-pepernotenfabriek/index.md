@@ -5,7 +5,7 @@ id: "de-pepernotenfabriek"
 price: 0
 free: true
 date: 2025-11-30
-image: ["de-pepernotenfabriek-compressed.webp", "de-pepernotenfabriek-header.webp"]
+image: ["de-pepernotenfabriek-header.webp", "de-pepernotenfabriek-video.webm"]
 file: "36684f91-ec95-4531-86c5-3351e346b9ad"
 charm: "one-button-game"
 spell: "sinterklaas"

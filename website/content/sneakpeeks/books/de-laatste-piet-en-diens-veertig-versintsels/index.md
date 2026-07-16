@@ -4,7 +4,7 @@ title: "De laatste piet (en diens veertig versintsels)"
 id: "de-laatste-piet-sneakpeek"
 date: 2023-03-17
 price: 9.95
-image: de-laatste-piet-header.webp
+image: ["de-laatste-piet-header.webp", "de-laatste-piet-1.webp", "de-laatste-piet-2.webp", "de-laatste-piet-3.webp", "de-laatste-piet-4.webp", "de-laatste-piet-5.webp"]
 file: "da92695d-9a3c-4b8d-8c27-085aad08382b"
 spell: ["sinterklaas", "books-and-other-writing"]
 description: "Alle originele teksten, notities en tekeningen achter het boek."

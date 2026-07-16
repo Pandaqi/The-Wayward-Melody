@@ -5,7 +5,7 @@ id: "samen-stoomboten"
 price: 0
 free: true
 date: 2025-11-05
-image: ["samen-stoomboten-header-compressed.webp", "samen-stoomboten-header.webp"]
+image: ["samen-stoomboten-header.webp", "samen-stoomboten-video.webm"]
 file: "f3746a90-1aea-4be0-a77e-895755eea288"
 charm: "one-button-game"
 spell: "sinterklaas"

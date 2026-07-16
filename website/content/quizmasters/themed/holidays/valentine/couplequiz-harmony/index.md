@@ -4,7 +4,7 @@ title: "CoupleQuiz: Harmony"
 id: "couplequiz-harmony"
 date: 2026-02-10
 price: 9.95
-image: ["couplequiz-harmony-header.webp", "couplequiz-harmony-1.webp", "couplequiz-harmony-2.webp", "couplequiz-harmony-3.webp", "couplequiz-harmony-4.webp", "couplequiz-harmony-5.webp", "couplequiz-harmony-6.webp", "couplequiz-harmony-7.webp"]
+image: ["couplequiz-harmony-header.webp", "couplequiz-harmony-1.webp", "couplequiz-harmony-2.webp", "couplequiz-harmony-3.webp", "couplequiz-harmony-4.webp", "couplequiz-harmony-6.webp", "couplequiz-harmony-7.webp"]
 file: "51b933d4-9a6e-434e-bd25-66117b13d923"
 spell: "valentine"
 charm: "trivia-kit"

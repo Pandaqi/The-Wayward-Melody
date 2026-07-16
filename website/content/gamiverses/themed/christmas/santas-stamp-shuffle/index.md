@@ -6,7 +6,7 @@ price: 11.95
 date: 2025-12-10
 image: ["santas-stamp-shuffle-header.webp", "santas-stamp-shuffle-1.webp", "santas-stamp-shuffle-2.webp", "santas-stamp-shuffle-3.webp", "santas-stamp-shuffle-4.webp", "santas-stamp-shuffle-5.webp", "santas-stamp-shuffle-6.webp"]
 file: "97714d84-35e9-4d2c-956a-9957b12012e6"
-spell: ["christmas", "my-first-colors", "recognition-and-discrimination"]
+spell: ["recognition-and-discrimination", "my-first-colors", "christmas"]
 charm: "board-game"
 description: | 
   You've just arrived, you and your friends

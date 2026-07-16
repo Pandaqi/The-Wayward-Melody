@@ -144,6 +144,16 @@ $viewport-xl: 1280px;
     }
 }
 
+@mixin color-links-inverted-mixin
+{
+    a {
+        color: var(--color-mid);
+        &:hover {
+            color: var(--color-dark-xx);
+        }
+    }
+}
+
 @mixin heading-decorations
 {
     &::before, &::after 
@@ -382,6 +392,16 @@ $viewport-xl: 1280px;
         }
     }
 
+    .block-textured-background
+    {
+        background-color: var(--color-dark-x);
+        color: var(--color-light-xx);
+        padding: $size-xl;
+
+        background-image: url(/css/bg_texture.webp);
+        background-blend-mode: overlay;
+    }
+
     .double-view
     {
         display: flex;
@@ -420,6 +440,8 @@ $viewport-xl: 1280px;
             right: auto;
             top: auto;
             border-radius: 0;
+
+            font-size: 1.5em;
 
             display: flex;
             flex-wrap: nowrap;
@@ -483,8 +505,7 @@ $viewport-xl: 1280px;
             p:last-child { margin-bottom: 0; }
 
             @include style-markdown-links-mixin;
-
-            //color-links-inverted @TODO
+            @include color-links-inverted-mixin;
         }
     }
 
@@ -1127,6 +1148,10 @@ $viewport-xl: 1280px;
         gap: $size-m;
     }
 
+    .gap-horizontal-m {
+        column-gap: $size-m;
+    }
+
     .gap-l {
         gap: $size-l;
     }
@@ -1626,6 +1651,11 @@ $viewport-xl: 1280px;
 
         .font-size-xxl {
             font-size: $size-xl;
+        }
+
+        .margin-vertical-m-below-m {
+            margin-top: $size-m;
+            margin-bottom: $size-m;
         }
     }
 

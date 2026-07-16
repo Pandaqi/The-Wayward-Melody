@@ -10,7 +10,7 @@
         </div>
     </nav>
 
-    <div class="bg-color-dark-x text-color-light-xx font-heading padding-s font-size-m background-texture">
+    <div class="block-textured-background font-heading padding-s font-size-m">
         <!--- Main (clickable) logo and name --->
         {{ if .IsHome }}
         <nav>
@@ -25,10 +25,10 @@
         {{ partial "navigation/faction-list.html" (dict "context" . "show_all" false "responsive" true "show_home" false) }}
     </div>
 
-    <div class="bg-color-dark-xx text-color-light-x padding-s background-texture font-accent font-size-s">
+    <div class="block-textured-background bg-color-dark-xx text-color-light-x padding-s font-accent font-size-s">
         <!--- Special pages quick links --->
         {{ $curriculum_data := partial "func/get-curriculum-navigation-data.html" . }}
-        <nav class="flex flex-wrap" style="justify-content: space-evenly;">
+        <nav class="flex flex-wrap flex-center" style="justify-content: space-evenly;">
             {{ if $curriculum_data.current }}
                 {{ $spell_data := index .Site.Data.spells $curriculum_data.previous }}
                 {{ if $spell_data }}
@@ -37,7 +37,7 @@
                     <div class="text-style-italic">No Previous Topic :(</div>
                 {{ end }}
             {{ end }}
-            <ul class="remove-list-styling flex flex-wrap flex-center gap-m margin-m">
+            <ul class="remove-list-styling flex flex-wrap flex-center margin-m gap-horizontal-m margin-vertical-m-below-m">
                 <li><a href="/" class="hover_underline">Home</a></li>
                 <li><a href="/info/free-resources/" class="hover_underline">Free Resources</a></li>
                 <li><a href="/info/the-helpful-hat/" class="hover_underline">Help! What should I choose?</a></li>

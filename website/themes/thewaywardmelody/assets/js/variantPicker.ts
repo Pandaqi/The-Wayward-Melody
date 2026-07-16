@@ -1,6 +1,51 @@
 import { addSwipeListener, SwipeDirection } from "./gestures";
 import { convertTimezoneToShippingZone } from "./shippingZones";
 
+const getThumbnailContainers = (carousel:HTMLElement) : HTMLElement[] =>
+{
+    return Array.from(carousel.getElementsByClassName("image-carousel-thumbnails")) as HTMLElement[];
+}
+
+const getThumbnailChildren = (carousel:HTMLElement) : HTMLImageElement[][] =>
+{
+    const containers = getThumbnailContainers(carousel);
+    const output = [];
+    for(const container of containers)
+    {
+        output.push(Array.from(container.children));
+    }
+    return output;
+}
+
+const refreshThumbnails = (carousel:HTMLElement, images:string[]) =>
+{
+    const containers = getThumbnailContainers(carousel);
+    for(const container of containers)
+    {
+        container.innerHTML = "";
+        let counter = 0;
+        for(const filePath of images)
+        {
+            const img = document.createElement("img");
+            let imageSource = filePath; 
+            if(itemIsAudio(filePath)) { imageSource = "/css/thumbnail-audio.webp"; }
+            if(itemIsVideo(filePath)) { imageSource = "/css/thumbnail-video.webp"; }
+
+            img.src = imageSource;
+            img.style.height = "32px";
+            img.classList.add("hover_pointer", "hover_popup");
+            img.dataset.index = counter.toString();
+            counter++;
+
+            container.appendChild(img);
+
+            img.addEventListener("click", (ev) => {
+                loadCarouselItemAtIndex(carousel, parseInt(img.dataset.index));
+            });
+        }
+    }
+}
+
 const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElement) =>
 {
     // hide everything first
@@ -41,6 +86,7 @@ const loadVariantFromDropdown = (dropdown:HTMLSelectElement, carousel:HTMLElemen
     buttonsPrev.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");
     buttonsNext.forEach((x) => x.style.display = hasMultipleImages ? "flex" : "none");
 
+    refreshThumbnails(carousel, images);
     loadCarouselItemAtIndex(carousel);
 
     // display some dynamic text
@@ -136,6 +182,8 @@ const itemIsAudio = (path:string) : boolean =>
 const loadCarouselItemAtIndex = (carousel:HTMLElement, idx:number = -1) =>
 {
     if(idx == -1) { idx = getCarouselIndex(carousel); }
+
+    carousel.dataset.carouselIndex = idx.toString();
     
     // grab current thing
     const item = getCurrentCarouselItem(carousel);
@@ -149,6 +197,26 @@ const loadCarouselItemAtIndex = (carousel:HTMLElement, idx:number = -1) =>
     {
         elem.style.display = "none";
         if(elem instanceof HTMLAudioElement || elem instanceof HTMLVideoElement) { elem.pause(); }
+    }
+
+    // highlight the correct thumbnail
+    const thumbnails = getThumbnailChildren(carousel);
+    for(const thumbnailSet of thumbnails)
+    {
+        for(let i = 0; i < thumbnailSet.length; i++)
+        {
+            const elem = thumbnailSet[i];
+            const scrollContainer = elem.parentElement.parentElement; // @TODO: fetch this in a more robust way than this -> this element should have class `image-carousel-thumbnails-container`
+            const isSelected = (i == idx);
+            if(isSelected) { 
+                elem.style.opacity = "1.0";
+                elem.style.outline = "0.15em solid var(--color-accent)";
+                scrollContainer.scrollLeft = elem.offsetLeft - 0.5*scrollContainer.clientWidth;
+            } else {
+                elem.style.opacity = "0.66";
+                elem.style.outline = "none";
+            }
+        }
     }
 
     // load only the one(s) we need
@@ -182,10 +250,9 @@ const carouselButtonCallback = (carousel:HTMLElement, dc:number) =>
     const numImages = getCarouselImages(carousel).length;
     const curCounter = getCarouselIndex(carousel);
     const newCounter = (curCounter + numImages + dc) % numImages;
-    carousel.dataset.carouselIndex = newCounter.toString();
 
     // then load new situation
-    loadCarouselItemAtIndex(carousel);
+    loadCarouselItemAtIndex(carousel, newCounter);
 }
 
 const createFullscreenOverlay = () =>
