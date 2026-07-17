@@ -23,8 +23,6 @@ Front page should remove the header and immediately get you into the curriculum?
 
 ## Overall Design
 
-* CHARMS: Add icons for all + use
-* SUBJECTS: Create icons for all + use 
 * BANNERS: Remove AI ones and make completely handcrafted (and simpler, more fitting)
 * BANNERS: Create unique banners/header graphics for the different subjects/levels/factions.
 * Improve HELPFUL HAT -> Look better (image of actual magical hat and such), show images, link to overview page of spell, etc

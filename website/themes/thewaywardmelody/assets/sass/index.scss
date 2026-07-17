@@ -1532,9 +1532,81 @@ $viewport-xl: 1280px;
     {
         .faction-icon-#{$name} 
         {
-            background-image: url(/css/icons_factions.svg);
+            background-image: url(/css/icons-factions.svg);
             background-position-x: ($offset % 8) * -1em;
             background-position-y: math.floor(math.div($offset, 8)) * -1em;
+        }
+    }
+
+    // Subject Icons
+    $subject-icons: (
+        "language": 0,
+        "mathematics": 1,
+        "science": 2,
+        "skills": 3,
+        "social": 4,
+        "world": 5,
+    );
+
+    @each $name, $offset in $subject-icons 
+    {
+        .subject-icon-#{$name} 
+        {
+            background-image: url(/css/icons-subjects.svg);
+            background-position-x: ($offset % 8) * -1em;
+            background-position-y: math.floor(math.div($offset, 8)) * -1em;
+        }
+
+        .subject-icon-big-#{$name} 
+        {
+            background-image: url(/css/icons-subjects.svg);
+            background-position-x: ($offset % 8) * -128px;
+            background-position-y: math.floor(math.div($offset, 8)) * -128px;
+        }
+    }
+
+    // Charm Icons
+    $charm-icons: (
+        "activity-aid": 0,
+        "board-game": 1,
+        "boardgame-book": 2,
+        "busy-book": 3,
+        "educational-puzzle": 4,
+        "escape-calendar": 5,
+        "hybrid-game": 6,
+        "lesson-material": 7,
+        "logic-puzzle": 8,
+        "musical-album": 9,
+        "murder-mystery": 10,
+        "novel": 11,
+        "novella-interactiva": 12,
+        "one-button-game": 13,
+        "one-paper-game": 14,
+        "printable-escape-kit": 15,
+        "digital-escape-kit": 16,
+        "puzzle-game": 17,
+        "puzzle-pack": 18,
+        "trivia-kit": 19,
+        "video-game": 20,
+        "classroom-game": 21,
+        "peerful-game": 22,
+        "quiz-adventure": 23,
+    );
+
+    @each $name, $offset in $charm-icons 
+    {
+        .charm-icon-#{$name} 
+        {
+            background-image: url(/css/icons-charms.svg);
+            background-position-x: ($offset % 8) * -1em;
+            background-position-y: math.floor(math.div($offset, 8)) * -1em;
+        }
+
+        .charm-icon-big-#{$name}
+        {
+            background-image: url(/css/icons-charms.svg);
+            background-position-x: ($offset % 8) * -128px;
+            background-position-y: math.floor(math.div($offset, 8)) * -128px;
         }
     }
 
@@ -1578,7 +1650,7 @@ $viewport-xl: 1280px;
         "charm": 35
     );
 
-    .metadata-icon, .faction-icon, .store-icon
+    .icon
     {
         width: 1em;
         height: 1em;
@@ -1589,15 +1661,25 @@ $viewport-xl: 1280px;
         filter: #{"invert()"};
     }
 
+    .icon-big
+    {
+        width: 128px;
+        height: 128px;
+        margin: 0;
+        display: inline-block;
+        background-size: 800%;
+        filter: #{"invert()"};
+    }
+
     .light-mode 
     {
-        .metadata-icon, .faction-icon, .store-icon
+        .icon
         {
             filter: none;
         }
     }
 
-    .metadata-icon-black, .faction-icon-black, .store-icon-block
+    .icon-black
     {
         filter: none;
     }

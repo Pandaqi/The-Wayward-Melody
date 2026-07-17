@@ -23,7 +23,7 @@
 {{- $url_params := "" }} <!--- or .url_params (printf "section=%s" $section) --->
 <li class="flex flex-wrap flex-center gap-xs padding-xs line-height-s" title="{{ $data.desc }}">
 {{- if not .hide_icon -}}
-<div class="metadata-icon metadata-icon-{{ $key }}"></div>
+<div class="icon metadata-icon-{{ $key }}"></div>
 {{- end -}}
 {{- if not .hide_label -}}
 <div class="text-style-italic font-size-s">{{ $data.key_readable }}?</div>

@@ -95,9 +95,10 @@
     {{ $subject_page := .Site.GetPage $subject_url }}
     {{ if $subject_page }}
         <div data-pagefind-weight="1">
-            <!--- @TODO: Unique icon for subject --->
             <div class="align-center">
-                <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for {{ $first_subject }}" title="Faction icon for {{ $first_subject }}">
+                <div class="icon-big subject-icon-big-{{ $first_subject }}" title="Subject icon for {{ $first_subject }}"></div>
+                <!--- @TODO: Use specialized big icons (like factions) --->
+                <!--- <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Subject icon for {{ $first_subject }}" title="Subject icon for {{ $first_subject }}"> --->
             </div>
             <div class="section-foldable" data-folded="false">
                 <div class="section-foldable-header"><h3>Subject: {{ $first_subject | humanize }}</h3></div>
@@ -144,13 +145,13 @@
 
 
 <!--- Default CHARM text/summary and link --->
-{{ $charm_url := printf "/charm/%s" .Params.charm }}
+{{ $charm := .Params.charm }}
+{{ $charm_url := printf "/charm/%s" $charm }}
 {{ $charm_page := .GetPage $charm_url }}
 {{ if and $charm_page $charm_page.Params.summary }}
 <div data-pagefind-weight="2">
-    <!--- @TODO: Unique icon for charm --->
     <div class="align-center">
-        <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Faction icon for explorers" title="Faction icon for explorers">
+        <div class="icon-big charm-icon-big-{{ $charm }}" title="Charm icon for {{ $charm_page.Title }}"></div>
     </div>
     <div class="section-foldable" data-folded="false">
         <div class="section-foldable-header"><h3>Charm: {{ $charm_page.Title }}</h3></div>

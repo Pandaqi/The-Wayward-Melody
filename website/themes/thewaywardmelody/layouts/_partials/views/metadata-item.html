@@ -9,7 +9,7 @@
 {{- if $has_valid_value -}}
 <a class="flex flex-center remove-link-styles gap-xs font-size-s font-accent rounded-xs padding-xs hover_popup transition-m {{ $dynamic_class }}" title="{{ $data.desc }}" href="{{ $data.url }}">
 {{- if .value_only -}}<span data-pagefind-meta="{{ $search_key }}" data-pagefind-filter="{{ $search_key }}">{{ $data.value_readable }}</span>
-{{- else -}}<div class="metadata-icon {{ $data.icon }}"></div><span>{{ $data.key_readable }}: <span data-pagefind-meta="{{ $search_key }}" data-pagefind-filter="{{ $search_key }}">{{ $data.value_readable }}</span></span>
+{{- else -}}<div class="icon {{ $data.icon }}"></div><span>{{ $data.key_readable }}: <span data-pagefind-meta="{{ $search_key }}" data-pagefind-filter="{{ $search_key }}">{{ $data.value_readable }}</span></span>
 {{- end -}}
 </a>
 {{- end -}}

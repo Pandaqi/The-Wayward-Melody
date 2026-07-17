@@ -15,7 +15,12 @@
             {{ range $key, $pages := $all_pages }}
                 {{ $url := printf "/charm/%s/" $key }}
                 {{ $page := $.Site.GetPage $url }}
-                <li><a href="{{ $url }}" class="navigation-link">{{ $page.Title }}</a></li>
+                <li>
+                    <a href="{{ $url }}" class="navigation-link">
+                        <div class="icon charm-icon-{{ $key }}"></div>
+                        <span>{{ $page.Title }}</span>
+                    </a>
+                </li>
             {{ end }}
         </ul>
     </nav>
@@ -26,7 +31,12 @@
         <ul class="remove-list-styling flex flex-wrap flex-vertical-list gap-xs">
             {{ $all_pages := index .Site.Taxonomies "subject" }}
             {{ range $key, $pages := $all_pages }}
-                <li><a href="/subject/{{ $key }}" class="navigation-link">{{ $key | humanize }}</a></li>
+                <li>
+                    <a href="/subject/{{ $key }}" class="navigation-link">
+                        <div class="icon subject-icon-{{ $key }}"></div>
+                        <span>{{ $key | humanize }}</span>
+                    </a>
+                </li>
             {{ end }}
         </ul>
     </nav>

@@ -1,13 +1,21 @@
 {{ define "main" }}
 
-{{ partial "views/banner-image" (dict "context" .) }}
-
-<!--- If page params specify custom product IDs, select THOSE pages instead --->
-<!--- It's cleaner to only set the PAGES on the context passed through if we actually want to change it; setting an empty slice to mean "ignore/undefined" is bad, because that might be exactly how we want to change it --->
 {{ $ctx := dict "context" . }}
 {{ $is_bundle := or .Params.bundle false }}
 {{ $product_ids := .Params.productsBundled }}
 {{ $limit_width := or $is_bundle .Params.library }}
+
+{{ partial "views/banner-image" (dict "context" .) }}
+
+{{ $display_icon := not $is_bundle }}
+{{ if $display_icon }}
+    {{ $section := .Section }}
+    {{ $icon_class := printf "faction-icon-%s" $section }}
+    {{ partial "views/taxonomy-icon-line.html" (dict "class" $icon_class) }}
+{{ end }}
+
+<!--- If page params specify custom product IDs, select THOSE pages instead --->
+<!--- It's cleaner to only set the PAGES on the context passed through if we actually want to change it; setting an empty slice to mean "ignore/undefined" is bad, because that might be exactly how we want to change it --->
 {{ $pages := where .Pages "Type" "product" }}
 {{ if and $is_bundle $product_ids }}
     {{ $pages = where .Site.Pages "Params.id" "in" $product_ids }}

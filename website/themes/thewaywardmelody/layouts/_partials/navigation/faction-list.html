@@ -11,7 +11,7 @@
         {{ if and $show_home (not .context.IsHome) }}
         <li>
             <a href="/" class="theme-general navigation-link">
-                <div class="store-icon {{ $show_class }}"></div>
+                <div class="icon {{ $show_class }}"></div>
                 <span class="{{ $hide_class }}">Home</span>
             </a>
         </li>
@@ -24,7 +24,7 @@
             {{- if $should_show -}}
             <li>
                 <a href="{{ $page.RelPermalink }}" class="theme-{{ $faction_name }} navigation-link" aria-label="{{ $link_label }}" title="{{ $link_label }}">
-                    <div class="faction-icon faction-icon-{{ $faction_name }} {{ $show_class }}"></div>
+                    <div class="icon faction-icon-{{ $faction_name }} {{ $show_class }}"></div>
                     <span class="{{ $hide_class }}">{{ $page.Title }}</span>
                 </a>
             </li>

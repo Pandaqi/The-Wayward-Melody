@@ -7,6 +7,7 @@
 {{ $is_spell := eq $key "spell" }}
 {{ $spell_data := dict }}
 {{ $is_subject := eq $key "subject" }}
+{{ $is_charm := eq $key "charm" }}
 
 {{ $title := .Title }}
 {{ if $is_spell }}
@@ -27,6 +28,14 @@
 <header>
 {{ partial "views/banner-image" (dict "context" . "title" $title) }}
 </header>
+
+<!--- This is the most elegant way I've found to display this icon on the overview pages --->
+{{ $display_icon := or $is_subject $is_charm }}
+{{ if $display_icon }}
+    {{ $type := cond $is_subject "subject" "charm" }}
+    {{ $icon_class := printf "%s-icon-%s" $type $value }}
+    {{ partial "views/taxonomy-icon-line.html" (dict "class" $icon_class) }}
+{{ end }}
 
 <div>
 {{ .Content }}
@@ -119,7 +128,7 @@
 <main class="text-reader margin-m limit-width-m block-align-center">
 
     {{ $data := partial "func/get-taxonomy-data" (dict "context" . "key" $key "value" $value) }}
-    <p>You searched for all products with property <span class="metadata-icon {{ $data.icon }}"></span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b> set to <b>&ldquo;{{ $data.value_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ partial "func/de-capitalize" . }}</em>){{ end }}</p>
+    <p>You searched for all products with property <span class="icon {{ $data.icon }}"></span><b>&ldquo;{{ $data.key_readable }}&rdquo;</b> set to <b>&ldquo;{{ $data.value_readable }}&rdquo;</b>. {{ with $data.desc }}(<em>This property marks {{ partial "func/de-capitalize" . }}</em>){{ end }}</p>
 
     {{ if $is_subject }}
         <p>See <a href="/info/curriculum">Curriculum</a> for how each subject is structured and the topics inside of them.</p>

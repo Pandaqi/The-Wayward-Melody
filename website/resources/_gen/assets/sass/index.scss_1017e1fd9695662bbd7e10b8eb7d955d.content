@@ -1081,51 +1081,351 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     border-image-source: url(/css/border_pattern_black.webp);
   }
   .faction-icon-info {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: 0em;
     background-position-y: 0em;
   }
   .faction-icon-explorers {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: -1em;
     background-position-y: 0em;
   }
   .faction-icon-sneakpeeks {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: -2em;
     background-position-y: 0em;
   }
   .faction-icon-teachers {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: -3em;
     background-position-y: 0em;
   }
   .faction-icon-quizmasters {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: -4em;
     background-position-y: 0em;
   }
   .faction-icon-puzzlepages {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: -5em;
     background-position-y: 0em;
   }
   .faction-icon-runaways {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: -6em;
     background-position-y: 0em;
   }
   .faction-icon-gamiverses {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: -7em;
     background-position-y: 0em;
   }
   .faction-icon-magimerchants {
-    background-image: url(/css/icons_factions.svg);
+    background-image: url(/css/icons-factions.svg);
     background-position-x: 0em;
     background-position-y: -1em;
   }
-  .metadata-icon, .faction-icon, .store-icon {
+  .subject-icon-language {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: 0em;
+    background-position-y: 0em;
+  }
+  .subject-icon-big-language {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: 0px;
+    background-position-y: 0px;
+  }
+  .subject-icon-mathematics {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -1em;
+    background-position-y: 0em;
+  }
+  .subject-icon-big-mathematics {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -128px;
+    background-position-y: 0px;
+  }
+  .subject-icon-science {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -2em;
+    background-position-y: 0em;
+  }
+  .subject-icon-big-science {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -256px;
+    background-position-y: 0px;
+  }
+  .subject-icon-skills {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -3em;
+    background-position-y: 0em;
+  }
+  .subject-icon-big-skills {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -384px;
+    background-position-y: 0px;
+  }
+  .subject-icon-social {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -4em;
+    background-position-y: 0em;
+  }
+  .subject-icon-big-social {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -512px;
+    background-position-y: 0px;
+  }
+  .subject-icon-world {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -5em;
+    background-position-y: 0em;
+  }
+  .subject-icon-big-world {
+    background-image: url(/css/icons-subjects.svg);
+    background-position-x: -640px;
+    background-position-y: 0px;
+  }
+  .charm-icon-activity-aid {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: 0em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-activity-aid {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: 0px;
+    background-position-y: 0px;
+  }
+  .charm-icon-board-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -1em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-board-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -128px;
+    background-position-y: 0px;
+  }
+  .charm-icon-boardgame-book {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -2em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-boardgame-book {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -256px;
+    background-position-y: 0px;
+  }
+  .charm-icon-busy-book {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -3em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-busy-book {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -384px;
+    background-position-y: 0px;
+  }
+  .charm-icon-educational-puzzle {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -4em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-educational-puzzle {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -512px;
+    background-position-y: 0px;
+  }
+  .charm-icon-escape-calendar {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -5em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-escape-calendar {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -640px;
+    background-position-y: 0px;
+  }
+  .charm-icon-hybrid-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -6em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-hybrid-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -768px;
+    background-position-y: 0px;
+  }
+  .charm-icon-lesson-material {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -7em;
+    background-position-y: 0em;
+  }
+  .charm-icon-big-lesson-material {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -896px;
+    background-position-y: 0px;
+  }
+  .charm-icon-logic-puzzle {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: 0em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-logic-puzzle {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: 0px;
+    background-position-y: -128px;
+  }
+  .charm-icon-musical-album {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -1em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-musical-album {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -128px;
+    background-position-y: -128px;
+  }
+  .charm-icon-murder-mystery {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -2em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-murder-mystery {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -256px;
+    background-position-y: -128px;
+  }
+  .charm-icon-novel {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -3em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-novel {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -384px;
+    background-position-y: -128px;
+  }
+  .charm-icon-novella-interactiva {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -4em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-novella-interactiva {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -512px;
+    background-position-y: -128px;
+  }
+  .charm-icon-one-button-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -5em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-one-button-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -640px;
+    background-position-y: -128px;
+  }
+  .charm-icon-one-paper-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -6em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-one-paper-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -768px;
+    background-position-y: -128px;
+  }
+  .charm-icon-printable-escape-kit {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -7em;
+    background-position-y: -1em;
+  }
+  .charm-icon-big-printable-escape-kit {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -896px;
+    background-position-y: -128px;
+  }
+  .charm-icon-digital-escape-kit {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: 0em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-digital-escape-kit {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: 0px;
+    background-position-y: -256px;
+  }
+  .charm-icon-puzzle-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -1em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-puzzle-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -128px;
+    background-position-y: -256px;
+  }
+  .charm-icon-puzzle-pack {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -2em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-puzzle-pack {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -256px;
+    background-position-y: -256px;
+  }
+  .charm-icon-trivia-kit {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -3em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-trivia-kit {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -384px;
+    background-position-y: -256px;
+  }
+  .charm-icon-video-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -4em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-video-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -512px;
+    background-position-y: -256px;
+  }
+  .charm-icon-classroom-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -5em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-classroom-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -640px;
+    background-position-y: -256px;
+  }
+  .charm-icon-peerful-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -6em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-peerful-game {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -768px;
+    background-position-y: -256px;
+  }
+  .charm-icon-quiz-adventure {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -7em;
+    background-position-y: -2em;
+  }
+  .charm-icon-big-quiz-adventure {
+    background-image: url(/css/icons-charms.svg);
+    background-position-x: -896px;
+    background-position-y: -256px;
+  }
+  .icon {
     width: 1em;
     height: 1em;
     margin-left: 0.15em;
@@ -1134,10 +1434,18 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     background-size: 800%;
     filter: invert();
   }
-  .light-mode .metadata-icon, .light-mode .faction-icon, .light-mode .store-icon {
+  .icon-big {
+    width: 128px;
+    height: 128px;
+    margin: 0;
+    display: inline-block;
+    background-size: 800%;
+    filter: invert();
+  }
+  .light-mode .icon {
     filter: none;
   }
-  .metadata-icon-black, .faction-icon-black, .store-icon-block {
+  .icon-black {
     filter: none;
   }
   .metadata-icon-cart {
