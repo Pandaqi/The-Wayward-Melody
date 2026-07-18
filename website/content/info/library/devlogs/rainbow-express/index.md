@@ -1,5 +1,6 @@
 ---
 title: "Rainbow Express (Devlog)"
+date: 2026-03-03
 ---
 
 Welcome to my developer's diary for my educational puzzle game [Rainbow Express](https://thewaywardmelody.com/puzzlepages/level-1/maths/video-games/rainbow-express/). I'll try to explain how it was made, interesting problems faced and lessons learned, and most of all give a fun overview of the process.

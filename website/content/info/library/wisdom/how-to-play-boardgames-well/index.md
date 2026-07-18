@@ -1,5 +1,6 @@
 ---
 title: "How to Play Board Games (Well)"
+date: 2025-09-01
 ---
 
 This article might feel a bit silly. Why is there a guide on "how to play board games"? Surely everyone knows that you learn the rules, then follow them?

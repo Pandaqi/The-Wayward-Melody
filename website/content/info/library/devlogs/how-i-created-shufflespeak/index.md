@@ -1,5 +1,6 @@
 ---
 title: "How I Created Shufflespeak"
+date: 2026-03-03
 ---
 
 When I wrote the very first idea for this online store, I thought that Level 1 ("Language") would end with teaching kids the letters of the alphabet. If you've looked at our current curriculum for even a second, you'll know this assumption turned out to be _completely wrong_. Level 1 is full of Language resources ... but none of them require letters or reading skils. _All_ of Level 1 Language is "pre-reader", and Level 2 starts with teaching the alphabet.

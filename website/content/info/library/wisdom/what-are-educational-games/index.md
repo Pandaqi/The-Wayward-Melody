@@ -1,5 +1,6 @@
 ---
 title: "What Are Educational Games (and Edutainment)?"
+date: 2026-07-01
 ---
 
 As we started writing this article, something funny happened. We wanted to look up some facts and history of educational games, and whatever we searched, the first page of results was filled with titles like "Why Edutainment failed" and "Why Educational Games Suck".

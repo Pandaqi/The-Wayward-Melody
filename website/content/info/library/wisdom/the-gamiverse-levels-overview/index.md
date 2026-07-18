@@ -1,5 +1,6 @@
 ---
 title: "The Gamiverse Levels Overview"
+date: 2026-05-01
 ---
 
 Normally, when I create a project, I write a "design bible". A short list of rules and guidelines for all parts of the project, to make sure they are consistent and cohesive.

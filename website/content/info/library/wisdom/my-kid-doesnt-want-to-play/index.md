@@ -1,5 +1,6 @@
 ---
 title: "My Kid Doesn't Want To Play"
+date: 2025-09-01
 ---
 
 This project offers a large variety of board games, mostly for parents to play with their children. To have fun _and_ learn at the same time. Because it's so easy and fun, and it means quality time together, the large majority of children will want to do it. There should be no issue introducing them to games and having fun together.

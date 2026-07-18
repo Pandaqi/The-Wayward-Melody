@@ -1,5 +1,6 @@
 ---
 title: "My Process For Educational Games: An Example"
+date: 2025-03-03
 ---
 
 Today I actually created and finished one of the first educational games available on my online store. I have great plans for many more, but I wanted to make other resources (educational material, puzzles, quizzes) first, so it took a while before I actually got to the games.

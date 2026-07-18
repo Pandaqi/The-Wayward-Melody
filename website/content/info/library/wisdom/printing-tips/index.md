@@ -1,5 +1,6 @@
 ---
 title: "Printing & Usage Tips"
+date: 2025-09-01
 ---
 
 Almost all our products are digital `.pdf` files. In theory, all you need to do is open that file (in any PDF viewer, your browser, whatever), connect to a printer, and find the "Print" button.

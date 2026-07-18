@@ -1,5 +1,6 @@
 ---
 title: "Our Creative Process"
+date: 2025-03-01
 ---
 
 This article will give you a look behind the scenes of this online store. It briefly explains how projects move from start to finish, what tools we use, and why we make certain choices. By taking you along this small journey, we can explain our answers to bigger questions such as **"do you use AI?"** and **"how do you come up with these things!?"**

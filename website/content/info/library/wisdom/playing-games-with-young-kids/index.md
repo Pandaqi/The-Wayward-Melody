@@ -1,5 +1,6 @@
 ---
 title: "Playing Games With (Very) Young Kids"
+date: 2025-03-01
 ---
 
 As stated numerous times, the goal of this online store is to lead people to "education through games". We make classic teaching material, yes, and we make puzzles and more. But all of that is to show you how powerful those things are and gently guide you to the most powerful educational resource of all: games.

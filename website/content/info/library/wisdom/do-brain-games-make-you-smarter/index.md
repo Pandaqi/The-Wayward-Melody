@@ -1,5 +1,6 @@
 ---
 title: "Do Brain Games Make You Smarter?"
+date: 2026-07-01
 ---
 
 It's the big question, especially for an educational store like ours. _Do brain games actually make you smarter?_ 

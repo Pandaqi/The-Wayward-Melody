@@ -1,5 +1,6 @@
 ---
 title: "Our Quiz Philosophy"
+date: 2025-09-01
 ---
 
 I wrote [another article](https://tiamopastoor.com/blog/2026/01/how-to-create-a-good-pub-quiz/) on my personal website about my process for creating quizzes, plus tips and tricks in case _you_ want to design quiz experiences too.

@@ -25,7 +25,7 @@
         {{ partial "navigation/faction-list.html" (dict "context" . "show_all" false "responsive" true "show_home" false) }}
     </div>
 
-    <div class="block-textured-background bg-color-dark-xx text-color-light-x padding-s font-accent font-size-s">
+    <div class="block-textured-background bg-color-dark-xx text-color-light-x padding-s font-accent font-size-s font-size-minimum-forced">
         <!--- Special pages quick links --->
         {{ $curriculum_data := partial "func/get-curriculum-navigation-data.html" . }}
         <nav class="flex flex-wrap flex-center" style="justify-content: space-evenly;">

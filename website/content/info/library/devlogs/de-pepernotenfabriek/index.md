@@ -1,5 +1,6 @@
 ---
 title: "De Pepernotenfabriek (Dagboek)"
+date: 2025-12-01
 ---
 
 Welkom bij dit "speldagboek" voor [De Pepernotenfabriek](/gamiverses/themed/sinterklaas/de-pepernotenfabriek/). Het is een simpel computerspel dat ik maakte voor Sinterklaas, bedoeld om te spelen met meerdere kinderen (of "de hele familie") achter hetzelfde scherm. Het was ook mijn tweede "test" voor mijn idee en systeem voor "One Button Games". Daarom leek het mij interessant om even op te schrijven wat ik heb gedaan en wat ik heb geleerd :)

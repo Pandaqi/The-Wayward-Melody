@@ -1,5 +1,6 @@
 ---
 title: "Lessons from Rabbit Rhymes"
+date: 2025-03-03
 ---
 
 My game [Rabbit Rhymes](/gamiverses/level-1/language/rabbit-rhymes/) started its life as a simple, tiny idea. The final product I wanted to make for my Level 1 (pre-reader) topic about "rhyming". I had already drawn all those images, even created a bundle of "rhyme pair cards", and I thought: I can simply use that for a small game.

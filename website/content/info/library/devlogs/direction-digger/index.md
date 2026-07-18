@@ -1,5 +1,6 @@
 ---
 title: "Direction Digger (Devlog)"
+date: 2026-03-03
 ---
 
 Welcome to the devlog ("developer's diary") for the educational puzzle game [Direction Digger](/puzzlepages/level-1/physical/direction-digger/). In this article I'll explain the process for creating the game and any interesting lessons learned or funny development stories. As usual, I'll try to keep it brief and simple. (Which mostly means you don't need a lot of computer knowledge to understand the technnical bits.)

@@ -1,5 +1,6 @@
 ---
 title: "What Are Serious Games?"
+date: 2026-07-01
 ---
 
 In recent years, the term **"serious games"** has become more and more popular. We regularly read articles about them in the newspaper. Friends and family stumble upon the term themselves and then ask us about it. As it happens, in fact, another company making serious games is located just around the corner from our own headquarters!

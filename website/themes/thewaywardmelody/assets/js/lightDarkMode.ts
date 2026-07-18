@@ -13,7 +13,7 @@ export const loadLightDarkMode = () =>
 
     for(const btn of buttons)
     {
-        btn.innerHTML = `Switch to ${ inLightMode ? "dark" : "light"} mode`;
+        btn.innerHTML = `<div class="icon metadata-icon-dark-light-mode"></div>Switch to ${ inLightMode ? "dark" : "light"} mode`;
         btn.addEventListener("click", () =>
         {
             localStorage.setItem(settingName, (!inLightMode).toString());

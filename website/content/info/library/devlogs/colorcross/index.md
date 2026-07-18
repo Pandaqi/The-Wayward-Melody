@@ -1,5 +1,6 @@
 ---
 title: "Colorcross (Devlog)"
+date: 2026-03-03
 ---
 
 Welcome to this short diary / developer's log about my educational puzzle game [Colorcross](https://thewaywardmelody.com/puzzlepages/level-1/maths/video-games/colorcross/). As usual, I'll try to explain how the game was made, some interesting problems I faced, and some lessons learned. It can get a bit technical at points, but I try to keep it simple and accessible. If you are a teacher or parent hoping to use these educational puzzle games, this might give some insight into the how and why behind these projects.

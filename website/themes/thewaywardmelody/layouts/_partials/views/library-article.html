@@ -1,0 +1,18 @@
+{{ $img_url := "/css/library-article-wisdom.webp" }}
+{{ $type := .CurrentSection.Title | lower }}
+{{ if eq $type "devlogs" }}
+    {{ $img_url = "/css/library-article-devlogs.webp" }}
+{{ end }}
+{{ if eq $type "updates" }}
+    {{ $img_url = "/css/library-article-updates.webp" }}
+{{ end }}
+<a href="{{ .RelPermalink }}" class="flex flex-center bg-color-dark-x padding-m rounded-s maximize-height gap-m hover_popup" style="align-items: stretch;">
+    <div class="flex flex-center" style="min-width: 92px;">
+        <img src="{{ $img_url }}">
+    </div>
+    <div>
+        <h3 class="font-accent margin-none">{{ .Title }}</h3>
+        <div class="font-accent font-size-s text-uppercase align-center text-color-mid" style="margin-top: -0.5em; margin-bottom: 1em;">{{ $type }}</div>
+        <div>{{ .Content | strings.Truncate 128 | plainify }}</div>
+    </div>
+</a>

@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "The Wayward Melody | Online Store selling educational games, quizzes, books, puzzles, and more"
 theme = "thewaywardmelody"
 enableRobotsTXT = true # otherwise robots.txt will just fail and lead back to home page and that confuses search engines
+summaryLength = 8
 
 [outputs]
   home = ['html', 'csv'] # this builds data for Google Merchant Center at `/index.csv`

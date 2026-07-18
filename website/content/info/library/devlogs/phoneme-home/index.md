@@ -1,5 +1,6 @@
 ---
 title: "Phoneme Home (Devlog)"
+date: 2026-03-03
 ---
 
 Welcome to the devlog (or "developer's diary") for my unique language puzzle game [Phoneme Home](/puzzlepages/level-1/language/phoneme-home/). As I was making the first puzzle games for my educational online store, it was quite "easy" to find puzzles with shapes, colors, grouping, and other mathematics skills. When I say "puzzle", most people immediately think of _that_ kind of puzzles.

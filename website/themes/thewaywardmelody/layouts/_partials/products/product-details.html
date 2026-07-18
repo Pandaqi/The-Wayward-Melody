@@ -96,9 +96,8 @@
     {{ if $subject_page }}
         <div data-pagefind-weight="1">
             <div class="align-center">
-                <div class="icon-big subject-icon-big-{{ $first_subject }}" title="Subject icon for {{ $first_subject }}"></div>
-                <!--- @TODO: Use specialized big icons (like factions) --->
-                <!--- <img src="/media/factions/faction_explorers.webp" loading="lazy" decoding="async" width="128" height="128" alt="Subject icon for {{ $first_subject }}" title="Subject icon for {{ $first_subject }}"> --->
+                <!--- AS FLAT ICON: <div class="icon-big subject-icon-big-{{ $first_subject }}" title="Subject icon for {{ $first_subject }}"></div> --->
+                <img src="/media/subjects/subject-{{ $first_subject }}.webp" loading="lazy" decoding="async" width="128" height="128" alt="Subject icon for {{ $first_subject }}" title="Subject icon for {{ $first_subject }}">
             </div>
             <div class="section-foldable" data-folded="false">
                 <div class="section-foldable-header"><h3>Subject: {{ $first_subject | humanize }}</h3></div>

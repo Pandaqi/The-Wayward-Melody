@@ -1,5 +1,6 @@
 ---
 title: "The Creation of Tessella's Toolbox"
+date: 2025-03-03
 ---
 
 I've been working hard to create fun puzzles, quizzes, educational resources, and more for my upcoming online store. For a few months I was (mostly) able to follow my carefully laid plan: start with the very earliest skills for 3--4 year olds and work my way up from there. You can think of early language awareness, shapes and colors, early pencil control, etcetera.

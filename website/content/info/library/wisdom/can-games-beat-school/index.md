@@ -1,5 +1,6 @@
 ---
 title: "Can Games Really Beat School?"
+date: 2025-09-01
 ---
 
 Perhaps the most common reaction to our views on education is a frown and a high-pitched voice asking "you really think that?" Yes, I do. I really believe that the current systems of education are useless at best and very damaging at worst. I really believe that every possible topic or skill can be explored through a game, or at least a puzzle/quiz/other activity, instead of sitting in a chair and reading a textbook.

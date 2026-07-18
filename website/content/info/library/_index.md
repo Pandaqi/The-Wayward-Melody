@@ -1,6 +1,6 @@
 ---
-type: "library"
 title: "Library"
+type: "library"
 ---
 
 Welcome to the _Library_! It contains both our blog and words of wisdom.

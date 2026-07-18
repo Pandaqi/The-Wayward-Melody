@@ -2,13 +2,15 @@
   {{ partial "views/banner-image" (dict "context" . ) }}
   <main class="text-reader margin-m limit-width-m block-align-center">
     <p>{{ .Content }}</p>
-    {{ $paginator := (.Paginate .RegularPages 16) }}
-    <h2>Browse the Shelves</h2>
-    <ul class="remove-list-styling">
+  </main>
+  <div>
+    {{ $paginator := (.Paginate .RegularPagesRecursive 16) }}
+    <h2 class="heading-decorations">Browse the Shelves</h2>
+    <ul class="remove-list-styling flex flex-wrap flex-center gap-m" style="align-items: stretch;">
     {{ range $paginator.Pages }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      <li class="limit-width-s">{{ partial "views/library-article.html" . }}</li>
     {{ end }}
     </ul>
-  </main>
+  </div>
   {{ partial "navigation/pagination" (dict "paginator" $paginator)}}
 {{ end }}

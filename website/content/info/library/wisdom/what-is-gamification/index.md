@@ -1,5 +1,6 @@
 ---
 title: "What is Gamification? (And do we need it?)"
+date: 2026-07-01
 ---
 
 When this online store had just launched, we struggled to explain its purpose to family and investors. This wasn't necessarily a _problem_, but it's _interesting_ to talk about.

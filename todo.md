@@ -30,15 +30,12 @@ Front page should remove the header and immediately get you into the curriculum?
 
 ## Pretty Crucial
 
-
 * SNIPCART SUPPORT: Send email saying that "Allow Guests Only" makes it completely _impossible_ to register/sign in, instead of just _optional_.
 * MINOR: Remove AI from _Pandaqi Tutorials_ entirely. (When I do the next PQ Blog refresh, I can refresh tutorials too.) Just draw something simple myself, gives a way better first impression.
-* Library
-  * Make the overview page (`/info/library/`) look a bit more detailed and usable -> Create ARTICLE-SUMMARY partial that shows TYPE (update/wisdom/devlog) + DATE + bigger box
-  * Possibly unique custom images for articles
-  * PROGRESS TRACKING ARTICLE -> Not completely satisfied with my answers/approach.
 
 ## Free Resources / Demo Resources
+
+TAG SOME PRODUCTS AS `back-to-school` to fill up that promo period.
 
 CHARMS WITHOUT DEMO (because only single product right now):
 * Escape Calendar ---> just make a general one that lasts a week/month? Maybe a "back to school"-calendar?
@@ -109,7 +106,6 @@ ALSO -> Should the website be more usable for KIDS/OLDER STUDENTS themselves too
 * The PROMO sections could look a little better and more fitting
 * Make CURRICULUM/PHILOSOPHY page much nicer: graphics, an image for the whole "path through the factions"
 
-* Add "Dark Mode/Light Mode" **icon** + use at button in footer
 * WEBSHOP JS FIX: If no buy button, the image carousel also doesn't show---only first header image. Is this bad?
 * (Use Snipcart JavaScript SDK to get TAX RATE on-demand? So I can display prices INCLUDING tax for users? Very difficult ...)
 * Once we need it, support BRANDS.

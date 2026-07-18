@@ -1,5 +1,6 @@
 ---
 title: "Our Stance On Video Games (In Education)"
+date: 2026-03-01
 ---
 
 Other articles in our library have touched briefly on the pros and cons of _digital tools_ in education. In general, they're quite positive about their potential.

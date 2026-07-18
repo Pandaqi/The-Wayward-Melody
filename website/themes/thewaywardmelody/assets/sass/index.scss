@@ -8,6 +8,8 @@ $font-family-accent: "Signika Negative";
 $font-family-code: "IBM Plex Mono";
 $base-fonts: "fonts/";
 
+$min-font-size-forced: 16px;
+
 @font-face {
     font-family: $font-family-heading;
     src: url($base-fonts + 'Gloria.woff2') format('woff2');
@@ -806,6 +808,8 @@ $viewport-xl: 1280px;
         @include font-heading;
         @include hover_sidearrows;
         @include transition-m;
+
+        font-size: max(1em, $min-font-size-forced);
     }
 
     // Text
@@ -1434,6 +1438,14 @@ $viewport-xl: 1280px;
         text-decoration: underline;
     }
 
+    .font-size-minimum-forced 
+    {
+        @media all and (max-width: $viewport-m)
+        {
+            font-size: max(1em, $min-font-size-forced);
+        }
+    }
+
     .collapse-paragraph-margin {
         p:first-child { margin-top: 0; }
         p:last-child { margin-bottom: 0; }
@@ -1647,7 +1659,8 @@ $viewport-xl: 1280px;
         "multiplayer-mode": 32,
         "activity-structure": 33,
         "spell": 34,
-        "charm": 35
+        "charm": 35,
+        "dark-light-mode": 36,
     );
 
     .icon
@@ -1725,6 +1738,11 @@ $viewport-xl: 1280px;
         .navigation-link {
             &::after { display: none; }
             &::before { display: none; }
+        }
+
+        .maximize-width-below-m
+        {
+            width: 100%;
         }
 
         .flex-wrap-below-m {

@@ -29,7 +29,7 @@
     desc = "Celebrate fathers and all they do for us with our stories, activities, puzzles, games and more!"
 
 [summer]
-    spell = "summer"
+    spell = "summer-holiday"
     dateStart = "06-25"
     dateEnd = "07-31"
     title = "Summer (Holiday)"

@@ -1,8 +1,9 @@
 ---
 title: "How to Install Our Games"
+date: 2026-07-01
 ---
 
-Most of this webshop contains physical products to print, but we also offer an increasing catalogue of digital products. 
+Most of this webshop contains physical products to print, but we also offer a growing catalogue of digital products. 
 
 **Physical products** require less explanation as all you need to do is print them and then use them however you want. We've written a short article with [Printing & Usage Tips](https://thewaywardmelody.com/info/library/wisdom/printing-tips/) in case you've bought a physical product, which should be all you need.
 

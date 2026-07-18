@@ -1,5 +1,6 @@
 ---
 title: "What is Game-Based Learning?"
+date: 2026-07-01
 ---
 
 The term "game-based learning" is relatively modern. But out of all the different names---including "gamification", "edutainment", and more---we agree the most with this one. It fits our online store and its content best.

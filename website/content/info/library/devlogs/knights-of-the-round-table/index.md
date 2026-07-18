@@ -1,5 +1,6 @@
 ---
 title: "Knights of the Round Table (Devlog)"
+date: 2026-01-01
 ---
 
 Welcome to this devlog (or "developer diary") for my game [Knights of the Round Table](/gamiverses/level-1/maths/knights-of-the-round-table/). I always keep these diaries _while_ working on the project, to write down my thoughts, possible solutions to problems, and anything else that might be interesting. I only publish them, however, when the project is large enough and the devlog actually contains enough interesting content.

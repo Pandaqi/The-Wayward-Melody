@@ -1,5 +1,6 @@
 ---
 title: "Should educational games have pressure?"
+date: 2025-05-01
 ---
 
 It's a common view that an "educational game" should not have any pressure or asymmetry. When asked, many teachers say they'll only play games in the classroom that are not competitive, or don't test any personal attribute ("no student should feel less smart than another"). They don't want any game with time pressure, group pressure, or any sort of pressure. If students are in groups or pairs, they don't want every person to be doing the same tasks, as then the _faster_ or _better_ players will dominate that group.

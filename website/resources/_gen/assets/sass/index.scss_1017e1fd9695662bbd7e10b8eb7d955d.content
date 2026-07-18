@@ -525,6 +525,7 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     font-family: "Gloria";
     font-weight: normal;
     transition: color 0.2s, background-color 0.2s, filter 0.2s, transform 0.2s;
+    font-size: max(1em, 16px);
   }
   .navigation-link::before {
     content: "« ";
@@ -1008,6 +1009,11 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
   }
   .underline {
     text-decoration: underline;
+  }
+  @media all and (max-width: 640px) {
+    .font-size-minimum-forced {
+      font-size: max(1em, 16px);
+    }
   }
   .collapse-paragraph-margin p:first-child {
     margin-top: 0;
@@ -1628,6 +1634,11 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     background-position-x: -3em;
     background-position-y: -4em;
   }
+  .metadata-icon-dark-light-mode {
+    background-image: url(/css/icons.svg);
+    background-position-x: -4em;
+    background-position-y: -4em;
+  }
   .store-icon {
     background-image: url(/css/logos/twwm_favicon_minimal.png);
     background-size: contain;
@@ -1650,6 +1661,9 @@ $color-dark-xx: oklch(33.28% 0.0166 207.84);
     }
     .navigation-link::before {
       display: none;
+    }
+    .maximize-width-below-m {
+      width: 100%;
     }
     .flex-wrap-below-m {
       flex-wrap: wrap;

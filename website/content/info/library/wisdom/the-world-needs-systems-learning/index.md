@@ -1,5 +1,6 @@
 ---
 title: "The World Needs Systems Learning"
+date: 2026-07-01
 ---
 
 I've written several articles before about how narrow our thinking is. People generally pick a _single_ factor of a problem, and change that, and then think they've solved it. Even politicians, even people I'd consider very smart, think this way. They hyperfocus on one aspect that is somewhat associated with a problem, and if they just solve that on its own, they think they made an improvement.

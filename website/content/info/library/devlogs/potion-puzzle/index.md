@@ -1,5 +1,6 @@
 ---
 title: "Potion (Puzzle) Devlog"
+date: 2026-03-03
 ---
 
 I made another educational puzzle game for my online store, which teaches colors and rudimentary logic/counting. You can purchase it here: [Potion Puzzle](https://thewaywardmelody.com/puzzlepages/level-1/maths/video-games/potion-puzzle/)

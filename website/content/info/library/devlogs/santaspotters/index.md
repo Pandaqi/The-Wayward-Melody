@@ -1,5 +1,6 @@
 ---
 title: "Santaspotters (Devlog)"
+date: 2025-12-10
 ---
 
 Of all our Christmas games, [Santaspotters](/gamiverses/themed/christmas/santaspotters/) took the most work and revisions. That's why I wanted to write a short article about it to give my thoughts, lessons learned, and hopefully other interesting background for this game.

@@ -1,5 +1,6 @@
 ---
 title: "Rainbow Market (Devlog)"
+date: 2026-03-03
 ---
 
 I wanted to explore if it was possible to create educational puzzle games, even for very young players or somewhat odd topics. 

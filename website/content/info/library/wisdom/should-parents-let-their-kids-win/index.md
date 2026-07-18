@@ -1,5 +1,6 @@
 ---
 title: "Should parents let their kids win?"
+date: 2026-02-01
 ---
 
 A recurring issue when playing games is a skill gap. This is most common when parents play a game with their kids, but also happens for example when people with different levels of gaming experience (in general) approach a game.

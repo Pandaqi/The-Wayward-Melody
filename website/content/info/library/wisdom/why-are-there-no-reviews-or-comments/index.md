@@ -1,5 +1,6 @@
 ---
 title: "Why are there no reviews or comments?"
+date: 2025-10-01
 ---
 
 Our online store does not have the functionality to leave comments or reviews. You don't even need an account for anything, though it can be useful if you're a repeat customer.

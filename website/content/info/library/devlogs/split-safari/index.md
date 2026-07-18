@@ -1,5 +1,6 @@
 ---
 title: "Split Safari (Devlog)"
+date: 2025-06-06
 ---
 
 Welcome to this diary with my thoughts and process for the game Split Safari. It will be a short one, because the _idea_ came together very quickly and I only have interesting things to say about some parts of the _execution_.

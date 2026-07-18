@@ -1,5 +1,6 @@
 ---
 title: "Our Puzzle Philosophy"
+date: 2025-09-01
 ---
 
 As I uploaded the latest batch of products to the store, I noticed the number of unique puzzle products we've made has surpassed _fifty_. Fifty! It made me realize that we learned a lot about how to create and present these puzzles, and how, over time, we settled on a "template" or "ruleset" for how we approach these.

@@ -1,5 +1,6 @@
 ---
 title: "Travelers of Teach (Devlog)"
+date: 2025-06-03
 ---
 
 Welcome to the devlog for the game ["Travelers of Teach"](/gamiverses/themed/summer/travelers-of-teach/). As usual, it started as a really really small idea that I wanted to make over the weekend, then turned into something bigger and better that warranted its own devlog. Hopefully it's interesting (or educational!) to read about the journey, though I'll leave out a lot for the sake of not boring or overwhelming you.

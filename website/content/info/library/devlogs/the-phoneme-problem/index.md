@@ -1,5 +1,6 @@
 ---
 title: "The Phoneme Problem"
+date: 2025-03-03
 ---
 
 When I was setting up this online store, I basically moved in cycles of "big breakthroughs" followed by "oh no another problem". Once in a while, I'd work on some new topic, and then I'd realize that there was a much _better_ way to do it. I would have gained so much experience creating resources for this topic, that I suddenly saw the light and realized a much more clever and effective way to do something.

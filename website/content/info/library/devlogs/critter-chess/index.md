@@ -1,5 +1,6 @@
 ---
 title: "Critter Chess (Devlog)"
+date: 2026-03-03
 ---
 
 Welcome to the devlog ("developer's diary") for the educational puzzle game [Critter Chess](/puzzlepages/level-1/physical/critter-chess/). In this article I briefly explain the process behind the game's development, any problems faced, and any interesting lessons learned!

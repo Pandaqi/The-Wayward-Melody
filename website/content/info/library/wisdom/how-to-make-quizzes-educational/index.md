@@ -1,5 +1,6 @@
 ---
 title: "How To Make Quizzes Educational"
+date: 2025-09-01
 ---
 
 We offer many quizzes at this online store, both themed (e.g. about Christmas) and educational (e.g. about Shapes or Colors). I've written some articles before about our general process and philosophy behind the themed quizzes, such as [Our Quiz Philosophy](/info/library/wisdom/our-quiz-philosophy/).

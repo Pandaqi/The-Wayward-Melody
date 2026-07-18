@@ -1,5 +1,6 @@
 ---
 title: "Pinstrike! (Devlog)"
+date: 2026-03-03
 ---
 
 Welcome to the devlog (or "developer's diary") for my game **Pinstrike!** It's an educational (digital) puzzle game mainly about directions, spatial awareness, and counting. And, of course, _bowling_.

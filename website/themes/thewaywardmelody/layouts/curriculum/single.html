@@ -9,26 +9,28 @@
 {{ range $index, $subjects := $levels }}
   {{ $level_num := add $index 1 }}
   {{ $level_data := index $.Site.Data.levels.levels $level_num }}
-  <h2 id="level-{{ $level_num }}-overview" class="heading-decorations margin-top-xxxl">{{ $level_num }}. {{ $level_data.label }}</h2>
+  <h2 id="level-{{ $level_num }}-overview" class="heading-decorations margin-top-xxxl">
+    <a href="/level/{{ $level_num }}" class="hover_underline">{{ $level_num }}. {{ $level_data.label }}</a>
+  </h2>
   <p class="block-column-and-center text-reader">{{ $level_data.text | markdownify }}</p>
   <div class="flex flex-center flex-wrap text-reader">
     {{ range $key, $topics := $subjects }}
-    <section>
-    <h3>{{ $key | humanize }}</h3>
-    <ul>
-      {{ range $topics }}
-        {{ $topic := . }}
-        {{ $topic_data := index $data.spells $topic }}
-        {{ $pages := partial "func/get-all-with-spell.html" (dict "context" $context "spell" $topic) }}
-        {{ $num_pages := (len $pages) }}
-        {{ $something_to_show := and (gt $num_pages 0) $topic_data }}
-        {{ if $something_to_show }}
-        <li><a href="/spell/{{ $topic }}" id="{{ $topic }}" title="{{ $topic_data.text | markdownify }}">{{ $topic_data.label }} ({{ $num_pages }})</a></li>
-        {{ else }}
-        <li><em>{{ $topic }}</em></li>
+    <section class="maximize-width-below-m">
+      <h3>{{ $key | humanize }}</h3>
+      <ul>
+        {{ range $topics }}
+          {{ $topic := . }}
+          {{ $topic_data := index $data.spells $topic }}
+          {{ $pages := partial "func/get-all-with-spell.html" (dict "context" $context "spell" $topic) }}
+          {{ $num_pages := (len $pages) }}
+          {{ $something_to_show := and (gt $num_pages 0) $topic_data }}
+          {{ if $something_to_show }}
+          <li><a href="/spell/{{ $topic }}" id="{{ $topic }}" title="{{ $topic_data.text | markdownify }}">{{ $topic_data.label }} ({{ $num_pages }})</a></li>
+          {{ else }}
+          <li><em>{{ $topic }}</em></li>
+          {{ end }}
         {{ end }}
-      {{ end }}
-    </ul>
+      </ul>
     </section>
     {{ end }}
   </div>

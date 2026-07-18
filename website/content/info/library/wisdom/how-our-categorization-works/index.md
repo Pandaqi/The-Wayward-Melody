@@ -1,5 +1,6 @@
 ---
 title: "How Our Categorization Works"
+date: 2025-03-01
 ---
 
 From previous (large) websites, we learned it's crucial to have a strong _structure_ from the start. That's why we have a large list of standardized "tags" we can put onto any product to describe exactly what it does and doesn't do. And you can easily search through all our products using the specific tag you're looking for.
