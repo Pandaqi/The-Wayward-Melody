@@ -12,19 +12,19 @@
     <div class="position-absolute anchor-top-right maximize-width height-xs {{ $level_data.class }}">
         <div class="flex flex-center font-size-s font-accent align-center padding-xs" style="justify-content: space-evenly;">
             <a href="{{ $subject_data.url }}" class="flex flex-center hover_underline">
-                <div class="icon subject-icon-{{ $subject_data.single }} subject-icon-black blend-overlay"></div>
+                <div class="icon subject-icon-{{ $subject_data.single }} icon-black blend-overlay"></div>
                 <span>{{ $subject_data.single | upper }}</span>
-                <div class="icon subject-icon-{{ $subject_data.single }} subject-icon-black blend-overlay"></div>
+                <div class="icon subject-icon-{{ $subject_data.single }} icon-black blend-overlay"></div>
             </a>
             <a href="{{ $level_data.url }}" class="flex flex-center hover_underline">
-                <div class="icon metadata-icon-level metadata-icon-black blend-overlay"></div>
+                <div class="icon metadata-icon-level icon-black blend-overlay"></div>
                 <span>LEVEL {{ $level_data.string }}</span>
-                <div class="icon metadata-icon-level metadata-icon-black blend-overlay"></div>
+                <div class="icon metadata-icon-level icon-black blend-overlay"></div>
             </a>
             <a href="/{{ $section }}/" class="flex flex-center hover_underline">
-                <div class="icon faction-icon-{{ $section }} faction-icon-black blend-overlay"></div>
+                <div class="icon faction-icon-{{ $section }} icon-black blend-overlay"></div>
                 <span>{{ $section | upper }}</span>
-                <div class="icon faction-icon-{{ $section }} faction-icon-black blend-overlay"></div>
+                <div class="icon faction-icon-{{ $section }} icon-black blend-overlay"></div>
             </a>
         </div>
     </div>

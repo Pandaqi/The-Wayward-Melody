@@ -31,6 +31,9 @@ const refreshThumbnails = (carousel:HTMLElement, images:string[]) =>
             if(itemIsAudio(filePath)) { imageSource = "/css/thumbnail-audio.webp"; }
             if(itemIsVideo(filePath)) { imageSource = "/css/thumbnail-video.webp"; }
 
+            img.loading = "lazy";
+            img.decoding = "async";
+
             img.src = imageSource;
             img.style.height = "32px";
             img.classList.add("hover_pointer", "hover_popup");

@@ -23,6 +23,7 @@ Front page should remove the header and immediately get you into the curriculum?
 
 ## Overall Design
 
+* NAVIGATION: Could maybe appear at the _top_ too, or some other clear marker about what _page_ you're on right now.
 * BANNERS: Remove AI ones and make completely handcrafted (and simpler, more fitting)
 * BANNERS: Create unique banners/header graphics for the different subjects/levels/factions.
 * Improve HELPFUL HAT -> Look better (image of actual magical hat and such), show images, link to overview page of spell, etc
@@ -31,7 +32,6 @@ Front page should remove the header and immediately get you into the curriculum?
 ## Pretty Crucial
 
 * SNIPCART SUPPORT: Send email saying that "Allow Guests Only" makes it completely _impossible_ to register/sign in, instead of just _optional_.
-* MINOR: Remove AI from _Pandaqi Tutorials_ entirely. (When I do the next PQ Blog refresh, I can refresh tutorials too.) Just draw something simple myself, gives a way better first impression.
 
 ## Free Resources / Demo Resources
 

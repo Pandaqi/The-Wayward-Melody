@@ -30,7 +30,7 @@ export const loadDynamicPromotions = () =>
 
     const description = document.createElement("p");
     promo.appendChild(description);
-    description.classList.add("align-center");
+    description.classList.add("align-center", "block-column-and-center", "limit-width-m");
     description.innerHTML = desc;
 
     const nav = document.createElement("nav");
