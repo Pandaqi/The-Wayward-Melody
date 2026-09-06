@@ -2,7 +2,7 @@
 type: "product"
 title: "Murderooms (Volume 0)"
 id: "murderooms-volume-0"
-date: 2026-08-05
+date: 2026-08-09
 price: 0
 free: true
 demo: true
