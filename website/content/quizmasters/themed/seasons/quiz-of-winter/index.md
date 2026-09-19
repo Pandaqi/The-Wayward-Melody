@@ -6,7 +6,7 @@ date: 2025-09-26
 price: 9.95
 image: ["quiz-of-winter-header.webp", "quiz-of-winter-1.webp", "quiz-of-winter-2.webp", "quiz-of-winter-3.webp", "quiz-of-winter-4.webp", "quiz-of-winter-5.webp"]
 file: "4e2fc00e-6f09-4611-9a16-ed84de176936"
-spell: "winter"
+spell: "seasons"
 charm: "trivia-kit"
 description: | 
   An educational quiz about winter 

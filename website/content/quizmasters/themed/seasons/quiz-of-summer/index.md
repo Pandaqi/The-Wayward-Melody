@@ -6,7 +6,7 @@ date: 2025-03-01
 price: 8.95
 image: ["quiz-of-summer-header.webp", "quiz-of-summer-1.webp", "quiz-of-summer-2.webp", "quiz-of-summer-3.webp", "quiz-of-summer-4.webp", "quiz-of-summer-5.webp"]
 file: "6371e8cb-7ee3-4bc5-88a3-db6fbaf8a9f4"
-spell: "summer-holiday"
+spell: "seasons"
 charm: "trivia-kit"
 description: | 
   Ah, the season of summer arrived

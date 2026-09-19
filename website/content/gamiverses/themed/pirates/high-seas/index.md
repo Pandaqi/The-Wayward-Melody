@@ -1,12 +1,11 @@
 ---
-draft: true
 type: "product"
 title: "High Seas"
 id: "high-seas"
 price: 24.95
-date: 2026-09-01
-image: ["high-seas-header.webp", "high-seas-1.webp", "high-seas-2.webp", "high-seas-3.webp", "high-seas-4.webp", "high-seas-6.webp", "high-seas-5.webp"]
-file: "@TODO"
+date: 2026-09-16
+image: ["high-seas-header.webp", "high-seas-1.webp", "high-seas-2.webp", "high-seas-3.webp", "high-seas-4.webp", "high-seas-5.webp", "high-seas-6.webp", "high-seas-7.webp"]
+file: "363adb91-0962-4530-9399-016ca106bbb4"
 spell: ["pirates"]
 charm: "classroom-game"
 description: | 
@@ -17,8 +16,10 @@ description: |
 
 contents:
 - Rulebook PDF ("Game Master's Guide")
-- Material PDF 
+- Material PDF + Action Sheet
 - Expansion PDF
+- Helper Tool For Game Master PDF ("Game Master's Codex")
+- All original files to customize the game or learn how it was made (as `.af` files to be opened in the free Affinity software)
 
 level: 4
 language: ["en"]

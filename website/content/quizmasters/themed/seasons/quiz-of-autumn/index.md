@@ -6,7 +6,7 @@ date: 2025-09-26
 price: 9.95
 image: ["quiz-of-autumn-header.webp", "quiz-of-autumn-1.webp", "quiz-of-autumn-2.webp", "quiz-of-autumn-3.webp", "quiz-of-autumn-4.webp", "quiz-of-autumn-5.webp"]
 file: "05a0195f-0e57-4680-a3b8-f95c6bc0ef26"
-spell: "autumn"
+spell: "seasons"
 charm: "trivia-kit"
 description: | 
   Ah, the season of autumn arrived

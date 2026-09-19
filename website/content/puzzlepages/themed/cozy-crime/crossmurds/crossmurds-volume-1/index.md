@@ -1,12 +1,11 @@
 ---
-draft: true
 type: "product"
 title: "CrossMurds (Volume 1)"
 id: "crossmurds-volume-1"
-date: 2026-08-10
+date: 2026-09-18
 price: 9.95
-image: ["crossmurds-volume-1-header.webp", "crossmurds-volume-1-1.webp", "crossmurds-volume-1-2.webp", "crossmurds-volume-1-3.webp", "crossmurds-volume-1-4.webp", "crossmurds-volume-1-5.webp", "crossmurds-volume-1-6.webp"]
-file: "@TODO"
+image: ["crossmurds-volume-1-header.webp", "crossmurds-volume-1-1.webp", "crossmurds-volume-1-2.webp", "crossmurds-volume-1-3.webp", "crossmurds-volume-1-4.webp", "crossmurds-volume-1-5.webp"]
+file: "3e971e1b-08ce-4426-aedd-94e574663797"
 spell: "murder-mystery-puzzles"
 charm: "logic-puzzle"
 description: | 
@@ -73,4 +72,4 @@ We're very proud of all the "Murder Mystery Puzzles" we've invented over the yea
 
 **Want to try a free demo first?** Visit [Murderooms (Volume 0)](/puzzlepages/themed/cozy-crime/crossmurds/crossmurds-volume-0/). We designed that set of puzzles specifically to show people the general idea.
 
-**Want a physical copy?** It is likely available in your favorite bookstore. We'll link to the paperback version on Amazon here: [CrossMurds (Volume 1)](@TODO)
+**Want a physical copy?** It is likely available in your favorite bookstore. We'll link to the paperback version on Amazon here: [CrossMurds (Volume 1)](https://www.amazon.com/dp/B0HJXSWF9Q)

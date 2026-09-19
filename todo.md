@@ -28,6 +28,9 @@ Front page should remove the header and immediately get you into the curriculum?
 * BANNERS: Create unique banners/header graphics for the different subjects/levels/factions.
 * Improve HELPFUL HAT -> Look better (image of actual magical hat and such), show images, link to overview page of spell, etc
 
+* Add a "history/updates/changelog" metadata to keep track of updates and older/newer versions.
+* Add some kind of AI label that's more finegrained than just "uses AI/human-created". So, `low-ai-usage` vs `high-ai-usage` or something? (Too early for this. Maybe in a few years? Or just track _for myself_ for now?)
+
 
 ## Pretty Crucial
 

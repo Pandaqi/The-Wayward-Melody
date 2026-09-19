@@ -16,7 +16,7 @@ description: |
 
 contents:
 - Rulebook PDF ("Game Master's Guide")
-- Material PDF 
+- Material PDF ( + extra PDF with bigger versions of the cards, if you like that size better)
 - Expansion PDF
 - All the original files and assets for you to customize or use however you wish. (These have an `.af` extension; use the free Affinity software.)
 
