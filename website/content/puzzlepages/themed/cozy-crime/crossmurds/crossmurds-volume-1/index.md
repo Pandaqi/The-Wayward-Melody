@@ -72,4 +72,4 @@ We're very proud of all the "Murder Mystery Puzzles" we've invented over the yea
 
 **Want to try a free demo first?** Visit [Murderooms (Volume 0)](/puzzlepages/themed/cozy-crime/crossmurds/crossmurds-volume-0/). We designed that set of puzzles specifically to show people the general idea.
 
-**Want a physical copy?** It is likely available in your favorite bookstore. We'll link to the paperback version on Amazon here: [CrossMurds (Volume 1)](https://www.amazon.com/dp/B0HJXSWF9Q)
+**Want a physical copy?** It is likely available in your favorite bookstore. We'll link to the paperback version on Amazon here: [CrossMurds (Volume 1)](https://www.amazon.com/dp/B0HKFQFB5T)

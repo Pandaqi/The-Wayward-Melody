@@ -2,10 +2,10 @@
 type: "product"
 title: "Quiz of the Galaxy"
 id: "quiz-of-the-galaxy"
-date: 2026-09-30
-price: 9.95
-image: ["quiz-of-the-galaxy-header.webp", "quiz-of-the-galaxy-1.webp", "quiz-of-the-galaxy-2.webp", "quiz-of-the-galaxy-3.webp"]
-file: "@TODO"
+date: 2026-09-22
+price: 19.95
+image: ["quiz-of-the-galaxy-header.webp", "quiz-of-the-galaxy-1.webp", "quiz-of-the-galaxy-2.webp", "quiz-of-the-galaxy-3.webp", "quiz-of-the-galaxy-4.webp", "quiz-of-the-galaxy-5.webp", "quiz-of-the-galaxy-6.webp", "quiz-of-the-galaxy-7.webp", "quiz-of-the-galaxy-8.webp"]
+file: "6a232d7c-4ad4-431f-9b80-f0647e20fd43"
 spell: "advanced-adventures-in-space"
 charm: "trivia-kit"
 description: | 
@@ -15,9 +15,8 @@ description: |
   Play at a classroom, party, or family event
 
 contents:
-- Digital Quiz with 40 questions over 5 rounds
+- Digital Quiz with 73 questions over 7 rounds
 - Printable version
-- Bonus PDF with material + instructions to play an interactive ("gamified") version
 - Tailored Answer Sheet and Answer Form
 - The raw files (media + questions) to modify/reuse the quiz yourself
 
@@ -51,10 +50,12 @@ difficulty: 4
 
 ---
 
-This is our biggest, best, most educational quiz about **(outer) space**. It contains all sorts of questions, fun rounds, and challenges that test if you really know what the galaxy is all about. How hot is the sun? What's this constellation called? Why is this spaceship about to explode?
+This is our biggest, best, most educational quiz about **(outer) space**. It contains all sorts of questions, fun rounds, and challenges that test if you really know what the galaxy is all about. How hot is the sun? What's this constellation called? Why haven't we found any aliens yet?
 
-Whenever possible, we use images, video, or other interactive elements to make it more engaging. Like all our quizzes, it uses our advanced system that allows playing the quiz however you want: digitally, physically, hybrid, with custom answer sheets, and more.
+Whenever possible, we use images, video, or other interactive elements to make it more engaging. Like all our quizzes, it uses our advanced system that allows playing the quiz however you want: digitally, physically, hybrid, with custom answer sheets, and more. 
 
-If you're looking for a much simpler quiz, to introduce young kids to space, consider the [Quiz of (Outer) Space](/quizmasters/level-2/science/quiz-of-outer-space/) instead.
+It also makes it easy to skip rounds (or questions) if the full activity is too long. For those who can't get enough, we even added a separate file with **bonus questions (2 more rounds)**!
+
+If you're looking for a much simpler quiz, to introduce young kids to space, consider the [Quiz of (Outer) Space](/quizmasters/level-2/science/quiz-of-outer-space/) or [Astronaut Aptitude Test](/quizmasters/level-3/skills/astronaut-aptitude-test/) instead.
 
 Have fun!
