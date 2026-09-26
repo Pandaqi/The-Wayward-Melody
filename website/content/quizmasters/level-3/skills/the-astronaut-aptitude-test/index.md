@@ -2,10 +2,10 @@
 type: "product"
 title: "The Astronaut Aptitude Test"
 id: "the-astronaut-aptitude-test"
-date: 2026-09-30
-price: 9.95
-image: ["the-astronaut-aptitude-test-header.webp", "the-astronaut-aptitude-test-1.webp", "the-astronaut-aptitude-test-2.webp", "the-astronaut-aptitude-test-3.webp"]
-file: "@TODO"
+date: 2026-09-25
+price: 19.95
+image: ["the-astronaut-aptitude-test-header.webp", "the-astronaut-aptitude-test-1.webp", "the-astronaut-aptitude-test-2.webp", "the-astronaut-aptitude-test-3.webp", "the-astronaut-aptitude-test-4.webp", "the-astronaut-aptitude-test-5.webp", "the-astronaut-aptitude-test-6.webp", "the-astronaut-aptitude-test-7.webp", "the-astronaut-aptitude-test-8.webp"]
+file: "c5b8509d-a667-47fe-bc49-7fd5fb915fe0"
 spell: "the-astronaut-calling"
 charm: "trivia-kit"
 description: | 
@@ -15,9 +15,10 @@ description: |
   And see if you're cut out for space!
 
 contents:
-- Digital Quiz with 40 questions over 5 rounds
+- Digital Quiz with 48 questions over 6 rounds
 - Printable version
-- Bonus PDF with material + instructions to play a more interactive and physical version
+- Astronaut Certificate (as reward for completion + easy way to keep score during "quiz")
+- Bonus PDF with material + instructions to play a more interactive and collaborative version
 - Tailored Answer Sheet and Answer Form
 - The raw files (media + questions) to modify/reuse the quiz yourself
 
@@ -28,7 +29,7 @@ categories: ["space"]
 age: 7
 # requirements: ""
 # single-use: false
-duration: 120
+duration: 90
 difficulty: 3
 # setup: 1
 # prior-wisdom: false
@@ -51,14 +52,14 @@ difficulty: 3
 
 ---
 
-This is an educational "aptitude test" for the career of becoming an **astronaut**! 
+This is an educational "aptitude test" for the career of becoming an **astronaut**! Other names for it are "astronaut job interview", "so you want to be an astronaut!?", or "the astronaut trials".
 
 This means it's a collection of **fun questions** (knowledge) and **challenging puzzles** (skills) that match what space agencies are actually looking for. In a simplified and educational way, of course. It shows kids what the job is all about and lets them discover if they have a talent for it or not.
 
-At the end, you can hand out fun **certificates** with their scores (or simply that they did the test)!
+At the end, you can hand out fun **certificates** with their scores (or simply confirming that they did the test)!
 
-You can play this activity as a regular quiz (individually), or you can use our bonus material to put players into groups and get a more interactive "simulation" of what it means to be in space together.
+You can play this activity as a regular quiz (individually), or you can use our bonus material to put players into groups and get a more interactive "simulation" of what it means to be in space together. As always, it uses our custom quiz system, and most questions have an image/video/unique twist.
 
-If you're looking just for a plain old quiz about space, consider [Quiz of the Galaxy](/quizmasters/level-4/science/quiz-of-the-galaxy/) instead!
+If you're looking just for a plain old quiz about space, consider [Quiz of (Outer) Space](/quizmasters/level-2/science/quiz-of-outer-space/) (younger ages) or [Quiz of the Galaxy](/quizmasters/level-4/science/quiz-of-the-galaxy/) (older ages) instead!
 
-See if you're cut out to become an astronaut! Have fun!
+See if you're cut out to become an astronaut!

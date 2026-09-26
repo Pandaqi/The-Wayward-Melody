@@ -54,7 +54,7 @@ This is a bundle of "prompt cards" with a **Pirate theme**. You can use them for
 
 It contains **64 cards** with a unique illustration, any associated vocabulary, and a general category (e.g. so you can also play grouping or memory games with them). The document also contains card backs, but those are optional.
 
-It also contains these illustrations as **separate images**. So you can really use them however you like! For example, to liven up the invitation to a Christmas dinner, or as a starting point for your own Christmas-themed game in the classroom.
+It also contains these illustrations as **separate images**. So you can really use them however you like! For example, to liven up the invitation to a Pirate-themed birthday party, or as a starting point for your own Pirate-themed game in the classroom.
 
 We always draw these illustrations anyway for all our themed products. These assets are used and reused hundreds of times in our other products. And so we thought: why not make them available separately? That's why we offer this for free and hope people find a use for them too.
 

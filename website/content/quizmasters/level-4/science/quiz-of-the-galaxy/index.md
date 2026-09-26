@@ -21,7 +21,7 @@ contents:
 - The raw files (media + questions) to modify/reuse the quiz yourself
 
 level: 4
-language: "en"
+language: ["en", "nl"]
 subject: "science"
 categories: ["space"]
 age: 9

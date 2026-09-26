@@ -3,8 +3,8 @@ type: "product"
 title: "Quiz of Piracy"
 id: "quiz-of-piracy"
 date: 2026-09-20
-price: 19.95
-image: ["quiz-of-piracy-header.webp", "quiz-of-piracy-1.webp", "quiz-of-piracy-2.webp", "quiz-of-piracy-3.webp", "quiz-of-piracy-4.webp", "quiz-of-piracy-5.webp", "quiz-of-piracy-6.webp", "quiz-of-piracy-7.webp", "quiz-of-piracy-8.webp"]
+price: 24.95
+image: ["quiz-of-piracy-header.webp", "quiz-of-piracy-1.webp", "quiz-of-piracy-2.webp", "quiz-of-piracy-3.webp", "quiz-of-piracy-4.webp", "quiz-of-piracy-5.webp", "quiz-of-piracy-6.webp", "quiz-of-piracy-7.webp", "quiz-of-piracy-8.webp", "quiz-of-piracy-9.webp"]
 file: "e043a774-797d-497e-91ed-4a7b94d677ec"
 spell: "pirates"
 charm: "trivia-kit"
@@ -20,6 +20,7 @@ contents:
 - Tailored Answer Sheet and Answer Form
 - The raw files (media + questions) to modify/reuse the quiz yourself
 - 40 Bonus questions that are extra educational (and extra hard!)
+- Bonus material for an interactive version that turns it into more of a game
 
 level: 3
 language: ["en", "nl"]
@@ -62,5 +63,7 @@ If you want quiz for younger ages, which is also more interactive and physical, 
 Like all our quizzes, it uses our **simple system** that allows playing the quiz however you want: digitally, physically, hybrid, with custom answer sheets, and more. You can easily **skip rounds** if you don't like them or think the quiz is too long.
 
 In fact, we've added a **file with 40 bonus questions (4 rounds; including images/video too!)** with our hardest and most educational questions. We left them out of the quiz, but you can play them if you think your group is ready for them.
+
+We've also added a PDF with bonus material for an **interactive version**! In this version, players earn money (Doubloons) for getting questions right, which they can use for special actions such as "Treasure Hunt" (get a secret card with answers to questions) or "Battle" (challenge another team to try and steal their money). See the last image in the image carousel for the specifics.
 
 Have fun!
