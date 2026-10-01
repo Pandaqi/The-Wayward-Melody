@@ -21,9 +21,9 @@ contents:
 - Printable Answer Sheet + Forms PDF
 
 level: 4
-language: "en"
+language: ["en", "nl"]
 categories: ["holidays"]
-age: 10
+age: 12
 # requirements: ""
 # single-use: false
 duration: 120
@@ -49,15 +49,24 @@ interactive-media: true
 
 ---
 
-This is an **expert quiz** about **Halloween**! It contains a wide variety of questions about the holiday, its history, movies and stories about it, and more. This is our version of the quiz that has the hardest questions, as well as topics (or audio/video) that might not be suitable for the younger kids. It's not an "adult quiz" per se, but simply includes some scarier elements and a bigger focus on the horror aspect of Halloween.
+This is an **expert quiz** about **Halloween**!
+
+It contains a wide variety of questions about the holiday, its history, movies and stories about it, and more. This is our version of the quiz that has the hardest questions, as well as topics (or audio/video) that might not be suitable for the younger kids. It's not an "adult quiz" per se, but simply includes some scarier elements and a bigger focus on the horror aspect of Halloween.
 
 {{% remark %}}
 For a "family version" or "kids version", check out [Quiz of Halloween: Family](/quizmasters/themed/holidays/halloween/quiz-of-halloween-family/) and [Quiz of Halloween: Kids](/quizmasters/themed/holidays/halloween/quiz-of-halloween-kids/) instead!
 {{% /remark %}}
 
-It uses our custom quizzing system, which allows it to be highly interactive and to be played both digitally and physically. The questions are short, simple, and varied. Many of them include an image, audio, or video.
+It uses our **custom quizzing system**, which allows it to be highly interactive and to be **played both digitally and physically**. 
 
-It's divided into 9 rounds, 82 questions total. (As always, we try to give you as much fun quiz material as possible, but you can simply skip rounds if it takes too long or you don't want to play them.)
+* No prep needed. Just unpack the ZIP file, double-click `index.html` to open it in your browser and get started!
+* Want to play on paper, without a screen? No problem! Use the PDF files included.
+* Skip rounds you don't like or if it takes too long. Or edit the original questions to completely change the quiz.
+* The questions are short, simple, and varied. Almost all of them include an image, audio, or video.
+* Tailored answer forms and answer sheets are available.
+* Upon revealing the answer, we often include an extra comment or fun fact to make sure you understand the _why_ of the answer.
+
+It's divided into **9 rounds, 82 questions total.** (As always, we try to give you as much fun quiz material as possible, but you can simply skip rounds if it takes too long or you don't want to play them.)
 
 * Scary Songs & Celebrities
 * Creepy Creatures
@@ -68,3 +77,7 @@ It's divided into 9 rounds, 82 questions total. (As always, we try to give you a
 * Halloween Snacks
 * Spooky Stories
 * All About Ghosts
+
+{{% remark %}}
+This quiz is also available in Dutch! Simply pick your preferred language at the start.
+{{% /remark %}}

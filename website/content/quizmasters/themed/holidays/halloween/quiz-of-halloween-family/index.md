@@ -21,7 +21,7 @@ contents:
 - Printable Answer Sheet + Forms PDF
 
 level: 2
-language: "en"
+language: ["en", "nl"]
 categories: ["holidays"]
 age: 7
 # requirements: ""
@@ -57,9 +57,16 @@ Don't worry, the quiz itself is _not_ scary or gory. It's aimed at casual famili
 For a much harder, scarier or "grown-up" quiz about Halloween, check out [Quiz of Halloween: Pro](/quizmasters/themed/holidays/halloween/quiz-of-halloween-pro/) instead!
 {{% /remark %}}
 
-It uses our custom quizzing system, which allows it to be highly interactive and to be played both digitally and physically. The questions are short, simple, and varied. Almost all of them include an image, audio, or video.
+It uses our **custom quizzing system**, which allows it to be highly interactive and to be **played both digitally and physically**. 
 
-It's divided into 8 rounds, 69 questions total. (You can skip rounds for a shorter quiz, of course.)
+* No prep needed. Just unpack the ZIP file, double-click `index.html` to open it in your browser and get started!
+* Want to play on paper, without a screen? No problem! Use the PDF files included.
+* Skip rounds you don't like or if it takes too long. Or edit the original questions to completely change the quiz.
+* The questions are short, simple, and varied. Almost all of them include an image, audio, or video.
+* Tailored answer forms and answer sheets are available.
+* Upon revealing the answer, we often include an extra comment or fun fact to make sure you understand the _why_ of the answer.
+
+It's divided into **8 rounds, 69 questions total**. (You can skip rounds for a shorter quiz, of course.)
 
 * General Knowledge
 * Creepy Creatures
@@ -69,3 +76,7 @@ It's divided into 8 rounds, 69 questions total. (You can skip rounds for a short
 * Hallow History
 * Spooky Stories
 * Halloween Around The World
+
+{{% remark %}}
+This quiz is also available in Dutch! Simply pick your preferred language at the start.
+{{% /remark %}}

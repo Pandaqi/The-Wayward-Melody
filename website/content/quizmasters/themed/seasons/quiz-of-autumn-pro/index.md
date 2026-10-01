@@ -51,11 +51,22 @@ duration: 90
 
 This is a quiz about **Autumn / Fall** (the season). It contains questions about what happens during the season, interesting properties of it, any media (movies/songs/stories) related to it, and more. A perfect activity to play on a cold rainy evening in the fall.
 
-It's a "pro" quiz, which means it has many challenging questions and obscure facts. It is, however, definitely one of the _easier_ "pro" quizzes we made. Depending on the age and quiz familiarity of your group, you can probably also play it with family/children. (For an educational/classroom quiz about the Autumn season, for young children, check out [Quiz of Autumn](/quizmasters/themed/seasons/quiz-of-autumn) instead.)
+It's a "pro" quiz, which means it has many challenging questions and obscure facts. It is, however, definitely one of the _easier_ "pro" quizzes we made. Depending on the age and quiz familiarity of your group, you can probably also play it with family/children. 
 
-It uses our custom quizzing system, which allows it to be highly interactive and to be played both digitally and physically. The questions are short, simple, and varied. Almost all of them include an image. (No audio/video required in this particular quiz.)
+{{% remark %}}
+For an educational/classroom quiz about the Autumn season, for young children, check out [Quiz of Autumn](/quizmasters/themed/seasons/quiz-of-autumn) instead.
+{{% /remark %}}
 
-It's divided into 7 rounds, 67 questions total.
+It uses our **custom quizzing system**, which allows it to be highly interactive and to be **played both digitally and physically**. 
+
+* No prep needed. Just double-click `index.html` to open it in your browser and get started!
+* Want to play on paper, without a screen? No problem! Use the PDF files included.
+* Skip rounds you don't like or if it takes too long.
+* The questions are short, simple, and varied. Almost all of them include an image.
+* Tailored answer forms and answer sheets are available.
+* Upon revealing the answer, we often include an extra comment or fun fact to make sure you understand the _why_ of the answer.
+
+The quiz has 67 questions total, split into 7 rounds.
 
 * General Knowledge
 * Fall Food
@@ -64,3 +75,5 @@ It's divided into 7 rounds, 67 questions total.
 * Autumn Around The World
 * Secret Theme Round
 * Fall Stories
+
+The file is a ZIP file. Please unzip it first (don't double-click, that merely allows you to _read_ the file on most computers) using, for example, 7-Zip. Once unpacked, all files should be available and functional!

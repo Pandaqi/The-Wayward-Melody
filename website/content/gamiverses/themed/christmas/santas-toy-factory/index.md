@@ -1,6 +1,6 @@
 ---
 type: "product"
-title: "Santa's Toy Factor"
+title: "Santa's Toy Factory"
 id: "santas-toy-factory"
 price: 0
 free: true

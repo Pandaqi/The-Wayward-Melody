@@ -22,7 +22,7 @@
             "language": ["my-first-spelling", "my-first-punctuation", "advanced-writing", "vocabulary-and-automation", "my-first-word-types", "clear-communication"],
             "mathematics": ["advanced-counting", "my-first-multiplication", "my-first-division", "calendar", "advanced-measurements", "my-first-fractions", "my-first-probability"],
             "science": ["advanced-adventures-in-nature", "my-first-coding", "advanced-adventures-in-science", "light-and-sight", "music-and-sound", "touch-and-tickle", "smell-and-stink", "taste-and-food"],
-            "skills": ["the-firefighter-calling", "the-police-calling", "the-paramedic-calling", "the-farmer-calling", "the-veterinarian-calling", "the-baker-calling", "the-shopkeeper-calling", "the-entrepeneur-calling", "the-spy-calling", "the-builder-calling"],
+            "skills": ["the-firefighter-calling", "the-police-calling", "the-paramedic-calling", "the-farmer-calling", "the-veterinarian-calling", "the-baker-calling", "the-shopkeeper-calling", "the-entrepeneur-calling", "the-spy-calling", "the-builder-calling", "the-astronaut-calling"],
             "social": ["focus-and-work", "groups-and-roleplay", "desires-and-preferences", "independence-and-individuality"],
             "world": ["my-first-history", "my-first-economics", "my-first-geography"]
         },
@@ -31,7 +31,7 @@
             "language": ["my-first-grammar", "advanced-spelling", "advanced-word-types", "my-first-verbs", "my-first-tenses", "advanced-reading-and-writing", "language-exceptions", "my-first-foreign-language", "public-speaking"],
             "mathematics": ["roman-numerals", "advanced-fractions", "order-of-operations", "magical-measurements", "mental-calculation-strategies", "my-first-calculator", "advanced-geometry", "data-handling"],
             "science": ["advanced-coding", "energy-and-electricity", "habitats-and-ecosystems", "physical-health", "atoms-and-molecules", "the-periodic-table", "chemical-reactions", "density-and-pressure", "waves-and-transfer", "magnetism"],
-            "skills": ["the-game-developer-calling", "the-president-calling", "the-cook-calling", "the-engineer-calling", "the-teacher-calling", "the-astronaut-calling", "the-detective-calling", "the-doctor-and-nurse-calling", "the-dentist-calling", "the-scientist-calling", "the-journalist-and-reporter-calling"],
+            "skills": ["the-game-developer-calling", "the-president-calling", "the-cook-calling", "the-engineer-calling", "the-teacher-calling", "the-detective-calling", "the-doctor-and-nurse-calling", "the-dentist-calling", "the-scientist-calling", "the-journalist-and-reporter-calling"],
             "social": ["bullying-and-discrimination", "sexuality-and-relationships", "mental-health"],
             "world": ["human-rights-and-freedoms", "the-prehistoric-era", "ancient-civilizations", "ancient-greece", "ancient-rome", "my-first-religions", "the-middle-ages"]
         },
