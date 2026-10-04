@@ -17,6 +17,7 @@ description: |
 contents:
 - Rulebook PDF (4 pages; front page, base game, expansions, expansions)
 - Material PDF (4 pages of ground tiles and player pawns)
+- The original assets and files (editable; `.af` extension; use the free Affinity software)
 
 level: 2
 language: "en"
@@ -51,14 +52,18 @@ activity-structure: turn-based # simultaneous, real-time, seasonal, other
 
 Welcome to Camp Count! A good way to spend the summer, aye. We will teach you discipline, good manners, and, erm, counting tents. The proper way, of course!
 
-In this game, you'll be placing tents in a random field. You need to connect some tents, and refuse connecting with others, to keep them the perfect size. Only then do you score points at the end.
+In this game, you'll be **placing tents in a random field**. You need to connect some tents, and refuse connecting with others, to keep them the perfect size. Only then do you score points at the end.
 
-A game with incredibly simple rules ("on your turn, place a tent") that provides a nice spatial and mathematical puzzle. The numbers involved are easy and public knowledge, which makes the game playable for very young kids who are just learning their numbers. It also has several expansions to add more depth and variety, as well as a cooperative variant and a variant that uses _letters_ instead.
+* Simple 1-page rules ("on your turn, place a tent") 
+* A nice spatial and mathematical puzzle, teaching **matching, counting, addition, and thinking ahead**
+* Tactical and physical gameplay by placing tents (and orientation matters a lot)
+* Few requirements, fast turns, deep strategy
+* A fun summer theme!
 
-Of all our summer games, this is probably the most perfect balance between a fun competitive puzzle and a learning experience for young players. When working on it, and people asked what we were doing, we'd often say "a simplified chess-like but with tents and a funny summer theme".
+The numbers involved are easy and public knowledge, which makes the game playable for very young kids who are just learning their numbers. It also has several expansions to add more depth and variety, as well as a cooperative variant and a variant that uses _letters_ instead.
+
+The game also includes a **cooperative variant** (playing together as one team against the game) and an **alphabet variant** (which also practices alphabet, letters and creating words from your tents), among other expansions.
+
+Of all our summer games, this is probably the most perfect balance between a fun competitive chess-like puzzle and a learning experience for young players.
 
 Have fun!
-
-{{% remark %}}
-The game also includes a **cooperative variant** (playing together as one team against the game) and an **alphabet variant** (which also practices alphabet, letters and creating words from your tents).
-{{% /remark %}}

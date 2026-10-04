@@ -3,7 +3,7 @@ title: "Enjoy Your Stay! (Devlog)"
 date: 2026-06-01
 ---
 
-Welcome to this short devlog on how I developed the game ["Enjoy Your Stay!"](/gamiverses/themed/summer/enjoy-your-stay/) I mostly wrote this because I had to think my way through some problems/balancing issues halfway through. That's why it's quite short and skips a few things. Nevertheless I hope it's interesting to read.
+Welcome to this short devlog on how I developed the game ["Enjoy Your Stay!"](/gamiverses/themed/seasons/summer/enjoy-your-stay/) I mostly wrote this because I had to think my way through some problems/balancing issues halfway through. That's why it's quite short and skips a few things. Nevertheless I hope it's interesting to read.
 
 ## What's the idea?
 

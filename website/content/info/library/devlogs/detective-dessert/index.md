@@ -3,7 +3,7 @@ title: "Detective Dessert (Devlog)"
 date: 2025-06-01
 ---
 
-Welcome to this short devlog for my game ["Detective Dessert"](/gamiverses/themed/summer/detective-dessert/). It started out as a small, fun addition to my list of small, fun "summer games".
+Welcome to this short devlog for my game ["Detective Dessert"](/gamiverses/themed/seasons/summer/detective-dessert/). It started out as a small, fun addition to my list of small, fun "summer games".
 
 Somehow, it always happens to me that the smallest ideas end up big and the biggest ideas end up small. In any case, this idea received far more educational value than I originally realized, and then it felt bad to _not_ realize that potential. That's why you're reading this devlog now for a relatively tiny game!
 
