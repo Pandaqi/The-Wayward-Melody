@@ -704,7 +704,7 @@
     "the-firefighter-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Firefighter Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about Firefighters.",
         "skills": ["Understand what the job of a Firefighter entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -713,7 +713,7 @@
     "the-police-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Police Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about Police.",
         "skills": ["Understand what the job of the Police entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -722,7 +722,7 @@
     "the-paramedic-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Paramedic Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Paramedic ( = first responder to emergencies, rides in ambulance).",
         "skills": ["Understand what the job of a Paramedic entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -731,7 +731,7 @@
     "the-farmer-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Farmer Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Farmer.",
         "skills": ["Understand what the job of a Farmer entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -740,7 +740,7 @@
     "the-veterinarian-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Veterinarian Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Veterinarian ( = 'pet doctor').",
         "skills": ["Understand what the job of a Veterinarian entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -749,7 +749,7 @@
     "the-baker-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Baker Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Baker. (We chose this specific job because being able to prepare and sell food is a pretty crucial job in any society, bread is one of our first food inventions, and bakers in general have a nice and accessible image to kids.)",
         "skills": ["Understand what the job of a Baker entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -758,7 +758,7 @@
     "the-shopkeeper-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Shopkeeper Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Shopkeeper. Apprentices will play games running their own shop (of whatever type they desire), experiencing the need to balance income and expenses, or keep enough stock, or do marketing.",
         "skills": ["Understand what the job of a Shopkeeper entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -767,7 +767,7 @@
     "the-entrepeneur-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Entrepeneur Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being an Entrepeneur. For the purpose of this topic, it means you start your own company and/or are the leader of a company. As expected, the topic explores the idea of having to attract and pay coworkers, of growing your company, and so forth.",
         "skills": ["Understand what the job of an Entrepeneur entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -776,7 +776,7 @@
     "the-spy-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Spy Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Spy. This is obviously not a likely or very important job, compared to something like a Farmer or Firefighter. But we added it because it's something exciting that kids love _and_ it provides ample opportunity to teach crucial skills.",
         "skills": ["Understand what the job of a Spy entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
@@ -785,10 +785,19 @@
     "the-builder-calling":
     {
         "level": 3,
-        "subject": "mathematics",
+        "subject": "skills",
         "label": "The Builder Calling",
         "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about being a Builder. Someone who constructs buildings or other important objects, used as a catch-all term for a large set of more specific jobs (like carpenter, engineer, etcetera). Those specific jobs will get their own topic later.",
         "skills": ["Understand what the job of a Builder entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
+    },
+
+    "the-astronaut-calling":
+    {
+        "level": 3,
+        "subject": "skills",
+        "label": "The Astronaut Calling",
+        "text": "Our 'Calling' topics are about exploring what it takes to do a certain job, which is a practical way to teach skills _and_ help Apprentices figure out what they'd like to be when they grow up. This one is about Astronauts.",
+        "skills": ["Understand what the job of an Astronaut entails.", "Be able play the role in a simple simulation (such as a game).", "Possess some basic skills needed to do the job, but also know the skills you would still need to learn later.", "Pass the Aptitude Test."]
     },
 
 
@@ -868,4 +877,5 @@
         "text": "@TODO",
         "skills": ["Learn all the common vowel teams (two vowels combining to make one sound).", "Understand diphthongs.", "Understand R-controlled vowels.", "@TODO: Anything Else? Probably just all tiny exceptions now."]
     }
+
 }

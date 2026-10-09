@@ -2,10 +2,10 @@
 type: "product"
 title: "Falling Leaves"
 id: "falling-leaves"
-price: 9.95
-date: 2026-10-06
-image: ["falling-leaves-header.webp", "falling-leaves-1.webp", "falling-leaves-2.webp", "falling-leaves-3.webp"]
-file: "@TODO"
+price: 4.95
+date: 2026-10-05
+image: ["falling-leaves-header.webp", "falling-leaves-1.webp", "falling-leaves-2.webp", "falling-leaves-3.webp", "falling-leaves-4.webp", "falling-leaves-5.webp"]
+file: "49c3bf7e-18a1-4f22-95f6-465088f91605"
 spell: ["seasons", "my-first-words", "my-first-addition"]
 charm: "board-game"
 description: | 
@@ -16,13 +16,14 @@ description: |
 
 contents:
 - Rulebook PDF (1 front page, 7 unique games with 1 page rules)
-- Material PDF (10 pages of different leaves to cut out)
+- Material PDF (11 pages of different leaves to cut out)
+- Original assets (editable; `.af` files you can open in the free Affinity software)
 
 level: 2
 language: "en"
 categories: ["counting", "alphabet", "matching", "multiplication"]
 player-count: [2,3,4,5,6,7,8]
-age: 5
+age: 4
 # requirements: ""
 # single-use: false
 duration: 20
@@ -58,6 +59,6 @@ Some games are cooperative (you work together), some are competitive (one player
 
 We created this set of games to play **during Autumn/Fall**. All games are very simple to teach and use the (fallen) leaves in different ways. You save a lot of time by only having to cut out the leaves _once_ (to play all the games).
 
-The material is colorful, but printing in color is _not_ required. You can decide to cut the leaves accurately (which takes more effort), but we also indicate a "simpler" shape around the leaves.
+The material is colorful, but printing in color is _not_ required. You can decide to cut the leaves accurately (which takes more effort), but we also indicate a "simpler" shape around the leaves (a dotted gray line).
 
 Have fun!

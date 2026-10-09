@@ -70,6 +70,6 @@ _What if I have more than 6 players?_ Split them into groups. Print the escape r
 
 _Can the person who printed/prepared the escape room play too?_ Not really, sorry! Simply seeing all the graves and the "victory card" (once you find Dracula's Grave) probably gives you too many hints. We aim to make a Halloween escape room in the future for adults/older ages that _will_ allow even the person who prepared it to play.
 
-Looking for something that supports **more players** out of the box and is playable by even **younger players**? Check out our [Trick Or Treat Escape](@TODO) instead. It's set up in a different way that makes it flexible in terms of difficulty and player count.
+Looking for something that supports **more players** out of the box and is playable by even **younger players**? Check out our [Trick Or Treat Escape](/runaways/themed/halloween/trick-or-treat-escape/) instead. It's set up in a different way that makes it flexible in terms of difficulty and player count.
 
 
