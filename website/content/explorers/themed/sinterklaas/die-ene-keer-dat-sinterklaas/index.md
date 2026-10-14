@@ -1,7 +1,7 @@
 ---
 draft: true
 type: "product"
-title: "Die ene keer dat Sinterklaas ..."
+title: "Die ene keer dat Sinterklaas..."
 id: "die-ene-keer-dat-sinterklaas"
 date: 2026-11-01
 price: 9.95
@@ -9,7 +9,10 @@ image: ["die-ene-keer-dat-sinterklaas-header.webp", "die-ene-keer-dat-sinterklaa
 file: "@TODO"
 spell: "sinterklaas"
 description: | 
-  @TODO
+  Een special puzzelverhaal voor Sinterklaas
+  Verhalen voor vroege lezers, op rijm
+  Leuke puzzels om te testen of je het begrijpt
+  Over al die keren dat het feest bijna eindigde in "helaas!"
 
 charm: "novel"
 
@@ -39,13 +42,15 @@ De verhalen zijn zo geschreven dat ze "decodeerbaar" zijn: ze helpen de beginnen
 Met "decodeerbaar" wordt soms bedoeld dat ALLE fonetische klanken die worden gebruikt bekend zijn bij het kind dat leest. Bijvoorbeeld, het hele boek gebruikt slechts 10 klanken, en geeft van te voren aan welke dat zijn. Voor de duidelijkheid: dit boek is _niet_ op die manier geschreven!
 {{% /remark %}}
 
+**Lees over die ene keer dat de Stoomboot kwijt was, die ene keer dat alle pieten vergaten wat hun rol was, die ene keer dat iedereen maar bleef uitglijden over pepernoten, en nog vele andere keren dat het Sinterklaasfeest werd gevierd.** Misschien is er zelfs een feest waarbij het een keertje niet allemaal misgaat.
+
 Al jarenlang ben ik op zoek naar dé manier om boeken meer toegankelijk en interactief krijgen. Ik heb prentenboeken gemaakt, keuzeverhalen, puzzelboeken, alles. Maar toen ik dit idee had wist ik meteen: _dit_ is hoe je het doet. Ik denk dat elk kind dit boek op z'n minst interessant en spannend zal vinden, maar dat het zeker ook leesvaardigheid verhoogt. 
 
 Natuurlijk is het ook prima mogelijk om **alleen het verhaal te lezen** of om de **verhalen voor te lezen**. Bij de jongste kinderen zou je als ouder natuurlijk kunnen helpen bij het oplossen van de puzzel bij het verhaal dat je net hebt voorgedragen.
 
 Als ik "puzzel" zeg, moet je in eerste instantie denken aan iets simpels als "trek drie lijnen om de juiste dingen met elkaar te verbinden". Het boek bouwt op, stapje voor stapje, naar welbekende puzzels zoals woordzoekers. Zo is het toegankelijk voor de jongste kinderen, zonder té makkelijk te worden.
 
-Een bundel Sinterklaasverhalen leek me de ideale manier om dit idee voor het eerst aan de wereld te tonen! Een bundel verhalen die je kind gegarandeerd aan het lezen krijgt.
+Een bundel Sinterklaasverhalen leek me de ideale manier om dit idee voor het eerst aan de wereld te tonen! Een bundel verhalen die je kind gegarandeerd aan het lezen krijgt. **Het bevat 6 "dagboeken", met elk 5 verhalen + puzzel, dus 30 hoofdstukken in totaal.**
 
 Deze webwinkel is van de originele schrijver van het boek (ik!). Als je het hier koopt krijg je alle originele digitale bestanden. Echter denk ik dat de meeste mensen een **fysieke versie** (paperback/hardcover) willen hebben. Deze kun je kopen bij de meeste grote boekenwinkels! Bijvoorbeeld bij [Amazon](@TODO) of [Bruna](@TODO).
 

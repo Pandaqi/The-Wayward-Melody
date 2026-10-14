@@ -1,5 +1,4 @@
 ---
-draft: true
 type: "product"
 title: "Halloween Puzzle Pack"
 id: "halloween-puzzle-pack"
