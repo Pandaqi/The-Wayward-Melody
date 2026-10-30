@@ -42,7 +42,7 @@ What's the Snacker Tracker universe of stories? Well,
 
 The puzzle is a so-called "elimination puzzle". It's one of the easiest to explain/play, so great for kids, but also very visual and interesting. You get portraits from the characters in the book, as well as some basic information like their name or hobbies. Clues can be a simple discovery like "their name contains an A" or something a bit harder to spot in later chapters ...
 
-**Want a physical copy?** You can probably buy one in your favorite bookstore! For example, buy the paperback on [Amazon](@TODO: Link). You can also buy the ebook directly at your favorite book platform.
+**Want a physical copy?** You can probably buy one in your favorite bookstore! For example, buy the paperback on [Amazon](https://www.amazon.com/dp/B0HN498LMX). You can also buy the ebook directly at your favorite book platform.
 
 {{% remark %}}
 For now, this online store can't sell physical products. If you buy this product, you get all the _digital files_ for the book. The advantage is that you always get the latest color version, as I can easily update the book here whenever I find mistakes/improve it (but I can't do that when it's in bookstores obviously).

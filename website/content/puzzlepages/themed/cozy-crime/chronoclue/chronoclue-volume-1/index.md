@@ -52,8 +52,6 @@ difficulty: 2
 
 A fresh murder mystery puzzle invention inspired by hits like _Murdle_, _Murdoku_, and _Murderooms_. Use a few simple clues to deduce the entire timeline: where everyone was, and when. Check suspect alibis, see their past and future, and find the _one_ person who was in the room with the victim when they died.
 
-This is a **free demo** that contains a handful of Chronoclue puzzles. Try them! See what they're all about!
-
 **Easy To Learn, Hard To Master**: The rules easily fit on a single page. Read clues, apply their logic, find a killer and victim match (in the same room). But the concept of time and continuity is a powerful way to generate deep and surprising puzzles easily. What if someone was found dead at 9 PM, but perhaps died earlier? What if a poison needs an hour to take effect? What if someone had to pick up the murder weapon at some earlier point?
 
 **Batteries Included**: You only need a pen(cil) to play. Full solutions are provided at the back. All volumes are **standalone**; you do not need to own any other Chronoclue book to enjoy this one. All puzzles are completely handcrafted. Computers wish they were able to generate these kinds of puzzles, but they can't! Ha!

@@ -54,7 +54,14 @@ Dit is een **quiz over het Sinterklaasfeest**! Hij is bedoeld voor de hele famil
 Als je een quiz wilt doen met echt de allerjongste kinderen, verwijs ik je graag naar [Quiz van Sint: Kinderen](/quizmasters/themed/holidays/sinterklaas/quiz-van-sint-kinderen/). Deze is korter en bevat makkelijkere vragen, altijd met een plaatje/audio/video.
 {{% /remark %}}
 
-De quiz is speelbaar op veel manieren, zowel digitaal (open het `index.html` bestand in de browser) als analoog (print de PDFs uit). Er zijn een paar audio/video-fragmenten, maar die zijn slechts ter ondersteuning en niet cruciaal voor het spelen van elke vraag.
+De quiz gebruikt ons zelfgemaakte **quizsysteem**, wat het super interactief maakt en zorgt dat je **digitaal én fysiek kan spelen**.
+
+* **Digitaal?** Geen voorbereiding nodig. Pak het ZIP bestand uit, open het "index.html" bestand in je favoriete browser!
+* **Analoog, zonder scherm?** Geen probleem! Print de bijgeleverde PDF bestanden.
+* **Iets ertussenin?** Gebruik de digitale versie, maar print de perfect passende Antwoordformulieren (en evt. Antwoordvel) zodat groepjes antwoorden kunnen opschrijven.
+* Sla rondes over als het te lang duurt (of als ze niet passen bij je doelgroep)
+* Vragen zijn altijd kort, simpel, en gevarieerd. Vrijwel alle vragen hebben een plaatje, audio, of video.
+* Bij het onthullen van het antwoord voegen we vaak een kleine opmerking toe om het extra educatief (of interessant) te maken.
 
 Het bevat de volgende 6 rondes (met ~10 vragen per ronde). Je kan desgewenst makkelijk hele rondes overslaan.
 
@@ -65,4 +72,7 @@ Het bevat de volgende 6 rondes (met ~10 vragen per ronde). Je kan desgewenst mak
 * Strooironde!
 * Meezing Media
 
+Er zijn een paar audio/video-fragmenten, maar die zijn slechts ter ondersteuning en niet cruciaal voor het spelen van elke vraag.
+
 De quiz is zo tijdloos en modern mogelijk ontworpen (in 2026), zodat hij nog lang kan worden gespeeld zonder dat antwoorden/vragen fout worden. (Er komt vast een dag dat een belangrijke Sinterklaastraditie van nu compleet veranderd is, maar dat is hopelijk verre toekomst!)
+

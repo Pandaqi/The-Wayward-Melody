@@ -3,18 +3,24 @@ draft: true
 type: "product"
 title: "Monster On The Loose"
 id: "monster-on-the-loose"
-price: 9.95
-date: 2025-10-25
-image: ["monster-on-the-loose-header.webp", "monster-on-the-loose-1.webp", "monster-on-the-loose-2.webp", "monster-on-the-loose-3.webp", "monster-on-the-loose-4.webp"]
-file: "@TODO"
+price: 24.95
+date: 2026-10-25
+image: ["monster-on-the-loose-header.webp", "monster-on-the-loose-1.webp", "monster-on-the-loose-2.webp", "monster-on-the-loose-3.webp", "monster-on-the-loose-4.webp", "monster-on-the-loose-5.webp"]
+file: "625ccc1d-f986-4b0a-afd7-ffe81cc48fe4"
 spell: "halloween"
 charm: "board-game"
 description: | 
-  @TODO
+  Emergency! A terrible monster roams the streets
+  But which one is it ... and where is he?
+  Become Hunters chasing a vampire or black cat
+  Or become the Monster who tries to not get caught!
 
 contents:
-- Rulebook PDF (@TODO)
-- Material PDF (@TODO)
+- Rulebook PDF (6 pages; front + base game + advanced game + expansions + monster reference)
+- Material PDF (1 Star/Base Game; 5 Monsters)
+- Material PDF (2 Stars; 6 Monsters)
+- Material PDF (3 Stars; 5 Monsters)
+- Original Files (all the original assets and editable files; `.af` files to open in the free Affinity software)
 
 external:
   - name: "Letters From Whitechapel"
@@ -54,18 +60,30 @@ activity-structure: turn-based # simultaneous, real-time, seasonal, other
 
 ---
 
-Emergency! Emergency! Reports of monster sightings are rolling in. But the reports are vague and contradictory. Some swear they saw a vampire, others swear it was a witch. Some saw it near the Ice Palace, others saw it at the Cemetery. What to do? It's up to you to figure this out.
+Emergency! Emergency! Reports of monster sightings are rolling in. 
+
+But ... the reports are vague and contradictory. Some swear they saw a _vampire_, others swear it was a _witch_. Some saw it near the Ice Palace, others saw it at the Cemetery. 
+
+What to do? It's up to you to figure this out.
 
 In **Monster On The Loose**, one player is the Monster, and the others are Hunters. 
 
 * The **Monster** moves in secret. They try to make sure nobody discovers where they are ... or who they are. 
 * The **Hunters** move in public. They investigate different locations on the map and try to figure out the Monster's identity and hideout.
 
-The game has a slight Halloween theme, making it ideal for some fun family time around the scary holiday. It's not actually scary or gory at all, as you can see from the images. Its design and ruleset are versatile enough that it can be played at any time, by any group, in many different ways. _You_ select the possible monsters for your game out of a large set of options.
+The game has a slight Halloween theme, making it ideal for some fun family time around the scary holiday. It's not actually scary or gory at all, as you can see from the images. Its design and ruleset are versatile enough that it can be played at any time, by any group, in many different ways. 
 
-The rules for the base game (your "first game") are so simple they fit on a single page. The "basic monsters" you'll play with are also simple enough that you can play with kids who can't read yet. Once you've got a taste of the experience, you can move to the expansions, which add twists and more advanced monster types to play. (In a way, the base game + expansions is the "full game" as we intended it, with maximum strategy and excitement.)
+_You_ select the possible monsters for your game out of a large set of options: **16 unique monsters**.
 
-Because of the wide variety of monsters and maps, the "preparation" (cutting out the material) will take a bit longer than with most of our games. The setup for each individual game is very quick. The possible monsters chosen for a game also decide the _map_ you'll play on, which makes every game completely unique.
+* Because of the wide variety of monsters and maps, the "preparation" (cutting out the material) will take slightly longer than with most of our games. 
+* But the **setup** for each individual game is **very quick**. 
+* The possible monsters chosen for a game also decide the _map_ you'll play on, which makes **every game completely unique**.
+
+The **rules** for the base game (your "first game") are so simple they **fit on a single page**. 
+
+* The "basic monsters" you'll play with are also simple enough that you can play with kids who can't read yet. 
+* Once you've got a taste of the experience, you can move to the expansions, which add twists and more advanced monster types to play. 
+* In a way, the base game + expansions is the "full game" as we intended it, with maximum strategy and excitement.
 
 If we had to pick one product from our Halloween series to recommend, it would be this one! We put a lot into its design, art, monsters, everything. We hope you enjoy it too.
 

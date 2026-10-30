@@ -23,7 +23,7 @@ contents:
 - The raw files (media + questions) to modify/reuse the quiz yourself
 
 level: 3
-language: "en"
+language: ["en", "nl"]
 subject: "skills"
 categories: ["space"]
 age: 7

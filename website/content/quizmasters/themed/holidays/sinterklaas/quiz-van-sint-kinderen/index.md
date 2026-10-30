@@ -55,8 +55,6 @@ Dit is een **quiz over het Sinterklaasfeest**! Hij is bedoeld voor de jongste ki
 Als je een quiz wilt doen voor oudere kinderen (die eventueel nog geloven) of met de hele familie, verwijs ik je graag naar [Quiz van Sint: Familie](/quizmasters/themed/holidays/sinterklaas/quiz-van-sint-familie/). Deze is langer en bevat iets moeilijkere vragen, waarvoor je ook een klein beetje moet kunnen lezen en rekenen.
 {{% /remark %}}
 
-De quiz is speelbaar op veel manieren, zowel digitaal (open het `index.html` bestand in de browser) als analoog (print de PDFs uit). Echter, omdat vrijwel alle vragen iets van interactieve media hebben, is digitaal toch wel sterk aan te raden.
-
 Het bevat de volgende 5 rondes.
 
 * Algemene kennis
@@ -64,3 +62,14 @@ Het bevat de volgende 5 rondes.
 * Raad de piet
 * Raad het Sint-gerelateerde object (op basis van plaatje)
 * Raad wat er (hierna) gebeurt in een video fragment
+
+De quiz gebruikt ons zelfgemaakte **quizsysteem**, wat het super interactief maakt en zorgt dat je **digitaal én fysiek kan spelen**.
+
+* **Digitaal?** Geen voorbereiding nodig. Pak het ZIP bestand uit, open het "index.html" bestand in je favoriete browser!
+* **Analoog, zonder scherm?** Geen probleem! Print de bijgeleverde PDF bestanden.
+* **Iets ertussenin?** Gebruik de digitale versie, maar print de perfect passende Antwoordformulieren (en evt. Antwoordvel) zodat groepjes antwoorden kunnen opschrijven.
+* Sla rondes over als het te lang duurt (of als ze niet passen bij je doelgroep)
+* Vragen zijn altijd kort, simpel, en gevarieerd. Vrijwel alle vragen hebben een plaatje, audio, of video.
+* Bij het onthullen van het antwoord voegen we vaak een kleine opmerking toe om het extra educatief (of interessant) te maken.
+
+Omdat alle vragen in deze specificieke quiz iets van interactieve media hebben, echter, is digitaal spelen deze keer toch wel sterk aan te raden :)
