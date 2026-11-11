@@ -1,4 +1,6 @@
-# Documentation
+# Merchandise API Documentation
+
+**Merchandise is currently not sold and not 100% supported. This file is therefore unfinished; a reminder of how it all worked for when we pick it back up.**
 
 ## Serverless Function / API
 

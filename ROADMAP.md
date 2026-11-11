@@ -1,8 +1,10 @@
-# To-Do
+# Roadmap / To-Do
 
-## Front Page
+**This is a roadmap for the technical aspects of the online store, _not_ content (products/resources) to create.** That's located in the Git submodule at `products`, which is a private repository because it contains a lot of data that should stay private ;)
 
-Front page should remove the header and immediately get you into the curriculum? 
+## Front Page [CRUCIAL;URGENT]
+
+Front page should remove the header and immediately get you into the curriculum.
 
 * _"What topic will you teach today?"_
 * _"Create your own curriculum tailored to your or your students' interests."_
@@ -34,7 +36,7 @@ Front page should remove the header and immediately get you into the curriculum?
 
 ## Pretty Crucial
 
-* SNIPCART SUPPORT: Send email saying that "Allow Guests Only" makes it completely _impossible_ to register/sign in, instead of just _optional_.
+* SNIPCART SUPPORT: Send email saying that "Allow Guests Only" makes it completely _impossible_ to register/sign in, instead of just _optional_. Might have been fixed already in the meantime, need to verify.
 
 ## Free Resources / Demo Resources
 

@@ -1,13 +1,21 @@
 _gen/
-*.afdesign~lock~
-*.af~lock~
 public/
-inspiration/
+
+# too large, don't need to be tracked
 *.zip
 *.7z
 *.pdf
 *.mp3
 *.m4a
+*.afdesign~lock~
+*.af~lock~
+
+# backups
+vault/
+
+# pretty self-explanatory
+private/
 ai/
 hugo-website/
 hugo-website-for-story-export/
+inspiration/
